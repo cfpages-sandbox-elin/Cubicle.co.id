@@ -1,0 +1,3 @@
+index.html
+wp-content/uploads/wp-file-manager-pro/fm_backup/index.html
+wp-content/uploads/wpforms/cache/index.html
