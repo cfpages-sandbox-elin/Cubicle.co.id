@@ -2,8 +2,9 @@
 article_id: CUB-15-A03
 title: "Thermography dan Condition Monitoring Cubicle Listrik"
 slug: "thermography-condition-monitoring-cubicle-listrik"
-description: "Pembaca dapat memahami baseline/load context, emissivity/view limitations, safe access, trend, alarm validation, complementary tests, and escalation."
-status: outline
+description: "Pembaca dapat memahami konteks beban, batas emisivitas dan sudut pandang, akses aman, tren, validasi alarm, pemeriksaan pelengkap, serta eskalasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,53 +14,11 @@ reader_community: "Cubicle.co.id"
 reader_address: "Sobat Cubicle.co.id"
 final_route: "/artikel/thermography-condition-monitoring-cubicle-listrik.html"
 technical_review: required
-sources:
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+sources: []
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Thermography dan Condition Monitoring Cubicle Listrik
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Thermography dan Condition Monitoring Cubicle Listrik”
-- **Reader and situation:** Asset manager merencanakan predictive maintenance
-- **Reader outcome:** Pembaca dapat memahami baseline/load context, emissivity/view limitations, safe access, trend, alarm validation, complementary tests, and escalation.
-- **Primary intent:** Memilih dan menafsirkan condition monitoring
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Sobat Cubicle.co.id`
-- **Natural variants:** `Kawan Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak mengizinkan membuka enclosure bertegangan atau mendiagnosis dari satu warna thermal image; access gate dimiliki CUB-15-A01.
-- **Final public route:** `/artikel/thermography-condition-monitoring-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-04-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Thermography dan Condition Monitoring Cubicle Listrik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -70,140 +29,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Cubicle.co.id! Thermography dapat membantu menemukan pola panas yang tidak biasa pada cubicle listrik, tetapi hasilnya bukan vonis kerusakan. Keputusan predictive maintenance baru layak dibuat jika gambar dikaitkan dengan beban saat pengukuran, kondisi lingkungan, titik pandang, pengaturan emissivity, dan riwayat pengukuran yang sebanding.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Warna paling terang pada thermal image tidak otomatis berarti titik paling berbahaya. Refleksi, sudut kamera, permukaan mengilap, beban yang berubah, atau akses yang berbeda dapat mengubah pembacaan. Sebaliknya, gambar yang tampak seragam tidak membuktikan semua sambungan aman. [NEEDS THERMOGRAPHY SOURCE REVIEW: batas interpretasi, kriteria alarm, dan metode pengukuran harus diverifikasi oleh personel kompeten sebelum publikasi final.]
 
-### KR-01
+![Ilustrasi cubicle listrik](/wp-content/uploads/2023/01/cubicle-listrik.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-15-A01` → `/artikel/k3-kontrol-akses-cubicle-listrik.html` — K3 dan Kontrol Akses Cubicle Listrik: Batas untuk Pembaca Umum
-- `CUB-15-A02` → `/artikel/program-inspeksi-cubicle-listrik.html` — Program Inspeksi Cubicle Listrik Berbasis Risiko
-- `CUB-15-A04` → `/artikel/trip-alarm-gagal-operasi-cubicle-listrik.html` — Trip, Alarm, dan Gagal Operasi Cubicle Listrik: Alur Eskalasi
-- `CUB-15-A05` → `/artikel/korosi-kondensasi-debu-tracking-cubicle-listrik.html` — Korosi, Kondensasi, Debu, dan Tracking pada Cubicle Listrik
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Thermography dan Condition Monitoring Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan thermography sebagai satu lapis pemantauan kondisi: tetapkan kondisi acuan, catat konteks load, ulangi pengambilan dengan cara yang konsisten, lalu bandingkan tren. Jika ada anomali, validasi dengan pemeriksaan lain dan eskalasi melalui prosedur kelistrikan yang disetujui. Jangan membuka enclosure bertegangan untuk mengejar sudut gambar, dan jangan mendiagnosis dari satu warna.
+
+Pertanyaan pertama asset manager bukan “berapa derajat ambangnya?”, melainkan “apakah dua pengukuran ini benar-benar dapat dibandingkan?” Catat identitas cubicle, sirkuit, waktu, beban atau status operasi yang tersedia, kondisi sekitar, jarak dan sudut pandang, serta siapa yang melakukan pengukuran. Tanpa catatan itu, perubahan warna dapat mencerminkan perubahan kondisi ukur, bukan perubahan aset.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Thermography dan Condition Monitoring Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Thermography adalah pengamatan pola radiasi inframerah dari permukaan yang terlihat kamera. Condition monitoring lebih luas: menggabungkan pengamatan berkala, data operasi, inspeksi visual yang aman, alarm, dan pengujian pelengkap untuk menilai perubahan kondisi. Artikel ini membahas cara menyiapkan dan menafsirkan pemantauan tersebut pada cubicle listrik.
+
+Pembahasan ini tidak menetapkan angka suhu, kelas alarm, interval universal, atau diagnosis komponen tertentu. Nilai itu bergantung pada peralatan, desain, instruksi produsen, metode alat, dan aturan proyek. [NEEDS PROFESSIONAL REVIEW: tetapkan kriteria penerimaan dan otorisasi akses berdasarkan instalasi yang sebenarnya.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Thermography dan Condition Monitoring Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan daftar aset dan peta titik ukur yang bisa diamati dari posisi aman. Untuk tiap titik, gunakan label tetap: misalnya sambungan yang terlihat, area terminasi, atau permukaan panel yang memang dapat dipantau tanpa melepas pelindung. Simpan foto visual pendamping agar lokasi tidak tertukar pada kunjungan berikutnya.
+
+Pada setiap sesi, rekam konteks load yang tersedia, status kipas atau pendinginan, kondisi ruangan, dan gangguan yang diketahui. Usahakan jarak, sudut, fokus, dan pengaturan alat konsisten. Permukaan mengilap atau terhalang dapat memantulkan sumber panas lain; tandai keterbatasan itu daripada mengisi nilai yang tidak dapat dipercaya.
+
+Setelah sesi, bandingkan dengan kondisi acuan yang dibuat pada kondisi operasi yang dijelaskan. Cari perubahan berulang pada titik yang sama, perbedaan antar-fase atau antar-komponen yang dapat dijelaskan, dan hubungan dengan alarm atau keluhan operasi. Satu anomali menjadi alasan untuk validasi, bukan izin untuk menyentuh peralatan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Thermography dan Condition Monitoring Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor perlu masuk ke lembar pengukuran:
+
+- Beban berbeda membuat pelepasan panas berbeda. Bandingkan kondisi yang setara atau nyatakan dengan jelas mengapa tidak setara.
+- Emissivity permukaan dan refleksi dapat memengaruhi pembacaan. Permukaan logam mengilap, label, debu, atau lapisan yang berbeda jangan diperlakukan sebagai target yang identik.
+- Sudut pandang, jarak, fokus, resolusi, dan penghalang menentukan seberapa baik titik terlihat. “Tidak terlihat” bukan berarti “dingin”.
+- Suhu ruang, aliran udara, kelembapan, dan sumber panas di sekitar dapat mengubah kontras. Catat kondisi yang mungkin menjelaskan pergeseran.
+- Perubahan konfigurasi, pengencangan, pembersihan, atau penggantian komponen memutus kesinambungan kondisi acuan. Buat kondisi acuan baru dan beri alasan.
+- Kualitas metadata sama pentingnya dengan gambar. Nomor aset, waktu, operator, alat, dan file asli harus dapat ditelusuri.
+
+Kawan Cubicle.co.id, bila salah satu faktor ini hilang, turunkan tingkat keyakinan dan minta pengukuran ulang yang dikendalikan. Jangan menaikkan alarm hanya untuk terlihat tegas.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Thermography dan Condition Monitoring Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan | Validasi yang dibutuhkan | Keputusan sementara |
+|---|---|---|
+| Satu titik tampak lebih panas, tetapi load dan sudut berbeda dari kondisi acuan | Ulangi dengan konteks yang sebanding dan cek data operasi | Jangan simpulkan kerusakan; tandai sebagai data belum sebanding |
+| Anomali berulang pada titik yang sama dalam beberapa sesi | Tinjau tren, riwayat pekerjaan, alarm, dan pemeriksaan aman | Eskalasi ke personel kelistrikan untuk rencana pemeriksaan |
+| Gambar tidak jelas karena pantulan atau penghalang | Perbaiki posisi hanya jika prosedur akses mengizinkan; bila tidak, gunakan metode pelengkap | Catat keterbatasan; jangan mengarang temperatur |
+| Alarm muncul tanpa perubahan thermal yang dapat ditelusuri | Cocokkan waktu alarm, beban, dan sistem akuisisi data | Perlakukan sebagai isu validasi alarm, bukan bukti komponen sehat |
+
+Tabel ini adalah kerangka keputusan, bukan ambang keselamatan. [NEEDS PROJECT REVIEW: kriteria “eskalasi”, batas stop-work, dan pengujian pelengkap harus berasal dari prosedur instalasi dan tenaga berwenang.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Thermography dan Condition Monitoring Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memotret dari tempat yang tidak aman atau membuka enclosure bertegangan. Perbaikan yang benar adalah menetapkan access gate sebelum inspeksi dan menghentikan kegiatan bila titik tidak dapat diamati dari posisi yang diizinkan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memilih palet warna lalu menyebut warna itu sebagai diagnosis. Simpan data asli, skala yang digunakan, dan catatan pengukuran; bandingkan tren, bukan tangkapan layar yang dipotong.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah memakai satu pembacaan sebagai dasar penggantian. Tanyakan apakah ada pengukuran ulang, konteks load, riwayat pekerjaan, alarm, dan pemeriksaan pelengkap. Jika tidak ada, keputusan seharusnya berupa “perlu bukti tambahan”.
 
-## Required conclusion
+Kesalahan keempat adalah mengabaikan gejala non-termal. Bunyi, bau, trip, perubahan arus, kelembapan, korosi, atau sambungan longgar mungkin memerlukan metode lain. Thermography tidak menggantikan pengujian dan inspeksi yang diwajibkan oleh prosedur proyek.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu ditolak
 
-## Draft completion checklist
+Jalan pintas yang sering menggoda ialah membuat aturan “warna merah = matikan, warna kuning = lanjut”. Aturan itu gagal karena warna bergantung pada skala tampilan dan kondisi ukur, sementara risiko bergantung pada komponen, beban, riwayat, dan konsekuensi kegagalan. Alternatif yang lebih dapat dipertanggungjawabkan adalah matriks eskalasi: kualitas data, perubahan terhadap kondisi acuan, dampak operasi, dan otorisasi tindakan ditinjau bersama oleh personel kompeten.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Thermography pada cubicle listrik paling berguna sebagai bukti tren yang dikendalikan, bukan jawaban tunggal. Siapkan register aset, kondisi acuan dengan konteks load, peta titik ukur, metadata alat, dan aturan validasi alarm. Minta personel kelistrikan menetapkan access gate, metode pelengkap, serta kriteria eskalasi untuk instalasi Anda. Bila perlu menyelaraskan istilah dan konteks aset, gunakan [halaman utama Cubicle.co.id](/) sebagai titik awal navigasi.
+
+Teman Cubicle.co.id, tindakan berikutnya adalah meninjau satu siklus data bersama prosedur operasi dan keselamatan proyek, lalu tandai setiap klaim yang masih `[NEEDS ...]`. Aturan akhirnya sederhana: bila akses tidak aman atau konteks pengukuran tidak sebanding, berhenti menafsirkan dan cari tinjauan profesional.

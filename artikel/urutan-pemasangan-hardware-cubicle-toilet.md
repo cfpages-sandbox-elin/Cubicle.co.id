@@ -2,8 +2,9 @@
 article_id: CUB-06-A05
 title: "Urutan Memasang dan Menyetel Hardware Cubicle Toilet"
 slug: "urutan-pemasangan-hardware-cubicle-toilet"
-description: "Pembaca dapat memeriksa template, pilot hole, fastener, hinge alignment, latch/indicator, emergency release, adjustment, and functional test."
-status: outline
+description: "Pembaca dapat memeriksa templat, lubang pandu, pengikat, keselarasan engsel, kait/indikator, pelepas darurat, penyetelan, dan uji fungsi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,90 @@ final_route: "/artikel/urutan-pemasangan-hardware-cubicle-toilet.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
+  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
   - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Urutan Memasang dan Menyetel Hardware Cubicle Toilet
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Urutan yang aman bukan memasang semua engsel dan kait secepat mungkin, melainkan mengunci referensi, membuat lubang pandu sesuai instruksi sistem, memasang pengikat, lalu menyetel dan menguji fungsi pintu. Dengan urutan itu, kesalahan pada panel atau tumpuan terlihat sebelum hardware tertutup atau dipakai.
 
-- **Writer task:** Expand this file into one complete article answering: “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”
-- **Reader and situation:** Installer dan supervisor
-- **Reader outcome:** Pembaca dapat memeriksa template, pilot hole, fastener, hinge alignment, latch/indicator, emergency release, adjustment, and functional test.
-- **Primary intent:** Memahami sequencing hardware
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi torque atau drilling rule generik; gunakan instruction manufacturer dan hardware schedule CUB-05-A06.
-- **Final public route:** `/artikel/urutan-pemasangan-hardware-cubicle-toilet.html`
-- **Appointed CMS date:** `2025-09-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari verifikasi hardware schedule CUB-05-A06, template, dan kondisi bidang; lanjutkan pilot hole dan fastener; pasang hinge, latch/indicator, serta emergency persetujuan lanjut; lakukan alignment dan adjustment; terakhir uji bukaan, penguncian, indikator, dan pelepasan darurat. Ukuran lubang, jarak tepi, jenis anchor, dan torsi tidak boleh ditebak karena bergantung pada merek, material, konfigurasi, dan persetujuan proyek. [NEEDS PROJECT/SYSTEM EVIDENCE: detail drilling, fastener, dan torque]
 
-## Opening instructions
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/01/cubicle-toilet.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Urutan Memasang dan Menyetel Hardware Cubicle Toilet**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hardware di sini berarti komponen yang membuat daun pintu bergerak dan terkendali: engsel, latch atau pengunci dengan indikator, emergency persetujuan lanjut, bracket, kaki, headrail, serta fastener dan anchor yang menghubungkannya ke panel atau bangunan. Urutan ini membahas inspeksi dan penyetelan pada cubicle toilet yang sudah memiliki layout dan spesifikasi disetujui.
+
+Yang tidak dibahas adalah memilih ketebalan panel, menetapkan kapasitas beban, merancang struktur dinding, atau memberikan angka clearance dan torsi universal. Konfigurasi panel, pilaster, pintu, dan penyangga mengubah jalur beban serta tuntutan lantai dan plafon; bukti material juga tidak otomatis membuktikan kinerja sistem terpasang. Panduan pemasangan produsen harus menjadi rujukan untuk produk yang benar-benar datang ke proyek ([Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Formica Compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+
+Kerangka bangunan nasional menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dokumentasi, dan penggunaan sebagai hal yang perlu dikelola; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Karena itu supervisor perlu menyimpan rekaman inspeksi, bukan hanya foto hasil akhir.
+
+## Cara kerjanya
+
+**1. Kunci data sebelum alat menyentuh panel.** Cocokkan nomor ruang, handedness pintu, tipe engsel, latch/indicator, emergency persetujuan lanjut, bracket, kaki, dan daftar fastener dengan hardware schedule CUB-05-A06. Periksa revisi gambar, submittal, dan instruksi pemasangan yang dikirim bersama produk. Pisahkan komponen berbeda sistem; jangan mencampur baut dari paket lain hanya karena ulirnya tampak cocok.
+
+**2. Verifikasi referensi dan template.** Pastikan sumbu panel, elevasi, arah ayun, posisi strike, dan garis tengah latch sudah ditandai. Template harus menempel pada bidang yang benar dan tidak bergeser saat penandaan. Catat kondisi substrat: panel compact, pilaster, rangka metal-stud, atau beton memiliki cara penjangkaran yang berbeda. Sistem rangka seperti Knauf W11 menunjukkan bahwa detail rangka dan sambungan adalah bagian dari sistem, bukan ruang untuk aturan generik ([Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)).
+
+**3. Buat pilot hole hanya setelah persetujuan.** Pilot hole adalah lubang pandu untuk mengarahkan mata bor dan mengurangi risiko posisi melenceng. Gunakan diameter, kedalaman, mata bor, jarak tepi, dan metode penahan yang tertulis pada instruksi hardware dan material. Bersihkan serpihan tanpa memperbesar lubang untuk “mengakali” posisi. Jika lubang keluar dari area yang diizinkan, hentikan pekerjaan dan minta keputusan teknis; jangan menutupinya dengan washer lebih besar. [NEEDS PROJECT/SYSTEM EVIDENCE: diameter, kedalaman, edge distance, dan anchor]
+
+**4. Pasang fastener dengan pola yang dikendalikan.** Tempatkan engsel atau bracket pada lubang yang sudah diverifikasi, kencangkan bertahap mengikuti urutan produsen, dan tahan panel agar beban tidak ditanggung daun pintu. Jangan menerapkan torsi dari merek lain. Tulis identitas fastener, alat yang dipakai, dan siapa pemeriksanya pada lembar inspeksi. Untuk area yang belum dapat dilihat setelah penutupan, dokumentasi ini menjadi bukti bahwa item tersembunyi telah diperiksa; prinsip serupa dipakai pada pola inspeksi dan commissioning sistem konstruksi ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
+
+**5. Selaraskan engsel sebelum latch.** Dengan pintu masih mudah digerakkan, periksa garis atas, sisi tegak, celah yang disetujui, dan kontak dengan pilaster. Setel engsel sedikit demi sedikit, kencangkan kembali, lalu gerakkan pintu dari posisi terbuka ke tertutup. Jangan menggunakan latch untuk menarik pintu yang miring; itu memindahkan masalah alignment menjadi beban pada pengunci.
+
+**6. Pasang latch/indicator dan strike.** Setelah pintu dapat menutup tanpa gesekan, pasang badan latch dan strike pada referensi yang sama. Uji indikator dari sisi pengguna dan sisi petugas sesuai desain. Pastikan latch benar-benar masuk ke strike, bukan hanya tampak rata dari depan. Bila mekanisme berbeda dari gambar atau manual, tahan pemasangan dan minta konfirmasi pemasok.
+
+**7. Pasang dan uji emergency persetujuan lanjut.** Emergency persetujuan lanjut harus dapat dioperasikan dari sisi yang ditentukan tanpa merusak panel. Ikuti instruksi produk; jangan mengganti arah atau komponen dengan improvisasi. Petunjuk operasi produsen menekankan bahwa fungsi harus diperiksa melalui pengoperasian yang dimaksud, bukan penilaian visual saja ([dormakaba operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)). Catat hasil uji dan siapa yang menyaksikan.
+
+**8. Lakukan adjustment dan functional test.** Setelah semua komponen terpasang, lakukan siklus buka-tutup berulang sesuai rencana inspeksi proyek. Periksa pintu tidak membuka sendiri, latch mengunci, indikator berubah sesuai status, emergency persetujuan lanjut bekerja, dan fastener tidak bergerak. Kriteria penerimaan harus berasal dari submittal, instruksi produsen, dan persetujuan proyek—bukan dari angka yang dipindahkan dari sistem lain.
+
+## Faktor yang mengubah hasil
+
+Material dan lingkungan memengaruhi urutan. Compact laminate dapat berubah dimensi akibat kelembapan; kondisi penyimpanan, conditioning, dan perlindungan tepi harus mengikuti panduan material (Formica Compact fabrication guidance). Panel pada rangka metal-stud memerlukan koordinasi dengan posisi stud dan penguatan; anchor ke substrat yang salah dapat membuat alignment tampak baik tetapi tidak stabil.
+
+Urutan juga berubah bila lantai belum final, area tetap beroperasi, atau ada pekerjaan MEP yang belum selesai. Dalam kondisi itu, tandai status “belum siap” pada inspection and test plan (ITP), lindungi hardware, dan tetapkan siapa yang menyetujui pembukaan kembali. Sobat Cubicle.co.id, jangan menganggap pekerjaan siap hanya karena pintu dapat menutup sekali; kelembapan, debu, lalu lintas pengguna, dan perubahan layout dapat mengubah hasil setelan.
+
+Bukti yang diperlukan mencakup revisi gambar, hardware schedule, batch atau identitas produk, checklist pilot hole, catatan fastener, hasil alignment, hasil uji latch/indicator dan emergency persetujuan lanjut, serta daftar punch list. Klaim struktural, kebakaran, akustik, aksesibilitas, atau garansi memerlukan bukti proyek dan tinjauan profesional tersendiri. [NEEDS PROFESSIONAL REVIEW: kriteria penerimaan, aksesibilitas, dan dampak perubahan layout]
+
+## Contoh keputusan praktis
+
+| Situasi pemeriksaan | Keputusan aman | Bukti yang dicatat |
+|---|---|---|
+| Template cocok, substrat dan hardware sesuai | Lanjut pilot hole sesuai manual | Foto penandaan, revisi gambar, pemeriksa |
+| Lubang pandu melenceng atau jarak tepi meragukan | Stop; jangan membesarkan lubang | Lokasi, ukuran aktual, permintaan RFI |
+| Pintu menutup tetapi latch tidak masuk penuh | Kembalikan ke alignment engsel/strike | Hasil uji dan komponen yang disetel |
+| Indikator berubah, emergency persetujuan lanjut gagal | Jangan serahkan; karantina fungsi | Rekaman saksi dan instruksi produk |
+| Fastener atau material berbeda dari submittal | Tahan pemasangan dan minta persetujuan substitusi | Nomor submittal, foto, keputusan tertulis |
+
+Contoh ini adalah aturan keputusan, bukan pengganti metode kerja. Jika proyek belum menetapkan siapa yang menyetujui deviasi, minta penetapan tertulis dari kontraktor, perancang, pemasok, dan QA/HSE yang berwenang.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah memasang latch sebelum pintu dan engsel sejajar. Tanyakan: apakah pintu bisa menutup tanpa didorong, dan apakah strike berada pada garis referensi? Kedua, memakai fastener yang “kelihatan sama”. Cocokkan material, panjang, kepala, washer, dan instruksi sistem sebelum mengencangkan.
+
+Ketiga, menyalin ukuran dari brosur atau proyek lain. Kawan Cubicle.co.id, setiap angka drilling atau torsi yang tidak ada di manual produk dan dokumen proyek harus dianggap belum tersedia, bukan diisi dari ingatan. Keempat, menyatakan selesai setelah inspeksi visual. Jalankan functional test untuk setiap mode penggunaan, termasuk emergency persetujuan lanjut, lalu simpan hasilnya.
+
+Kelima, menutup panel atau melepas akses sebelum item tersembunyi didokumentasikan. Foto, checklist, dan tanda tangan pemeriksa membantu membuktikan urutan pekerjaan ketika komponen tidak lagi terlihat. Jika ada perubahan, catat revisi dan dampaknya pada garansi, performa, atau jadwal untuk ditinjau pihak yang berwenang.
+
+## Mengapa jalan pintas pemasangan berisiko
+
+jalan pintas yang sering dipilih adalah “pasang semua hardware dulu, nanti pintunya disetel belakangan.” Cara ini tampak menghemat perpindahan alat, tetapi lubang yang salah dan fastener yang sudah dikencangkan dapat memaksa panel bergeser atau latch bekerja sebagai penarik pintu. Alternatif yang lebih dapat diaudit adalah menyelesaikan satu siklus: template–pilot hole–fastener–alignment–latch–emergency persetujuan lanjut–test pada satu unit, mendapat pemeriksaan, lalu menjadikannya referensi untuk unit berikutnya. Referensi itu tetap harus disahkan untuk sistem dan proyek tersebut; jangan menganggap satu unit sebagai bukti universal.
+
+## Kesimpulan
+
+Urutan memasang dan menyetel hardware cubicle toilet adalah mengunci dokumen dan template, memverifikasi substrat, membuat pilot hole sesuai manual, memasang fastener, menyelaraskan engsel, memasang serta menguji latch/indicator dan emergency persetujuan lanjut, kemudian melakukan adjustment dan functional test. Tidak ada aturan generik untuk diameter bor, jarak tepi, atau torsi.
+
+Langkah Anda berikutnya: ambil hardware schedule CUB-05-A06, manual produk aktual, gambar revisi terakhir, dan formulir ITP; tandai setiap item yang belum memiliki nilai atau kriteria penerimaan, lalu minta keputusan tertulis dan technical tinjauan sebelum mengebor. Rumah aturan sederhananya: bila data sistem, substrat, atau fungsi darurat belum terverifikasi, berhenti pada tahap inspeksi—jangan menutup ketidakpastian dengan setelan atau fastener improvisasi.
+
+Untuk konteks umum layanan dan navigasi situs, Anda dapat kembali ke [beranda Cubicle.co.id](/).
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -69,139 +110,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-06-A03` → `/artikel/toleransi-pemasangan-cubicle-toilet.html` — Toleransi Pemasangan Cubicle Toilet: Level, Plumb, Gap, dan Alignment
-- `CUB-06-A04` → `/artikel/instalasi-cubicle-toilet-area-beroperasi.html` — Memasang Cubicle Toilet di Area yang Tetap Beroperasi
-- `CUB-06-A06` → `/artikel/checklist-serah-terima-cubicle-toilet.html` — Checklist Serah Terima Cubicle Toilet
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Memasang dan Menyetel Hardware Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

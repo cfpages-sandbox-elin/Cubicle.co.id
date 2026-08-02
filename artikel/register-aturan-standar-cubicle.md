@@ -1,9 +1,10 @@
 ---
 article_id: CUB-17-A04
+writing_contract_version: "native-id-v2"
 title: "Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku"
 slug: "register-aturan-standar-cubicle"
 description: "Pembaca dapat record jurisdiction, regulation status, SNI/IEC/ISO/project edition, amendments, authority, contract precedence, licensed access, and reviewer."
-status: outline
+status: draft
 publication_date: "2026-06-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +15,27 @@ reader_address: "Teman Cubicle.co.id"
 final_route: "/artikel/register-aturan-standar-cubicle.html"
 technical_review: required
 sources:
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
+  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://peraturan.bpk.go.id/Details/37637/uu"
   - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Register aturan dan standar cubicle yang benar-benar berlaku bukan daftar semua dokumen yang pernah ditemukan. Register yang dapat dipakai reviewer harus menunjukkan dokumen mana yang berlaku untuk yurisdiksi dan kontrak tertentu, edisi yang dikunci, perubahan (amendment), pihak berwenang, cara memperoleh salinan berlisensi, serta nama reviewer yang menyatakan applicability-nya. Jika salah satu kolom itu kosong, label “sesuai standar” belum dapat dipertanggungjawabkan.
 
-- **Writer task:** Expand this file into one complete article answering: “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”
-- **Reader and situation:** Designer, QA, and owner reviewer
-- **Reader outcome:** Pembaca dapat record jurisdiction, regulation status, SNI/IEC/ISO/project edition, amendments, authority, contract precedence, licensed access, and reviewer.
-- **Primary intent:** Menetapkan applicability dan version control
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menyatakan seluruh standar selalu wajib; accessibility owner CUB-05-A01, office fire CUB-09-A04, and electrical standards CUB-12-A06.
-- **Final public route:** `/artikel/register-aturan-standar-cubicle.html`
-- **Appointed CMS date:** `2026-06-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari konteks proyek: lokasi, fungsi ruang, tahap pekerjaan, dokumen kontrak, dan tanggal versi yang diminta. PP 16/2021 menjadi kerangka nasional untuk penyelenggaraan bangunan gedung dan berlaku sejak 2 Februari 2021, menggantikan PP 36/2005; namun halaman status dan naskahnya tidak otomatis memberi aturan universal tentang tebal partisi, pengikat, rating, atau jarak pintu untuk setiap cubicle ([status PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [naskah PDF](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)). Detail tersebut tetap membutuhkan persyaratan proyek, desain, produk, dan pemeriksaan profesional.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -67,140 +46,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-17-A02` → `/artikel/register-submittal-cubicle.html` — Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi
-- `CUB-17-A03` → `/artikel/itp-hold-point-ncr-punch-list-cubicle.html` — ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle
-- `CUB-17-A05` → `/artikel/indeks-dokumen-handover-cubicle.html` — Indeks Dokumen Handover Cubicle
-- `CUB-17-A06` → `/artikel/studi-kasus-testimonial-cubicle.html` — Menulis Studi Kasus dan Testimonial Cubicle Tanpa Mengarang Bukti
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu register yang sehat memisahkan sedikitnya lima lapis: peraturan Indonesia, standar teknis (misalnya SNI, IEC, atau ISO), spesifikasi produk, persyaratan kontrak/proyek, dan bukti penerapan di lapangan. Catat setiap lapis sebagai baris terpisah, lalu beri status *applicable*, *reference only*, atau *not applicable* beserta alasan. Jangan menyalin judul standar ke BOQ lalu menganggap kewajiban sudah terbukti.
+
+Kesalahpahaman paling mahal adalah menyamakan “terbit” dengan “berlaku”. Sebuah dokumen bisa dicabut, diganti edisinya, hanya berlaku di yurisdiksi lain, atau dipanggil kontrak dengan nama yang berbeda. Sebaliknya, dokumen lama dapat tetap menjadi *contract edition* bila kontrak menguncinya—selama klausul prioritas dan persetujuan perubahan jelas. Karena itu tanggal cek, sumber resmi, dan otoritas yang memutuskan harus ikut direkam.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Register adalah catatan kendali, bukan salinan seluruh standar dan bukan pendapat hukum. Untuk tiap entri, simpan: judul dan nomor, badan penerbit, yurisdiksi, status (berlaku, diganti, dicabut, atau tidak terverifikasi), edisi/tanggal, daftar amendment atau errata, ruang lingkup, pemicu applicability, hubungan dengan kontrak, lokasi salinan berlisensi, dan reviewer beserta tanggal tinjau.
+
+Objeknya adalah aturan yang dapat mengubah keputusan desain, pengadaan, instalasi, inspeksi, atau serah terima cubicle. Aksesibilitas pemilik, aturan kebakaran kantor, dan standar kelistrikan memiliki ruang lingkup tersendiri; jangan menyelundupkannya ke register ini tanpa menetapkan antarmukanya. Register juga tidak menggantikan gambar terkoordinasi, izin kerja, inspeksi, atau penerimaan bangunan. [NEEDS PROJECT REVIEW: tetapkan yurisdiksi, fungsi ruang, dan daftar dokumen kontrak sebelum status applicability dikunci.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun register melalui urutan berikut.
+
+1. **Kunci identitas proyek.** Isi alamat/lokasi, pemilik, paket pekerjaan, fungsi ruang, tahap (desain, tender, instalasi, atau serah terima), dan tanggal cut-off. Catat siapa yang berwenang menyetujui interpretasi.
+2. **Kumpulkan sumber primer.** Untuk regulasi, gunakan portal resmi dan simpan URL naskah serta halaman status. Untuk SNI/IEC/ISO, tulis nomor dan edisi dari katalog atau salinan berlisensi; jangan mengutip klausul yang belum dibaca. Untuk produk, simpan manual dan *technical submittal* dari penerbitnya.
+3. **Uji applicability.** Tanyakan: apakah yurisdiksi, fungsi, material, lokasi, dan tahap pekerjaan masuk ruang lingkup? Jika belum ada fakta, gunakan status *pending* dan tulis bukti yang harus diminta.
+4. **Tetapkan hierarki.** Catat urutan kontrak: hukum yang mengikat, persyaratan izin, spesifikasi pemilik, gambar, standar yang dirujuk, lalu data produk—atau urutan lain yang tertulis dalam kontrak. Bila dua dokumen bertentangan, eskalasi ke administrator kontrak atau penasihat yang ditunjuk; jangan memilih yang paling mudah.
+5. **Kunci versi dan perubahan.** Simpan nomor edisi, tanggal akses, amendment/errata, dan dampaknya. Setiap revisi harus memiliki alasan, pengusul, persetujuan, dan daftar dokumen/gambar yang ikut diperbarui.
+6. **Hubungkan ke bukti penerapan.** Tautkan baris register ke submittal, gambar, inspeksi, foto, sertifikat, atau berita acara yang benar-benar ada. Standar tidak membuktikan produk atau pemasangan telah lulus dengan sendirinya.
+
+Pada pekerjaan yang menyentuh plafon, lantai, atau struktur, survei kondisi eksisting juga menjadi bagian dari keputusan. Panduan FEMA mengingatkan bahwa partisi nonstruktural dan antarmukanya perlu dipahami terhadap gerakan, sambungan, dan elemen bangunan; gambar denah saja tidak mengungkap lokasi struktur, utilitas tersembunyi, sprinkler, detektor, maupun kapasitas substrat ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Yurisdiksi dan otoritas.** Peraturan nasional, peraturan daerah, persyaratan izin, dan ketentuan pemilik dapat berlapis. UU Jasa Konstruksi dan PP pelaksanaannya memberi konteks penyelenggaraan jasa konstruksi, tetapi bukan template otomatis untuk setiap register atau kontrak ([UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)). Minta reviewer hukum/proyek mengonfirmasi kewajiban yang benar-benar dipicu pekerjaan.
+
+**Lingkungan dan antarmuka.** Klaim “tahan lembap” bukan berarti rakitan kedap air. EPA dan Gypsum Association sama-sama menekankan bahwa kebocoran, kondensasi, kontak kapiler, ventilasi, pengeringan, tepi, lubang pengikat, dan substrat memengaruhi risiko; gunakan panduan tersebut sebagai referensi teknis, bukan sebagai kode Indonesia ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association GA-238](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf)). Jika area basah, minta klasifikasi paparan, detail sambungan, instruksi material, dan rencana inspeksi sebelum menetapkan standar yang berlaku.
+
+**Kontrak dan komersial.** Dua penawaran dengan luas sama belum tentu setara. Bandingkan konfigurasi, dimensi, material/grade, rangka dan dukungan, pintu/hardware, hasil akhir, akses/logistik, proteksi, pembongkaran, pengujian, pengecualian, jadwal, garansi, suku cadang, dan dokumen serah terima. Register mencatat persyaratan pembanding; ia bukan nasihat hukum atau tafsir pengadaan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan reviewer menerima dua baris: “IEC terbaru” dan “sesuai standar proyek”. Keduanya belum dapat disetujui. Minta nomor edisi, ruang lingkup, tanggal kontrak yang memanggilnya, salinan berlisensi, serta bukti bahwa konfigurasi cubicle memang masuk ruang lingkup. Jika proyek mengunci edisi tertentu, tandai edisi itu sebagai *contract edition* dan catat aturan perubahan; jangan menggantinya dengan edisi terbaru tanpa persetujuan tertulis.
+
+Gunakan tabel keputusan berikut saat rapat:
+
+| Pertanyaan | Jika jawabannya “ya” | Jika belum jelas |
+|---|---|---|
+| Sumber resmi menyatakan status dan yurisdiksi? | Simpan URL, tanggal cek, dan status. | `pending`; minta sumber primer. |
+| Kontrak menyebut nomor/edisi? | Tandai sebagai kondisi acuan kontrak. | Eskalasi ke administrator kontrak. |
+| Kondisi lokasi dan antarmuka sudah disurvei? | Kaitkan gambar dan catatan inspeksi. | Jangan kunci detail fixing atau rating. |
+| Produk dan metode pemasangan terverifikasi? | Tautkan submittal dan instruksi pabrik. | Tahan klaim performa atau garansi. |
+| Reviewer berwenang sudah menandatangani? | Catat nama, peran, tanggal, dan keputusan. | Status tetap *open*. |
+
+Teman Cubicle.co.id, keputusan “tidak berlaku” juga harus punya alasan. Misalnya standar tertentu hanya menjadi referensi desain karena yurisdiksi atau fungsi ruang tidak memicunya; simpan dasar penolakan agar isu yang sama tidak dibuka ulang pada tender berikutnya. Untuk konteks umum tentang layanan dan ruang lingkup Cubicle.co.id, Anda dapat mulai dari [beranda Cubicle.co.id](/).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Mengumpulkan daftar tautan tanpa status.** Tambahkan kolom berlaku/diganti/dicabut, tanggal cek, dan otoritas.
+- **Menggunakan ringkasan vendor sebagai bukti kepatuhan.** Minta dokumen penerbit, edisi, ruang lingkup, dan batasan klaim.
+- **Menganggap edisi terbaru selalu mengalahkan kontrak.** Periksa klausul precedence dan prosedur perubahan.
+- **Mengubah label material menjadi performa rakitan.** Pisahkan sifat bahan dari hasil sistem terpasang; minta bukti yang relevan untuk konfigurasi aktual.
+- **Mengunci angka sebelum survei.** Plumb, level, utilitas, sambungan gerak, akses, dan kapasitas substrat dapat mengubah metode; dokumentasikan temuan lapangan lebih dulu.
+- **Menghapus entri lama tanpa jejak.** Arsipkan versi superseded, tanggal penggantian, dan dokumen yang terdampak agar audit tetap terbaca.
 
-## Objection or shortcut to address
+Lakukan pemeriksaan silang singkat: orang kedua membaca hanya baris register dan mencoba menemukan sumber, pemicu, versi, reviewer, serta bukti penerapannya. Bila satu jawaban hilang, tandai [NEEDS TECHNICAL REVIEW] dan sebutkan dokumen yang harus dilengkapi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu ditolak
 
-## Required conclusion
+jalan pintas yang sering dipilih adalah menulis “mengikuti standar terbaru” di spesifikasi agar proses cepat. Kalimat itu gagal karena tidak menyebut standar mana, edisi kapan, yurisdiksi apa, atau siapa yang mengendalikan perubahan. Ia juga dapat membuat penawaran tidak sebanding dan memicu sengketa ketika pemasok memakai interpretasi berbeda.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah satu baris register untuk setiap dokumen yang dirujuk, dengan status dan *contract precedence* yang eksplisit. Jika edisi belum tersedia atau applicability belum diputuskan, tulis *pending* dan tetapkan pemilik tindakan serta tanggal tinjau—bukan menebak.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Register aturan dan standar cubicle yang benar-benar berlaku adalah catatan keputusan yang dapat diaudit: yurisdiksi dan otoritasnya jelas, status dan edisinya terkunci, amendment terlacak, precedence kontrak tertulis, akses dokumen sah, dan reviewer bertanggung jawab tercatat. Ia tidak menyatakan semua standar selalu wajib, tidak membuktikan performa produk, dan tidak menggantikan persetujuan profesional.
+
+Langkah berikutnya: buat lembar register untuk satu paket pekerjaan, isi identitas proyek dan sumber primer, lalu minta designer, QA, owner, serta pihak legal/teknis yang berwenang menandatangani baris applicability masing-masing. Kawan Cubicle.co.id, bila yurisdiksi, kondisi lapangan, atau edisi kontrak belum terverifikasi, pertahankan status *open* sampai bukti tersedia. Aturan operasionalnya sederhana: tidak ada klaim “compliant” sebelum dokumen, versi, kewenangan, dan bukti penerapan menunjuk pada objek yang sama.

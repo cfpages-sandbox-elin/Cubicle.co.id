@@ -1,9 +1,10 @@
 ---
 article_id: CUB-15-A08
+writing_contract_version: "native-id-v2"
 title: "Menutup Temuan Maintenance Cubicle Listrik dengan Bukti"
 slug: "closeout-temuan-maintenance-cubicle-listrik"
-description: "Pembaca dapat link finding, risk, work order, isolation/permit, parts, measurements, test, photos, reviewer, return-to-service, and recurrence monitoring."
-status: outline
+description: "Panduan memverifikasi temuan maintenance cubicle listrik melalui rantai bukti, pengujian, peninjauan kompeten, dan pemantauan berulang."
+status: draft
 publication_date: "2026-05-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,50 +17,19 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
   - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
+  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menutup Temuan Maintenance Cubicle Listrik dengan Bukti
 
-## Assignment lock
+Halo, Kawan Cubicle.co.id! Temuan maintenance cubicle listrik belum selesai hanya karena baut sudah dikencangkan, panel sudah dibersihkan, atau work order berstatus “done”. Closeout yang dapat dipertanggungjawabkan menghubungkan finding awal dengan risiko, tindakan korektif, bukti kondisi sesudah tindakan, peninjau kompeten, dan keputusan pengembalian operasi oleh otoritas site.
 
-- **Writer task:** Expand this file into one complete article answering: “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”
-- **Reader and situation:** Maintenance QA dan owner
-- **Reader outcome:** Pembaca dapat link finding, risk, work order, isolation/permit, parts, measurements, test, photos, reviewer, return-to-service, and recurrence monitoring.
-- **Primary intent:** Memverifikasi corrective action
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi return-to-service authority kepada penulis/reader; project/site authority and competent reviewer decide.
-- **Final public route:** `/artikel/closeout-temuan-maintenance-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-05-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tutup temuan hanya ketika setiap klaim corrective action dapat dilacak. Simpan identitas finding dan risk, work order, isolasi/permit, parts, pengukuran sebelum-sesudah, hasil test, foto, nama reviewer, keputusan return-to-service, serta pemicu pemeriksaan ulang. Jika salah satu bukti kritis hilang—terutama keselamatan listrik, batas isolasi, atau kewenangan operasi—beri status terbuka atau `[NEEDS TECHNICAL REVIEW]`; penulis checklist tidak boleh mengambil alih wewenang site.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menutup Temuan Maintenance Cubicle Listrik dengan Bukti**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -70,138 +40,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi cubicle listrik](/wp-content/uploads/2023/01/cubicle-listrik.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-15-A06` → `/artikel/retrofit-refurbish-atau-ganti-cubicle-listrik.html` — Retrofit, Refurbish, atau Ganti Cubicle Listrik?
-- `CUB-15-A07` → `/artikel/spare-part-obsolescence-cubicle-listrik.html` — Spare Part dan Obsolescence Register Cubicle Listrik
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari objek yang benar-benar ditemukan: nomor cubicle, feeder atau sel yang terdampak, lokasi, tanggal, mode operasi, dan siapa yang menemukan. Salin kalimat finding tanpa memperhalusnya. “Penutup sulit dikunci” berbeda dari “indikasi panas pada terminasi”; keduanya memerlukan bukti dan pemilik risiko yang berbeda.
+
+Buat pasangan kondisi awal–kondisi sasaran. Kondisi awal berisi foto berpenanda waktu, bacaan alat, status alarm, dan referensi gambar atau tag. Kondisi sasaran menjelaskan apa yang harus berubah agar risiko berkurang, bukan sekadar pekerjaan yang dilakukan. Bila finding menyentuh akses, pintu, atau ruang gerak, perlakukan sebagai persoalan rute dan penggunaan bangunan, bukan ukuran produk semata. Regulasi aksesibilitas PUPR menekankan keterkaitan posisi partisi, ayunan/operasi pintu, ruang pendekatan, fittings, visibilitas, dan tata letak sanitasi; gunakan regulasi dan persyaratan proyek yang berlaku sebelum menetapkan ukuran atau kepatuhan ([status Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [PDF peraturan](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
+
+Catat tahap siklus hidupnya: inspeksi rutin, troubleshooting, perbaikan sementara, corrective maintenance, atau penggantian. Tahap ini menentukan dokumen yang harus ada dan siapa yang menyetujui. Jangan menyebut “kembali normal” bila hanya ada inspeksi visual.
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu gejala dapat memiliki beberapa penyebab: gerakan atau benturan, kegagalan substrat/fixing, air, korosi, bahan pembersih yang tidak kompatibel, deviasi pemasangan, keausan, atau interaksi dengan sistem bangunan. Pada sistem cubicle, panel, pintu, latch, hinge, leg/headrail, bracket, anchor, celah, dan penyangga bangunan membentuk satu konfigurasi. Instruksi pemasangan pabrikan menunjukkan bahwa konfigurasi dan urutan pemasangan memengaruhi stabilitas serta kebutuhan fixing; jangan menyalin dimensi atau beban dari produk lain ([instruksi Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Untuk cubicle listrik, padankan prinsip itu dengan gambar vendor dan desain proyek yang disetujui—bukan asumsi dari label material.
+
+Jika ada tanda lembap, telusuri sumber air dan jalur masuknya. Panduan pengendalian kelembapan EPA menempatkan pencegahan dan pengendalian sumber air sebagai bagian desain, konstruksi, dan pemeliharaan; menutup noda tanpa menghilangkan sumbernya tidak membuktikan corrective action ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Sobat Cubicle.co.id, tulis hipotesis penyebab sebagai hipotesis sampai pengukuran atau pemeriksaan yang sesuai mengonfirmasinya.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan satu paket closeout dengan urutan berikut:
+
+1. **Finding dan risk.** ID unik, uraian asli, konsekuensi yang dinilai, criticality, tanggal, dan pemilik risiko.
+2. **Work order dan isolasi.** Nomor pekerjaan, metode, batas isolasi/LOTO, permit, waktu mulai–selesai, serta verifikasi zero-energy oleh personel berwenang. Detail spesifik harus mengikuti prosedur site: `[NEEDS PROJECT LOTO/ISOLATION PROCEDURE]`.
+3. **Parts dan metode.** Kode parts, batch bila diwajibkan, material pengganti, revisi gambar atau instruksi vendor, serta alasan pemilihannya. Jangan mengklaim kompatibilitas tanpa dokumen vendor.
+4. **Measurement dan test.** Nama alat, identitas kalibrasi, titik ukur, kondisi lingkungan, nilai sebelum-sesudah, metode test, hasil, dan kriteria penerimaan yang disetujui. Nilai kelistrikan, tahanan isolasi, torsi, atau temperatur tidak boleh diisi dari perkiraan: `[NEEDS COMPETENT ELECTRICAL TEST RECORD]`.
+5. **Foto.** Ambil tampilan umum bertag lokasi lalu detail sebelum, selama (bila aman), dan sesudah. Pastikan timestamp, arah pandang, dan referensi tag dapat dicocokkan dengan finding. Foto mendukung rekaman; foto saja bukan bukti aman.
+6. **Reviewer.** Nama, jabatan/kompetensi, tanggal, komentar atas deviasi, dan keputusan “accept”, “rework”, atau “hold”.
+
+Untuk komponen pasif, daftar inspeksi dan pemeliharaan yang relevan dapat menjadi kondisi acuan dokumentasi, tetapi daftar tersebut tidak otomatis menetapkan interval atau kriteria untuk cubicle listrik tertentu ([listing SNI 9038-3:2025 di BSN](https://pesta.bsn.go.id/produk/by_ics/126)).
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilih tindakan berdasarkan penyebab yang terbukti. Pemantauan cocok bila gejala tidak mengurangi fungsi dan risiko diterima secara terdokumentasi. Pembersihan atau penyetelan hanya cukup bila sumber masalah memang kotoran, binding, atau misalignment yang terukur. Perbaikan membutuhkan parts, metode, dan pengujian penerimaan. Penguatan atau penggantian memerlukan pemeriksaan desain dan dukungan struktur/kelistrikan. Penghentian operasi adalah pilihan sah saat batas aman belum terbukti.
+
+Jangan menjadikan “work order closed” sebagai hasil. Status administratif boleh selesai, sementara finding teknis tetap hold sampai reviewer menerima bukti. Panduan pemeliharaan hardware juga menekankan pembersihan dan pemeriksaan berkala mengikuti instruksi produk, bukan bahan kimia atau metode seragam untuk semua sistem ([Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritaskan kombinasi konsekuensi, urgensi, akses, dampak operasi, biaya siklus hidup, dan otoritas keputusan. Temuan yang mengganggu interlock, isolasi, enclosure, atau indikasi panas harus ditahan sampai kompetensi dan batas kerja jelas. Temuan kosmetik dapat masuk backlog bila tidak menutupi kerusakan atau jalur air. Untuk setiap prioritas, tulis “mengapa sekarang”, “siapa yang boleh memutuskan”, dan “bukti apa yang mengubah status”. Kawan Cubicle.co.id, bila data pengukuran bertentangan dengan foto atau narasi operator, jangan memilih yang paling nyaman; eskalasi untuk peninjauan teknis.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+## Rekaman, serah-terima, dan pemicu pemeriksaan ulang
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Menutup Temuan Maintenance Cubicle Listrik dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+serah terima harus memungkinkan orang berikutnya mengulang penalaran tanpa menebak. Satukan finding, risk, work order, permit/isolation, parts, gambar revisi, measurement/test, foto, reviewer, dan keputusan return-to-service dalam satu referensi. Nyatakan dengan tegas bahwa return-to-service diputuskan oleh project/site authority dan competent reviewer; artikel ini tidak memberi otorisasi.
 
-## Objection or shortcut to address
+Tambahkan recurrence monitoring: indikator yang dipantau, metode dan pemilik, tanggal atau kondisi pemicu, serta ambang eskalasi yang berasal dari prosedur proyek atau vendor. Jangan menciptakan interval universal. Jika kelembapan, korosi, binding, atau alarm berulang, buka finding baru yang menaut ke riwayat lama dan lakukan root-cause tinjauan. Untuk akses dokumen organisasi, pembaca dapat mulai dari [halaman utama Cubicle.co.id](/), lalu gunakan sistem dokumen resmi site sebagai sumber kendali.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dipilih
 
-## Required conclusion
+Jalan pintasnya adalah mengunggah foto sesudah pekerjaan dan menulis “OK”. Itu gagal karena foto tidak menunjukkan batas isolasi, parts yang dipasang, nilai test, atau siapa yang menerima risiko. Perbaikan yang tampak rapi juga dapat menutupi sumber air, fixing yang bergerak, atau kesalahan konfigurasi. Alternatif yang lebih aman ialah menahan closeout, melengkapi rantai bukti, meminta competent reviewer memeriksa deviasi, lalu membiarkan otoritas site menetapkan return-to-service.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Penutup: closeout berarti dapat ditelusuri
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menutup temuan maintenance cubicle listrik dengan bukti berarti menghubungkan finding dan risk ke tindakan yang terukur, test yang dapat diaudit, foto yang bertag, reviewer yang tepat, dan keputusan operasi yang sah. Sebelum mengubah status menjadi closed, minta pemilik pekerjaan menunjukkan paket closeout lengkap dan menandai setiap `[NEEDS ...]` yang belum terjawab. Teman Cubicle.co.id, aturan operasinya sederhana: tidak ada bukti kritis, tidak ada closeout teknis; tidak ada kewenangan reviewer, tidak ada return-to-service.

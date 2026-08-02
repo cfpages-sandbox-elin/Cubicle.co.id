@@ -3,7 +3,8 @@ article_id: CUB-02-A04
 title: "Cubicle untuk Gedung Baru vs Retrofit Berpenghuni"
 slug: "cubicle-gedung-baru-vs-retrofit"
 description: "Pembaca memahami perbedaan data awal, pembongkaran, shutdown, proteksi area, akses, sequencing, dan risiko tersembunyi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,45 +16,13 @@ final_route: "/artikel/cubicle-gedung-baru-vs-retrofit.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Cubicle untuk Gedung Baru vs Retrofit Berpenghuni
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”
-- **Reader and situation:** Pemilik yang memasang di bangunan aktif atau lama
-- **Reader outcome:** Pembaca memahami perbedaan data awal, pembongkaran, shutdown, proteksi area, akses, sequencing, dan risiko tersembunyi.
-- **Primary intent:** Memilih strategi proyek baru atau retrofit
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi metode instalasi sistem; toilet dimiliki CUB-06-A04, kantor CUB-10-A02, listrik CUB-14-A04.
-- **Final public route:** `/artikel/cubicle-gedung-baru-vs-retrofit.html`
-- **Appointed CMS date:** `2025-05-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cubicle untuk Gedung Baru vs Retrofit Berpenghuni**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -64,140 +33,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Cubicle untuk Gedung Baru vs Retrofit Berpenghuni
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Cubicle.co.id! Untuk gedung baru, cubicle biasanya dirancang bersama tata ruang dan jalur utilitas sejak awal. Untuk retrofit di gedung yang tetap beroperasi, pilihan yang masuk akal ditentukan oleh data bangunan lama, jendela shutdown, akses material, serta kemampuan melindungi penghuni. Jadi, retrofit bukan sekadar memasang produk yang sama di ruang lama; tingkat risikonya berbeda.
 
-### KR-01
+Jawaban singkatnya: pilih strategi gedung baru bila koordinasi bisa dibekukan sebelum pekerjaan lapangan dan ruang masih kosong. Pilih retrofit bertahap bila fungsi gedung harus tetap berjalan, tetapi hanya setelah survei kondisi, rencana isolasi layanan, proteksi area, dan urutan kerja disetujui. Jika data tersebut belum ada, jangan mengunci ukuran atau harga dulu. [NEEDS PROJECT SURVEY AND PROFESSIONAL COORDINATION: kondisi struktur, utilitas tersembunyi, akses, serta persetujuan operasi belum tersedia dalam paket ini.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-17
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PUPR No. 14/PRT/M/2017 — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [CDC core components for healthcare surface programs](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)
-- **Purpose for this article:** Give house, office, school, hotel, hospital, retail, worship, hall, and public-space articles a disciplined requirements model instead of a location-name template.
-- **Safe grounded facts:** Use cases can differ in occupancy, abuse/impact, privacy, supervision, reconfiguration, acoustics, cleaning, infection risk, accessibility, door/egress operation, fire strategy, and downtime. These variables, not the room label alone, justify different guidance.
-- **Limits:** No use-case article may infer a rating, legal requirement, or cleaning protocol without the governing project/facility evidence. Resolve `G-01`, `G-04`, `G-06`, and `G-12`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-02-A02` → `/artikel/checklist-survei-lokasi-cubicle.html` — Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja
-- `CUB-02-A03` → `/artikel/pemangku-kepentingan-proyek-cubicle.html` — Peta Pemangku Kepentingan Proyek Cubicle
-- `CUB-02-A05` → `/artikel/klasifikasi-paparan-lokasi-cubicle.html` — Membaca Paparan Lokasi: Basah, Lembap, Berdebu, Panas, Korosif, atau Banjir
-- `CUB-02-A06` → `/artikel/kapan-tidak-perlu-mengganti-cubicle.html` — Kapan Tidak Perlu Mengganti Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemilik sering membandingkan dua penawaran seolah-olah perbedaannya hanya material dan jumlah bilik. Padahal gedung baru memberi ruang untuk menentukan titik ukur, bukaan, jalur pengangkutan, dan urutan pekerjaan sebelum pengguna masuk. Retrofit menambahkan pekerjaan menemukan apa yang sudah ada, memindahkan atau melindungi barang, berkoordinasi dengan pengelola gedung, dan mengembalikan area agar dapat dipakai kembali.
+
+Pertanyaan awal yang lebih berguna adalah: “Apa yang harus tetap berfungsi selama pekerjaan berlangsung?” Jawabannya dapat mencakup akses pengguna, toilet yang masih dipakai, jalur evakuasi, layanan kebersihan, dan sistem gedung lain. Di fasilitas dengan tuntutan pengendalian infeksi, program permukaan dan kebersihan perlu dikoordinasikan dengan tim fasilitas; CDC menempatkan pengendalian infeksi sebagai kegiatan lintas fungsi, bukan keputusan produk tunggal ([CDC, komponen pengendalian infeksi](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)).
+
+Kawan Cubicle.co.id, tetapkan juga batas keputusan: artikel ini membantu membandingkan strategi proyek, bukan memberi metode instalasi atau menggantikan persetujuan teknis. Aspek toilet, kantor, dan sistem listrik memerlukan pembahasan khusus di ruang lingkup lain.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Gedung baru” berarti kondisi dasar, koordinasi ruang, dan antarmuka utilitas masih dapat direncanakan sebagai satu paket. Bukan berarti semua hal sudah pasti; gambar dapat berubah dan kapasitas substrat tetap harus dibuktikan. “Retrofit berpenghuni” berarti ada instalasi, kebiasaan pengguna, dan batas operasi yang sudah berjalan. Penggantian, penambahan, atau pemindahan cubicle harus berdamai dengan kondisi tersebut.
+
+Dalam kedua skenario, batas sistem perlu ditulis: panel cubicle, pintu, hardware, titik tumpu, sambungan ke lantai atau dinding, serta antarmuka dengan plafon, sanitair, drainase, detektor, sprinkler, dan kabel. Spesifikasi partisi operabel, misalnya, dapat menunjukkan kebutuhan interface dan dukungan tertentu, tetapi dokumen produk tidak membuktikan bahwa substrat gedung Anda mampu menerimanya ([Modernfold, spesifikasi teknis](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Untuk aksesibilitas, posisi partisi hanyalah satu bagian dari rute dan cara ruang dipakai. Ayunan pintu, ruang pendekatan, perlengkapan, privasi, visibilitas, dan tata letak sanitair harus dibaca bersama persyaratan bangunan yang berlaku. Status dan teks resmi Permen PUPR No. 14/PRT/M/2017 tersedia di BPK ([status peraturan](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)); jangan menyimpulkan kepatuhan dari satu ukuran produk atau gambar katalog.
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks berikut dalam rapat awal. Isinya bukan angka baku, melainkan pertanyaan yang harus dijawab oleh data proyek.
+
+| Kriteria | Gedung baru | Retrofit berpenghuni |
+|---|---|---|
+| Data awal | Koordinasikan grid, elevasi, utilitas, dan ruang servis sebelum pekerjaan | Verifikasi kondisi terpasang, deviasi, utilitas tersembunyi, dan batas akses |
+| Pembongkaran | Biasanya minim, tetapi perubahan desain tetap perlu dicatat | Rencanakan bongkar, pemilahan material, debu, kebisingan, dan pemulihan area |
+| Shutdown | Jadwalkan sebelum okupansi atau serah-terima | Definisikan layanan yang boleh dihentikan, durasi, isolasi, dan otorisasi |
+| Proteksi area | Lindungi pekerjaan baru dari pekerjaan lain yang menyusul | Lindungi penghuni, barang, jalur publik, dan area yang tetap aktif |
+| Akses dan logistik | Rute angkut dapat dimasukkan ke rencana konstruksi | Rute sering berbagi akses aktif; atur waktu, penyimpanan sementara, dan housekeeping |
+| Sequencing | Ikuti urutan pekerjaan antar-disiplin | Pecah menjadi zona kecil, dengan serah-terima dan pemeriksaan tiap zona |
+| Risiko tersembunyi | Perubahan desain dan konflik antardisiplin | Struktur, kebocoran, sambungan lama, perbedaan level, dan layanan tak terdokumentasi |
+
+Prinsip keselamatan nonstruktural FEMA juga menekankan pentingnya memeriksa keterikatan komponen dan antarmuka dengan bangunan, bukan hanya melihat benda di permukaan ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Untuk retrofit, temuan survei yang mengubah titik tumpu atau jalur utilitas harus memicu keputusan ulang, bukan ditutup dengan improvisasi lapangan.
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gedung baru cenderung masuk akal bila layout belum terkunci, akses material tersedia, dan pemilik dapat menyatukan keputusan arsitektur, struktur, MEP, operasi, serta keselamatan sebelum pengadaan. Keuntungannya adalah konflik dapat ditemukan di dokumen dan jadwal, walaupun tetap perlu inspeksi dan persetujuan sebelum serah-terima.
+
+Retrofit bertahap masuk akal bila penghentian total tidak dapat diterima dan pekerjaan dapat dibagi menjadi zona yang aman. Syaratnya bukan sekadar “bisa dikerjakan malam hari”, melainkan ada pemilik zona, rencana isolasi layanan, jalur alternatif, batas kebisingan/debu, pemeriksaan hasil, dan keputusan untuk menghentikan pekerjaan bila kondisi nyata menyimpang.
+
+Teman Cubicle.co.id, bayangkan dua skenario. Jika sebuah lantai kosong dan utilitas sedang terbuka, keputusan layout dapat dikunci lebih awal. Jika lantai lain tetap menerima pengguna, satu zona baru boleh dimulai setelah zona sebelumnya benar-benar bersih, aksesnya dikembalikan, dan pengelola menyetujui serah-terima. “Lebih cepat” hanya berarti lebih baik bila fungsi utama tetap aman dan terdokumentasi.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, menyamakan gambar denah dengan kondisi lapangan. Denah tidak menunjukkan plumb, level, ceiling void, kapasitas substrat, sambungan gerak, atau layanan yang tertutup. Kedua, menganggap pekerjaan malam otomatis menghapus risiko shutdown; tanpa otorisasi dan uji pemulihan, risiko hanya dipindahkan ke jam yang lebih sempit. Ketiga, memberi harga retrofit dari kuantitas gedung baru tanpa memasukkan bongkar, proteksi, akses, pembersihan, dan waktu tunggu.
+
+Kesalahan keempat adalah memilih produk karena label “tahan” atau “sesuai standar” lalu menganggap sistem terpasang pasti memenuhi fungsi. PP No. 16 Tahun 2021 mengaitkan penyelenggaraan bangunan dengan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dokumentasi, dan pemeliharaan; label produk saja tidak membuktikan semua aspek itu ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle untuk Gedung Baru vs Retrofit Berpenghuni”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta paket bukti yang sama-sama dapat dibandingkan, lalu tandai siapa yang menyetujui tiap item:
 
-## Objection or shortcut to address
+- denah terbaru, foto kondisi, elevasi, dan catatan deviasi;
+- peta utilitas, titik isolasi, jalur detektor atau sprinkler, serta batas area kerja;
+- kapasitas dan kondisi substrat pada titik tumpu, dengan metode pemeriksaan yang disetujui;
+- rencana akses material, penyimpanan sementara, proteksi debu/kebisingan, dan pembersihan;
+- urutan zona, jendela kerja, prosedur shutdown atau isolasi, uji pemulihan, dan serah-terima;
+- sampel material, lembar data, instruksi perawatan, serta batas penggunaan yang benar-benar didukung pemasok;
+- persetujuan pengelola, pengguna terdampak, dan tenaga profesional yang berwenang untuk aspek bangunan terkait.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kerangka bangunan nasional perlu dibaca dari naskah dan persyaratan proyek yang berlaku, bukan dari kutipan promosi. Jika layout memengaruhi rute akses atau ruang sanitair, koordinasikan dengan persyaratan aksesibilitas setempat sebelum mengunci detail. Jika ditemukan konflik utilitas, jangan membuka atau memindahkan layanan tanpa izin dan prosedur isolasi yang sesuai.
 
-## Required conclusion
+Untuk menyusun pertanyaan lapangan berikutnya, Anda dapat mulai dari [beranda Cubicle.co.id](/) lalu minta dokumen survei dan batas tanggung jawab yang spesifik untuk proyek. Rute artikel saudara yang masih direncanakan belum dianggap tersedia.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-## Draft completion checklist
+jalan pintas yang paling sering menggoda adalah memesan berdasarkan denah lama, lalu “menyesuaikan sedikit” saat pemasangan. Cara ini dapat gagal ketika titik tumpu tidak berada di tempat yang diasumsikan, akses angkut berbenturan dengan jam operasi, atau zona aktif tidak dapat ditutup. Alternatif yang lebih aman adalah membekukan keputusan hanya setelah survei terdokumentasi, membuat daftar asumsi terbuka, dan menetapkan pemicu perubahan: temuan utilitas, perbedaan level, kondisi substrat, atau batas operasi yang berubah.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Untuk gedung baru, integrasikan cubicle sejak koordinasi desain dan urutan konstruksi. Untuk retrofit berpenghuni, pilih pekerjaan bertahap hanya bila survei, proteksi area, shutdown, akses, dan serah-terima dapat dikendalikan. Tidak ada pemenang universal; kondisi nyata gedunglah yang mengubah pilihan.
+
+Langkah berikutnya: minta survei kondisi dan rapat koordinasi yang menghasilkan matriks zona, layanan yang harus tetap aktif, dokumen persetujuan, serta kriteria berhenti. Sobat Cubicle.co.id, jangan mengunci spesifikasi, jadwal, atau harga sebelum [NEEDS PROJECT SURVEY AND PROFESSIONAL COORDINATION] terisi dan disetujui pihak yang bertanggung jawab. Aturan operasinya sederhana: bila bukti antarmuka dan izin kerja belum lengkap, keputusan retrofit belum siap dijalankan.

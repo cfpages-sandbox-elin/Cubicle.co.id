@@ -1,9 +1,10 @@
 ---
 article_id: CUB-09-A02
+writing_contract_version: "native-id-v2"
 title: "Anatomi Panel Cubicle Kantor dan Work Surface"
 slug: "anatomi-panel-cubicle-kantor"
-description: "Pembaca dapat mengenali frame, core, skin/finish, connector, base, raceway, work surface, bracket, trim, and accessory interfaces."
-status: outline
+description: "Pembaca dapat mengenali frame, core, skin/finish, penghubung, base, raceway, permukaan kerja, bracket, trim, and accessory interfaces."
+status: draft
 publication_date: "2025-11-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,17 @@ reader_address: "Kawan Cubicle.co.id"
 final_route: "/artikel/anatomi-panel-cubicle-kantor.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://www.iso.org/standard/72964.html"
   - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
+  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
+  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Anatomi Panel Cubicle Kantor dan Work Surface
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Panel Cubicle Kantor dan Work Surface”
-- **Reader and situation:** Buyer dan inspector submittal
-- **Reader outcome:** Pembaca dapat mengenali frame, core, skin/finish, connector, base, raceway, work surface, bracket, trim, and accessory interfaces.
-- **Primary intent:** Mengenali komponen workstation system
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menganggap semua sistem kompatibel; stability dimiliki CUB-09-A03 dan assembly CUB-10-A01.
-- **Final public route:** `/artikel/anatomi-panel-cubicle-kantor.html`
-- **Appointed CMS date:** `2025-11-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Panel Cubicle Kantor dan Work Surface**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -71,139 +36,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle kantor` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Anatomi Panel Cubicle Kantor dan Work Surface
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Cubicle.co.id! Panel cubicle bukan sekadar lembar penutup yang diberi meja. Ia adalah rangkaian antarmuka: frame menahan dan menyambungkan modul, core memberi isi panel, skin/finish menjadi lapisan terlihat, sementara base, penghubung, raceway, bracket, trim, dan permukaan kerja meneruskan beban serta fungsi ke lantai, dinding, atau panel lain. Karena itu, daftar material saja tidak cukup untuk memeriksa submittal.
 
-### KR-01
+Cara membaca gambar kerja yang aman adalah menelusuri jalur dari panel ke penyangga bangunan, lalu memeriksa tiap sambungan dan aksesori. “Compact”, “HPL”, atau “phenolic” hanya menjelaskan keluarga material; bukan bukti bahwa seluruh sistem stabil, tahan air, mudah dibersihkan, aksesibel, atau memenuhi rating tertentu. [NEEDS TECHNICAL REVIEW: kecocokan komponen, beban, dan kinerja harus dibuktikan oleh sistem serta proyek yang ditawarkan.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle kantor](/wp-content/uploads/2023/01/cubicle-kantor.jpg)
 
-### KR-03
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-09-A01` → `/artikel/privasi-akustik-cubicle-kantor.html` — Privasi dan Akustik Cubicle Kantor: Apa yang Bisa Dilakukan Panel
-- `CUB-09-A03` → `/artikel/stabilitas-panel-cubicle-kantor.html` — Stabilitas Panel dan Beban Aksesori Cubicle Kantor
-- `CUB-09-A04` → `/artikel/cubicle-kantor-egress-sprinkler-api.html` — Cubicle Kantor, Egress, Sprinkler, Detektor, dan Bukti Api
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Panel Cubicle Kantor dan Work Surface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Anatomi panel dibaca sebagai susunan komponen dan interface, bukan sebagai satu produk homogen. Mulailah dari frame atau stile, identifikasi core dan skin/finish, kemudian cari penghubung, base atau leg, raceway, trim, dan titik pemasangan permukaan kerja. Terakhir, cocokkan bracket dan aksesori dengan profil serta pengaku yang benar. permukaan kerja yang tampak kokoh tetap dapat bermasalah jika bracket hanya menempel pada skin tipis atau penghubung tidak meneruskan gaya ke frame.
+
+Salah paham paling berbahaya adalah menganggap panel “anti-air” otomatis cocok untuk area basah, atau label tahan api pada bahan sebagai rating dinding lengkap. ISO 4586 membedakan lingkup pengujian HPL dan compact laminate untuk penggunaan interior maupun eksterior; abstraknya tidak memberikan nilai yang dapat dipindahkan ke semua produk ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)). Rating kebakaran, aksesibilitas, dan stabilitas tetap memerlukan bukti sistem dan tinjauan profesional.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Panel Cubicle Kantor dan Work Surface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, **panel** berarti bidang pemisah workstation beserta antarmuka pemasangannya. **Frame** adalah rangka atau profil yang menerima penghubung dan bracket. **Core** adalah isi panel; dapat berupa papan, honeycomb, atau susunan lain sesuai sistem. **Skin/finish** adalah permukaan pelapis yang terlihat dan dirawat. **Base** mencakup kaki, leg, atau rail bawah; **raceway** adalah jalur tertutup untuk kabel; **trim** menutup tepi atau sambungan; dan **accessory interface** adalah titik untuk monitor arm, shelf, power module, atau aksesori lain.
+
+Batasnya penting: uraian ini tidak menyatakan semua sistem kompatibel, tidak menetapkan dimensi, kapasitas, atau rating, dan tidak mengambil alih desain struktur maupun assembly. Stabilitas adalah topik terpisah yang harus dibuktikan pada sistem yang dipilih. Untuk aksesibilitas, posisi panel, ayunan pintu, ruang pendekatan, fitting, visibilitas, dan tata ruang harus dibaca sebagai satu rute dan ruang; satu ukuran produk tidak membuktikan aksesibilitas bangunan ([Permen PUPR 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Panel Cubicle Kantor dan Work Surface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan pemeriksaan dimulai dari denah dan potongan. Tandai modul panel, arah penghubung, dan titik yang menempel ke lantai atau plafon. Pada detail panel, bedakan profil frame dari core dan lapisan skin; cari bagaimana trim mengakhiri tepi dan bagaimana base mengatasi celah lantai. Race­way kemudian diperiksa sebagai interface layanan: pintu akses, radius kabel, dan pemisahan dari bagian yang dapat bergerak harus terlihat pada detail, bukan diasumsikan.
+
+permukaan kerja memindahkan beban ke bracket, bracket ke frame atau rail, lalu ke base dan lantai. Perubahan posisi meja, monitor arm, atau shelf dapat mengubah jalur beban. Sistem toilet-partition Bobrick, misalnya, menunjukkan bahwa panel, pilaster, pintu, hinge, latch, headrail, bracket, dan anchor dipasang sebagai konfigurasi; petunjuknya tidak boleh disalin menjadi ukuran atau beban untuk cubicle kantor lain ([petunjuk pemasangan](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+Pada compact laminate, lubang, jarak tepi, arah serat, ventilasi, dan conditioning perlu mengikuti instruksi produk. Panduan fabrikasi Formica juga mengingatkan bahwa detail wet-area bergantung pada produk dan fabrikasi yang dinamai, bukan pada kata “compact” saja ([panduan compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Panel Cubicle Kantor dan Work Surface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lingkungan mengubah pilihan skin dan detail tepi. Kelembapan, metode pembersihan, dan kemungkinan cipratan menuntut verifikasi produk serta sealing; ketahanan kelembapan tidak berarti panel boleh terendam. Panduan koleksi washroom Formica berlaku untuk produk dan pasar tertentu, sehingga ketersediaan Indonesia dan instruksi pemasangannya tetap harus dikonfirmasi ([Formica Washroom](https://www.formica.com/en-gb/products/washroom)).
+
+Beban aksesori dan bentang permukaan kerja mengubah kebutuhan bracket, pengaku, dan anchor. Frekuensi bongkar-pasang memengaruhi ketahanan ulir dan akses servis. Kondisi lantai, toleransi bangunan, sambungan ke dinding, serta urutan instalasi menentukan apakah base dan penghubung bekerja sebagaimana dirancang. Untuk fire separation, permukaan yang sulit terbakar bukan rating tahan api seluruh assembly; klaim harus mencakup panel, frame, fastener, joint, perimeter, penetrasi, dan pemasangan. [NEEDS FIRE EVIDENCE: jangan menulis rating atau kepatuhan tanpa laporan uji untuk assembly yang sama.]
+
+Sobat Cubicle.co.id, minta juga matriks interface: komponen apa yang dipasangkan, profil penerimanya, fastener-nya, alat servisnya, dan bukti kompatibilitasnya. Matriks ini lebih berguna daripada katalog warna ketika kondisi lapangan berubah.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Panel Cubicle Kantor dan Work Surface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi submittal | Pertanyaan pemeriksaan | Keputusan aman |
+|---|---|---|
+| permukaan kerja dengan monitor arm | Apakah bracket mengikat frame/rail dan ada batas beban yang dibuktikan? | Tahan persetujuan sampai detail dan data sistem tersedia. |
+| Area dekat pantry | Apakah core, edge, seal, dan hardware dirancang untuk paparan tersebut? | Cocokkan produk bernama dan metode sealing; jangan mengandalkan label HPL. |
+| Panel bertemu pintu atau jalur akses | Apakah ayunan, ruang pendekatan, fitting, dan visibilitas tetap terpenuhi? | Koordinasikan denah dan tinjauan aksesibilitas bangunan. |
+| Permintaan “fire-rated cubicle” | Apakah ada laporan uji untuk assembly lengkap dan pemasangan yang sama? | Gunakan `[NEEDS FIRE EVIDENCE]` sampai bukti diterima. |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Panel Cubicle Kantor dan Work Surface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah mencocokkan aksesori berdasarkan merek atau diameter saja. Periksa profil penerima, kedalaman ulir, edge distance, dan apakah gaya diteruskan ke frame. Kedua, menyembunyikan sambungan di balik trim tanpa menyediakan akses inspeksi; minta potongan yang menunjukkan urutan bongkar dan servis. Ketiga, menyamakan panel workstation dengan partisi toilet atau dinding api. Dokumen Bobrick dan standar ISO dapat menjelaskan konsep atau metode, tetapi tidak membuktikan performa produk Anda.
 
-## Objection or shortcut to address
+Kesalahan keempat ialah menyalin ukuran asing ke proyek Indonesia. Gunakan peraturan yang berlaku dan gambar proyek terbaru; bila konsekuensinya menyangkut aksesibilitas, keselamatan, atau jalur evakuasi, minta tinjauan profesional. Kesalahan terakhir adalah menganggap gambar render sebagai bukti penghubung, anchor, atau kondisi lantai. Inspector sebaiknya meminta shop drawing, datasheet, instruksi pemasangan, dan daftar deviasi terukur.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu diwaspadai
 
-## Required conclusion
+jalan pintas yang sering dipilih adalah “asal panel dan meja dari vendor yang sama, semua pasti pas.” Vendor yang sama belum tentu berarti satu sistem: frame, bracket, raceway, dan aksesori dapat berasal dari seri berbeda. Alternatif yang lebih andal ialah meminta schedule komponen dengan kode, potongan interface, batas penggunaan, serta konfirmasi tertulis untuk konfigurasi proyek. Jika satu bagian belum memiliki bukti, tandai sebagai terbuka dan jangan menutupnya dengan asumsi visual.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Anatomi panel cubicle kantor dan permukaan kerja adalah peta jalur beban, layanan, dan perawatan: frame, core, skin/finish, penghubung, base, raceway, bracket, trim, permukaan kerja, serta interface aksesori harus terbaca sebagai satu konfigurasi. Langkah berikutnya, minta vendor menandai semua interface pada shop drawing dan lampirkan datasheet serta instruksi pemasangan yang sesuai. Kawan Cubicle.co.id dapat memakai [halaman utama Cubicle.co.id](/) sebagai titik kembali, tetapi keputusan akhir tetap memerlukan verifikasi sistem, kondisi bangunan, dan tinjauan teknis yang berwenang. Aturan operasionalnya sederhana: jangan menyetujui komponen hanya karena namanya cocok; setujui setelah jalur sambungan dan bukti konfigurasi cocok.

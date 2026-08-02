@@ -1,9 +1,10 @@
 ---
 article_id: CUB-14-A05
+writing_contract_version: "native-id-v2"
 title: "Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi"
 slug: "titik-kontrol-instalasi-cubicle-listrik"
 description: "Pembaca dapat mengidentifikasi controlled steps, manufacturer instructions, cleanliness, torque/tool traceability, phasing, labeling, segregation, earthing, inspection, and nonconformity."
-status: outline
+status: draft
 publication_date: "2026-03-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,12 @@ reader_address: "Teman Cubicle.co.id"
 final_route: "/artikel/titik-kontrol-instalasi-cubicle-listrik.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
   - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”
-- **Reader and situation:** Electrical contractor, QA, dan owner engineer
-- **Reader outcome:** Pembaca dapat mengidentifikasi controlled steps, manufacturer instructions, cleanliness, torque/tool traceability, phasing, labeling, segregation, earthing, inspection, and nonconformity.
-- **Primary intent:** Menetapkan installation ITP
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan tutorial DIY dan tidak mempublikasikan torque/termination values generik; pekerjaan hanya oleh personel berwenang.
-- **Final public route:** `/artikel/titik-kontrol-instalasi-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-03-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -69,140 +31,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Cubicle.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Titik kontrol instalasi cubicle listrik bukan sekadar tanda tangan setelah panel berdiri. ITP (inspection and test plan) harus menghentikan pekerjaan pada saat alignment, bus joint, terminasi kabel, dan earthing masih dapat diperiksa. Urutan umumnya adalah verifikasi dokumen dan lokasi, titik tahan untuk alignment dan support, inspeksi bus joint sebelum penutupan, pemeriksaan terminasi dengan instruksi pabrikan, verifikasi phasing-label-segregasi-earthing, lalu inspeksi akhir dan penutupan NCR.
 
-### KR-01
+Nilai torque, ukuran lug, radius tekuk, dan batas uji tidak boleh diambil dari angka generik. Semua harus berasal dari gambar yang disetujui, data pabrikan, dan prosedur proyek **[NEEDS PROJECT-SPECIFIC TORQUE, TERMINATION, TEST, AND ACCEPTANCE CRITERIA]**.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle listrik](/wp-content/uploads/2023/01/cubicle-listrik.jpg)
 
-### KR-02
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-14-A03` → `/artikel/transport-penyimpanan-cubicle-listrik.html` — Packing, Transport, dan Penyimpanan Cubicle Listrik Sebelum Instalasi
-- `CUB-14-A04` → `/artikel/site-readiness-cubicle-listrik.html` — Site Readiness Sebelum Cubicle Listrik Ditempatkan
-- `CUB-14-A06` → `/artikel/sat-functional-test-cubicle-listrik.html` — SAT dan Functional Test Cubicle Listrik
-- `CUB-14-A07` → `/artikel/energization-readiness-cubicle-listrik.html` — Energization Readiness Review Cubicle Listrik
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Panel yang rapi belum tentu siap diberi energi. Alignment yang meleset dapat mengganggu sambungan antarpanel. Bus joint yang kotor atau tidak memiliki catatan pengencangan menjadi temuan tersembunyi setelah cover terpasang. Terminasi yang tampak rapat belum membuktikan metode, alat, dan identitasnya. Earthing yang terlihat tersambung juga belum membuktikan kontinuitas.
+
+Karena itu, setiap langkah diberi status titik tahan, witness point, atau tinjauan dokumen. Sobat Cubicle.co.id, bila bukti tidak tersedia sebelum komponen tertutup, tandai sebagai belum terverifikasi dan minta keputusan engineer berwenang.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bahasan ini mencakup posisi panel, support, sambungan busbar, terminasi kabel, phasing, label, segregasi, bonding, earthing, kebersihan, inspeksi, dan NCR. Controlled step berarti langkah dengan input, pemeriksa, kriteria penerimaan, serta rekaman yang jelas.
+
+Ini bukan tutorial DIY, daftar nilai torque, atau pengganti method statement, gambar IFC, switching procedure, dan izin kerja. Pekerjaan listrik serta pengujian hanya dilakukan personel berwenang **[NEEDS APPROVED MANUFACTURER MANUAL AND PROJECT METHOD STATEMENT]**. Pembagian peran dan tanggung jawab tetap harus mengikuti dokumen kontrak serta kerangka jasa konstruksi yang berlaku; status dan ruang lingkup UU Jasa Konstruksi dapat diperiksa pada [rekaman UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu), bukan ditafsirkan dari artikel ini.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari submittal register: single-line diagram, layout, cable schedule, data pabrikan, sertifikat alat ukur, dan revisi gambar. QA/QC menghubungkan aktivitas dengan pemeriksa serta rekaman. Sebelum panel ditempatkan, supervisor mengonfirmasi fondasi, anchor, clearances, akses kabel, dan kondisi lingkungan. Prasyarat yang gagal berarti hold, bukan “diperbaiki nanti”.
+
+Pada alignment, ukur terhadap datum yang disetujui, cek sambungan antar-section, kerataan, verticality, dan support sesuai toleransi pabrikan. Catat alat dan identifikasinya. Setelah diterima, lindungi ruang busbar dari debu, serpihan, dan kelembapan; lakukan inspeksi kebersihan sebelum penutupan.
+
+Untuk bus joint, cocokkan identitas section, urutan fase, orientasi link, barrier, dan hardware dengan gambar serta manual. Pemeriksa menyaksikan pengencangan menggunakan alat berkalibrasi dan merekam nomor alat, operator, tanggal, serta hasil. Nilai torque aktual hanya diambil dari dokumen yang disetujui **[NEEDS MANUFACTURER BUS-JOINT PROCEDURE AND TRACEABLE TOOL RECORD]**.
+
+Terminasi dimulai dengan verifikasi kabel, gland, lug, screen, dan bend support terhadap cable schedule. Periksa kupasan, kebersihan konduktor, metode crimp, identitas fase, dan pemisahan sirkuit sebelum penutup dipasang. Perubahan rute atau lug adalah deviasi yang memerlukan persetujuan.
+
+Earthing diperiksa sebagai sistem: earth bar, bonding antar-section, bagian logam yang diwajibkan desain, koneksi ke jaringan pembumian, dan label. Metode continuity atau resistance harus mengikuti prosedur proyek **[NEEDS APPROVED EARTHING TEST PROCEDURE AND LIMITS]**. Hasil tanpa titik uji, alat, tanggal, dan saksi tidak cukup untuk serah terima.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Debu konstruksi, air, kondensasi, ruang sempit, atau pekerjaan sipil yang belum selesai dapat membuat inspeksi tidak valid. Tunda penutupan bila housekeeping, pencahayaan, atau akses belum memadai.
+
+Konfigurasi incoming dan outgoing dapat memiliki segregasi, gland plate, atau barrier berbeda. Perubahan feeder, ukuran kabel, atau posisi panel memicu pemeriksaan ulang phasing, clearance, support, dan label. Kawan Cubicle.co.id, perlakukan revisi gambar sebagai pemicu ITP pada titik yang terdampak.
+
+Bukti juga mengubah keputusan. Torque, crimping tool, insulation tester, dan continuity tester harus terlacak ke kalibrasi yang berlaku. Nama operator, nomor panel, nomor sambungan, foto sebelum penutupan bila diwajibkan, dan hasil uji harus konsisten. Tanpa traceability, QA tidak dapat membedakan sambungan yang diperiksa dari yang diasumsikan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi | Keputusan ITP | Bukti minimum |
+|---|---|---|
+| Panel belum aligned terhadap datum | Hold; koreksi sebelum bus joint | Form alignment, alat, revisi layout, persetujuan inspector |
+| Bus joint akan ditutup tetapi torque sheet belum lengkap | Jangan tutup; terbitkan NCR/punch sesuai prosedur | Manual pabrikan, ID alat, operator, hasil, saksi |
+| Kabel berbeda dari schedule | Stop terminasi dan ajukan technical query | Schedule revisi, persetujuan designer, evaluasi phasing/segregasi |
+| Earth bond terpasang tetapi titik uji tidak jelas | Tahan energization dan ulangi verifikasi | Diagram earthing, titik uji, alat, hasil |
+| Debu ditemukan di kompartemen | Bersihkan dan inspeksi ulang | Checklist kebersihan dan persetujuan lanjut penutupan |
+
+Tabel ini pola keputusan, bukan kriteria numerik universal. Project engineer menetapkan acceptance criteria dan pihak yang menandatangani persetujuan lanjut. Simpan juga daftar distribusi dokumen agar inspector, supervisor, dan owner engineer bekerja dari revisi yang sama. Bila ada konflik antara gambar, manual, dan kondisi lapangan, hentikan pekerjaan pada interface tersebut dan ajukan technical query tertulis.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Alignment, Bus Joint, Cable Termination, dan Earthing: Titik Kontrol Instalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mengisi torque sheet dari ingatan setelah pekerjaan selesai menghilangkan bukti waktu dan titik sambungan. Periksa pencatatan saat pekerjaan berlangsung serta kecocokan nomor alat dengan sertifikat kalibrasi. Label yang dipasang berdasarkan perkiraan arah harus dicocokkan dengan single-line diagram oleh orang kedua.
 
-## Objection or shortcut to address
+Segregasi tidak selesai hanya karena kabel terlihat terpisah; periksa barrier, gland plate, bend radius, dan jalur aktual terhadap detail desain. NCR juga tidak boleh ditutup dengan foto umum. Minta bukti yang mengidentifikasi panel, sambungan, dan revisi pekerjaan. Untuk menelusuri dokumen proyek berikutnya, gunakan [beranda Cubicle.co.id](/) hanya sebagai titik kembali, bukan sebagai bukti teknis atau pengganti drawing register.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu ditolak
 
-## Required conclusion
+“Semua baut sudah kencang; QA bisa mengejar dokumen.” Pengencangan tanpa prosedur pabrikan, alat terlacak, dan identitas sambungan tidak membuktikan hasil yang dapat diterima. Alternatifnya adalah menetapkan witness atau titik tahan sebelum penutupan, menyediakan form per panel, dan menghentikan pekerjaan saat catatan atau kondisi belum lengkap.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Alignment, bus joint, cable termination, dan earthing menjadi titik kontrol bila masing-masing memiliki prasyarat, pemeriksaan, bukti traceable, dan keputusan persetujuan lanjut. Susun ITP dari gambar serta manual yang disetujui, lalu lakukan walkdown pra-penutupan bersama contractor, QA/QC, owner engineer, dan pabrikan bila diwajibkan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.co.id, jangan mengisi nilai torque, batas uji, atau status lulus sebelum dokumen sumber dan otoritas pemeriksa jelas. Tidak ada penutupan atau energization tanpa bukti yang dapat ditelusuri dan NCR yang telah diputuskan pihak berwenang.

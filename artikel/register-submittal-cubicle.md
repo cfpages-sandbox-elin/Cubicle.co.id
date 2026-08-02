@@ -1,9 +1,10 @@
 ---
 article_id: CUB-17-A02
+writing_contract_version: "native-id-v2"
 title: "Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi"
 slug: "register-submittal-cubicle"
-description: "Pembaca dapat track required document, revision, originator, reviewer, due date, status, comments, deviations, approval conditions, and linked production release."
-status: outline
+description: "Panduan untuk melacak dokumen wajib, revisi, pembuat, pemeriksa, tenggat, status, komentar, deviasi, syarat persetujuan, dan keterkaitannya dengan rilis produksi."
+status: draft
 publication_date: "2026-06-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +15,23 @@ reader_address: "Kawan Cubicle.co.id"
 final_route: "/artikel/register-submittal-cubicle.html"
 technical_review: required
 sources:
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi
 
-## Assignment lock
+Halo, Kawan Cubicle.co.id! Register submittal yang berguna bukan sekadar daftar file. Ia menunjukkan dokumen yang diminta, revisi yang sedang dinilai, originator, reviewer, batas tanggapan, komentar, deviasi, dan syarat sebelum rilis produksi. Tanpa jejak itu, label “approved” mudah disalahpahami sebagai izin membuat atau memasang.
 
-- **Writer task:** Expand this file into one complete article answering: “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”
-- **Reader and situation:** Document controller, QA, dan reviewer
-- **Reader outcome:** Pembaca dapat track required document, revision, originator, reviewer, due date, status, comments, deviations, approval conditions, and linked production release.
-- **Primary intent:** Mengendalikan document approvals
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menganggap “approved” sebagai transfer design responsibility; manufacturing release dimiliki CUB-06-A01 dan CUB-14-A01.
-- **Final public route:** `/artikel/register-submittal-cubicle.html`
-- **Appointed CMS date:** `2026-06-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pisahkan submittal gambar, material, test, dan deviasi sebagai item yang dapat ditelusuri, lalu hubungkan tiap keputusan ke revisi dan rilis produksi yang tepat. Status dapat berupa *submitted*, *under tinjauan*, *approved with comments*, *revise and resubmit*, atau *rejected*. Persetujuan dokumen tidak otomatis memindahkan tanggung jawab desain; rilis manufaktur tetap berada pada pemilik proses yang ditetapkan proyek, bukan pada register ini.
 
-## Opening instructions
+Keputusan dapat berubah bila kontrak, matriks kewenangan, kondisi lapangan, atau bukti produk berbeda. [NEEDS PROJECT EVIDENCE: matriks approval, kriteria acceptance, dan otorisasi production persetujuan lanjut].
 
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -67,139 +42,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-17-A01` → `/artikel/raci-proyek-cubicle.html` — RACI Proyek Cubicle dari Survey sampai Handover
-- `CUB-17-A03` → `/artikel/itp-hold-point-ncr-punch-list-cubicle.html` — ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle
-- `CUB-17-A04` → `/artikel/register-aturan-standar-cubicle.html` — Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai register dari kebutuhan, bukan nama file vendor. Buat satu baris untuk setiap deliverable: gambar layout/detail, daftar material, data teknis, metode pemasangan, rencana test atau inspeksi, dan permintaan deviasi. Kolom minimum:
+
+| Kolom | Isi |
+|---|---|
+| ID dan judul | Nomor unik, disiplin, tujuan dokumen |
+| Revisi dan tanggal | Revisi dikirim, tanggal terbit, superseded record |
+| Originator | Pihak yang menyiapkan dan kontak |
+| Reviewer/approver | Peran teknis dan pemberi keputusan |
+| Due date | Batas tanggapan dan tanggal aktual |
+| Status | Submitted, under tinjauan, approved, approved with comments, revise and resubmit, rejected |
+| Comments/respons | Nomor komentar, jawaban, bukti revisi, penutup |
+| Deviasi | Requirement asal, usulan, alasan, dampak, keputusan |
+| Approval condition | Syarat yang masih terbuka |
+| Linked persetujuan lanjut | Nomor rilis produksi dan tanggal |
+
+Tambahkan fungsi ruang, lokasi, kuantitas, ukuran indikatif, interface lantai/ceiling/dinding, akses angkut, dan hasil penerimaan. Jangan mengisi ukuran atau rating dari asumsi. Rencana di kertas tidak menunjukkan plumb, level, ceiling void, struktur, movement joint, utilitas tersembunyi, sprinkler, detector, rute listrik/data, skirting, drainase, stacking space, atau kapasitas substrate. [Panduan FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf) membahas pentingnya interface dan pengikat elemen nonstruktural; kondisi aktual tetap harus disurvei. [NEEDS SITE EVIDENCE: survey, kapasitas substrate, koordinasi utilitas].
+
+[PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) menjadi rujukan status dan lingkup umum bangunan. Halaman status itu bukan kriteria universal untuk ketebalan partisi, fixing, clearance pintu, rating, atau acceptance. Register harus menyimpan persyaratan proyek yang disepakati, bukan menyimpulkan compliance dari label produk. Untuk konteks layanan dan artikel terkait, pembaca dapat kembali ke [beranda Cubicle.co.id](/).
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan *compliance matrix* untuk membandingkan konfigurasi yang sama: dimensi, grade dan finish, frame/support, pintu dan hardware, akses/logistik, proteksi, pembongkaran, testing, eksklusi, jadwal, garansi, spare, dan serah terima. Area atau lump sum yang sama belum tentu cakupan-nya sama. Satu vendor mungkin memasukkan support ceiling dan protection, sementara vendor lain menganggapnya pekerjaan pihak lain.
+
+Simpan asumsi komersial terpisah dari requirement teknis. Tandai “included”, “excluded”, “by others”, dan “to be confirmed”. Minta nomor dokumen pendukung untuk tiap baris. Jika kuantitas atau konfigurasi berubah, buat link ke change request dan pertahankan baris lama agar jejak revisi terlihat.
+
+Untuk area lembap, “moisture resistant” bukan berarti rakitan kedap air. [Panduan EPA tentang moisture control](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [GA-238](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), dan [panduan fabrikasi Compact Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23) mengarahkan perhatian pada bocor, kondensasi, kontak kapiler, penyimpanan, ventilasi, tepi, lubang fastener, substrate, sealant, korosi, dan akses pengeringan. Kategori exposure, sealant, ambang perbaikan, dan metode drying harus ditetapkan dari fakta site dan instruksi produk: [NEEDS PRODUCT/SITE EVIDENCE].
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar menunjukkan geometri dan interface yang diajukan; tidak otomatis membuktikan material yang datang. Data sheet menerangkan karakteristik produk; tidak otomatis membuktikan pemasangan di proyek. Sertifikat menunjukkan lingkup sertifikasi yang tertulis. Laporan test menunjukkan sampel, metode, dan kondisi pengujian. Method statement menjelaskan urutan kerja, bukan keberhasilan pekerjaan. Garansi adalah janji dan pengecualian penerbit, bukan pengganti inspeksi.
+
+Minta manufacturer, product code, revision, tanggal, dan hubungan ke BOQ atau gambar pada setiap file. Catat apakah bukti itu *type test*, *routine test*, inspeksi pabrik, atau rekaman site. Jangan menyalin kapasitas atau hasil yang tidak ada di sumber. Contoh spesifikasi teknis [Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true) dapat membantu menyusun daftar dokumen, tetapi kesesuaian terhadap sistem proyek tetap perlu diverifikasi.
+
+Deviasi memiliki ID sendiri. Nyatakan requirement asal, pengganti, alasan, dampak pada fungsi, finish, interface, waktu, biaya, perawatan, dan dokumen yang berubah. “Approved with comments” berarti komentar dan condition masih dilacak, bukan izin menghapus requirement.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Cubicle.co.id, minta jawaban tertulis atas pertanyaan berikut:
 
-## Red flag dan biaya yang sering tersembunyi
+1. Revisi gambar mana yang menjadi basis penawaran dan apa yang superseded?
+2. Kode produk, grade, finish, edge treatment, fastener, sealant, dan aksesori apa yang dipakai?
+3. Dokumen mana yang menunjukkan interface dengan substrate, ceiling, pintu, skirting, utilitas, dan akses pemeliharaan?
+4. Test apa yang tersedia, untuk konfigurasi apa, pada kondisi apa, dan apa batasnya?
+5. Bagaimana material disimpan, dilindungi, dan diperiksa saat tiba? Apa tindakan bila basah, rusak, atau berbeda?
+6. Apakah ada deviasi atau substitution? Siapa yang menilai dampak dan kapan keputusan tertulis terbit?
+7. Apa yang termasuk installation, protection, cleaning, testing, as-built, O&M, spare, dan training; apa yang dikecualikan?
+8. Nomor rilis produksi apa yang dirujuk setelah approval, dan siapa yang berwenang menerbitkannya?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Simpan jawaban, lampiran, tanggal, dan nama responden pada register. Ubah jawaban lisan menjadi *request for information*. Persetujuan gambar tidak boleh menutupi kolom “to be confirmed”.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai register yang hanya memiliki nama file dan status, quotation satu baris tanpa eksklusi, sertifikat tanpa product code, test report tanpa konfigurasi, atau deviasi tanpa dampak dan condition. jalan pintas “pakai gambar lama karena bentuknya sama” dapat memutus jejak perubahan interface dan memicu rework ketika site berbeda.
+
+Biaya tersembunyi mencakup waktu menunggu, akses ulang, proteksi area, penyimpanan, pembongkaran, pengujian ulang, penggantian komponen basah, dan penyusunan serah terima. Tandai setiap risiko sebagai asumsi sampai ada bukti. Untuk keputusan yang menyentuh struktur, keselamatan, kelembapan, atau kepatuhan, minta tinjauan profesional; register bukan izin membuka atau mengubah bangunan. [NEEDS PROFESSIONAL REVIEW: keputusan struktur, keselamatan, dan compliance].
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menerima submittal, reviewer mencocokkan revisi, komentar tertutup, deviasi yang diputuskan, dan approval condition. QA memeriksa bukti inspeksi atau test yang disyaratkan. Document controller memastikan file final dapat ditemukan dan superseded record tetap terbaca. Tim site mengonfirmasi bahwa rilis produksi merujuk revisi yang disetujui. Jika satu syarat terbuka, status tetap *conditional* dan bukan rilis penuh.
 
-## Objection or shortcut to address
+Arsipkan register final, transmittal, gambar as-built bila diwajibkan, data material terpasang, test/inspection record, daftar deviasi dan penutupannya, instruksi perawatan, spare, serta garansi yang dapat diverifikasi. [NEEDS PROJECT EVIDENCE: daftar serah terima kontraktual dan acceptance authority].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan menjadikan “approved” sebagai transfer design responsibility. Sobat Cubicle.co.id, keputusan akhir harus menunjuk siapa yang memeriksa apa, bukti apa yang disimpan, dan siapa yang mengeluarkan production persetujuan lanjut. Manufacturing persetujuan lanjut tetap mengikuti pemilik proses CUB-06-A01 dan CUB-14-A01.
 
-## Required conclusion
+## Kesimpulan: register adalah kendali keputusan, bukan stempel
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Register submittal cubicle yang baik mengikat gambar, material, test, deviasi, komentar, condition, dan rilis produksi pada identitas serta revisi yang sama. Langkah berikutnya: tetapkan ID tiap deliverable, isi reviewer dan due date, minta dokumen berdasarkan product code, lalu lakukan tinjauan site dan profesional untuk gate yang belum terjawab.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.co.id, sebelum status menjadi approved, pastikan komentar tertutup, deviasi diputuskan tertulis, dan nomor rilis produksi tertaut. Aturan operasinya: jika bukti atau kewenangan belum jelas, tahan rilis dan tandai [NEEDS PROJECT/PROFESSIONAL REVIEW]—jangan mengganti kekosongan dengan asumsi.

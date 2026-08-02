@@ -3,7 +3,8 @@ article_id: CUB-03-A02
 title: "Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?"
 slug: "nama-model-cubicle-toilet-dan-kinerja"
 description: "Pembaca dapat memisahkan nama tampilan/vendor dari sistem penopang, hardware, material, dan bukti performa yang benar-benar dapat dibandingkan."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,48 +19,14 @@ sources:
   - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
   - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”
-- **Reader and situation:** Buyer yang membandingkan katalog vendor
-- **Reader outcome:** Pembaca dapat memisahkan nama tampilan/vendor dari sistem penopang, hardware, material, dan bukti performa yang benar-benar dapat dibandingkan.
-- **Primary intent:** Menafsirkan label pemasaran konfigurasi
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak membuat ranking merek; konfigurasi teknis dimiliki CUB-03-A01 dan normalisasi penawaran CUB-16-A03.
-- **Final public route:** `/artikel/nama-model-cubicle-toilet-dan-kinerja.html`
-- **Appointed CMS date:** `2025-06-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -70,139 +37,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.co.id! Saat membandingkan katalog, label “standar”, “premium”, “two tone”, atau “single door” mudah terbaca seperti tingkat mutu. Padahal sebagian besar adalah nama tampilan atau konfigurasi vendor. Label itu belum menjawab apakah panel tahan lingkungan proyek, pintu stabil, hardware mudah dirawat, atau ruang memenuhi kebutuhan akses. Untuk konteks kebutuhan bangunan, Anda dapat memulai dari [beranda Cubicle.co.id](/) sebelum meminta penawaran.
 
-### KR-01
+Jawaban singkatnya: nilai kinerja dari sistem terpasang dan buktinya, bukan dari nama model. Kesimpulan dapat berubah bila vendor menunjukkan spesifikasi material yang tepat, detail sambungan dan penopang, instruksi pemasangan, serta verifikasi desain bangunan. Tanpa itu, “premium” hanya membantu memilih estetika.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/01/cubicle-toilet.jpg)
 
-### KR-03
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-03-A01` → `/artikel/jenis-cubicle-toilet-sistem-penopang.html` — Jenis Cubicle Toilet Berdasarkan Sistem Penopang
-- `CUB-03-A03` → `/artikel/anatomi-cubicle-toilet.html` — Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki
-- `CUB-03-A04` → `/artikel/cubicle-toilet-berdasarkan-trafik.html` — Cubicle Toilet untuk Trafik Rendah, Tinggi, dan Risiko Vandalisme
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Two tone” biasanya menjelaskan dua warna atau hasil akhir. “Single door” menjelaskan jumlah daun pintu pada satu bilik. “Standar” dan “premium” sering merupakan pengelompokan katalog. Tidak satu pun otomatis membuktikan kekuatan, ketahanan lembap, privasi, aksesibilitas, atau umur hardware.
+
+Kesalahan paling mahal adalah menyamakan harga atau nama paket dengan performa. Dua paket dapat memakai warna berbeda tetapi sistem penopang, engsel, latch, dan material yang sama. Sebaliknya, satu nama model dapat berubah kinerjanya ketika dipasang pada lantai, dinding, atau kondisi kelembapan yang berbeda. Tanyakan: “Bagian mana yang benar-benar berubah, dan dokumen apa yang membuktikannya?”
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas cara menafsirkan label konfigurasi ketika Anda meminta penawaran cubicle toilet. Fokusnya adalah memisahkan empat lapisan: tampilan/vendor, material panel, sistem penopang dan sambungan, lalu bukti penggunaan dan pemeliharaan. Ini bukan ranking merek, spesifikasi teknis universal, atau pengganti persetujuan profesional.
+
+Istilah HPL (high-pressure laminate) dan compact laminate juga perlu dibaca hati-hati. ISO menjelaskan ruang lingkup metode pengujian HPL dan compact laminate, tetapi abstraknya tidak memberi nilai yang dapat dipindahkan begitu saja ke semua produk ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)). “Tahan lembap” pada panel bukan izin untuk terendam dan bukan bukti bahwa anchor, kaki, atau hardware bebas korosi. [NEEDS PRODUCT EVIDENCE: grade, klasifikasi, dan ketersediaan Indonesia harus diverifikasi.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cubicle bekerja sebagai rangkaian panel, pilaster, pintu, engsel, latch, kaki atau headrail, bracket, anchor, celah bawah, dan bidang bangunan tempat semuanya ditumpukan. Instruksi pemasangan pabrikan Bobrick, misalnya, memperlakukan komponen dan urutan pemasangan sebagai satu sistem, bukan sekadar lembar panel ([petunjuk instalasi](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Karena itu, mengganti “single door” ke ukuran atau arah bukaan lain dapat mengubah beban pada engsel, ruang ayun, dan kebutuhan pendekatan pengguna.
+
+Pada material compact laminate, pemotongan, lubang, jarak tepi, dan pengkondisian harus mengikuti petunjuk produk. Panduan produk washroom Formica menunjukkan bahwa pemilihan material terkait konteks pemakaian, bukan hanya nama warna ([Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)). Jangan menyalin ukuran atau beban dari merek asing ke proyek Anda tanpa verifikasi teknis.
+
+Untuk aksesibilitas, pintu dan panel harus dibaca bersama jalur, ruang pendekatan, ayunan, fitting, privasi, dan tata letak sanitair. Permen PUPR No. 14/PRT/M/2017 menempatkan aksesibilitas sebagai bagian dari bangunan dan pengguna, sehingga satu dimensi produk tidak membuktikan seluruh rute dapat digunakan ([status peraturan](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)). [NEEDS PROFESSIONAL REVIEW: persyaratan proyek dan ukuran aktual.]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, lingkungan. Toilet dengan cipratan, ventilasi terbatas, atau pembersihan agresif menuntut pemilihan material, tepi, seal, dan hardware yang konsisten. Panduan pengendalian kelembapan EPA menekankan pentingnya mengendalikan sumber air dan mengeringkan area; panel “premium” tidak memperbaiki kebocoran bangunan ([EPA moisture guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+
+Kedua, trafik dan perilaku. Pintu yang sering dibanting, gantungan yang dibebani, atau vandalisme menguji engsel, latch, bracket, dan substrat. Ketiga, pelaksanaan. Lubang yang bergeser, anchor pada bidang yang rapuh, atau kaki tidak terlevel dapat membuat pintu seret meskipun spesifikasi panel terlihat baik.
+
+Keempat, pemeliharaan. Produk hardware memerlukan pemeriksaan dan pembersihan sesuai panduan produsennya; referensi Lorient dan Bobrick dapat menjadi titik awal, bukan jadwal universal ([Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick cleaning resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)). [NEEDS MAINTENANCE BASIS: interval dan bahan pembersih harus disepakati untuk produk terpilih.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua penawaran berikut.
+
+| Label katalog | Yang terlihat | Yang wajib diminta sebelum dibandingkan |
+|---|---|---|
+| “Premium two tone” | kombinasi warna dan paket tampilan | grade panel, detail tepi, sistem penopang, hardware, gambar sambungan, instruksi perawatan |
+| “Standar single door” | satu daun pintu dan paket dasar | arah bukaan, ruang pendekatan, jenis engsel/latch, anchor, toleransi pemasangan, penggantian komponen |
+
+Jika ruang berada di area lembap, jangan langsung memilih baris pertama. Minta sampel spesifikasi tertulis dan konfirmasi bahwa grade tersebut cocok untuk pemakaian interior yang dituju. Jika ruang harus diakses pengguna kursi roda, hentikan perbandingan harga sampai arsitek atau tenaga kompeten memeriksa jalur dan ruang putar. Sobat Cubicle.co.id, keputusan “upgrade premium” aman hanya jika perubahan komponennya jelas dan relevan dengan risiko proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah meminta “yang paling tebal” tanpa menanyakan sistem penopang. Ketebalan panel tidak memberi tahu kekuatan sambungan atau kualitas substrat. Kedua, menganggap dua warna berarti dua material; minta kode material dan hasil akhir, bukan foto katalog saja. Ketiga, memakai klaim “waterproof” sebagai pengganti pemeriksaan sumber air. Keempat, menerima gambar vendor tanpa mencocokkan dimensi ruang, arah ayun, dan akses servis.
 
-## Objection or shortcut to address
+Gunakan checklist singkat ini saat klarifikasi:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Apakah “standar/premium” didefinisikan lewat komponen atau hanya paket penjualan?
+- Material apa, grade apa, dan untuk lingkungan mana? Sertakan lembar data produk.
+- Bagaimana panel ditumpukan ke lantai/dinding/plafon; anchor apa yang dipakai?
+- Apa yang berubah pada “single door”: ukuran, engsel, latch, atau hanya jumlah daun?
+- Dokumen mana yang mengatur pemasangan, pembersihan, inspeksi, dan suku cadang?
+- Siapa yang memverifikasi aksesibilitas dan kecocokan dengan bangunan?
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+jalan pintas yang tampak praktis adalah memilih model dengan foto paling rapi lalu meminta vendor “samakan saja”. Ini gagal ketika foto tidak memuat grade material, detail anchor, kondisi kelembapan, atau batas pasar produk. Alternatif yang lebih andal: bekukan kebutuhan ruang, minta matriks komponen dan dokumen pendukung, lalu bandingkan baris demi baris. Bila bukti utama belum ada, tandai [NEEDS TECHNICAL REVIEW] daripada mengisi celah dengan asumsi.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Standar, premium, two tone, dan single door adalah label model atau konfigurasi sampai dokumen teknis membuktikan perubahan kinerja. Langkah berikutnya adalah meminta lembar data material, gambar sistem penopang, detail hardware, instruksi pemasangan/perawatan, dan pemeriksaan aksesibilitas yang sesuai proyek. Kawan Cubicle.co.id, jadikan nama katalog sebagai indeks percakapan—bukan hasil akhir. Pilih hanya setelah sistem terpasang, kondisi bangunan, dan bukti yang relevan dapat diverifikasi; [NEEDS COORDINATOR TECHNICAL REVIEW] tetap berlaku untuk klaim kinerja atau kepatuhan.

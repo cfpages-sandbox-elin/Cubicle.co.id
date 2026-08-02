@@ -2,8 +2,9 @@
 article_id: CUB-12-A02
 title: "Register Perhitungan untuk Memilih Rating Cubicle Listrik"
 slug: "register-perhitungan-rating-cubicle-listrik"
-description: "Pembaca dapat meminta load/current, short-circuit, protection coordination, voltage drop where relevant, thermal, earthing, arc-risk, and system studies dengan assumptions/versions."
-status: outline
+description: "Pembaca dapat meminta perhitungan beban dan arus, hubung singkat, koordinasi proteksi, jatuh tegangan bila relevan, termal, pembumian, risiko busur api, serta studi sistem lengkap dengan asumsi dan versinya."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-01-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,92 @@ final_route: "/artikel/register-perhitungan-rating-cubicle-listrik.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Teman Cubicle.co.id!
 
 # Register Perhitungan untuk Memilih Rating Cubicle Listrik
 
-## Assignment lock
+Rating cubicle tidak seharusnya dipilih dari arus beban saja atau dari angka yang tertulis di brosur. Register perhitungan yang layak harus memperlihatkan bagaimana data beban, arus hubung singkat, koordinasi proteksi, kondisi termal, pembumian, risiko busur api, dan studi sistem saling mengubah keputusan. Setiap lembar juga perlu mencantumkan asumsi, versi data, batas model, serta nama engineer yang memeriksa dan menyetujui.
 
-- **Writer task:** Expand this file into one complete article answering: “Register Perhitungan untuk Memilih Rating Cubicle Listrik”
-- **Reader and situation:** Reviewer spesifikasi dan owner engineer
-- **Reader outcome:** Pembaca dapat meminta load/current, short-circuit, protection coordination, voltage drop where relevant, thermal, earthing, arc-risk, and system studies dengan assumptions/versions.
-- **Primary intent:** Mengidentifikasi calculations yang harus tersedia
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menyediakan angka desain atau calculator final; perhitungan dan sign-off milik engineer kompeten.
-- **Final public route:** `/artikel/register-perhitungan-rating-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-01-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, permintaan awal kepada vendor atau engineer bukan “berapa rating cubicle ini?”, melainkan “tunjukkan perhitungan apa yang mendasari setiap rating, dengan input dan revisinya”. Angka desain, pemilihan perangkat, dan sign-off tetap milik engineer kompeten berdasarkan data proyek. [NEEDS ENGINEERING BASIS: standar dan data sistem proyek belum disediakan untuk menetapkan angka rating atau kriteria lulus.]
 
-## Opening instructions
+![Ilustrasi cubicle listrik](/wp-content/uploads/2023/01/cubicle-listrik.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Register Perhitungan untuk Memilih Rating Cubicle Listrik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
+## Jawaban singkat dan salah paham utama
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Register minimal berisi identitas studi, tujuan, input yang dipakai, asumsi, metode atau perangkat lunak, hasil, revisi, pemeriksa, dan keputusan yang dipengaruhi hasil itu. Dengan format tersebut, reviewer dapat menelusuri apakah rating arus kontinu, ketahanan hubung singkat, isolasi, dan perlindungan memang menjawab kondisi operasi yang sama.
+
+Salah paham yang sering terjadi adalah menganggap satu tabel arus nominal sudah cukup. Arus aktual dapat berubah karena profil beban, faktor kebutuhan, motor, harmonik, temperatur, ventilasi, konfigurasi busbar, dan skenario sumber. Hubung singkat dan waktu pemutusan juga memengaruhi tekanan termal serta elektrodinamik. Tanpa model dan asumsi yang dapat diaudit, angka pada nameplate belum menjadi dasar penerimaan.
+
+## Definisi dan batas objek
+
+Dalam artikel ini, “register perhitungan” berarti daftar terkendali atas studi yang diperlukan untuk memilih dan memverifikasi rating cubicle. Register bukan kalkulator final, sertifikat uji, gambar kerja, atau pengganti tinjauan desain. Ia juga bukan tempat untuk menyalin hasil dari proyek lain.
+
+Sebagai konteks dokumentasi, [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) menjadi kerangka nasional penyelenggaraan bangunan gedung; rujukan itu tidak, dengan sendirinya, menetapkan angka rating cubicle untuk proyek Anda.
+
+Objeknya adalah assembly dan antarmukanya: sumber, transformator atau generator bila ada, kabel, busbar, feeder, beban, proteksi, sistem pembumian, ruang pemasangan, serta skenario operasi. Batas tersebut penting karena perubahan satu antarmuka dapat mengubah input studi lain. [NEEDS PROJECT DATA: diagram satu garis, level tegangan, konfigurasi sumber, daftar beban, lokasi pemasangan, dan persyaratan pemilik belum tersedia.]
+
+## Cara kerjanya
+
+Mulailah dengan membekukan basis data. Simpan nomor dokumen, tanggal, status revisi, sumber setiap nilai, dan siapa yang menyetujui input. Setelah itu, buat matriks yang menghubungkan studi dengan keputusan rating dan dokumen keluar. Contoh struktur yang dapat diminta:
+
+| Studi dalam register | Pertanyaan yang dijawab | Input dan keluaran yang harus terlihat |
+|---|---|---|
+| Load dan current | Berapa arus tiap feeder dan kondisi operasi yang dimodelkan? | Daftar beban, skenario, asumsi faktor, arus per feeder, dan versi single-line |
+| Short-circuit | Seberapa besar arus gangguan pada titik cubicle dan skenario sumber apa yang dipakai? | Data sumber, impedansi, titik gangguan, waktu, hasil per skenario, serta batas penerapan |
+| Protection coordination | Apakah perangkat proteksi bekerja berurutan untuk gangguan yang dimodelkan? | Kurva atau tabel koordinasi, setelan, toleransi, dan keputusan selektivitas |
+| Voltage drop (bila relevan) | Apakah tegangan di beban masih sesuai kriteria proyek pada kondisi yang ditentukan? | Panjang dan jenis penghantar, arus, faktor daya, skenario operasi, dan kriteria yang disetujui |
+| Thermal | Apakah kenaikan temperatur dan pelepasan panas dihitung untuk susunan aktual? | Arus simultan, rugi-rugi, ventilasi, temperatur sekitar, enclosure, serta hasil dan batas model |
+| Earthing | Bagaimana arus gangguan mengalir dan bagaimana kontinuitas pembumian diverifikasi? | Skema pembumian, impedansi, konduktor, titik ikat, serta metode pemeriksaan |
+| Arc-risk | Skenario apa yang dipakai untuk menilai bahaya busur dan pengendaliannya? | Batas studi, energi atau parameter yang dihitung, waktu pemutusan, label, dan tindakan mitigasi |
+| System studies | Apakah studi tambahan diperlukan karena karakter jaringan atau operasi? | Harmonik, starting motor, transient, generator, perubahan konfigurasi, dan alasan inklusi/eksklusi |
+
+Setiap baris harus berujung pada keputusan: rating diteruskan, konfigurasi diubah, data diminta ulang, atau pekerjaan dihentikan untuk tinjauan. Simpan file sumber dan hasil yang dapat dibuka ulang; PDF hasil ekspor saja sering tidak cukup untuk menelusuri perubahan.
+
+## Faktor yang mengubah hasil
+
+Hasil load/current bergantung pada daftar beban dan cara skenario dirangkai. Short-circuit berubah ketika impedansi sumber, jumlah transformator paralel, mode tie, atau kontribusi motor berubah. Koordinasi proteksi tidak dapat dipisahkan dari perangkat yang benar-benar akan dipasang dan setelan yang diizinkan.
+
+Kawan Cubicle.co.id, jangan lupakan kondisi fisik. Temperatur sekitar, ketinggian, ventilasi, susunan kompartemen, dan kedekatan cubicle dapat mengubah evaluasi termal. Jalur konduktor, titik bonding, dan karakteristik elektroda memengaruhi studi earthing. Ruang kerja, akses, dan prosedur operasi memengaruhi pengendalian risiko busur. Semua faktor ini harus muncul sebagai input atau batasan, bukan catatan lisan.
+
+Versi adalah faktor tersendiri. Bila satu feeder ditambahkan, rating proteksi diganti, atau mode operasi berubah, tandai studi yang terdampak dan naikkan revisinya. Jangan mencampur hasil short-circuit dari single-line lama dengan koordinasi proteksi dari konfigurasi baru. [NEEDS PROJECT REVIEW: dampak perubahan konfigurasi dan kriteria penerimaan harus ditetapkan oleh engineer penanggung jawab.]
+
+## Contoh keputusan praktis
+
+Bayangkan reviewer menerima penawaran dengan arus nominal cubicle, tetapi tanpa register. Permintaan tindak lanjut dapat dibuat berurutan:
+
+1. Minta single-line dan daftar beban yang menjadi basis load/current, lengkap dengan skenario normal, cadangan, dan kondisi khusus bila memang ada.
+2. Minta studi short-circuit pada titik cubicle, sumber data, asumsi impedansi, serta skenario operasi yang dicakup.
+3. Cocokkan perangkat proteksi dan setelannya dengan hasil koordinasi; tandai setiap area yang masih menunggu data pabrikan.
+4. Tanyakan apakah voltage drop, thermal, earthing, arc-risk, atau studi sistem lain relevan untuk instalasi tersebut. Jika dikecualikan, minta alasan tertulis dan persetujuan engineer.
+5. Pastikan hasil mengacu pada revisi gambar dan spesifikasi yang sama, lalu minta lembar tinjauan dan daftar deviasi.
+
+Jika data sumber belum pasti, keputusan yang benar bukan mengisi angka perkiraan. Tandai baris sebagai “menunggu data”, jelaskan konsekuensinya terhadap pemilihan rating, dan tahan sign-off sampai basisnya disahkan. Teman Cubicle.co.id, register yang jujur memang dapat terlihat belum lengkap; justru itu membuat risiko terlihat sebelum menjadi pembelian atau instalasi.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah menganggap arus nominal sama dengan kapasitas untuk semua kondisi. Periksa skenario, duty, dan derating yang tertulis. Kedua, menyalin nilai short-circuit dari panel lain. Periksa titik gangguan, sumber, impedansi, dan tanggal model. Ketiga, menganggap koordinasi selesai karena merek proteksi sama. Periksa tipe, kurva, setelan, toleransi, dan mode operasi.
+
+Kesalahan berikutnya adalah menghapus studi yang “belum tentu relevan” tanpa catatan. Gunakan kolom status: diperlukan, tidak diperlukan dengan alasan, menunggu input, atau selesai ditinjau. Periksa bahwa thermal dan earthing merujuk pada susunan fisik aktual, bukan konfigurasi generik. Untuk arc-risk, pastikan batas studi, tindakan mitigasi, dan pihak yang menyetujui tercatat.
+
+Terakhir, jangan menerima register tanpa jejak revisi. Cocokkan nomor revisi single-line, daftar beban, model proteksi, dan hasil PDF atau file asli. Bila satu dokumen berbeda versi, minta konsolidasi sebelum membandingkan penawaran.
+
+## Jalan pintas yang perlu diuji
+
+jalan pintas yang menarik adalah memilih rating tertinggi yang tersedia agar semua ketidakpastian dianggap aman. Cara ini tidak membuktikan kecocokan: studi termal, hubung singkat, proteksi, dimensi, dan antarmuka tetap harus sesuai konfigurasi aktual. Rating lebih besar juga tidak otomatis menyelesaikan koordinasi atau risiko operasi.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta register dengan status dan asumsi yang terbuka, lalu meminta engineer menandatangani keputusan untuk setiap baris. Jika data penting belum ada, nyatakan [NEEDS INPUT] dan hentikan keputusan yang bergantung padanya. Tidak ada angka universal yang dapat menggantikan basis proyek.
+
+## Kesimpulan
+
+Untuk memilih rating cubicle listrik, minta register yang sekurang-kurangnya mencakup load/current, short-circuit, protection coordination, voltage drop bila relevan, thermal, earthing, arc-risk, dan system studies. Pastikan tiap studi memiliki input, asumsi, versi, keluaran, batas, serta pemeriksa yang jelas.
+
+Langkah berikutnya: kirim single-line, daftar beban, data sumber, kondisi pemasangan, dan kriteria proyek kepada engineer kompeten; gunakan [beranda Cubicle.co.id](/) hanya sebagai konteks umum, lalu minta register direvisi sampai setiap keputusan rating dapat ditelusuri. Sobat Cubicle.co.id, jadikan aturan operasi: tidak ada sign-off atau pemesanan berdasarkan nameplate saja, dan setiap kekosongan data tetap terlihat sebagai pekerjaan tinjauan—bukan diisi dengan tebakan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -68,139 +112,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-12-A01` → `/artikel/data-spesifikasi-cubicle-listrik.html` — Data yang Wajib Ada dalam Spesifikasi Cubicle Listrik
-- `CUB-12-A03` → `/artikel/memilih-ip-ik-cubicle-listrik.html` — Memilih IP, IK, dan Ketahanan Lingkungan Cubicle Listrik
-- `CUB-12-A04` → `/artikel/internal-separation-service-continuity.html` — Internal Separation dan Service Continuity pada Electrical Assembly
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Register Perhitungan untuk Memilih Rating Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Register Perhitungan untuk Memilih Rating Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Register Perhitungan untuk Memilih Rating Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Register Perhitungan untuk Memilih Rating Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Register Perhitungan untuk Memilih Rating Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Register Perhitungan untuk Memilih Rating Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

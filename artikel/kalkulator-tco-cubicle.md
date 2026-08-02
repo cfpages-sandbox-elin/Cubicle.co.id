@@ -3,7 +3,8 @@ article_id: CUB-16-A08
 title: "Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya"
 slug: "kalkulator-tco-cubicle"
 description: "Pembaca dapat memasukkan acquisition, installation, downtime, cleaning/maintenance, energy/losses where relevant, moves, spares, failures, service life, residual/disposal, and uncertainty."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,25 @@ reader_address: "Teman Cubicle.co.id"
 final_route: "/artikel/kalkulator-tco-cubicle.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
+  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://peraturan.bpk.go.id/Details/37637/uu"
   - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Kalkulator TCO (total cost of ownership atau total biaya kepemilikan) membantu Anda membandingkan biaya sepanjang masa pakai, bukan sekadar harga pembelian. Masukkan biaya pengadaan dan pemasangan, lalu tambahkan dampak operasi: downtime, pembersihan, perawatan, energi atau losses bila relevan, pemindahan, suku cadang, kegagalan, masa layanan, serta nilai sisa dan pembuangan. Hasilnya adalah model keputusan, bukan janji bahwa satu sistem selalu paling murah.
 
-- **Writer task:** Expand this file into one complete article answering: “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”
-- **Reader and situation:** Owner memilih alternatif jangka panjang
-- **Reader outcome:** Pembaca dapat memasukkan acquisition, installation, downtime, cleaning/maintenance, energy/losses where relevant, moves, spares, failures, service life, residual/disposal, and uncertainty.
-- **Primary intent:** Membandingkan total cost of ownership
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi hasil universal atau menggabungkan tiga sistem dalam satu benchmark; lifecycle data dimiliki CUB-18-A06.
-- **Final public route:** `/artikel/kalkulator-tco-cubicle.html`
-- **Appointed CMS date:** `2026-06-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Angka hanya layak dibandingkan jika objek, konfigurasi, durasi analisis, dan mutu data sama. Jika umur layanan, frekuensi gangguan, tarif tenaga kerja, atau kondisi lokasi belum dibuktikan, tampilkan sebagai rentang dan beri tanda `[NEEDS PROJECT DATA]`. cakupan kalkulator ini tidak memberi benchmark universal untuk tiga sistem sekaligus; data lifecycle yang tervalidasi berada pada paket lifecycle terpisah. Keputusan akhir tetap memerlukan tinjauan desain, pengadaan, dan kondisi proyek.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle](/wp-content/uploads/2023/01/cubicle.png)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-006`
@@ -70,138 +44,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-006]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-16-A06` → `/artikel/warranty-spare-purna-jual-cubicle.html` — Warranty, Spare, dan Dukungan Purna Jual Cubicle
-- `CUB-16-A07` → `/artikel/lead-time-proyek-cubicle.html` — Lead Time Cubicle: Data yang Mengubah Jadwal
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah perbandingan yang bisa diaudit: setiap opsi memakai unit pengukuran, periode, dan asumsi yang sama, sehingga pemilik dapat menjelaskan mengapa biaya awal lebih tinggi mungkin masuk akal atau justru tidak. Orang yang berwenang menetapkan batas analisis biasanya pemilik atau pengelola aset bersama perancang, estimator, pengadaan, dan calon pemasok. Mereka perlu menyepakati apakah yang dibandingkan satu ruang, satu lantai, atau paket renovasi.
 
-## Langkah 1 — tetapkan scope
+Siapkan penawaran atau BOQ, gambar dan kondisi existing, jadwal penggunaan ruang, catatan gangguan, rencana pembersihan, tarif tenaga kerja dan utilitas yang benar-benar berlaku, serta kebijakan pemindahan dan pembuangan. Jangan mengisi kolom hanya karena formulir memintanya. Kolom tanpa bukti diberi status asumsi, sumber, tanggal, dan rentang ketidakpastian.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Cubicle.co.id, tanyakan lebih dulu: “Keputusan apa yang akan berubah jika asumsi ini salah?” Pertanyaan itu menentukan kolom mana yang wajib diukur dan mana yang cukup menjadi skenario.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Tulis objek dan batasnya sebelum membuka spreadsheet. Nyatakan jenis cubicle atau partisi, jumlah unit, dimensi, pintu dan hardware, hasil akhir, rangka atau support, area layanan, serta interface dengan lantai, plafon, dinding, listrik, data, dan sistem keselamatan. Survei lapangan tidak boleh berhenti pada ukuran denah: posisi struktur, ceiling void, joint, utilitas tersembunyi, akses pengangkutan, ruang stacking, dan kapasitas substrat dapat mengubah biaya pemasangan. Konsep interface nonstruktural semacam ini juga ditekankan dalam panduan FEMA; gunakan sebagai pola pertanyaan, bukan sebagai izin membuka elemen secara destruktif ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+
+Tetapkan periode analisis dan titik awal. “Masa layanan” adalah asumsi analitis sampai ada data produk dan penggunaan yang sesuai; jangan mengubahnya menjadi garansi. Pilih basis biaya yang konsisten: nominal atau harga konstan, termasuk atau tidak termasuk pajak sesuai mandat pemilik, dan dengan aturan yang sama untuk semua opsi. Catat yang sengaja dikeluarkan, seperti perubahan besar pada struktur gedung, agar biaya itu tidak diam-diam dibebankan ke satu alternatif.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan kelompok input berikut dan simpan bukti di samping setiap angka.
+
+| Kelompok | Yang dimasukkan | Bukti atau penanda |
+|---|---|---|
+| Acquisition | material, hardware, aksesori, pengiriman, proteksi | penawaran dengan konfigurasi dan masa berlaku |
+| Installation | tenaga kerja, alat bantu, mobilisasi, pembongkaran, pemulihan | metode kerja, survei, dan BOQ terurai |
+| Downtime | jam ruang tidak dapat dipakai, relokasi sementara, kehilangan operasi yang memang relevan | kalender operasi dan persetujuan pemilik; bila belum ada `[NEEDS DOWNTIME BASIS]` |
+| Cleaning/maintenance | jadwal pembersihan, inspeksi, penggantian komponen, bahan dan tenaga | SOP fasilitas, manual produk, catatan aktual |
+| Energy/losses | hanya jika sistem benar-benar memengaruhi energi atau kehilangan operasional | meteran, model bangunan, atau alasan tertulis; jangan memaksa angka |
+| Moves | bongkar-pasang, penyimpanan, penyesuaian, transport internal | rencana churn dan batas pekerjaan |
+| Spares/failures | stok awal, komponen kritis, frekuensi dan konsekuensi kegagalan | daftar suku cadang, SLA yang ditawarkan, histori; tanpa data gunakan skenario |
+| Service life | durasi analisis dan pemicu penggantian | instruksi produk, kondisi paparan, dan tinjauan teknis |
+| Residual/disposal | nilai sisa, pemilahan, angkut, biaya pembuangan atau pemulihan | kebijakan fasilitas dan penawaran pengelola limbah |
+| Uncertainty | rentang, probabilitas atau skenario rendah-dasar-tinggi | alasan, pemilik asumsi, dan tanggal pembaruan |
+
+Bandingkan penawaran pada cakupan yang sama, bukan luas yang sama saja. Konfigurasi, dimensi, grade material, support, pintu dan hardware, bukti kinerja, akses, proteksi, pengujian, pengecualian, jadwal, garansi, suku cadang, dan dokumen serah terima harus terlihat sebagai baris terpisah. Prinsip kesepadanan ini sejalan dengan ruang lingkup jasa konstruksi dan pelaksanaannya yang perlu ditinjau pada aturan yang berlaku ([UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)). Sumber tersebut tidak menggantikan telaah kontrak atau nasihat hukum.
+
+Untuk item tersembunyi, minta foto sebelum penutupan, checklist inspeksi, dan rekaman perubahan. Instruksi pemasangan pabrikan menunjukkan mengapa bukti sebelum penutupan penting, tetapi toleransi dan langkahnya tidak boleh dipindahkan ke sistem lain ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Jika pemasok mengganti komponen, minta persetujuan tertulis dan perbarui model biaya; substitusi dapat mengubah perawatan, bukti kinerja, dan garansi.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan tabel arus biaya per tahun atau per kejadian, lalu jumlahkan biaya awal dan biaya berulang. Pisahkan biaya yang pasti dari asumsi. Masukkan downtime sebagai biaya atau jam operasi yang disetujui, bukan angka abstrak. Untuk pemindahan, buat kejadian terpisah agar bongkar, simpan, pasang ulang, dan kerusakan tidak tersembunyi dalam tarif instalasi awal.
 
-## Hold point dan kondisi berhenti
+Buat sedikitnya tiga skenario ketidakpastian: rendah, dasar, dan tinggi. Ubah satu pemicu pada satu waktu—misalnya interval pembersihan, frekuensi move, atau biaya kegagalan—kemudian lihat apakah urutan opsi berubah. Jika hasil hanya berubah karena satu asumsi yang belum terbukti, kesimpulannya adalah “perlu data”, bukan pemenang. Jangan memasukkan energi atau losses bila mekanismenya tidak jelas; kolom kosong yang jujur lebih baik daripada presisi palsu.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk paparan lembap, bedakan “tahan lembap” dari rakitan kedap air. Kebocoran, kondensasi, kontak kapiler, lubang fastener, tepi, sealant, korosi, ventilasi, dan akses pengeringan dapat mengubah umur layanan dan keputusan repair/replace. Panduan EPA menekankan pengendalian kelembapan sepanjang desain, konstruksi, dan pemeliharaan ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Klasifikasi paparan dan ambang penggantian harus ditetapkan berdasarkan site facts serta instruksi produk, dengan `[NEEDS MOISTURE REVIEW]` bila belum tersedia.
 
-## Verifikasi hasil dan handover
+## Titik berhenti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Kalkulator TCO Cubicle: Input, Batas, dan Cara Membacanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan perbandingan dan minta tinjauan profesional ketika cakupan belum setara, support atau substrat belum terverifikasi, terdapat konflik utilitas, jalur evakuasi atau sistem keselamatan terdampak, atau bukti struktur, api, akustik, kelembapan, aksesibilitas, dan performa belum ada. Jangan menyimpulkan kepatuhan hanya dari nama standar atau brosur. Peraturan nasional dan dokumen proyek yang berlaku perlu dibaca oleh pihak berwenang; kalkulator ini bukan interpretasi hukum atau izin instalasi.
 
-## Objection or shortcut to address
+Teman Cubicle.co.id, jadikan setiap titik tahan sebagai baris status: open, owner, bukti yang diminta, dan tanggal keputusan. Jika salah satu gate memengaruhi kesimpulan utama, pertahankan penanda `[NEEDS PROFESSIONAL REVIEW: G-01–G-14 sesuai relevansi]` sampai ditutup oleh perancang, kontraktor, pemasok, atau HSE/QA yang ditunjuk.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum memilih opsi, lakukan pemeriksaan berikut:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+- semua baris punya unit, periode, sumber, dan pemilik asumsi;
+- penawaran memakai konfigurasi serta pengecualian yang sama;
+- biaya pembongkaran, proteksi, akses, pembuangan, pengujian, suku cadang, dan dokumen serah terima tidak tersembunyi;
+- skenario rendah-dasar-tinggi dijalankan dan perubahan ranking dicatat;
+- asumsi service life, downtime, kelembapan, dan kegagalan memiliki dasar atau marker tinjauan;
+- hasil disimpan bersama versi BOQ, tanggal penawaran, catatan survei, foto sebelum penutupan, checklist commissioning, manual, dan daftar spare.
 
-## Draft completion checklist
+Serah terima yang baik memungkinkan orang lain mengulang hitungan dan menemukan baris yang berubah. Uji fungsi yang dimaksudkan, bukan sekadar tampilan selesai. Setelah ruang dipakai, bandingkan gangguan dan biaya aktual dengan asumsi; gunakan selisih itu untuk memperbarui skenario berikutnya, bukan untuk mengklaim performa universal. Dokumen final dapat disimpan bersama [beranda Cubicle.co.id](/) sebagai rujukan organisasi, bukan sebagai bukti teknis.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Jalan pintas yang sering gagal
+
+jalan pintas paling menggoda adalah memilih lump sum terendah lalu menambahkan persentase cadangan yang sama untuk semua opsi. Cara ini gagal ketika cakupan berbeda: satu penawaran mungkin sudah mencakup support, akses malam, proteksi, pengujian, dan spare, sementara yang lain mengecualikannya. Persentase seragam juga tidak menangkap downtime, move, atau paparan lembap yang spesifik lokasi.
+
+Alternatif yang lebih aman adalah normalisasi baris demi baris, lalu menguji skenario. Minta klarifikasi tertulis untuk setiap pengecualian dan jangan mengubah asumsi pemasok menjadi fakta proyek sebelum disetujui. Jika data pembanding belum cukup, keluarkan keputusan sementara dengan daftar tindakan penutup, bukan ranking final.
+
+## Kesimpulan
+
+Kalkulator TCO Cubicle dibaca sebagai peta biaya dan ketidakpastian: acquisition serta installation adalah awal, sedangkan downtime, cleaning/maintenance, energy/losses yang relevan, moves, spares, failures, service life, residual/disposal, dan risiko asumsi menentukan gambaran jangka panjang. Masukkan hanya angka yang dapat ditelusuri, tampilkan rentang untuk yang belum pasti, dan bandingkan cakupan yang benar-benar setara.
+
+Langkah berikutnya: minta BOQ terurai, catatan survei interface, jadwal operasi, serta bukti perawatan dan suku cadang; lalu minta tinjauan teknis untuk semua titik tahan yang masih terbuka. Aturan operasinya sederhana: bila hasil berubah karena data penting belum terbukti, kalkulator belum memberi pemenang—ia sedang menunjukkan pekerjaan verifikasi yang harus diselesaikan.

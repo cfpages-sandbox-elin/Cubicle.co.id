@@ -3,7 +3,8 @@ article_id: CUB-15-A07
 title: "Spare Part dan Obsolescence Register Cubicle Listrik"
 slug: "spare-part-obsolescence-cubicle-listrik"
 description: "Pembaca dapat mencatat model/serial, firmware/software, interchangeable limits, shelf life, preservation, failure criticality, vendor support, last-buy, and contingency."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,11 @@ reader_address: "Sobat Cubicle.co.id"
 final_route: "/artikel/spare-part-obsolescence-cubicle-listrik.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Spare Part dan Obsolescence Register Cubicle Listrik
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Spare Part dan Obsolescence Register Cubicle Listrik”
-- **Reader and situation:** Asset manager dengan installed base
-- **Reader outcome:** Pembaca dapat mencatat model/serial, firmware/software, interchangeable limits, shelf life, preservation, failure criticality, vendor support, last-buy, and contingency.
-- **Primary intent:** Mengelola supportability
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Sobat Cubicle.co.id`
-- **Natural variants:** `Kawan Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak mengklaim substitusi part aman tanpa OEM/engineer verification; procurement evidence dimiliki CUB-16-A06.
-- **Final public route:** `/artikel/spare-part-obsolescence-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-05-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Spare Part dan Obsolescence Register Cubicle Listrik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -70,139 +30,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Cubicle.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Spare part register bukan daftar belanja yang baru dibuka ketika cubicle listrik gagal. Ia adalah catatan identitas, kecocokan, kondisi penyimpanan, dan pilihan pemulihan untuk setiap komponen yang terpasang. Obsolescence register menambahkan pertanyaan waktu: kapan vendor berhenti mendukung, kapan firmware tidak lagi dipelihara, dan kapan keputusan last-buy atau penggantian harus dibuat.
 
-### KR-01
+Jawaban singkatnya: bangun satu register yang mengikat aset terpasang dengan bukti OEM dan keputusan risiko. Jangan menyatakan part pengganti aman hanya karena bentuk atau nomor katalog tampak sama. Batas interchangeable, rating, firmware, konfigurasi proteksi, dan persetujuan engineer harus diverifikasi untuk proyek ini. **[NEEDS OEM/ENGINEER VERIFICATION: kompatibilitas dan substitusi setiap part]**
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle listrik 1](/wp-content/uploads/2023/01/cubicle-listrik-1.jpg)
 
-### KR-03
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-15-A05` → `/artikel/korosi-kondensasi-debu-tracking-cubicle-listrik.html` — Korosi, Kondensasi, Debu, dan Tracking pada Cubicle Listrik
-- `CUB-15-A06` → `/artikel/retrofit-refurbish-atau-ganti-cubicle-listrik.html` — Retrofit, Refurbish, atau Ganti Cubicle Listrik?
-- `CUB-15-A08` → `/artikel/closeout-temuan-maintenance-cubicle-listrik.html` — Menutup Temuan Maintenance Cubicle Listrik dengan Bukti
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Spare Part dan Obsolescence Register Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Spare Part dan Obsolescence Register Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Spare-part register menjawab “apa yang harus tersedia agar fungsi dapat dipulihkan?” Untuk cubicle listrik, objeknya dapat mencakup pemutus, relay proteksi, meter, modul komunikasi, kipas, heater, power supply, interlock, fuse, terminal, konektor, dan perangkat lunak konfigurasi—tetapi hanya jika benar-benar ada pada instalasi yang dicatat. Satu baris harus menunjuk ke satu part number dan satu posisi atau fungsi yang jelas.
+
+Obsolescence register menjawab “apa yang akan membuat dukungan berhenti?” Tandai status produk, revisi perangkat keras, versi firmware/software, tanggal notifikasi end-of-sale atau end-of-support bila tersedia, serta pengganti resmi. Catatan ini tidak menetapkan kewajiban vendor atau umur pakai universal. Kontrak, manual OEM, dan kondisi proyek tetap menjadi sumber keputusan. **[NEEDS OEM/CONTRACT EVIDENCE: status dukungan dan tanggal last-buy]**
+
+Di luar cakupan register ini adalah persetujuan pengadaan dan keputusan modifikasi instalasi. Bukti procurement berada di proses terpisah; register hanya menyediakan data teknis dan konsekuensi risiko agar permintaan tersebut dapat diperiksa.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Spare Part dan Obsolescence Register Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari as-built, nameplate, foto identitas, daftar I/O, dan backup konfigurasi. Buat kunci aset yang tidak berubah-ubah: lokasi cubicle, feeder atau fungsi, manufacturer, model, serial number, part number, hardware revision, firmware/software version, dan tanggal verifikasi. Jika sebuah nilai belum terbaca, tulis “belum diverifikasi”, bukan menebak dari seri yang mirip.
+
+Tambahkan kolom interchangeable limits. Bedakan “pengganti resmi dengan prosedur OEM” dari “serupa secara fisik”. Catat syarat seperti revisi panel, soket, protokol komunikasi, CT/VT interface, setting proteksi, dimensi, dan kebutuhan commissioning. Selama bukti belum lengkap, statusnya *hold* dan tidak boleh dipasang sebagai substitusi.
+
+Untuk stok, pisahkan shelf life dari preservation. Shelf life adalah batas yang ditentukan produsen untuk komponen tertentu; preservation adalah tindakan menjaga kondisi selama disimpan—kemasan, kelembapan, suhu, baterai, konektor, dan pemeriksaan berkala. Isi tanggal masuk, kondisi kemasan, lokasi, pemilik, dan bukti inspeksi. Nilai interval dan kondisi numerik harus berasal dari OEM atau prosedur site. **[NEEDS OEM/PROJECT PROCEDURE: shelf life, interval, dan batas lingkungan]**
+
+Terakhir, beri failure criticality dan contingency. Criticality bukan label “mahal”, melainkan dampak kehilangan fungsi, waktu pemulihan, alternatif operasi yang disetujui, dan kebutuhan personel berwenang. Hubungkan setiap item kritis dengan rencana: stok lokal, repair exchange, vendor escalation, konfigurasi cadangan, atau strategi penggantian yang telah direkayasa.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Spare Part dan Obsolescence Register Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Installed base yang terlihat seragam sering menyimpan revisi berbeda. Dua relay dengan nama model sama dapat memiliki firmware, konektor, atau setting yang berbeda. Karena itu, model tanpa serial dan revision tidak cukup untuk menjamin kecocokan.
+
+Lingkungan juga mengubah risiko. Debu, kondensasi, panas, getaran, korosi, dan siklus operasi dapat mempercepat kegagalan atau merusak stok sebelum dipakai. Prinsip pengendalian kelembapan bangunan dapat dipakai sebagai rujukan umum untuk mencari sumber air dan mencegah kerusakan berulang, tetapi bukan standar khusus panel listrik ([panduan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Catat kondisi aktual dan gejala, tetapi jangan mengubah gejala menjadi diagnosis tanpa pemeriksaan. Bila ada jejak air, panas berlebih, atau bau terbakar, hentikan asumsi “cukup ganti modul” dan minta penilaian teknis.
+
+Ketergantungan software sering luput. Simpan file setting, checksum atau versi, lisensi, kabel/adapter, dan instruksi pemulihan sesuai aturan keamanan setempat. Backup tidak sama dengan bukti bahwa firmware baru kompatibel; perubahan versi memerlukan tinjauan dan uji yang ditetapkan OEM/proyek. **[NEEDS ENGINEER/COMMISSIONING EVIDENCE: dampak perubahan firmware atau setting]**
+
+Kawan Cubicle.co.id, pisahkan fakta dari keputusan. “Vendor masih menjual” adalah fakta bertanggal; “kita aman menunda pembelian” adalah keputusan risiko yang harus memiliki pemilik, tanggal tinjau, dan pemicu eskalasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Spare Part dan Obsolescence Register Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel sederhana berikut sebagai titik mulai, bukan sebagai persetujuan otomatis.
+
+| Temuan register | Keputusan sementara | Bukti yang harus diminta |
+|---|---|---|
+| Part number, serial, revisi, dan firmware lengkap; dukungan aktif | Simpan stok sesuai criticality dan lead time yang disetujui | Datasheet/manual OEM dan catatan vendor bertanggal |
+| Model sama, tetapi revisi atau konektor berbeda | Karantina sebagai kandidat; jangan pasang silang | Pernyataan interchangeability OEM dan tinjauan engineer |
+| Vendor mengumumkan last-buy | Hitung kebutuhan installed base, stok, repair, dan rencana transisi | Notifikasi resmi, forecast kebutuhan, dan rencana teknis |
+| Shelf life terlewati atau kemasan rusak | Tahan penggunaan dan lakukan inspeksi yang ditentukan OEM | Prosedur preservation, hasil inspeksi, keputusan teknis |
+| Tidak ada backup firmware/setting | Perlakukan sebagai risiko pemulihan tinggi | Salinan resmi, lisensi, alat pemrograman, dan uji pemulihan |
+
+Contoh ini sengaja tidak memberi angka stok atau umur simpan. Angka tersebut bergantung pada failure history, waktu kirim, redundansi, operasi, dan kontrak. **[NEEDS SITE DATA: criticality, lead time, failure history, dan target pemulihan]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Spare Part dan Obsolescence Register Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyalin daftar BOM lama tanpa mencocokkannya dengan serial yang terpasang. Pemeriksaan silang harus menunjukkan siapa yang memverifikasi, kapan, dari dokumen apa, dan apa yang berbeda.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menyamakan “pin-to-pin” dengan interchangeable. Tanyakan: apakah rating, setting, firmware, protokol, isolasi, interlock, dan metode pengujian tetap berlaku? Jika satu jawaban belum terbukti, status tetap *hold*.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menyimpan part tanpa preservation log. Tempelkan identitas stok, segel, tanggal inspeksi, kondisi, dan tindakan berikutnya. Jangan menghapus riwayat hanya karena kemasan tampak baik.
 
-## Required conclusion
+Kesalahan keempat adalah menganggap obsolescence selesai setelah membeli last-buy. Register harus memuat rencana setelah stok habis: repair, redesign, retrofit, atau penggantian sistem. Opsi tersebut memerlukan studi dan persetujuan tersendiri.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Periksa register pada setiap perubahan cubicle, shutdown, penggantian modul, pembaruan firmware, dan pemberitahuan vendor. Teman Cubicle.co.id, tetapkan pemilik data dan tanggal tinjauan; register tanpa pemilik cepat berubah menjadi arsip yang tidak dapat dipakai saat gangguan.
 
-## Draft completion checklist
+## Jalan pintas yang perlu ditolak
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang paling menggoda adalah membeli part dengan label “compatible” dari pemasok lalu memasangnya untuk mengejar waktu. Risiko utamanya bukan hanya part gagal menyala, tetapi setting proteksi, komunikasi, interlock, atau dokumentasi konfigurasi berubah tanpa jejak. Alternatif yang lebih aman adalah mengunci identitas part, meminta bukti OEM, menilai dampak engineering, dan mencatat keputusan *use*, *hold*, atau *reject* sebelum pemasangan.
+
+## Penutup
+
+Spare-part dan obsolescence register yang baik menghubungkan identitas aset, status dukungan, kondisi stok, criticality, dan rencana kontingensi. Langkah berikutnya adalah mengambil satu sampel cubicle, melengkapi kolom model/serial–firmware–revision, lalu minta OEM atau engineer mengesahkan batas interchangeable dan strategi last-buy. Untuk dokumentasi umum situs, Anda dapat kembali ke [beranda Cubicle.co.id](/). Jangan mengubah baris register menjadi izin substitusi; izin itu tetap menunggu bukti teknis dan persetujuan proyek.

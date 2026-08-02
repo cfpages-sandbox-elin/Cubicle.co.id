@@ -3,7 +3,8 @@ article_id: CUB-06-A01
 title: "Dari Shop Drawing ke Cut List Cubicle Toilet"
 slug: "shop-drawing-ke-cut-list-cubicle-toilet"
 description: "Pembaca dapat menelusuri site dimensions, panel IDs, grain/color, edge, holes, hardware, tolerances, and revisions ke cut list."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,12 @@ final_route: "/artikel/shop-drawing-ke-cut-list-cubicle-toilet.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Dari Shop Drawing ke Cut List Cubicle Toilet
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Dari Shop Drawing ke Cut List Cubicle Toilet”
-- **Reader and situation:** Drafter, fabricator, QS, dan inspector
-- **Reader outcome:** Pembaca dapat menelusuri site dimensions, panel IDs, grain/color, edge, holes, hardware, tolerances, and revisions ke cut list.
-- **Primary intent:** Mengendalikan data fabrikasi
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menentukan layout awal; itu dimiliki CUB-05-A02, dan tidak mengklaim kemampuan workshop tertentu.
-- **Final public route:** `/artikel/shop-drawing-ke-cut-list-cubicle-toilet.html`
-- **Appointed CMS date:** `2025-08-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dari Shop Drawing ke Cut List Cubicle Toilet**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -69,138 +32,85 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Dari Shop Drawing ke Cut List Cubicle Toilet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Cubicle.co.id! Cut list cubicle toilet bukan salinan ukuran dari shop drawing. Ia adalah daftar instruksi fabrikasi yang hanya boleh terbit setelah ukuran lapangan, identitas setiap panel, detail tepi dan lubang, hardware, toleransi, serta revisi dikunci dan dapat ditelusuri. Jika satu ukuran berubah tetapi nomor panel atau revisinya tidak ikut berubah, workshop dapat membuat komponen yang “benar” menurut gambar lama namun salah untuk ruang yang sedang dibangun.
 
-### KR-01
+Urutan amannya adalah **ukur dan catat kondisi aktual → bekukan basis gambar → beri ID komponen → turunkan parameter ke cut list → lakukan pemeriksaan silang → rilis revisi yang dapat dilacak**. Yang dapat mengubah hasil adalah sistem yang dipilih, titik tumpu bangunan, material dan arah motifnya, kondisi kelembapan, serta persetujuan profesional proyek. Dokumen ini mengendalikan data fabrikasi; bukan menentukan layout awal atau membuktikan kemampuan workshop tertentu.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle](/wp-content/uploads/2023/01/cubicle.jpg)
 
-### KR-02
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-06-A02` → `/artikel/sambungan-cubicle-toilet-ke-bangunan.html` — Detail Sambungan Cubicle Toilet ke Lantai, Dinding, dan Plafon
-- `CUB-06-A03` → `/artikel/toleransi-pemasangan-cubicle-toilet.html` — Toleransi Pemasangan Cubicle Toilet: Level, Plumb, Gap, dan Alignment
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dari Shop Drawing ke Cut List Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shop drawing menjelaskan bagaimana sistem ditempatkan dan berhubungan dengan bangunan. Cut list menerjemahkan keputusan itu menjadi baris-baris yang bisa dipotong, dibor, diberi label, dan diperiksa. Jadi, jangan menyalin angka dari tampak elevasi secara manual. Setiap baris cut list harus menunjuk kembali ke panel ID, view atau detail sumber, dan nomor revisi.
+
+Salah paham paling mahal adalah menganggap luas panel sama dengan lingkup pekerjaan. Sistem cubicle terdiri dari panel, pilaster, pintu, latch, engsel, kaki, headrail, bracket, anchor, celah, dan support bangunan. Konfigurasinya memengaruhi urutan pemasangan dan jalur beban; petunjuk instalasi pabrikan juga memisahkan komponen serta langkah pemeriksaannya ([contoh instruksi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Karena itu QS dan inspector perlu memeriksa kelengkapan sistem, bukan hanya total meter persegi.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dari Shop Drawing ke Cut List Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Site dimensions** adalah ukuran aktual yang dicatat di lokasi: panjang bidang, tinggi bersih, posisi dinding atau kolom, elevasi lantai, dan kondisi yang mengganggu pemasangan. **Panel ID** adalah identitas unik, misalnya `D-03` untuk pintu atau `P-07` untuk panel, yang konsisten pada gambar, daftar potong, label fisik, dan berita perubahan. **Cut list** memuat setidaknya ID, jumlah, panjang, lebar, tebal atau grade yang disetujui, orientasi grain/color, kode edge, detail lubang, hardware, toleransi rujukan, dan revisi.
+
+Batasnya penting: artikel ini tidak memilih layout awal, menentukan dimensi universal, menetapkan rating, atau menyatakan suatu produk otomatis memenuhi aturan. Kerangka bangunan nasional menempatkan keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan sebagai hal yang perlu dikendalikan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Angka akhir harus berasal dari gambar disetujui, data produk yang relevan, dan tinjauan tim proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dari Shop Drawing ke Cut List Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan **lembar kontrol ukuran**. Catat tanggal, area, alat atau metode pengukuran, referensi grid, kondisi lantai dan dinding, serta nama pengukur. Tandai ukuran yang belum dapat diverifikasi sebagai `TBC`, bukan perkiraan. Foto atau sketsa referensi boleh membantu koordinasi, tetapi tidak menggantikan dimensi terukur.
+
+Berikutnya, kunci **basis geometrinya**. Pastikan denah, elevasi, detail sambungan, ceiling atau headrail, arah bukaan pintu, dan koordinat support memakai revisi yang sama. Jika ada konflik, tahan rilis cut list dan minta keputusan tertulis dari pihak yang berwenang.
+
+Lalu bangun **matriks panel**. Satu baris untuk satu komponen fabrikasi, dengan kolom seperti berikut:
+
+| Kolom | Pertanyaan pemeriksaan |
+|---|---|
+| Panel ID dan lokasi | Dapatkah installer menemukan komponen ini tanpa menebak? |
+| Ukuran jadi dan kuantitas | Diukur dari kondisi mana dan memakai satuan apa? |
+| Material, grade, grain/color | Apakah spesifikasi dan arah motif disetujui? |
+| Edge dan face | Sisi mana yang di-edge, terlihat, atau menghadap area basah? |
+| Holes dan hardware | Posisi lubang merujuk detail, template, atau hardware tertentu? |
+| Toleransi dan revisi | Batasnya berasal dari dokumen mana dan apakah versi terkini? |
+
+Jangan mengisi toleransi dari kebiasaan workshop. Material compact laminate dapat berubah dimensi karena kelembapan, sementara lubang, jarak tepi, fixing, ventilasi, dan conditioning perlu mengikuti data material serta sistem yang dipilih ([panduan fabrikasi Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Ini alasan cut list harus menyimpan sumber setiap parameter.
+
+Setelah matriks selesai, lakukan **dua pemeriksaan silang**. Pemeriksaan desain membandingkan ID dan ukuran dengan shop drawing. Pemeriksaan fabrikasi menelusuri apakah edge, lubang, alat bantu, dan urutan kerja dapat dikerjakan tanpa mengubah maksud desain. Orang yang memeriksa sebaiknya bukan satu-satunya orang yang mengetik daftar. Rilis memakai nomor revisi, tanggal, status, dan daftar perubahan; salinan lama ditarik dari area kerja.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dari Shop Drawing ke Cut List Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, **antarmuka bangunan**. Lantai yang belum level, dinding tidak tegak, atau support yang berpindah mengubah ukuran lapangan dan detail pemasangan. Catat kondisi itu sebagai asumsi atau pekerjaan pendahuluan; jangan menyembunyikannya di kolom catatan.
+
+Kedua, **sistem dan material**. Panel dengan arah motif tertentu memiliki sisi referensi berbeda dari panel polos. Pilihan edge, face, dan hasil akhir memengaruhi orientasi pemotongan. Instruksi satu merek tidak boleh dipindahkan ke sistem lain tanpa konfirmasi; panduan produk hanya membuktikan apa yang dinyatakan untuk produk tersebut ([bukti material compact-grade Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/)).
+
+Ketiga, **fungsi hardware**. Lubang latch, engsel, bracket, kaki, atau aksesori harus terhubung dengan model dan template yang benar. Perubahan hardware setelah panel dipotong dapat memaksa rework atau meninggalkan lubang yang tidak terpakai. Kawan Cubicle.co.id, perlakukan setiap perubahan hardware sebagai perubahan data, bukan catatan informal di grup pesan.
+
+Keempat, **lingkungan dan bukti**. Area basah, ventilasi, perlindungan tepi, dan akses pembersihan perlu ditunjukkan pada detail serta ITP proyek. Jika komponen tertutup setelah pemasangan, bukti inspeksi sebelum penutupan menjadi penting; jangan mengklaim kinerja hanya dari tampilan akhir. Sobat Cubicle.co.id dapat meminta daftar titik inspeksi ini sebelum material ditutup.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dari Shop Drawing ke Cut List Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan hasil ukur menunjukkan panjang bidang berbeda dari gambar, tetapi posisi support belum dipastikan. Cut list tidak boleh langsung memakai angka baru. Tandai ukuran sebagai `TBC`, terbitkan pertanyaan teknis yang menyebut panel terdampak, lalu tunggu keputusan apakah layout, support, atau ukuran panel yang berubah. Setelah keputusan disetujui, naikkan revisi dan perbarui label.
+
+Contoh lain: warna panel sama, tetapi arah grain pada pintu dan pilaster harus konsisten. Baris cut list perlu menyebut face reference dan arah grain, bukan hanya nama warna. Jika pemasok mengusulkan grade berbeda, QS membandingkan konfigurasi, material, framing, hardware, akses, testing, garansi, spares, dan serah terima—bukan luas atau lump sum saja. Kesetaraan komersial memerlukan lingkup yang sama; detail kontrak dan hukum tetap memerlukan tinjauan proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dari Shop Drawing ke Cut List Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Menyalin ukuran gambar lama. Cari nomor revisi di setiap baris dan cocokkan dengan stamp gambar.
+- Menggabungkan beberapa panel dalam satu ID. Pastikan label fisik, packing list, dan cut list memiliki identitas satu-ke-satu.
+- Mengabaikan sisi edge dan arah muka. Minta sketsa orientasi untuk setiap bentuk yang tidak simetris.
+- Menulis “sesuai standar” tanpa rujukan. Ganti dengan sumber, detail, atau marker `[NEEDS PROJECT TOLERANCE REVIEW]`.
+- Menganggap lubang bisa dibor di lokasi. Konfirmasi template, jarak tepi, dan urutan hardware sebelum rilis.
+- Membiarkan revisi lewat percakapan lisan. Simpan instruksi perubahan pada register revisi dan tarik file usang.
 
-## Objection or shortcut to address
+Sebelum fabrikasi, inspector dapat memilih beberapa ID secara acak lalu menelusuri rantai **gambar → matriks → label → pemeriksaan material**. Jika satu tautan putus, tahan komponen terkait, bukan seluruh pekerjaan secara otomatis, sampai pemilik keputusan menyelesaikan konflik.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu diuji
 
-## Required conclusion
+jalan pintas yang sering dipilih adalah meminta workshop “mulai potong dulu” sambil menunggu ukuran atau hardware final. Cara ini tampak menghemat waktu, tetapi memindahkan ketidakpastian menjadi scrap, lubang salah, dan sengketa perubahan. Alternatif yang lebih aman adalah memisahkan daftar: komponen yang statusnya `IFC/approved` boleh dirilis, sedangkan komponen `TBC` atau terkena RFI tetap ditahan. Persetujuan siapa yang boleh merilis harus tertulis di prosedur proyek.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya
 
-## Draft completion checklist
+Jadi, dari shop drawing ke cut list cubicle toilet berarti membangun jejak data yang utuh: ukuran aktual, panel ID, material dan arah motif, edge, lubang, hardware, toleransi, serta revisi. Langkah berikutnya adalah ambil satu area, isi matriks panel, lampirkan sumber setiap angka, lalu minta pemeriksaan silang drafter–fabricator–inspector sebelum rilis. Untuk konteks situs dan layanan umum, Anda dapat kembali ke [beranda Cubicle.co.id](/) sebagai titik navigasi. Teman Cubicle.co.id, jadikan register revisi sebagai dokumen yang dibawa ke rapat, bukan arsip pasif.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: **tidak ada ID dan revisi yang jelas, tidak ada pemotongan**. Bila kondisi lapangan, sistem produk, atau toleransi belum disetujui, pasang marker tinjauan dan libatkan profesional proyek; artikel ini tidak menggantikan persetujuan teknis.

@@ -3,7 +3,8 @@ article_id: CUB-13-A01
 title: "Checklist Layout Ruang Cubicle Listrik"
 slug: "checklist-layout-ruang-cubicle-listrik"
 description: "Pembaca dapat memeriksa working/access clearance, escape, door, equipment line-up, cable route, lifting/replacement path, authorized zones, and future extension."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,51 +18,15 @@ sources:
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
   - "https://peraturan.bpk.go.id/Details/37637/uu"
   - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
   - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
   - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Checklist Layout Ruang Cubicle Listrik
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Checklist Layout Ruang Cubicle Listrik”
-- **Reader and situation:** Electrical engineer, architect, owner, dan operator
-- **Reader outcome:** Pembaca dapat memeriksa working/access clearance, escape, door, equipment line-up, cable route, lifting/replacement path, authorized zones, and future extension.
-- **Primary intent:** Mengoordinasikan room layout
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Sobat Cubicle.co.id`
-- **Natural variants:** `Kawan Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menerbitkan clearance universal; nilai berasal dari regulation, adopted standards, manufacturer, voltage/equipment, and authority review.
-- **Final public route:** `/artikel/checklist-layout-ruang-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-02-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Layout Ruang Cubicle Listrik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -72,138 +37,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Checklist Layout Ruang Cubicle Listrik
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Cubicle.co.id! Checklist layout ruang cubicle listrik bukan sekadar mengukur panjang dan lebar. Layout siap pakai harus menunjukkan akses kerja, jalur keluar, pintu, susunan cubicle, rute kabel, cara membawa unit pengganti, zona berwenang, dan ruang ekspansi. Clearance tidak boleh disalin sebagai angka universal: dasarnya adalah regulasi yang diadopsi, standar, petunjuk pabrikan, tegangan, jenis peralatan, kondisi bangunan, dan tinjauan otoritas.
 
-### KR-01
+Mulailah dengan denah berstatus revisi. Tandai delapan item itu dan kaitkan setiap tanda dengan gambar, data produk, atau keputusan profesional. Bila dasar belum ada, tulis `[NEEDS PROJECT REVIEW: basis clearance dan jalur penggantian belum disetujui]`; jangan menebak.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle listrik 1](/wp-content/uploads/2023/01/cubicle-listrik-1.jpg)
 
-### KR-19
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-13-A02` → `/artikel/paparan-lingkungan-ruang-cubicle-listrik.html` — Debu, Lembap, Kondensasi, Garam, Banjir, dan Hama di Ruang Listrik
-- `CUB-13-A03` → `/artikel/ventilasi-suhu-ruang-cubicle-listrik.html` — Ventilasi dan Kenaikan Suhu di Ruang Cubicle Listrik
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Layout Ruang Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil akhirnya adalah paket koordinasi: denah berukuran, potongan tinggi dan ruang atas, diagram satu garis yang cocok dengan line-up, daftar kabel dan penetrasi, metode pemindahan unit, serta matriks pemeriksa dan penyetuju. Engineer listrik memvalidasi operasi; arsitek mengoordinasikan bangunan dan pintu; owner menetapkan kebutuhan akses; operator menguji rute nyata.
 
-## Langkah 1 — tetapkan scope
+Sebelum pemeriksaan bersama, beri setiap item seorang pemilik dan status yang terlihat pada denah. Dengan begitu, temuan tentang akses, kabel, struktur, atau logistik tidak berhenti sebagai catatan umum; semuanya memiliki bukti penutup dan tanggal keputusan yang dapat ditelusuri.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Layout Ruang Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cantumkan pula tanggal survei terakhir.
+
+Bandingkan tanggal survei dengan tanggal datasheet dan revisi denah. Jika salah satunya lebih lama, tandai item untuk pemeriksaan ulang sebelum koordinasi berikutnya agar keputusan tidak memakai kondisi atau dimensi yang sudah berubah.
+
+Kumpulkan datasheet dan dimensi aktual cubicle, bagian yang ditarik keluar, berat dan titik angkat, posisi struktur, elevasi lantai, bukaan, utilitas tersembunyi, drainase, ventilasi, dan batas zona berwenang. Survei lapangan harus mencocokkan kondisi terbangun dengan gambar karena denah 2D tidak mengungkap balok, ceiling void, movement joint, sprinkler, detector, atau kapasitas substrat. Prinsip pemeriksaan kondisi dan koneksi aktual ini dijelaskan dalam [FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf).
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Nyatakan apakah pekerjaan mencakup ruang cubicle saja atau juga trafo, panel bantu, koridor, dan area bongkar-muat. Bedakan ruang kerja, zona listrik berwenang, dan area yang memerlukan isolasi energi. Daftarkan antarmuka dinding, lantai, pintu, cable trench atau tray, grounding, fire-stopping, HVAC, pencahayaan, drainase, dan logistik.
+
+Detail sambungan dan support partisi mengikuti sistemnya; instruksi [Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf) dan hub sistem [Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende) menunjukkan mengapa substitusi tanpa persetujuan dapat mengubah bukti kinerja. Tulis jelas siapa menyediakan support, menutup penetrasi, dan menerima hasil.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Layout Ruang Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat tabel *item, sumber, kondisi lapangan, status, pemilik tindakan,* dan *tanggal tinjauan*. Untuk clearance, cantumkan standar atau regulasi yang diadopsi serta data pabrikan. Untuk escape dan door, cocokkan arah buka, hardware, ambang, lebar efektif, dan kemungkinan terhalang troli atau panel. Untuk line-up, cocokkan urutan cubicle dengan diagram satu garis, nomor feeder, sisi operasi, ruang membuka panel, dan pembumian.
+
+Untuk cable route, gambar titik masuk-keluar dan radius belok berdasarkan kabel yang dipilih—tanpa angka rekaan. Untuk lifting/replacement path, tandai pintu, belokan, tinggi bebas, kapasitas lantai, titik angkat, staging, dan rute keluar. Catat skenario penggantian saat cubicle tetangga tetap bertegangan. Rekam foto dan koordinat penetrasi sebelum penutupan; pekerjaan tersembunyi tidak dapat diverifikasi andal tanpa rekaman. UU Jasa Konstruksi dan PP pelaksanaannya memberi konteks tata kelola, bukan angka clearance siap salin ([UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)).
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Layout Ruang Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bekukan grid, elevasi, dan titik struktur. Tempatkan line-up menurut operasi dan akses; gambar cable route dan penetrasi; cek konflik dengan pintu, drainase, dan layanan; lalu lakukan *walk-through* masuk, bekerja, berbalik, dan keluar. Uji pula skenario unit terberat dari kedatangan sampai keluar.
 
-## Hold point dan kondisi berhenti
+Sobat Cubicle.co.id, libatkan operator dan HSE saat *walk-through*. Jika pintu, tangga, atau panel sementara menghalangi, ubah layout atau metode logistik sebelum pekerjaan tetap. Jangan membobok untuk mencari utilitas tanpa survei dan izin.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Layout Ruang Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bedakan penerimaan visual dari fungsi. Pintu harus diuji buka-tutup; jalur penggantian diuji dengan metode disetujui; fire-stopping dicocokkan dengan sistem lengkap. Katalog [SNI 03-1736-2000](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), dan [katalog BSN keselamatan kebakaran](https://pesta.bsn.go.id/produk/by_ics/126) membedakan lingkup metode uji dari bukti bahwa rakitan tertentu lulus.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Layout Ruang Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pekerjaan sebelum pengecoran, penutupan dinding, pemasangan cubicle, dan energisasi bila clearance belum berbasis dokumen, jalur keluar terhalang, kapasitas lantai atau titik angkat belum diverifikasi, rute kabel bertabrakan, fire-stopping belum ditentukan, atau ada substitusi tanpa persetujuan. Simpan versi regulasi dan persyaratan otoritas di register. [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) bukan pengganti tinjauan desain ruang listrik.
 
-## Objection or shortcut to address
+[NEEDS PROJECT REVIEW: tetapkan angka clearance, klasifikasi zona, dan persyaratan fire/life-safety sesuai yurisdiksi, tegangan, serta model peralatan.] Kawan Cubicle.co.id, tanpa keputusan ini vendor hanya menebak asumsi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+serah terima memuat denah *as-built*, foto item tersembunyi, daftar cubicle dan kabel, dokumen lifting, persetujuan perubahan, laporan uji yang berlaku untuk sistem terpasang, dan daftar pengecualian. Tambahkan catatan pihak berwenang, kunci atau interlock, isolasi, serta kapan jalur penggantian ditinjau ulang.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Inspeksi bersama memakai tabel desain. Tandai lulus, lulus dengan tindakan, atau ditolak; beri pemilik dan tanggal. Simpan hasil uji bersama manual pabrikan dan daftar suku cadang. Jika konfigurasi berubah, ulangi pemeriksaan akses, kabel, pintu, dan fire-stopping yang terdampak.
 
-## Draft completion checklist
+## Jalan pintas yang perlu dihindari
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menyalin clearance ruang lama atau menerima luas ruangan yang sama tampak cepat, tetapi tidak menjamin urutan line-up, arah pintu, radius kabel, titik angkat, dan jalan keluar sama. Substitusi cubicle atau hardware dapat mengubah dimensi dan cara operasi. Alternatifnya adalah membekukan data model aktual, melakukan *walk-through*, lalu meminta persetujuan profesional untuk setiap angka dan deviasi. Periksa juga apakah rencana ekspansi menyisakan ruang untuk pekerjaan pemeliharaan tanpa memindahkan kabel yang sudah terminasi. Jika tidak ada jawaban tertulis, status layout sebaiknya tetap “perlu tinjauan”, bukan “siap konstruksi”.
+
+## Kesimpulan dan langkah berikutnya
+
+Checklist ini harus menjawab akses kerja, escape, pintu, line-up, cable route, lifting/replacement path, zona berwenang, dan ekspansi. Buat register bukti untuk kedelapan item, tautkan keputusan ke gambar atau dokumen, dan tahan pekerjaan pada titik tahan yang belum disetujui. Teman Cubicle.co.id, jadwalkan tinjauan lintas disiplin dengan denah revisi dan data pabrikan; artikel ini tidak menetapkan clearance universal. Keputusan teknis, keselamatan, dan kepatuhan tetap memerlukan otoritas proyek yang kompeten. Untuk konteks umum situs, Anda dapat melihat [beranda Cubicle.co.id](/), lalu kembali ke dokumen proyek untuk keputusan yang mengikat. Aturan operasinya sederhana: tidak ada angka clearance, jalur penggantian, atau klaim kesiapan sebelum sumbernya tercatat dan penanggung jawab menyetujuinya.

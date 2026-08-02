@@ -3,7 +3,8 @@ article_id: CUB-01-A06
 title: "FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem"
 slug: "faq-pemilih-cubicle"
 description: "Pembaca mendapat jawaban ringkas tentang fungsi, material, ukuran, pemasangan, keselamatan, dan pemilik keputusan."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,7 +16,6 @@ final_route: "/artikel/faq-pemilih-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://www.iso.org/standard/72959.html"
   - "https://www.iso.org/standard/72961.html"
   - "https://www.iso.org/standard/72962.html"
@@ -27,37 +27,13 @@ sources:
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem
 
-## Assignment lock
+Halo, Kawan Cubicle.co.id! Jawaban singkatnya: pilih cubicle berdasarkan fungsi ruang, jenis sistem, kondisi bangunan, dan bukti produk—bukan karena satu foto, istilah dagang, atau ketebalan yang terdengar meyakinkan. Cubicle bisa berarti panel kompak, partisi berlapis, dinding rangka, atau susunan kaca-aluminium; benda-benda itu tidak otomatis memiliki perilaku yang sama.
 
-- **Writer task:** Expand this file into one complete article answering: “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”
-- **Reader and situation:** Pembaca dengan pertanyaan dasar yang belum layak menjadi artikel tunggal
-- **Reader outcome:** Pembaca mendapat jawaban ringkas tentang fungsi, material, ukuran, pemasangan, keselamatan, dan pemilik keputusan.
-- **Primary intent:** Mendapat jawaban singkat dan jalur lanjut
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menduplikasi panduan mendalam; setiap jawaban menunjuk pemilik seperti CUB-04-A01, CUB-08-A02, atau CUB-12-A01.
-- **Final public route:** `/artikel/faq-pemilih-cubicle.html`
-- **Appointed CMS date:** `2025-05-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutannya sederhana. Tetapkan kebutuhan ruang dan batas perubahan bangunan, minta konfigurasi tertulis dari pemasok, lalu cocokkan panel, rangka, sambungan, pintu, dan penahannya dengan kondisi lapangan. Peraturan bangunan nasional menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dan pemeliharaan sebagai bagian dari penyelenggaraan bangunan, sehingga label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Jika ada beban khusus, bukaan besar, kaca, atau pekerjaan pada bangunan yang sudah digunakan, keputusan akhir perlu ditinjau tenaga profesional yang berwenang.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -68,138 +44,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-05
-
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
-
-### KR-07
-
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)
-- **Purpose for this article:** Keep glass/aluminium partition selection tied to safety-glass identity, support, edge condition, human impact, doors, and installed context.
-- **Safe grounded facts:** Tempered and laminated products answer different breakage and retention questions. Product conformity does not determine project thickness, panel size, holes/cut-outs, edge support, fittings, guard/fall function, manifestation, door hardware, or frame/anchor adequacy.
-- **Limits:** Full SNI text, project design, and current supplier evidence are required before exact criteria or a compliance statement. Resolve `G-01`, `G-03`, and `G-13`.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-01-A04` → `/artikel/anatomi-visual-tiga-sistem-cubicle.html` — Anatomi Visual Tiga Sistem Cubicle
-- `CUB-01-A05` → `/artikel/evolusi-istilah-cubicle.html` — Mengapa Satu Kata Cubicle Menjadi Tiga Sistem Berbeda
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan “cubicle apa yang paling bagus?” belum cukup untuk memilih. Pertanyaan yang lebih berguna adalah: ruang ini untuk apa, siapa yang memakainya, berapa lama harus dapat diubah, dan apa yang menahan sistem pada bangunan? Cubicle untuk membagi pandangan dan cubicle yang harus menahan pintu, rak, atau kaca memiliki kebutuhan berbeda.
+
+Salah paham paling berisiko adalah menyamakan material dengan sistem. HPL (high-pressure laminate) dapat berupa lembar dekoratif yang direkatkan ke inti; compact laminate adalah panel mandiri; papan gipsum bekerja sebagai bagian dari sistem rangka; kaca pengaman menjawab persoalan pecah dan retensi, bukan otomatis kecukupan rangka. Ringkasan seri [ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-3](https://www.iso.org/standard/72961.html), dan [ISO 4586-4](https://www.iso.org/standard/72962.html) membedakan objek-objek laminasi tersebut. Jadi, minta nama sistem lengkap, bukan hanya nama permukaan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam FAQ ini, “cubicle” berarti susunan pembatas ruang beserta panel, rangka atau profil, sambungan, pintu, dan penahan yang diperlukan agar berfungsi di lokasi. Pembahasan tidak menetapkan ukuran universal, rating api, nilai akustik, jarak angkur, atau klaim garansi. Angka-angka itu bergantung pada sistem yang dipilih, kondisi tumpuan, penggunaan, dan dokumen proyek.
+
+Partisi kering juga bukan satu produk tunggal. Ikhtisar [sistem drywall Knauf](https://knauf.com/en-EG/systems/drywall-systems) menunjukkan bahwa papan, rangka, lapisan, dan detail sambungan dibaca sebagai konfigurasi. Konfigurasi pabrikan harus dicocokkan dengan barang yang benar-benar tersedia di Indonesia; nama merek tidak membuat setiap susunan menjadi setara.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keputusan dimulai dari beban dan antarmuka. Panel meneruskan gaya ke sambungan; sambungan ke rangka atau profil; lalu rangka dan angkur ke lantai, dinding, atau struktur pendukung. Pintu menambah bukaan, engsel, dan siklus gerak. Jalur kabel, plafon, lis, serta pertemuan dengan dinding eksisting menambah titik yang harus dirinci.
+
+Karena itu, plafon grid tidak otomatis menjadi tumpuan struktural. Panduan FEMA tentang kerusakan elemen nonstruktural menjelaskan bahwa gerak bangunan dan detail penahan memengaruhi dinding, bukaan, serta perlengkapan yang terpasang ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Panduan itu bukan kode Indonesia, tetapi berguna untuk mengajukan pertanyaan yang tepat: ke mana gaya pergi, bagaimana gerak diakomodasi, dan apa yang terjadi pada sambungan saat bangunan bergerak?
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Cubicle.co.id, setidaknya periksa lima kelompok kondisi berikut sebelum meminta harga:
+
+1. **Fungsi dan pengguna.** Toilet, ruang kerja, ruang servis, dan area publik menuntut privasi, kebersihan, akses, dan ketahanan yang berbeda. Pintu, kunci, dan arah bukaan dapat mengubah tata letak.
+2. **Geometri.** Tinggi penuh, panel parsial, sudut, bentang panjang, bukaan pintu, dan sambungan ke kolom tidak dapat diperlakukan sebagai detail yang sama.
+3. **Lingkungan.** Kelembapan, cipratan, bahan pembersih, lalu lintas orang, serta kebutuhan bongkar-pasang memengaruhi pilihan inti, tepi, dan hardware.
+4. **Bangunan pendukung.** Tanyakan jenis lantai, dinding, plafon, lokasi utilitas, dan apakah pengeboran diizinkan. Jangan menganggap substrat mampu menahan beban tanpa pemeriksaan.
+5. **Bukti.** Minta lembar data, gambar konfigurasi, instruksi pemasangan, identitas kaca, dan batas penggunaan. Catatan BSN untuk [SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022) membantu membedakan kaca laminasi dan kaca tempered; catatan itu tidak menentukan ukuran panel, lubang, atau kecukupan angkur proyek Anda.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan spesifikasi final.
+
+| Situasi awal | Pertanyaan pemilih | Bukti sebelum memesan |
+|---|---|---|
+| Perlu pembatas visual yang mudah diubah | Apakah panel akan dipindah berkala? | Gambar modul, sambungan, dan urutan bongkar-pasang |
+| Area lembap atau sering dibersihkan | Bagian mana yang terkena air dan bahan kimia? | Spesifikasi tepi, inti, sealant, dan instruksi perawatan |
+| Ada pintu berat, rak, atau aksesori | Ke mana beban aksesori diteruskan? | Detail penguat, profil, dan kapasitas yang disetujui perancang |
+| Memakai kaca dekat jalur orang | Bagaimana pecah, retensi, tepi, dan pintunya ditangani? | Identitas kaca pengaman, detail tumpuan, dan pemeriksaan profesional |
+| Bangunan berada di wilayah dengan tuntutan gerak | Bagaimana sambungan mengakomodasi gerak dan drift? | Detail angkur/bracing serta peninjauan terhadap struktur pendukung |
+
+Untuk pembebanan dan gempa, katalog [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) dan [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019) hanya menjadi titik rujuk identitas standar; catatan katalog tidak memberi Anda ukuran stud atau jarak angkur. Jangan mengubah tabel ini menjadi angka desain tanpa data proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “FAQ Pemilih Cubicle: Pertanyaan Awal Sebelum Masuk ke Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah memilih dari render lalu menganggap detail tersembunyi akan mengikuti. Minta potongan atau gambar yang menunjukkan kepala, kaki, sudut, pertemuan plafon, dan bukaan pintu. Kedua, membandingkan harga per meter tanpa menyamakan panel, rangka, hardware, pengiriman, pemasangan, dan pekerjaan penguatan. Ketiga, menerima kata “safety glass” tanpa menanyakan apakah produknya laminated atau tempered, bagaimana tepinya ditopang, dan apa yang terjadi bila pecah.
 
-## Objection or shortcut to address
+Kesalahan keempat ialah menganggap semua dinding dapat dipasang dengan cara yang sama. Foto dan pengukuran awal perlu dilengkapi identifikasi substrat serta lokasi utilitas. Kesalahan kelima ialah menyebut “sesuai standar” tanpa menyatakan standar mana, konfigurasi apa, dan bukti pihak mana. Kawan Cubicle.co.id, ubah klaim itu menjadi permintaan dokumen: nomor produk, revisi gambar, batas penggunaan, dan siapa yang menyetujui detail lapangan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu ditolak
 
-## Required conclusion
+jalan pintas yang sering menggoda adalah memesan panel berdasarkan ketebalan saja. Ketebalan mungkin relevan untuk kekakuan atau tampilan, tetapi tidak menjawab jenis inti, cara panel ditahan, tinggi dinding, beban pintu, ketahanan tepi, ataupun kualitas substrat. Dua panel dengan angka ketebalan sama dapat bekerja berbeda ketika rangka, bentang, dan angkurnya berbeda.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah membuat lembar keputusan satu halaman: fungsi ruang, dimensi terukur, kondisi tumpuan, lingkungan, bukaan dan aksesori, sistem yang ditawarkan, serta daftar bukti yang belum ada. Bila keputusan menyentuh keselamatan, perubahan struktur, kaca di jalur manusia, atau tuntutan kinerja, hentikan pemesanan sampai perancang atau pemeriksa yang kompeten menilai detailnya.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, FAQ pemilih cubicle bukan daftar “produk terbaik”, melainkan cara menyaring pertanyaan sebelum masuk ke sistem. Mulailah dari fungsi dan kondisi bangunan; bedakan panel dari sistem; lalu minta konfigurasi dan bukti yang dapat diperiksa. Anda dapat memakai [beranda Cubicle.co.id](/) sebagai titik kembali untuk menata kebutuhan, tetapi halaman ini tidak menggantikan gambar kerja, persetujuan proyek, atau pemeriksaan profesional.
+
+Sebelum mengeluarkan pesanan, pastikan setiap jawaban penting memiliki pemilik: pemasok untuk identitas dan instruksi produk, pelaksana untuk metode pemasangan, pengelola bangunan untuk batas perubahan, dan tenaga profesional untuk keputusan keselamatan atau struktur. Jika salah satu bukti itu belum tersedia, tandai **[NEEDS PROJECT/PROFESSIONAL REVIEW]** dan jangan mengisinya dengan asumsi.

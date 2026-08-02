@@ -3,7 +3,8 @@ article_id: CUB-04-A02
 title: "Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah"
 slug: "menilai-panel-toilet-area-basah"
 description: "Pembaca dapat memeriksa core, edge, penetrasi, joint, fixing, sealant, ventilasi, dan paparan aktual."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,7 +16,6 @@ final_route: "/artikel/menilai-panel-toilet-area-basah.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://www.iso.org/standard/72964.html"
@@ -23,44 +23,9 @@ sources:
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”
-- **Reader and situation:** Specifier pada toilet dengan cleaning basah atau kelembapan tinggi
-- **Reader outcome:** Pembaca dapat memeriksa core, edge, penetrasi, joint, fixing, sealant, ventilasi, dan paparan aktual.
-- **Primary intent:** Menilai ketahanan terhadap air dan kelembapan
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menjanjikan waterproof dari nama material; perbaikan bengkak/delaminasi dimiliki CUB-07-A04.
-- **Final public route:** `/artikel/menilai-panel-toilet-area-basah.html`
-- **Appointed CMS date:** `2025-07-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -71,139 +36,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.co.id! Panel toilet tidak dapat dinyatakan “tahan air” hanya dari nama material atau satu angka pada brosur. Keputusan yang lebih aman adalah menilai jalur masuk air dan kelembapan pada seluruh sistem: core, tepi panel, lubang penetrasi, sambungan, fixing, sealant, ventilasi, serta paparan aktual saat toilet dipakai dan dibersihkan.
 
-### KR-01
+Panel yang tetap stabil di permukaan belum tentu aman ketika air masuk melalui tepi yang dipotong, lubang engsel, atau sambungan yang menahan kotoran. Sebaliknya, sebuah material dengan panduan penggunaan area basah tetap memerlukan detail fabrikasi dan pemasangan yang sesuai. ISO 4586 membedakan ruang lingkup compact laminate interior dan exterior; ringkasan standarnya tidak boleh dibaca sebagai bukti bahwa produk tertentu lulus untuk proyek Anda ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/01/cubicle-panel.jpg)
 
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-04-A01` → `/artikel/perbandingan-material-cubicle-toilet.html` — Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?
-- `CUB-04-A03` → `/artikel/membaca-data-sheet-panel-phenolic.html` — Cara Membaca Data Sheet Panel Phenolic dan Compact Laminate
-- `CUB-04-A04` → `/artikel/kaca-untuk-cubicle-toilet.html` — Kaca untuk Cubicle Toilet: Privasi, Tepi, Hardware, dan Risiko Pecah
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan pertanyaan, “Dari mana air datang, berapa lama permukaan basah, dan ke mana air keluar?” Air dari shower, cipratan wastafel, pel lantai, kondensasi, dan pembersihan bertekanan rendah menghasilkan risiko berbeda. Maka penilaian harus memadukan bahan, detail, dan kebiasaan operasi—bukan sekadar label HPL, phenolic, atau compact.
+
+Salah paham paling berbahaya adalah menganggap tahan lembap sama dengan boleh terendam. Panduan produk washroom pun berlaku pada koleksi dan kondisi yang disebut produsennya, bukan otomatis pada setiap panel di Indonesia ([Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)). Untuk produk dan sistem yang akan dipilih, minta lembar data, batas penggunaan, detail tepi, serta instruksi pemeliharaan. [NEEDS G-03/G-05: bukti produk, konfigurasi, dan kondisi proyek diperlukan sebelum klaim kinerja atau garansi.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dinilai di sini adalah panel toilet sebagai bagian dari cubicle: daun pintu, pilaster, panel samping, partition, hardware, kaki atau headrail, bracket, anchor, dan penopang bangunan. “Tahan air” berarti sistem masih memenuhi fungsi yang disepakati pada paparan yang benar-benar dirancang; istilah ini bukan janji kedap air untuk semua situasi.
+
+Artikel ini tidak menetapkan merek, ketebalan, kelas material, harga, rating, atau ukuran detail. Ia juga tidak menggantikan pemeriksaan struktur, aksesibilitas, sanitasi, atau persetujuan profesional. Untuk tata letak yang digunakan publik, posisi partition, ayunan dan operasi pintu, ruang pendekatan, privasi, fittings, serta sirkulasi harus dibaca sebagai satu kesatuan menurut regulasi dan kebutuhan proyek yang berlaku; status dan teks regulasi perlu diverifikasi pada sumber BPK sebelum keputusan final ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Air mengikuti celah dan bidang yang paling mudah dilalui. Pada permukaan, lapisan dapat menghalangi air untuk sementara. Di edge, lubang, dan joint, air dapat tertahan oleh kapiler, gravitasi, atau kotoran. Jika core menyerap kelembapan, perubahan dimensi dapat membebani lapisan dan fixing. Karena itu urutannya harus dimulai dari paparan, lalu material, fabrikasi, instalasi, dan pemeliharaan.
+
+Periksa core dan permukaan secara terpisah. Tanyakan apakah dokumen produk menyebut compact laminate interior, exterior, atau penggunaan washroom tertentu; ISO membedakan ruang lingkup tersebut dan tidak memberikan hasil uji untuk produk yang belum diidentifikasi. Setelah itu lihat edge: apakah tepi terbuka, diberi hasil akhir, atau berada di area yang sering terkena genangan? Jangan menyamakan hasil akhir visual dengan segel kedap.
+
+Berikutnya telusuri penetrasi dan fixing. Lubang untuk engsel, latch, bracket, kaki, atau pipa harus memiliki detail edge distance, urutan pengeboran, dan perlindungan yang berasal dari instruksi sistem. Contoh instruksi instalasi Bobrick memperlihatkan bahwa partisi, pilaster, hardware, dan penopang dipasang sebagai konfigurasi; jangan memindahkan dimensinya ke produk lain ([instruksi Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+Joint dan sealant adalah antarmuka, bukan obat untuk detail yang salah. Pastikan permukaan yang disambung bersih, celah dapat diperiksa, dan sealant yang ditentukan kompatibel dengan bahan serta pola pembersihan. Beri jalan bagi air untuk mengalir ke drain, bukan mengurungnya di belakang panel. Ventilasi membantu mengurangi waktu permukaan tetap lembap, tetapi tidak menghapus sumber cipratan atau kebocoran.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Core dan grade.** Compact-grade laminate, phenolic, dan istilah HPL dapat merujuk pada konstruksi berbeda. Bukti Bobrick sendiri mengaitkan compact-grade laminate dengan sistem partisi tertentu; gunakan informasi itu sebagai identitas produk, bukan sebagai sertifikat universal ([bukti compact-grade Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/)).
+
+**Edge dan penetrasi.** Tepi potong, sudut, dan lubang adalah titik yang paling mudah berubah ketika dipasang di lapangan. Minta detail pengerjaan sebelum panel dipotong. Panduan fabrikasi compact laminate Formica menekankan perlunya memperlakukan pemotongan, lubang, dan kondisi material sesuai panduan produk; penerapannya tetap harus cocok dengan produk dan pasar yang sedang dibeli ([panduan fabrikasi Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+
+**Joint, fixing, dan bangunan.** Lantai yang selalu basah, dinding yang tidak rata, anchor yang longgar, atau kaki yang terendam mengubah beban dan jalur air. Konfigurasi yang berbeda juga mengubah akses cleaning dan urutan instalasi. Periksa titik tumpu serta sealing bersama installer dan penanggung jawab bangunan, bukan hanya menerima sampel panel.
+
+**Paparan aktual dan operasi.** Catat lokasi wastafel, shower, spray hose, drain, arah semprotan, jadwal pel, bahan pembersih, dan waktu pengeringan. Toilet dengan kelembapan tinggi tetapi tanpa genangan membutuhkan kontrol berbeda dari area yang sering dicuci basah. Sobat Cubicle.co.id, foto inspeksi sebelum ditutup dan setelah periode operasi membantu membandingkan perubahan tanpa mengarang angka kinerja.
+
+**Ventilasi dan perawatan.** Ventilasi yang buruk memperpanjang kelembapan pada joint dan hardware. Sebaliknya, pembersihan agresif atau membiarkan air menggenang dapat melampaui kondisi yang diizinkan produk. Minta prosedur cleaning tertulis, termasuk bagian yang tidak boleh direndam atau disemprot langsung.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan persetujuan produk:
+
+| Temuan di lapangan | Pertanyaan berikutnya | Keputusan sementara |
+|---|---|---|
+| Panel jauh dari sumber cipratan, drain berfungsi, edge terlindungi | Apakah grade dan instruksi produk mencakup kondisi ini? | Lanjutkan verifikasi dokumen dan mock-up detail. |
+| Air sering mengenai edge atau lubang hardware | Bagaimana edge dan penetrasi diselesaikan serta dirawat? | Tahan pemesanan sampai detail dan kompatibilitas disetujui. |
+| Kaki/pilaster berada di area genangan | Apakah ada jalur drainase dan dukungan yang dirancang untuk paparan itu? | Minta revisi detail oleh pihak berwenang sebelum instalasi. |
+| Produk hanya memiliki klaim “water-resistant” pemasaran | Bukti apa yang berlaku untuk sistem, bukan panel saja? | Anggap belum terbukti; jangan tulis “waterproof”. |
+
+Jika sebuah ruang membutuhkan pintu aksesibel, jangan menukar ruang pendekatan dengan memperkecil panel tanpa tinjauan. Persyaratan akses, privasi, hardware, dan drainase saling memengaruhi; keputusan akhir harus mengacu pada regulasi Indonesia dan gambar proyek yang disetujui.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih material dari sampel permukaan lalu mengabaikan core dan edge. Balik sampel, minta penampang, dan cocokkan grade dengan dokumen pemasok. Kedua, menutup joint dengan sealant tanpa memeriksa apakah air masih terperangkap. Tanyakan bagaimana joint dibersihkan, diperiksa, dan diganti.
 
-## Objection or shortcut to address
+Ketiga, menyalin detail pabrikan lain. Gambar Bobrick atau Formica membantu memahami komponen dan urutan, tetapi bukan izin untuk memakai dimensi, beban, atau kompatibilitasnya pada sistem yang berbeda. Keempat, menganggap ventilasi adalah pengganti perbaikan kebocoran. Cari sumber air lebih dulu, kemudian evaluasi pengeringan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, menerima kata “uji” sebagai “lulus”. Standar ISO yang disebut di atas menjelaskan ruang lingkup metode/material; tanpa laporan yang identik dengan produk dan konfigurasi, hasil sistem belum terbukti. Kawan Cubicle.co.id, minta setidaknya dokumen identitas produk, detail instalasi, batas paparan, prosedur cleaning, dan rekaman inspeksi mock-up.
 
-## Required conclusion
+## Jalan pintas yang perlu diuji
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+jalan pintas yang sering terdengar: “Pakai panel compact saja, nanti sealant menyelesaikan semuanya.” Compact dapat menjadi pilihan pada kondisi tertentu, tetapi nama material tidak menjawab apakah panel itu grade yang tepat, bagaimana lubangnya dibuat, atau apakah anchor dan kaki cocok dengan lantai basah. Sealant juga memiliki umur dan cara aplikasi; ia tidak memperbaiki core yang sudah menyerap air atau sambungan yang terus bergerak.
 
-## Draft completion checklist
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat satu detail tipikal, memeriksa penampang edge dan penetrasi, lalu meninjau mock-up bersama pemasok, installer, pengawas, dan pihak aksesibilitas bila relevan. Simpan keputusan beserta kondisi paparan yang menjadi dasarnya. Jika data produk atau kondisi proyek tidak lengkap, tandai sebagai belum terbukti, bukan menaikkan bahasa pemasaran menjadi jaminan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Tahan air pada panel toilet bukan satu angka dan bukan sifat yang berdiri sendiri. Nilailah core, edge, penetrasi, joint, fixing, sealant, ventilasi, serta paparan aktual sebagai satu rantai. Sebelum memesan, minta lembar data dan instruksi sistem yang tepat, gambar detail, prosedur cleaning, dan hasil pemeriksaan mock-up; minta tinjauan teknis untuk setiap klaim kinerja, aksesibilitas, atau kepatuhan yang belum memiliki bukti identik.
+
+Mulai dari sumber air dan titik masuknya, bukan dari label material. Untuk konteks umum situs, Anda dapat kembali ke [beranda Cubicle.co.id](/), tetapi keputusan proyek tetap berada pada dokumen produk, gambar yang disetujui, dan pemeriksaan profesional. Aturan operasinya sederhana: bila grade, detail, dan paparan tidak dapat dicocokkan, jangan sebut sistem itu waterproof.

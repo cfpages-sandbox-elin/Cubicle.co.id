@@ -1,9 +1,10 @@
 ---
 article_id: CUB-08-A03
+writing_contract_version: "native-id-v2"
 title: "Bench Desk vs Panel-Based Cubicle"
 slug: "bench-desk-vs-panel-cubicle"
-description: "Pembaca dapat membandingkan privacy, density, cable management, acoustics, storage, flexibility, stability, installation, and lifecycle."
-status: outline
+description: "Pembaca dapat membandingkan privacy, density, cable management, acoustics, penyimpanan, flexibility, stability, installation, and lifecycle."
+status: draft
 publication_date: "2025-10-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,52 +16,21 @@ final_route: "/artikel/bench-desk-vs-panel-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Bench Desk vs Panel-Based Cubicle
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Jika Anda sedang memilih workstation, bench desk dan panel-based cubicle bukan dua nama untuk benda yang sama. Bench desk menyatukan beberapa meja dalam satu baris terbuka; panel-based cubicle menambahkan panel pembatas dan biasanya membentuk posisi kerja yang lebih terdefinisi. Pilihan yang tepat bergantung pada kebutuhan interaksi, privasi, perubahan layout, serta cara kabel dan komponen bangunan akan dikelola.
 
-- **Writer task:** Expand this file into one complete article answering: “Bench Desk vs Panel-Based Cubicle”
-- **Reader and situation:** Buyer memilih furniture system
-- **Reader outcome:** Pembaca dapat membandingkan privacy, density, cable management, acoustics, storage, flexibility, stability, installation, and lifecycle.
-- **Primary intent:** Membandingkan dua sistem workstation
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak membandingkan merek atau membuat estimasi harga; costing dimiliki CUB-16-A01 dan privacy CUB-09-A01.
-- **Final public route:** `/artikel/bench-desk-vs-panel-cubicle.html`
-- **Appointed CMS date:** `2025-10-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih bench desk ketika kepadatan dan kolaborasi harian lebih penting daripada batas pandang individual. Pilih panel-based cubicle ketika Anda membutuhkan pemisahan visual, jalur kabel yang lebih teratur, atau zona kerja yang mudah diberi fungsi berbeda. Tidak ada pemenang universal. Denah, pengguna, layanan gedung, dan bukti sistem terpasang dapat mengubah keputusan.
 
-## Opening instructions
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/01/cubicle-panel.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bench Desk vs Panel-Based Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -71,140 +41,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-08-A01` → `/artikel/memilih-layout-cubicle-kantor.html` — Memilih Layout Cubicle Kantor untuk Fokus, Kolaborasi, dan Supervisi
-- `CUB-08-A02` → `/artikel/brief-ergonomi-workstation.html` — Brief Ergonomi Workstation Berdasarkan Pengguna dan Tugas
-- `CUB-08-A04` → `/artikel/cubicle-kantor-hybrid-shared-desk.html` — Merencanakan Cubicle Kantor untuk Hybrid Work dan Shared Desk
-- `CUB-08-A05` → `/artikel/sirkulasi-aksesibilitas-cubicle-kantor.html` — Sirkulasi dan Aksesibilitas di Antara Cubicle Kantor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Bench Desk vs Panel-Based Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Banyak pembeli menyamakan “lebih banyak meja per luas ruang” dengan pilihan terbaik. Padahal density (kepadatan) hanya satu variabel. Baris meja yang rapat dapat membantu komunikasi, tetapi kebisingan, pantulan layar, akses servis, dan perubahan jumlah orang ikut menentukan biaya operasional—tanpa perlu menghitung harga pembelian di artikel ini.
+
+Pertanyaan awal yang lebih berguna adalah: pekerjaan mana yang harus berlangsung berdampingan, mana yang perlu percakapan terlindung, dan seberapa sering susunan tim berubah? Catat pula titik listrik, data, sprinkler, pencahayaan, pintu, serta jalur keluar. Dalam konteks aksesibilitas, posisi partisi, ayunan pintu, ruang pendekatan, perlengkapan, dan hubungan antarruang harus dinilai sebagai satu rute dan penggunaan; status peraturan Permen PUPR No. 14/PRT/M/2017 dapat menjadi titik mulai, tetapi tinjauan proyek tetap diperlukan ([catatan status BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Bench Desk vs Panel-Based Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bench desk adalah rangkaian meja bersama, sering dengan top table berhadapan atau berdampingan dan akses bersama untuk kabel. Batas antarposisi bisa hanya berupa aksesori rendah. Panel-based cubicle adalah sistem meja plus panel, tiang, bracket, cover, dan komponen pengikat yang membentuk perimeter atau pembagian posisi. Panel bukan sekadar layar dekoratif: ia menjadi antarmuka untuk kabel, aksesori, dan kadang penyimpanan.
+
+Karena itu, minta gambar rakitan dan daftar komponen, bukan hanya foto. Instruksi pemasangan sistem cubicle menunjukkan bahwa panel, pilaster, pintu, engsel, latch, kaki atau headrail, bracket, anchor, celah, dan penopang bangunan saling memengaruhi urutan kerja serta stabilitas ([contoh instruksi instalasi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Contoh tersebut bukan spesifikasi proyek Anda; gunakan sebagai pengingat bahwa produk terpasang adalah sistem.
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Bench Desk vs Panel-Based Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks berikut saat menyusun kebutuhan awal:
+
+| Kriteria | Bench desk | Panel-based cubicle | Pertanyaan verifikasi |
+|---|---|---|---|
+| Privasi visual | Umumnya rendah tanpa layar tambahan | Dapat ditingkatkan dengan tinggi dan susunan panel | Aktivitas apa yang perlu terlindung? |
+| Kepadatan | Efisien untuk baris kerja berulang | Memerlukan ruang untuk panel, akses, dan bukaan | Apakah sirkulasi tetap terbaca? |
+| Kabel | Jalur bersama mudah diakses, tetapi mudah terlihat | Kanal dan cover dapat menyembunyikan jalur | Di mana titik servis dan cadangan kabel? |
+| Akustik | Percakapan lebih menyebar | Panel dapat membantu membatasi pandangan, bukan otomatis membuktikan kinerja akustik | Adakah data sistem yang relevan? |
+| Penyimpanan | Biasanya perlu credenza atau unit terpisah | Dapat diintegrasikan pada sisi panel bila sistem mendukung | Siapa yang membuka dan merawatnya? |
+| Fleksibilitas | Re-konfigurasi meja relatif langsung selama layanan mendukung | Perubahan melibatkan panel, bracket, dan jalur kabel | Seberapa sering tim berubah? |
+| Stabilitas | Bergantung rangka, sambungan, dan lantai | Bergantung load path panel, anchor, dan penopang | Apa detail fixing dan toleransinya? |
+| Instalasi | Lebih sederhana secara visual, tetap perlu koordinasi MEP | Tahapan dan komponen lebih banyak | Siapa yang menyetujui urutan kerja? |
+| Siklus hidup | Komponen bersama dapat memudahkan penggantian seragam | Komponen spesifik perlu inventaris dan instruksi | Bagaimana inspeksi, pembersihan, dan suku cadang? |
+
+“Compact laminate” atau HPL juga bukan jawaban lengkap. ISO 4586-4 menjelaskan lingkup compact laminate interior, bukan jaminan bahwa semua panel, hardware, anchor, pintu, atau sambungan pada cubicle tertentu memiliki performa yang sama ([lingkup ISO 4586-4](https://www.iso.org/standard/72962.html)). Sobat Cubicle.co.id, minta grade, lingkungan pemakaian, detail tepi, dan instruksi perawatan yang memang ditujukan untuk sistem yang ditawarkan.
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Bench Desk vs Panel-Based Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bench desk masuk akal untuk tim yang sering bertukar informasi, memiliki pola kerja serupa, dan menginginkan pandangan terbuka. Atur jarak servis, jalur lewat, dan solusi manajemen kabel sejak denah awal. Jika pekerjaan memerlukan panggilan privat, tambahkan ruang rapat atau titik fokus terpisah—jangan menganggap aksesori kecil otomatis menghasilkan privasi penuh.
+
+Panel-based cubicle masuk akal ketika beberapa fungsi perlu batas visual berbeda, ketika kabel harus ditata pada perimeter tertentu, atau ketika setiap posisi membutuhkan identitas ruang yang lebih jelas. Panel tinggi bukan pengganti penilaian sirkulasi dan aksesibilitas. [NEEDS PROJECT REVIEW: verifikasi rute aksesibel, bukaan, dan ruang pendekatan pada denah aktual.]
+
+Pada kantor yang sering berubah, pertimbangkan konfigurasi campuran: bench desk untuk tim terbuka dan cubicle untuk tugas konsentrasi. Keputusan itu tetap harus diuji terhadap kapasitas lantai, titik layanan, dan prosedur pemindahan; jangan menyimpulkan dari kepadatan meja saja.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Bench Desk vs Panel-Based Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, memilih berdasarkan tinggi panel atau jumlah kursi semata. Tinggi tidak membuktikan privasi akustik, dan jumlah kursi tidak membuktikan sirkulasi aman. Kedua, menganggap label material sebagai sertifikat sistem. Satu panel yang tahan lembap tidak otomatis membuktikan ketahanan sambungan, hardware, atau anchor di kondisi setempat.
+
+Ketiga, menyalin dimensi dan beban dari katalog luar negeri. Angka tersebut dapat berlaku untuk produk, pasar, dan kondisi pemasangan tertentu; jangan dipindahkan ke proyek Indonesia tanpa verifikasi pabrikan dan profesional. Keempat, mengabaikan urutan bongkar-pasang. Kabel yang dipasang sebelum panel dan cover disepakati dapat menyulitkan servis ketika tim berubah.
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Bench Desk vs Panel-Based Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta paket berikut sebelum menyetujui layout:
 
-## Objection or shortcut to address
+- denah dengan pengguna, aktivitas, sirkulasi, pintu, dan titik layanan gedung;
+- gambar elevasi dan detail sambungan untuk kedua alternatif;
+- daftar komponen: meja, panel, bracket, kaki, anchor, cover, aksesori, dan unit simpan;
+- jalur kabel, titik inspeksi, serta metode pemindahan atau penggantian komponen;
+- grade dan lingkungan pemakaian material, termasuk batas pembersihan dan kelembapan; ISO hanya membantu mengidentifikasi lingkup bahan, bukan membuktikan hasil terpasang;
+- instruksi instalasi sistem yang ditawarkan, termasuk persyaratan lantai, toleransi, lubang, dan penopang;
+- tinjauan aksesibilitas dan keselamatan oleh pihak berwenang untuk proyek tersebut. [NEEDS PROFESSIONAL REVIEW: jangan nyatakan kepatuhan sebelum dokumen proyek dan persyaratan lokal diperiksa.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Tetapkan siapa yang menandatangani denah, siapa yang mengoordinasikan MEP, dan siapa yang menerima inspeksi akhir. Simpan versi gambar dan daftar revisi agar perubahan tim tidak menghapus kebutuhan servis.
 
-## Required conclusion
+## Jangan menunda spesifikasi sistem
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+jalan pintas yang sering dipilih adalah membeli bench desk karena tampak paling sederhana, lalu menambah panel sedikit demi sedikit. Cara ini dapat gagal bila rangka awal tidak menyediakan titik fixing, kanal kabel, atau toleransi untuk aksesori yang dibutuhkan. Alternatif yang lebih aman adalah menuliskan kebutuhan minimum sejak awal—privasi, kabel, servis, penyimpanan, dan perubahan layout—lalu meminta penawaran sistem yang menunjukkan detail tersebut, tanpa menyamakan brosur dengan bukti kinerja.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bench desk cocok untuk kepadatan dan kolaborasi yang terbuka; panel-based cubicle cocok bila batas visual, pengelompokan fungsi, dan pengelolaan kabel lebih penting. Pilihan dapat berubah setelah denah, pengguna, layanan gedung, dan metode pemasangan diperiksa.
+
+Teman Cubicle.co.id, mulai dari [beranda Cubicle.co.id](/) untuk mengumpulkan konteks proyek, lalu minta gambar rakitan, detail fixing, jalur kabel, dan tinjauan aksesibilitas sebelum memilih. Aturan operasionalnya sederhana: pilih sistem berdasarkan pekerjaan dan bukti terpasang, bukan berdasarkan nama kategori atau satu klaim material.

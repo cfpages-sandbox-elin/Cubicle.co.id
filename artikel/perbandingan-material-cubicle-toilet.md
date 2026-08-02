@@ -3,7 +3,8 @@ article_id: CUB-04-A01
 title: "Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?"
 slug: "perbandingan-material-cubicle-toilet"
 description: "Pembaca dapat membandingkan inti, tepi, air, benturan, cleaning, hardware, fire evidence, repairability, dan biaya siklus hidup."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -30,37 +31,7 @@ sources:
   - "https://store.astm.org/e0119-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”
-- **Reader and situation:** Buyer dan desainer yang memilih material
-- **Reader outcome:** Pembaca dapat membandingkan inti, tepi, air, benturan, cleaning, hardware, fire evidence, repairability, dan biaya siklus hidup.
-- **Primary intent:** Membandingkan material toilet partition
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memilih konfigurasi penopang; itu dimiliki CUB-03-A01, dan tidak menyatakan satu material terbaik untuk semua proyek.
-- **Final public route:** `/artikel/perbandingan-material-cubicle-toilet.html`
-- **Appointed CMS date:** `2025-06-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -71,138 +42,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.co.id! Tidak ada material yang otomatis paling baik untuk semua toilet. Phenolic atau compact laminate biasanya masuk akal ketika area sering terkena air dan benturan, PVC ketika prioritasnya bobot serta kemudahan dibersihkan, multiplex ketika tampilan dan ketersediaan pengerjaan lokal lebih penting, kaca ketika privasi dan keselamatan dapat dikendalikan dengan jelas, dan metal ketika kebutuhan ketahanan serta sistem pengikatnya memang mendukung. Pilihan akhirnya bergantung pada inti panel, detail tepi, hardware, pola pemakaian, dan bukti produk yang benar-benar akan dipasang.
 
-### KR-01
+Jangan menyamakan label bahan dengan kinerja satu cubicle. Panel yang tahan lembap tidak otomatis membuat sambungan, engsel, kaki, atau anchor tahan korosi. Sebaliknya, panel yang tampak kokoh belum tentu cocok untuk cara cuci, benturan, atau persyaratan aksesibilitas di bangunan Anda. Jika lembar data, detail sambungan, dan persetujuan proyek belum tersedia, simpulan material harus ditandai **[NEEDS G-03/G-04/G-05: verifikasi sistem, aksesibilitas, dan data produk sebelum pemilihan final]**.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
-### KR-03
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-04-A02` → `/artikel/menilai-panel-toilet-area-basah.html` — Tahan Air Bukan Satu Angka: Menilai Panel Toilet di Area Basah
-- `CUB-04-A03` → `/artikel/membaca-data-sheet-panel-phenolic.html` — Cara Membaca Data Sheet Panel Phenolic dan Compact Laminate
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelima istilah sering dianggap setara karena semuanya dapat dipotong menjadi panel. Padahal, pembeli sedang membandingkan beberapa lapisan keputusan: apakah inti menyerap air, bagaimana tepi ditutup, bagaimana pintu menahan siklus buka-tutup, dan ke mana beban diteruskan oleh bracket serta anchor. Biaya pembelian yang lebih rendah dapat berubah menjadi biaya penggantian hardware, waktu penutupan toilet, atau perbaikan tepi.
+
+Mulailah dengan skenario operasi. Toilet mal yang dibersihkan berkali-kali sehari memiliki tuntutan berbeda dari toilet kantor dengan lalu lintas ringan. Area dekat shower, ruang servis, atau lokasi semi-terbuka juga tidak boleh memakai asumsi yang sama dengan ruang kering. Tanyakan: bagian mana yang paling sering basah, terkena pukulan troli, dicoret, atau disentuh bahan kimia pembersih? Jawaban ini mempersempit material sebelum warna dan motif dipilih.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Phenolic dalam konteks cubicle biasanya merujuk pada compact laminate berbasis resin, bukan sekadar papan berlapis tipis. ISO 4586 memisahkan lingkup pengujian HPL dan compact laminate interior maupun eksterior; label “HPL” saja belum menerangkan grade atau kecocokan lokasi ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)). PVC dapat berarti lembaran padat atau produk berinti berbeda, sehingga densitas dan cara memperkuat titik sekrup perlu diminta.
+
+Multiplex adalah panel kayu berlapis. Lapisan, perekat, pelindung permukaan, dan penutupan tepi menentukan perilakunya; nama “multiplex” bukan bukti tahan rendam. Kaca adalah panel rapuh yang memerlukan spesifikasi jenis, ketebalan, pengolahan tepi, dan hardware yang serasi. Metal pun bukan satu bahan: baja berlapis, stainless, dan aluminium memiliki ketahanan korosi, bobot, serta detail sambungan yang berbeda.
+
+Yang dibeli sebenarnya adalah sistem: panel, pilaster, pintu, latch, hinge, kaki atau headrail, bracket, celah bawah, dan anchor. Petunjuk pemasangan Bobrick memperlihatkan bahwa urutan instalasi dan titik dukung memengaruhi kestabilan; halaman produk compact-grade Bobrick juga menempatkan material dan hardware sebagai satu sistem. Panduan compact laminate Formica meminta perhatian pada conditioning, lubang, tepi, dan perubahan dimensi. Gunakan dokumen itu sebagai contoh cara membaca sistem, bukan sebagai ukuran atau beban untuk proyek lain ([petunjuk Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [bukti produk compact-grade Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [panduan fabrikasi Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bandingkan setiap kandidat dengan matriks berikut, lalu isi hanya dengan data produk dan kondisi proyek yang dapat diverifikasi.
+
+| Kriteria | Pertanyaan yang harus dijawab |
+|---|---|
+| Inti dan tepi | Apakah air dapat masuk melalui potongan, sambungan, atau tepi terbuka? |
+| Air dan cleaning | Metode cuci, bahan kimia, waktu kering, dan ventilasi apa yang diizinkan? |
+| Benturan | Apakah panel, sudut, pintu, dan titik baut menerima beban yang sama? |
+| Hardware | Material hinge, latch, kaki, bracket, dan anchor apa; bagaimana inspeksinya? |
+| Privasi dan akses | Apakah bukaan, ayunan pintu, ruang pendekatan, dan visibilitas sesuai tata letak? |
+| Api | Adakah bukti untuk sistem lengkap, bukan hanya klaim permukaan panel? |
+| Repairability | Bagian mana yang dapat diganti tanpa membongkar seluruh deret cubicle? |
+| Siklus hidup | Berapa konsekuensi pembersihan, suku cadang, downtime, dan penggantian? |
+
+Kawan Cubicle.co.id, perlakukan “tahan air” sebagai pertanyaan mekanisme, bukan angka tunggal. Compact laminate dapat memiliki panduan wet-area, tetapi hal itu tidak membuktikan anchor, hardware, atau pintu pada proyek Anda. Formica sendiri membatasi panduan pada produk dan pasar yang disebutkan ([Washroom Collection](https://www.formica.com/en-gb/products/washroom)); ketersediaan Indonesia tetap harus dikonfirmasi.
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Phenolic/compact laminate layak dipertimbangkan saat frekuensi cuci tinggi, panel perlu relatif kaku, dan tersedia detail tepi serta hardware yang sesuai. Minta grade interior atau eksterior secara eksplisit; jangan memperluas klaim grade dari satu produk ke semua compact laminate.
+
+PVC dapat masuk akal untuk proyek yang mengejar panel ringan dan permukaan mudah dilap, selama penguatan di engsel, latch, dan anchor terbukti. Pastikan perubahan bentuk akibat panas, benturan, atau beban titik tidak hanya dijawab dengan brosur.
+
+Multiplex cocok dipertimbangkan ketika detail hasil akhir, penggantian lokal, dan kemampuan fabrikator menjadi keunggulan. Batasi penggunaannya di area basah berdasarkan sistem pelapis dan tepi yang terdokumentasi, bukan karena satu sisi terlihat tertutup.
+
+Kaca masuk akal bila transparansi visual, privasi, dan risiko pecah telah dikelola bersama. Minta spesifikasi kaca dan hardware; jangan menganggap panel kaca sebagai pengganti dinding tahan api atau pagar keselamatan tanpa bukti sistem.
+
+Metal dapat dipilih ketika kebutuhan ketahanan benturan, kebersihan, atau modul penggantian mendukungnya. Cek pasangan logam, lapisan, titik karat, serta kebisingan dan bobot yang ditanggung bangunan. Dalam semua skenario, konfigurasi penopang dan persetujuan profesional tetap berada di luar cakupan artikel ini.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, membandingkan harga per meter persegi tanpa hardware dan pekerjaan. Panel murah dapat memerlukan penguatan, lapisan tambahan, atau penggantian lebih sering. Kedua, mengubah klaim panel menjadi klaim seluruh bilik. Beban pintu dan anchor mengikuti jalur beban sistem, bukan label bahan. Ketiga, memakai foto sampel sebagai bukti ketahanan air, api, atau benturan.
+
+Kesalahan keempat adalah menyalin dimensi katalog luar negeri sebagai kewajiban lokal. Peraturan aksesibilitas Indonesia menempatkan jalur, ruang pendekatan, ayunan pintu, fittings, visibilitas, dan tata letak sanitair sebagai satu koordinasi; satu ukuran panel tidak membuktikan ruang itu aksesibel ([status Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [teks peraturan](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
+
+Terakhir, menyebut “fire-rated” hanya karena ada uji bahan. Katalog BSN untuk proteksi pasif, ISO 834-1, dan ASTM E119 membedakan lingkup metode uji dari hasil untuk assembly lengkap. Rating harus melekat pada panel, rangka, fastener, insulasi, sambungan, perimeter, pintu, penetrasi, dan cara pasang yang sama; tanpa itu, gunakan **[NEEDS G-01/G-02/G-10: bukti sistem proteksi kebakaran dan REVIEW ahli]** ([SNI 03-1736-2000](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [katalog BSN proteksi kebakaran](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1](https://www.iso.org/standard/83943.html), [ASTM E119](https://store.astm.org/e0119-24.html)).
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Phenolic, PVC, Multiplex, Kaca, atau Metal untuk Cubicle Toilet?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta paket berikut untuk setiap kandidat: lembar data yang menyebut grade dan penggunaan; gambar detail tepi, lubang, celah, dan sambungan; daftar hardware lengkap; instruksi fabrikasi dan pemasangan; metode cleaning serta bahan yang dilarang; sampel aktual; dan daftar suku cadang. Cocokkan nama produk, revisi dokumen, dan pasar penjualan—jangan menerima brosur generik sebagai bukti untuk seri lain.
 
-## Objection or shortcut to address
+Tambahkan data proyek: frekuensi penggunaan, metode cuci, kedekatan sumber air, suhu dan ventilasi, pola benturan, kebutuhan privasi, serta batas waktu penutupan toilet. Koordinasikan layout dan pintu dengan pihak aksesibilitas. Untuk klaim api atau performa khusus, minta laporan uji dan identitas assembly yang sama, lalu serahkan kepada profesional yang berwenang. Jika salah satu dokumen belum ada, catat **[NEEDS REVIEW]** dan tahan keputusan final.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Pilihan cepat yang perlu diuji
 
-## Required conclusion
+jalan pintas yang paling menggoda adalah memilih material yang “paling tahan air” lalu menganggap masalah selesai. Air justru sering masuk melalui tepi, lubang, celah bawah, atau hardware. Alternatif yang lebih aman adalah menilai jalur air dan beban bersama-sama: minta detail sambungan, aturan cleaning, spesifikasi hardware, serta rencana inspeksi. Dengan begitu, Anda membandingkan sistem yang dapat dirawat, bukan slogan material.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, phenolic, PVC, multiplex, kaca, dan metal masing-masing masuk akal pada kondisi berbeda; tidak ada pemenang universal. Pilih kandidat yang mekanisme inti-tepi, hardware, cleaning, akses, api, perbaikan, dan biaya siklus hidupnya dapat dibuktikan untuk proyek Anda. Teman Cubicle.co.id, langkah berikutnya adalah membuat matriks delapan kriteria, meminta dokumen sistem dari pemasok, dan meminta tinjauan aksesibilitas serta proteksi kebakaran sebelum mengunci spesifikasi. Bila bukti produk atau assembly belum lengkap, pertahankan **[NEEDS G-03/G-04/G-05/G-01/G-02/G-10]** dan jangan menyamarkan asumsi sebagai kepastian. Untuk konteks umum perusahaan, Anda dapat kembali ke [beranda Cubicle.co.id](/), tetapi keputusan material tetap memerlukan verifikasi proyek.

@@ -1,9 +1,10 @@
 ---
 article_id: CUB-13-A05
+writing_contract_version: "native-id-v2"
 title: "Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik"
 slug: "jalur-angkut-lifting-cubicle-listrik"
-description: "Pembaca dapat memeriksa module mass/size, floor loading, doors, turns, openings, lifting points, handling aids, temporary works, storage, and future replacement."
-status: outline
+description: "Pembaca dapat memeriksa module mass/size, floor loading, doors, turns, openings, lifting points, handling aids, temporary works, penyimpanan, and future replacement."
+status: draft
 publication_date: "2026-03-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,52 +17,96 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
+  - "https://peraturan.bpk.go.id/Details/37637/uu"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Jalur penggantian cubicle listrik dinilai layak bukan karena unit bisa masuk saat pemasangan pertama, melainkan karena unit pengganti dapat dikeluarkan dan dimasukkan kembali tanpa menebak-nebak beban lantai, bukaan, belokan, titik angkat, atau pekerjaan sementara. Jawaban singkatnya: ukur modul terberat dan terbesar, cocokkan rute aktual dari kendaraan sampai fondasi, lalu dokumentasikan titik lifting dan batas lantai sebelum memesan atau membongkar apa pun.
 
-- **Writer task:** Expand this file into one complete article answering: “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”
-- **Reader and situation:** Project logistics dan facility
-- **Reader outcome:** Pembaca dapat memeriksa module mass/size, floor loading, doors, turns, openings, lifting points, handling aids, temporary works, storage, and future replacement.
-- **Primary intent:** Memastikan maintainable replacement route
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menjadi lifting plan atau structural approval; transport/storage dimiliki CUB-14-A03 dan engineer/rigging specialist wajib.
-- **Final public route:** `/artikel/jalur-angkut-lifting-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-03-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jika salah satu data itu belum tersedia, keputusan “pasti muat” belum aman. Detail ukuran dan massa dari vendor, survei pintu serta belokan, kapasitas struktur yang disahkan, dan metode rigging dari personel kompeten dapat mengubah rute, urutan, atau bahkan pilihan konfigurasi. Artikel ini adalah pemeriksaan kesiapan dan maintainability; ini bukan lifting plan, persetujuan struktur, atau instruksi rigging. [NEEDS PROJECT DATA: module mass/size, route survey, floor capacity, lifting method, and approvals]
 
-## Opening instructions
+![Ilustrasi cubicle listrik 1](/wp-content/uploads/2023/01/cubicle-listrik-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+“Jalur angkut” mencakup seluruh lintasan horizontal dan vertikal: titik bongkar, area staging, pintu, ambang, koridor, belokan, bukaan, lantai tujuan, dan ruang untuk memutar atau menggeser modul. “Lifting” berarti mengangkat atau menurunkan modul dengan titik angkat dan alat bantu yang telah diverifikasi; bukan sekadar menariknya dengan tenaga orang. “Penggantian” menambahkan pekerjaan isolasi, pelepasan sambungan, perlindungan aset sekitar, pemindahan unit lama, pemasangan unit baru, pengujian, dan pengembalian area.
+
+Batas ini penting karena gambar denah tidak menunjukkan semua kondisi lapangan. Panduan FEMA tentang komponen nonstruktural mengingatkan bahwa antarmuka, pergerakan, dan penjangkaran perlu dipikirkan sebagai bagian dari sistem, bukan hanya posisi di denah ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Untuk proyek di Indonesia, koordinasi keselamatan konstruksi dan peran pihak terkait harus mengikuti dokumen proyek serta kerangka yang berlaku, termasuk rujukan [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021). Rujukan itu tidak menggantikan persetujuan engineer atau rencana kerja lapangan.
+
+Yang dibahas di sini adalah cara menyiapkan bukti agar rute penggantian dapat dipelihara. Perhitungan sling, kapasitas crane, detail anchor, penilaian slab, shutdown, dan izin kerja tetap menjadi paket engineer, rigging specialist, HSE, serta pemilik fasilitas.
+
+## Cara kerjanya
+
+Mulailah dari modul paling tidak menguntungkan, bukan dari modul yang paling mudah dipindahkan. Minta vendor mencantumkan massa dan ukuran setiap shipping module, pusat gravitasi bila diperlukan untuk rigging, lifting point yang disetujui, orientasi yang diizinkan, serta bagian yang boleh dilepas. Tandai juga komponen yang menonjol—handle, pintu, base frame, atau aksesori—karena ukuran transportasi dapat berbeda dari ukuran operasi.
+
+Berikut urutan pemeriksaan yang bisa dimasukkan ke inspection-and-test plan:
+
+1. **Tetapkan titik awal dan akhir.** Gambar rute dari kendaraan atau area penerimaan ke posisi final, termasuk tempat parkir alat, staging, dan jalur evakuasi yang tidak boleh tertutup.
+2. **Ukur geometri nyata.** Catat lebar, tinggi bebas, panjang diagonal, ambang, radius belokan, bukaan sementara, dan ruang untuk orang mengendalikan beban. Jangan memakai angka denah tanpa verifikasi lapangan.
+3. **Cocokkan beban.** Minta pemeriksaan tertulis untuk floor loading, roda atau roller, outrigger, titik tumpu sementara, serta beban dinamis saat berhenti atau berbelok. Hanya engineer yang berwenang menyatakan struktur cukup.
+4. **Rencanakan perpindahan.** Tentukan kapan modul didorong, diangkat, diturunkan, atau diputar; siapa yang memberi aba-aba; dan bagaimana komunikasi serta exclusion zone diterapkan.
+5. **Rekam kondisi tersembunyi.** Sebelum menutup bukaan atau mengembalikan plafon, simpan foto, ukuran, dan as-built. Instruksi pemasangan pabrikan untuk sistem bangunan menekankan pentingnya mengikuti detail sistem yang tepat; langkah dari produk lain tidak boleh dipindahkan mentah-mentah ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+6. **Uji fungsi setelah penggantian.** Verifikasi alignment, akses pintu, sambungan, interlock, dan fungsi yang memang disyaratkan proyek. Tampilan selesai tidak membuktikan fungsi atau kesiapan operasi.
+
+Teman Cubicle.co.id, simpan paket bukti itu di lokasi yang bisa ditemukan tim pemeliharaan: drawing rute, data modul, foto bukaan, persetujuan struktur, method statement, daftar alat bantu, dan catatan uji. Dengan begitu, penggantian berikutnya dimulai dari fakta, bukan ingatan orang yang sudah pindah proyek.
+
+## Faktor yang mengubah hasil
+
+**Massa dan bentuk modul.** Dua cubicle dengan luas muka serupa dapat memiliki pembagian modul dan pusat gravitasi berbeda. Minta data aktual pada submittal yang disetujui, termasuk massa alat bantu atau kemasan yang ikut melewati rute. Jangan mengurangi massa secara asumsi hanya karena beberapa panel akan dilepas.
+
+**Lantai dan struktur.** Beban merata di gambar tidak sama dengan beban roda kecil, roller, jack, atau outrigger. Ambang dan pelat lantai juga dapat menerima beban lokal saat modul diputar. [NEEDS STRUCTURAL REVIEW: verified slab/floor-loading limits and temporary-works design]
+
+**Pintu, belokan, dan bukaan.** Ukur daun pintu pada posisi terbuka, hardware, kusen, sprinkler, tray, pipa, dan tonjolan dinding. Jika perlu membuka panel dinding atau pintu, tetapkan siapa yang menyetujui pekerjaan sementara, proteksi kebakaran, keamanan, dan pemulihannya. Perubahan pada konstruksi harus dikoordinasikan dengan desain dan pengawasan yang sesuai; [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) dapat menjadi titik rujuk regulasi, bukan izin otomatis untuk mengubah bangunan.
+
+**Titik angkat dan handling aids.** Titik angkat pada gambar vendor harus cocok dengan modul yang benar dan dapat diakses tanpa merusak enclosure. Crane, gantry, pallet mover, roller, spreader, atau forklift masing-masing punya batas dan kondisi kerja sendiri. Rigging specialist harus memeriksa kapasitas, sudut, inspeksi alat, dan exclusion zone; artikel ini tidak menetapkan ukuran sling atau kapasitas alat.
+
+**Operasi fasilitas.** Penggantian mungkin memerlukan outage, isolasi, permit-to-work, fire watch, dan koordinasi dengan penghuni. Sisakan ruang untuk melepas pintu, menarik unit, membaca label, dan menguji kembali. Jika satu-satunya jalur melewati area aktif, jadwal, penghalang, dan komunikasi harus menjadi bagian dari rencana fasilitas.
+
+**Penyimpanan dan penggantian masa depan.** Area staging harus kering, rata, terlindung dari benturan, dan tidak menghalangi akses darurat sesuai persyaratan proyek. Tetapkan cara menandai modul, posisi penyimpanan, perlindungan sambungan, serta catatan suku cadang. Kondisi penyimpanan spesifik harus mengikuti instruksi vendor—jangan mengarang durasi atau batas lingkungan.
+
+## Contoh keputusan praktis
+
+Gunakan tabel ini sebagai penyaring awal, bukan persetujuan kerja:
+
+| Temuan survei | Keputusan sementara | Bukti sebelum lanjut |
+|---|---|---|
+| Lebar pintu cukup, tetapi radius belok tidak | Jangan memesan metode angkut; evaluasi orientasi atau bukaan sementara | Sketsa skala, pengukuran aktual, dan persetujuan perubahan |
+| Modul muat di koridor, namun beban roda belum dinilai | Hentikan pemilihan roller/forklift | Perhitungan engineer untuk lantai dan temporary works |
+| Lifting point tidak terlihat atau berbeda antar modul | Jangan mengangkat dari frame yang diasumsikan kuat | Drawing vendor, identifikasi unit, dan method statement rigging |
+| Jalur melewati area berenergi | Jadwalkan isolasi dan pengamanan sebelum staging | Permit, switching/isolasi yang disetujui, dan rencana darurat |
+| Bukaan dinding dibutuhkan | Perlakukan sebagai pekerjaan desain dan pemulihan | Detail struktur, fire-stop, inspeksi, dan as-built |
+| Unit baru masuk tetapi akses panel tertutup | Tolak rute sebagai tidak maintainable | Simulasi pelepasan, clearance pemeliharaan, dan foto as-built |
+
+Kawan Cubicle.co.id, contoh tersebut sengaja memakai keputusan bersyarat. Tanpa ukuran proyek dan dokumen persetujuan, tidak ada angka aman yang bisa saya tetapkan dari sini.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah mengukur lebar unit lalu menyimpulkan rute aman. Periksa dimensi terluar saat dikemas, diagonal saat diputar, tinggi bebas alat angkat, dan ruang tangan pengendali. Kesalahan kedua adalah menganggap “lantai beton” otomatis mampu menahan alat pemindah. Minta penilaian beban lokal dan beban sementara.
+
+Kesalahan ketiga ialah mengangkat dari titik yang tampak paling kuat. Cocokkan label, drawing, dan instruksi unit; bila ragu, hentikan pekerjaan sampai vendor dan spesialis rigging menyetujui. Kesalahan keempat adalah menutup bukaan tanpa foto dan as-built. Bukti yang hilang membuat penggantian berikutnya kembali menjadi investigasi.
+
+Kesalahan kelima adalah memilih penawaran dengan harga terendah tanpa menyamakan lingkup. Bandingkan konfigurasi modul, akses, alat bantu, pembongkaran, perlindungan, pengujian, garansi, suku cadang, dan dokumen serah terima. Kerangka layanan konstruksi dan spesifikasi teknis memberi konteks bahwa lingkup harus didefinisikan dalam dokumen proyek; [UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu) bukan pengganti tinjauan kontrak atau nasihat hukum.
+
+Sebelum mobilisasi, lakukan rapat singkat dengan daftar pertanyaan: modul mana yang paling berat; berapa lebar dan tinggi bebas setiap titik; di mana beban sementara bekerja; apa yang harus dilepas; siapa pemilik isolasi; bagaimana unit lama disimpan atau dibuang; dan dokumen apa yang wajib kembali ke fasilitas. Tandai jawaban yang belum ada sebagai [NEEDS COORDINATOR REVIEW]—jangan mengisinya dengan perkiraan.
+
+## Jalan pintas yang perlu ditolak
+
+jalan pintas yang sering dipilih adalah “nanti kita bongkar sebagian kalau ternyata tidak muat.” Cara ini dapat memindahkan risiko ke dinding, fire-stop, kabel, hasil akhir, atau jadwal outage tanpa desain dan izin yang jelas. Pembongkaran juga tidak menyelesaikan masalah floor loading atau titik angkat.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat route survey dan titik tahan sebelum pembelian: vendor mengunci data modul, engineer memeriksa struktur dan temporary works, rigging specialist menyetujui metode pemindahan, lalu fasilitas menyetujui isolasi serta pemulihan. Jika data kunci belum lengkap, tulis pengecualian dan konsekuensinya di dokumen pengadaan, bukan menyamarkannya sebagai “termasuk semua”.
+
+## Kesimpulan
+
+Jalur penggantian cubicle listrik siap dipertimbangkan ketika modul terberat sudah teridentifikasi, rute nyata dan bukaan terukur, floor loading serta pekerjaan sementara ditinjau engineer, lifting point dan alat bantu disetujui spesialis rigging, dan bukti as-built disimpan untuk pemeliharaan berikutnya. Ukuran di denah atau pengalaman pemasangan sekali tidak cukup.
+
+Langkah berikutnya: minta vendor mengirim data massa, ukuran, pusat gravitasi, dan lifting point; lakukan survei dari titik bongkar sampai posisi akhir; lalu jadikan temuan itu lampiran method statement, permit, dan serah terima. Untuk konteks umum fasilitas, Anda dapat kembali ke [beranda Cubicle.co.id](/) setelah dokumen proyek siap. Aturan operasinya sederhana, Sobat Cubicle.co.id: jangan mengangkat, membuka struktur, atau memindahkan energi sampai engineer, rigging specialist, HSE, dan pemilik fasilitas menyetujui bukti yang relevan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -72,139 +117,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-13-A03` → `/artikel/ventilasi-suhu-ruang-cubicle-listrik.html` — Ventilasi dan Kenaikan Suhu di Ruang Cubicle Listrik
-- `CUB-13-A04` → `/artikel/kebakaran-dan-gas-cubicle-listrik.html` — Kebakaran dan Pelepasan Gas/Pressure dari Cubicle Listrik
-- `CUB-13-A06` → `/artikel/detail-site-outdoor-cubicle-listrik.html` — Outdoor Cubicle Listrik: Foundation, Drainage, Security, dan Cuaca
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Angkut, Lifting, dan Penggantian Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

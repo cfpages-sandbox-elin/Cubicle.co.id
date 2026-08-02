@@ -2,8 +2,9 @@
 article_id: CUB-12-A07
 title: "Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar"
 slug: "verifikasi-dan-sertifikat-cubicle-listrik"
-description: "Pembaca dapat membedakan design verification, routine verification, component certificate, test report, witness record, sample scope, and manufacturer declaration."
-status: outline
+description: "Panduan memilah bukti kesesuaian desain, pemeriksaan unit, sertifikat komponen, laporan uji, catatan saksi, cakupan sampel, dan pernyataan produsen."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,19 @@ final_route: "/artikel/verifikasi-dan-sertifikat-cubicle-listrik.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
   - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar
 
-## Assignment lock
+Halo, Kawan Cubicle.co.id! **Design verification** memeriksa apakah rancangan dan konfigurasi cubicle memenuhi persyaratan yang disepakati; **routine verification** memeriksa unit yang dibuat sebelum dikirim. Keduanya bukan pengganti satu sama lain. Sertifikat komponen, test report, witness record, sample cakupan, dan manufacturer declaration hanya bernilai jika identitas, cakupan, dan hubungannya dengan unit yang dibeli dapat ditelusuri.
 
-- **Writer task:** Expand this file into one complete article answering: “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”
-- **Reader and situation:** QA, procurement, dan owner engineer
-- **Reader outcome:** Pembaca dapat membedakan design verification, routine verification, component certificate, test report, witness record, sample scope, and manufacturer declaration.
-- **Primary intent:** Memeriksa evidence conformity
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Kawan Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak mengesahkan produk dari PDF terpisah atau component certificate; FAT/routine acceptance dimiliki CUB-14-A02.
-- **Final public route:** `/artikel/verifikasi-dan-sertifikat-cubicle-listrik.html`
-- **Appointed CMS date:** `2026-02-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, PDF dengan judul “certificate” tidak otomatis membuktikan satu cubicle tertentu sudah sesuai. Minta matriks persyaratan, bukti design verification untuk keluarga atau konfigurasi yang relevan, lalu routine verification untuk setiap unit atau lot sesuai dokumen kontrak. Jika kontrak, standar proyek, atau otoritas meminta bentuk penerimaan tertentu, keputusan final harus mengikuti dokumen itu—bukan asumsi dari label dokumen. [NEEDS PROJECT STANDARD/CONTRACT: kriteria dan metode penerimaan cubicle]
 
-## Opening instructions
+![Ilustrasi cubicle listrik](/wp-content/uploads/2023/01/cubicle-listrik.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -68,139 +39,79 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-12-A05` → `/artikel/filosofi-proteksi-interlock-metering-kontrol.html` — Proteksi, Interlock, Metering, dan Control Philosophy Cubicle Listrik
-- `CUB-12-A06` → `/artikel/iec-61439-vs-iec-62271-200.html` — IEC 61439 vs IEC 62271-200: Standar Mana untuk Cubicle Listrik?
-- `CUB-12-A08` → `/artikel/klaim-arc-resistant-cubicle-listrik.html` — Klaim Arc-Resistant atau Internal Arc Classified: Pertanyaan Wajib
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat pertanyaan harus dipisahkan: “Apakah desainnya benar?”, “Apakah unit ini dibuat dan diuji?”, “Apakah komponen ini punya bukti asal atau pengujian?”, dan “Siapa yang menyaksikan atau menyatakan hasilnya?”. Design verification menjawab pertanyaan pertama pada tingkat desain. Routine verification menjawab pertanyaan kedua pada tingkat manufaktur dan unit. Dokumen lain memberi potongan bukti, bukan keseluruhan jawaban.
+
+Kesalahan paling mahal adalah menyamakan sampel dengan unit aktual. Sebuah laporan pengujian atas konfigurasi contoh mungkin hanya berlaku untuk konfigurasi, dimensi, material, dan kondisi yang disebutkan di laporan. Perubahan busbar, relai, enclosure, ventilasi, tata letak, atau pemasok dapat mengubah cakupannya. Karena itu, minta pernyataan tertulis tentang sample cakupan dan deviasi, bukan hanya stempel.
+
+Kerangka bangunan nasional sendiri menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dokumentasi, dan penggunaan sebagai hal yang perlu dikelola sepanjang siklus bangunan; label produk tunggal tidak membuktikan kepatuhan keseluruhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Prinsip pemisahan bukti ini juga masuk akal untuk cubicle: bukti desain, produksi, komponen, dan serah terima harus tersambung.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Design verification** adalah pemeriksaan berbasis dokumen dan perhitungan terhadap desain yang ditawarkan: single-line diagram, rating yang diminta, koordinasi proteksi, clearances, interface kontrol, enclosure, dan konfigurasi aktual. Istilah ini tidak boleh diperlakukan sebagai klaim umum bahwa semua produk dari merek tersebut lulus.
+
+**Routine verification** adalah pemeriksaan berulang pada unit yang diproduksi. Isinya mengikuti inspection and test plan (ITP), gambar disetujui, dan kontrak: pemeriksaan identitas, rakitan, wiring, fungsi mekanis/elektris yang ditetapkan, serta pencatatan hasil. Tanpa kriteria penerimaan dan nomor unit, kata “tested” terlalu kabur.
+
+**Component certificate** melekat pada komponen atau material tertentu. Ia dapat membantu menelusuri asal, tipe, atau hasil uji komponen, tetapi tidak mengesahkan rakitan cubicle. **Test report** mencatat metode, spesimen, kondisi, hasil, dan pihak yang menerbitkan; periksa apakah konfigurasi dan revisinya cocok. **Witness record** membuktikan seseorang hadir atau menyaksikan kegiatan yang ditentukan—bukan otomatis membuktikan semua hasil memuaskan.
+
+**Sample cakupan** menjawab “bukti ini mencakup apa?”. Tanyakan model, rating, jumlah, revisi, konfigurasi, tanggal, dan batas penggunaan. **Manufacturer declaration** adalah pernyataan dari produsen mengenai hal yang dinyatakannya; minta dasar dan daftar dokumen pendukung. Ia bukan pengganti laporan uji atau persetujuan engineer.
+
+Batas artikel ini penting: pembahasan tidak mengesahkan produk hanya dari PDF terpisah atau component certificate. FAT dan routine acceptance yang menjadi prosedur proyek dibahas pada paket penerimaan tersendiri. Untuk konteks pengadaan, pelaksanaan konstruksi tetap tunduk pada dokumen dan peran proyek yang berlaku ([PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari **requirements register**. Kolom minimalnya: persyaratan, sumber persyaratan, nilai atau kondisi yang diminta, dokumen bukti, identitas unit, status, dan pihak yang menyetujui. Pisahkan “harus dibuktikan oleh desain” dari “harus diperiksa pada unit”. Jika sebuah baris belum punya metode atau kriteria, jangan menutupnya dengan tanda centang.
+
+Berikut urutan pemeriksaan yang praktis:
+
+1. Cocokkan purchase order, datasheet, gambar, dan revisi. Catat nomor seri atau identitas panel.
+2. Petakan setiap klaim ke design verification, routine verification, sertifikat komponen, test report, witness record, atau declaration.
+3. Uji **traceability** (ketertelusuran): nama produsen, tipe, serial/lot, tanggal, revisi, tanda tangan, dan lampiran harus menunjuk objek yang sama.
+4. Periksa deviasi, substitusi, dan perubahan setelah desain disetujui. Bukti lama tidak otomatis ikut berpindah ke konfigurasi baru.
+5. Tutup temuan dengan status accepted, rejected, atau pending beserta penanggung jawab dan tanggalnya. “Pending” bukan “lulus”.
+
+Jika paket teknis menggunakan contoh spesifikasi vendor, perlakukan contoh itu sebagai pola pertanyaan dan daftar deliverable, bukan sebagai spesifikasi proyek Anda. Dokumen teknis publik seperti contoh submittal Modernfold menunjukkan mengapa konfigurasi, material, akses, pengujian, garansi, dan serah-terima perlu ditulis eksplisit ([contoh spesifikasi teknis Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)). Nilai dan kriteria cubicle Anda tetap memerlukan persetujuan proyek.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, **identitas**. Dua panel dengan nama model sama belum tentu identik bila revisi, rating, aksesori, atau pemasok komponen berbeda. Kedua, **cakupan**. Laporan tipe atau sampel mungkin tidak mencakup jumlah unit, susunan busbar, perangkat proteksi, atau kondisi instalasi yang Anda beli.
+
+Ketiga, **antarmuka**. Kabel, terminasi, kontrol jarak jauh, interlock, grounding, ruang kabel, dan sistem hulu-hilir dapat berada di luar dokumen produsen. Keempat, **waktu**. Perubahan desain, NCR, rework, atau penggantian komponen setelah inspeksi memerlukan penilaian ulang.
+
+Kelima, **independensi dan saksi**. Tanda tangan produsen, inspector, owner engineer, atau pihak ketiga memiliki arti berbeda sesuai ITP dan kontrak. Jangan menyimpulkan independensi hanya dari logo. Keenam, **kondisi lapangan**: instalasi, penyimpanan, kelembapan, akses, dan pekerjaan interface dapat membuat bukti pabrik tidak cukup untuk keputusan serah terima. Sobat Cubicle.co.id, bila satu faktor ini belum jelas, tandai gap-nya dan eskalasi; jangan mengubahnya menjadi klaim performa.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Dokumen yang diterima | Yang bisa dijawab | Yang belum bisa dijawab | Tindakan |
+|---|---|---|---|
+| Component certificate | Identitas atau bukti komponen tertentu | Kesesuaian seluruh cubicle | Cocokkan tipe, lot, dan daftar komponen pada gambar |
+| Test report konfigurasi sampel | Hasil uji pada objek dan kondisi yang tertulis | Berlaku untuk unit/revisi lain | Minta sample cakupan dan analisis deviasi |
+| Routine verification unit | Pemeriksaan unit yang dibuat sesuai ITP | Kecukupan desain secara umum | Cocokkan serial, checklist, hasil, dan NCR |
+| Witness record | Kegiatan disaksikan sesuai rencana | Semua persyaratan otomatis lulus | Baca hasil dan kriteria penerimaan, bukan hanya tanda tangan |
+| Manufacturer declaration | Pernyataan produsen yang dibatasi isinya | Validasi independen dan kondisi lapangan | Minta basis teknis, revisi, dan persetujuan engineer |
+
+Misalkan procurement menerima declaration, satu test report sampel, dan certificate untuk circuit breaker, tetapi tidak menerima matriks desain atau routine record dengan serial panel. Keputusan yang aman bukan “dokumen lengkap” atau “produk gagal” secara otomatis. Statusnya **pending**: minta dua bukti yang hilang, lalu minta penilai berwenang menentukan apakah sample cakupan benar-benar mencakup konfigurasi tersebut. Teman Cubicle.co.id, simpan keputusan itu beserta alasan dan pemilik tindak lanjutnya.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Menggunakan kata “sertifikat” tanpa menyebut penerbit, objek, nomor, tanggal, dan ruang lingkup. Tulis kelima identitas itu.
+- Menempelkan certificate komponen pada sampul submittal lalu menyimpulkan rakitan tersertifikasi. Buat daftar hubungan komponen–panel.
+- Menganggap witness sama dengan approval. Cari kriteria, hasil, punch list, dan keputusan penutupan.
+- Mengutip laporan tipe tanpa memeriksa revisi gambar dan deviasi. Tambahkan kolom “match terhadap as-built”.
+- Menilai visual selesai sebagai routine verification. Pastikan checklist mencatat pemeriksaan dan hasil yang memang diwajibkan ITP.
+- Menyalin angka atau toleransi dari manual produk lain. Angka hanya boleh dipakai bila dokumen proyek menyatakan berlaku; jika tidak, sisakan `[NEEDS PROJECT ACCEPTANCE CRITERIA]`.
 
-## Objection or shortcut to address
+jalan pintas “cukup minta PDF sertifikat” tampak cepat karena mengurangi pekerjaan administrasi. Namun jalan pintas itu gagal saat auditor atau owner bertanya: sertifikat untuk objek mana, konfigurasi apa, dan siapa yang menyatakan unit aktual sesuai? Cara yang lebih andal adalah membuat evidence register satu halaman dan menahan status sampai setiap klaim punya bukti yang tepat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Langkah penutup
 
-## Required conclusion
+Design verification membuktikan kecukupan desain; routine verification membuktikan pemeriksaan unit yang diproduksi. Component certificate, test report, witness record, sample cakupan, dan manufacturer declaration melengkapi rantai bukti dengan fungsi yang berbeda—tidak saling menggantikan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Langkah berikutnya, minta vendor mengisi matriks persyaratan dengan nomor dokumen, revisi, serial/lot, cakupan sampel, deviasi, dan status penerimaan. Minta QA, procurement, dan owner engineer menandai gap; jangan menyatakan conformity sebelum kriteria proyek dan bukti profesional yang relevan disetujui. Untuk pembaca yang memerlukan konteks teknis lain, gunakan [beranda Cubicle.co.id](/) sebagai titik mulai, bukan sebagai bukti sertifikasi.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: **tidak ada identitas dan cakupan yang jelas, tidak ada klaim kesesuaian**. Artikel ini membantu memilah evidence; persetujuan desain, FAT/routine acceptance, dan keputusan akhir tetap memerlukan tinjauan teknis proyek.

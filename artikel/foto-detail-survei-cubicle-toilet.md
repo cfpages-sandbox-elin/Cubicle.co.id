@@ -3,7 +3,8 @@ article_id: CUB-03-A06
 title: "Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei"
 slug: "foto-detail-survei-cubicle-toilet"
 description: "Pembaca dapat mengambil foto panel, hardware, lantai, dinding, plafon, drainase, dan kerusakan dengan skala serta label."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,51 +16,15 @@ final_route: "/artikel/foto-detail-survei-cubicle-toilet.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”
-- **Reader and situation:** Surveyor dan estimator lapangan
-- **Reader outcome:** Pembaca dapat mengambil foto panel, hardware, lantai, dinding, plafon, drainase, dan kerusakan dengan skala serta label.
-- **Primary intent:** Membuat referensi visual survei yang berguna
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menilai akar kerusakan; diagnosis dimiliki CUB-07-A03 dan ukuran survei CUB-02-A02.
-- **Final public route:** `/artikel/foto-detail-survei-cubicle-toilet.html`
-- **Appointed CMS date:** `2025-06-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -70,138 +35,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.co.id! Foto survei yang berguna bukan foto ruangan sebanyak-banyaknya, melainkan rangkaian bukti yang membuat orang lain memahami apa yang Anda lihat. Ambil satu foto konteks, lalu foto detail panel, hardware, lantai, dinding, plafon, drainase, dan setiap kerusakan. Sertakan skala dan label lokasi pada setiap detail.
 
-### KR-01
+Urutannya membantu estimator membedakan kondisi awal, antarmuka bangunan, dan gejala yang perlu diperiksa lebih lanjut. Foto tidak membuktikan penyebab kerusakan, kepatuhan, atau kinerja produk. Foto hanya mengunci kondisi yang dapat ditinjau ulang sebelum keputusan desain, penggantian, atau perbaikan dibuat.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle](/wp-content/uploads/2023/01/cubicle.jpg)
 
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-03-A04` → `/artikel/cubicle-toilet-berdasarkan-trafik.html` — Cubicle Toilet untuk Trafik Rendah, Tinggi, dan Risiko Vandalisme
-- `CUB-03-A05` → `/artikel/pintu-tunggal-vs-deret-cubicle-toilet.html` — Pintu Tunggal ke Dinding vs Deret Cubicle Toilet
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari pintu masuk dan ambil foto lebar setiap sisi ruang. Setelah itu, foto setiap modul cubicle dari depan, sambungan ke dinding atau lantai, serta titik yang tampak longgar, berubah warna, retak, tergores, atau sulit dioperasikan. Pada foto detail, letakkan penggaris atau objek skala yang ukurannya diketahui, dan tulis kode lokasi seperti “Toilet 03–engsel atas”.
+
+Salah paham yang sering terjadi adalah menganggap satu foto panel cukup untuk menilai seluruh sistem. Padahal panel, pilaster, pintu, latch, engsel, kaki, headrail, bracket, anchor, celah, dan penyangga bangunan bekerja sebagai satu konfigurasi. Instruksi pemasangan Bobrick, misalnya, menunjukkan bahwa urutan dan titik pengikat merupakan bagian dari sistem, bukan sekadar aksesori panel ([petunjuk pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Karena itu, foto harus memperlihatkan hubungan antarkomponen.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Galeri detail survei” di sini berarti set foto berlabel yang dapat ditelusuri kembali ke denah atau kode ruang. Set tersebut mencakup kondisi cubicle dan antarmukanya dengan lantai, dinding, plafon, perlengkapan sanitair, serta drainase. Ia bukan laporan diagnosis, pengukuran final, atau persetujuan pekerjaan.
+
+Batas ini penting ketika foto menunjukkan panel menggembung atau sekrup berkarat. Gejalanya bisa berkaitan dengan air, gerakan, benturan, substrat, bahan pembersih, atau pemasangan; satu penyebab tidak boleh ditebak dari satu gambar. Panduan pengendalian kelembapan EPA juga menempatkan sumber air dan pengelolaan kelembapan sebagai hal yang perlu ditelusuri, bukan ditutup dengan perbaikan kosmetik ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+
+Foto juga tidak otomatis menyatakan aksesibilitas. Posisi partisi, arah bukaan pintu, ruang pendekatan, fittings, visibilitas, dan tata letak sanitair saling berinteraksi. Rujuk peraturan dan persyaratan proyek Indonesia yang berlaku sebelum mengambil keputusan aksesibilitas ([status Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). **[NEEDS PROJECT REVIEW: G-04 sebelum menyimpulkan aksesibilitas atau dimensi.]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat kode foto sebelum memotret. Format sederhana seperti `lantai-ruang-elemen-urutan` membuat file mudah dicari: `L2-T03-PNL-01` untuk panel, `L2-T03-HNG-02` untuk engsel, dan `L2-T03-DRN-01` untuk drainase. Catat waktu, arah pandang, dan apakah foto diambil sebelum atau sesudah area dibersihkan.
+
+Gunakan urutan tiga lapis berikut.
+
+1. **Konteks:** foto akses masuk, seluruh deret cubicle, hubungan dengan wastafel atau kloset, dan posisi terhadap dinding. Ambil dari dua arah bila ruang memungkinkan.
+2. **Komponen:** foto panel, pintu, pilaster, latch, engsel, kaki, headrail, bracket, anchor yang terlihat, seal, dan celah. Ambil satu tampak utuh lalu close-up titik sambungan.
+3. **Gejala:** foto retak, delaminasi, korosi, bekas rembesan, goresan, kaca terkelupas, pintu mengikat, atau track yang tidak sejajar. Sertakan skala, label, dan foto pembanding komponen yang tampak normal.
+
+Untuk lantai, dinding, dan plafon, arahkan foto agar pertemuan bidang terlihat. Untuk drainase, foto posisi grate, genangan atau bekas aliran yang terlihat, serta sambungan di sekitarnya tanpa membuka penutup atau membongkar instalasi. Jangan mengaktifkan bagian bertenaga atau masuk ke ruang yang tidak aman hanya demi sudut foto.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi pencahayaan mengubah keterbacaan goresan dan noda. Ambil satu foto dengan pencahayaan ruang apa adanya dan satu dengan lampu tambahan yang tidak menyilaukan permukaan. Refleksi pada panel atau kaca dapat menyembunyikan retak, jadi ubah sudut sedikit dan simpan kedua versi bila perlu.
+
+Material juga menentukan pertanyaan lanjutan. Istilah “phenolic”, HPL, atau compact tidak cukup untuk menetapkan kelas penggunaan. ISO membedakan lingkup metode uji HPL dan compact laminate interior; ringkasan tersebut tidak memberikan nilai kinerja untuk sistem cubicle tertentu ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)). Panduan fabrikasi compact laminate memperingatkan bahwa lubang, tepi, pengikat, dan pengondisian tidak boleh diimprovisasi dari label material ([Formica compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Catat label produk yang benar-benar terlihat, tanpa mengubahnya menjadi klaim universal. **[NEEDS PRODUCT REVIEW: G-05 untuk spesifikasi material, ketahanan, atau penggunaan luar ruang.]**
+
+Pola pemakaian pun berpengaruh. Foto pintu yang aus perlu disertai kondisi latch dan engsel; foto lantai basah perlu disertai pertemuan lantai-dinding dan drainase. Dengan begitu, pemeriksa berikutnya dapat memisahkan gejala komponen dari interaksi bangunan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan saat survei | Foto minimum | Pertanyaan sebelum tindakan |
+|---|---|---|
+| Pintu tidak menutup rapat | Tampak pintu dan close-up engsel, latch, celah, serta lantai di bawahnya | Apakah daun pintu bergesekan, hardware longgar, atau lantai berubah posisi? |
+| Tepi panel berubah warna | Tampak utuh, detail tepi, sambungan ke lantai, dan area sekitarnya | Dari mana arah air yang terlihat, dan apakah ada sumber kelembapan lain? |
+| Kaki atau bracket tampak berkarat | Foto komponen, anchor yang terlihat, dan bidang penyangga | Apakah korosi hanya permukaan atau ada perubahan kestabilan yang memerlukan pemeriksaan profesional? |
+| Retak atau gores pada panel/kaca | Close-up berskala dan foto pembanding dari jarak sedang | Apakah pekerjaan boleh diteruskan sebelum material dan keselamatan ditinjau? |
+
+Tabel ini adalah cara mengurutkan bukti, bukan diagnosis. Jika foto menunjukkan potensi bahaya, hentikan pengujian yang dapat memperburuk keadaan dan minta pemeriksaan pihak berwenang di proyek. Kawan Cubicle.co.id, tulis juga apa yang tidak dapat dilihat—misalnya anchor tertutup atau drainase belum dapat diakses—agar kekosongan bukti tidak dianggap sebagai kondisi baik.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Galeri Detail Cubicle Toilet yang Perlu Difoto Saat Survei”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memotret tanpa skala. Ulangi foto detail dengan penggaris atau kartu skala, lalu pastikan skala tidak menutupi retak. Kedua, nama file generik seperti `IMG_1234` memutus hubungan foto dengan ruang. Ganti nama atau gunakan lembar indeks yang memetakan kode foto ke lokasi.
 
-## Objection or shortcut to address
+Ketiga, hanya memotret komponen yang rusak. Selalu simpan foto pembanding dan foto konteks; keduanya membantu menilai apakah gejala terisolasi atau berulang. Keempat, menghapus noda atau mengencangkan hardware sebelum dokumentasi awal. Ambil kondisi awal dulu, kemudian catat tindakan yang dilakukan dan ambil foto sesudahnya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, menyamakan foto bersih dengan bukti performa. Panduan pemeliharaan Bobrick membahas pembersihan sebagai bagian dari perawatan produk tertentu, bukan jaminan bahwa semua sistem atau bahan di lokasi akan berperilaku sama ([Bobrick cleaning and maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)). Teman Cubicle.co.id, pisahkan kolom “terlihat”, “ditanyakan”, dan “perlu diuji” pada lembar survei.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah mengirim satu foto lebar melalui pesan singkat dan meminta estimator menebak kebutuhan material. Cara ini gagal ketika detail pengikat, arah bukaan, sumber air, atau skala kerusakan tidak terlihat. Akibatnya, kunjungan ulang atau pemesanan yang keliru menjadi lebih mungkin.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah mengirim paket berurutan: indeks kode foto, foto konteks, foto komponen, foto gejala berskala, dan catatan area yang tidak dapat diakses. Simpan file asli, jangan hanya tangkapan layar yang kehilangan metadata. Jika keputusan menyentuh struktur, kaca, kelistrikan, aksesibilitas, atau perubahan sistem bangunan, serahkan penilaian kepada profesional dan persyaratan proyek yang berlaku.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup: ubah survei menjadi bukti yang bisa ditinjau
+
+Galeri yang baik memotret konteks, setiap komponen, antarmuka lantai-dinding-plafon-drainase, dan kerusakan dengan skala serta label. Ia membantu orang lain mengajukan pertanyaan yang sama, tetapi tidak menggantikan diagnosis atau persetujuan teknis.
+
+Sebelum meninggalkan lokasi, cocokkan indeks foto dengan denah, tandai area yang belum terlihat, dan minta konfirmasi atas temuan berisiko. Simpan pertanyaan terbuka bersama foto, bukan di ingatan. Aturan kerjanya sederhana: dokumentasikan apa yang terlihat, nyatakan apa yang belum terbukti, dan jangan mengubah foto survei menjadi klaim kinerja atau kepatuhan tanpa tinjauan proyek.
+
+Jika Anda perlu menyamakan istilah dan ruang lingkup pekerjaan sebelum mengirim paket foto, gunakan [halaman utama Cubicle.co.id](/) sebagai titik kembali ke informasi layanan dan kontak proyek.

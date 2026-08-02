@@ -1,9 +1,10 @@
 ---
 article_id: CUB-17-A03
+writing_contract_version: "native-id-v2"
 title: "ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle"
 slug: "itp-hold-point-ncr-punch-list-cubicle"
 description: "Pembaca dapat define inspections, witness/hold points, acceptance evidence, nonconformity containment, corrective action, concession authority, retest, and closeout."
-status: outline
+status: draft
 publication_date: "2026-06-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,19 @@ final_route: "/artikel/itp-hold-point-ncr-punch-list-cubicle.html"
 technical_review: required
 sources:
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Pada proyek cubicle, ITP (Inspection and Test Plan) adalah peta pemeriksaan, titik tahan adalah gerbang yang menahan pekerjaan sampai persetujuan diberikan, NCR (Non-Conformance Report) adalah catatan ketidaksesuaian yang harus dikendalikan, dan Punch List adalah daftar sisa pekerjaan sebelum serah terima. Keempatnya bukan empat formulir terpisah: semuanya membentuk satu jejak keputusan dari pekerjaan siap diperiksa sampai ditutup.
 
-- **Writer task:** Expand this file into one complete article answering: “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”
-- **Reader and situation:** QA/QC dan project leadership
-- **Reader outcome:** Pembaca dapat define inspections, witness/hold points, acceptance evidence, nonconformity containment, corrective action, concession authority, retest, and closeout.
-- **Primary intent:** Menjalankan quality control
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menentukan technical acceptance criteria; toilet dimiliki CUB-06-A06, office CUB-10-A01, dan electrical CUB-14-A08.
-- **Final public route:** `/artikel/itp-hold-point-ncr-punch-list-cubicle.html`
-- **Appointed CMS date:** `2026-06-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan praktisnya ialah menetapkan titik inspeksi dan bukti di ITP, memberi tanda Witness atau titik tahan sebelum pekerjaan tertutup, menahan dan memisahkan hasil yang tidak sesuai melalui NCR, lalu memverifikasi perbaikan dan menyelesaikan Punch List. Kriteria lulus tidak boleh ditebak dari label produk atau foto. Ia harus datang dari gambar yang disetujui, spesifikasi, submittal, metode kerja, mock-up, dan matriks kewenangan proyek. **[NEEDS PROJECT ITP/ACCEPTANCE MATRIX: kriteria lulus, pemilik persetujuan, dan batas waktu respons belum tersedia dalam paket ini.]**
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -67,140 +39,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-17-A01` → `/artikel/raci-proyek-cubicle.html` — RACI Proyek Cubicle dari Survey sampai Handover
-- `CUB-17-A02` → `/artikel/register-submittal-cubicle.html` — Register Submittal Cubicle: Gambar, Material, Test, dan Deviasi
-- `CUB-17-A04` → `/artikel/register-aturan-standar-cubicle.html` — Register Aturan dan Standar Cubicle yang Benar-Benar Berlaku
-- `CUB-17-A05` → `/artikel/indeks-dokumen-handover-cubicle.html` — Indeks Dokumen Handover Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari aktivitas, bukan dari nama formulir. Sebelum pemasangan panel, frame, pintu, hardware, atau sealant dimulai, QA/QC dan pelaksana menyepakati apa yang diperiksa, siapa yang hadir, alat atau dokumen apa yang menjadi bukti, serta kondisi yang menghentikan pekerjaan. Itulah fungsi ITP. titik tahan menambahkan aturan “jangan lanjut” sampai pihak yang ditunjuk menandatangani atau memberi rilis tertulis; Witness Point memberi kesempatan menyaksikan, tetapi prosedur proyek harus menjelaskan apa yang terjadi bila wakil tidak hadir.
+
+NCR tidak sama dengan Punch List. NCR menangani penyimpangan terhadap persyaratan yang sudah ditetapkan: objek dikendalikan, dampak dinilai, akar masalah dan tindakan koreksi dicatat, lalu hasilnya diverifikasi. Punch List lebih cocok untuk sisa pekerjaan atau cacat yang ditemukan menjelang inspeksi akhir. Sebuah item Punch List bisa berubah menjadi NCR bila ternyata melanggar persyaratan atau berulang. Menyebut semua hal “punch” agar cepat tutup justru menghilangkan jejak keputusan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+ITP sebaiknya memiliki kolom aktivitas, prasyarat, jenis titik kontrol (tinjauan, Witness, atau Hold), pemeriksa, bukti yang diserahkan, status, dan referensi dokumen. Ia tidak menetapkan ketebalan panel, rating, jarak pengikat, atau toleransi baru. Angka dan toleransi harus diambil dari dokumen proyek yang berlaku.
+
+titik tahan adalah status kendali, bukan sekadar kolom tanda tangan. Jika dukungan struktur, jalur utilitas, atau koordinasi plafon belum terbukti, pekerjaan yang menutup akses perlu ditahan. Panduan FEMA menunjukkan bahwa elemen nonstruktural dan antarmukanya perlu dipikirkan terhadap gerakan bangunan serta koneksi; karena itu foto setelah panel tertutup tidak menggantikan bukti kondisi sebelum penutupan (lihat [panduan FEMA tentang risiko kerusakan nonstruktural](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+
+NCR memerlukan identitas lokasi, referensi persyaratan, deskripsi fakta yang dapat diamati, containment (pengamanan sementara), pemilik tindakan, tanggal target, dan bukti penutupan. Concession atau penerimaan dengan deviasi hanya sah bila kewenangannya jelas secara tertulis; QA/QC tidak boleh mengubah persyaratan atas nama pemilik, perencana, atau otoritas.
+
+Punch List adalah daftar terukur: nomor item, lokasi, uraian, penanggung jawab, status, bukti perbaikan, dan pemeriksa penutup. Lingkup artikel ini adalah pengendalian mutu cubicle. Penentuan kriteria teknis toilet berada di CUB-06-A06, office di CUB-10-A01, dan electrical di CUB-14-A08; halaman ini tidak menggantikan ketiganya.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Tetapkan paket rujukan.** Bekukan revisi gambar, spesifikasi, submittal, metode kerja, dan sampel yang disetujui. Jika revisi belum jelas, jangan membuka titik tahan.
+2. **Survei prasyarat.** Konfirmasi dimensi aktual, ketegakan dan kerataan area, posisi struktur, ceiling void, movement joint, sprinkler/detector, jalur listrik/data, skirting, drainase, akses, dan ruang penyimpanan. Dimensi denah saja tidak membuktikan kondisi tersembunyi; contoh spesifikasi partisi operable juga menuntut koordinasi antarmuka, bukan hanya ukuran panel (lihat [contoh spesifikasi teknis Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+3. **Susun ITP per tahap.** Pisahkan incoming material, mock-up, setting-out, fixing/support, pemasangan panel dan pintu, hardware, sealant/edge, pembersihan, fungsi, serta serah terima. Untuk setiap tahap, sebutkan bukti yang akan ada sebelum pekerjaan berikutnya menutupnya.
+4. **Panggil inspeksi.** Pelaksana mengirim notice dengan lokasi dan kesiapan; QA/QC memeriksa bukti; pihak Witness atau Hold memberi catatan dan status. “Sudah difoto” bukan otomatis “diterima”.
+5. **Kendalikan ketidaksesuaian.** Hentikan penyebaran, tandai area atau batch terdampak, dan lindungi pekerjaan yang masih baik. Buka NCR ketika fakta dibandingkan dengan persyaratan menunjukkan deviasi, bukan ketika seseorang sekadar tidak menyukai hasil visual.
+6. **Koreksi, verifikasi, dan retest.** Tindakan koreksi harus menjawab penyebab serta cakupan terdampak. Retest memakai metode dan kriteria yang disetujui; lampirkan hasil, tanggal, alat atau pemeriksa yang relevan, lalu minta verifikasi independen sesuai matriks proyek.
+7. **Tutup Punch List dan serah-terima.** Item hanya ditutup dengan bukti lokasi, dokumen as-built atau revisi, manual, daftar spare bila diwajibkan, dan tanda terima pihak berwenang. Status “selesai oleh kontraktor” belum sama dengan “diterima”.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi lapangan dapat mengubah titik tahan. Jika ada kelembapan, kebocoran, kondensasi, kontak kapiler, atau akses pengeringan yang buruk, jangan menyimpulkan bahwa material “moisture resistant” berarti rakitan tahan air. EPA menekankan pengendalian sumber air, ventilasi, drainase, dan pengeringan; panduan fabrikasi Formica juga mengarahkan perhatian pada tepi, lubang pengikat, sealant, substrat, dan detail area basah ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0); [panduan fabrikasi Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+
+Antarmuka struktur dan utilitas juga penting. Perubahan layout dapat menyentuh keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan bangunan; PP No. 16 Tahun 2021 menjadi kerangka nasional, tetapi catatan tingkat tinggi itu tidak memberi aturan universal untuk ketebalan, pengikat, clearance pintu, atau rating partisi ([status PP No. 16 Tahun 2021 di BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Karena itu, [NEEDS PROFESSIONAL/PROJECT REVIEW: koordinasi struktur, kebakaran, aksesibilitas, dan utilitas untuk lokasi spesifik].
+
+Faktor bukti sama menentukan. Foto harus dapat ditautkan ke lokasi dan waktu; sertifikat material harus cocok dengan batch atau pengiriman; hasil uji harus memakai metode yang disetujui; dan tanda tangan harus berasal dari peran yang memang berwenang. Bila salah satu rantai putus, status paling aman adalah “pending”, bukan “closed”.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan frame sudah terpasang, tetapi foto pra-penutupan tidak menunjukkan posisi pengikat dan jalur kabel. Keputusan yang dapat diaudit adalah menahan penutupan, melakukan verifikasi non-destruktif atau membuka area hanya setelah persetujuan metode, lalu memperbarui ITP. Jangan mengisi foto lama dengan asumsi bahwa semua lokasi sama.
+
+Contoh kedua: tepi panel di area yang pernah mengalami rembesan terlihat berubah. QA/QC mencatat lokasi dan kondisi, menghentikan pekerjaan penutup, menelusuri sumber air, dan meminta keputusan teknis. Jika persyaratan material atau detail tepi dilanggar, buka NCR; jika hanya sisa sealant yang belum rapi tetapi spesifikasi terpenuhi, catat sebagai Punch List. Teman Cubicle.co.id, pembeda utamanya adalah referensi persyaratan dan dampak, bukan besar-kecilnya noda.
+
+Contoh ketiga: pemilik meminta pekerjaan diterima dengan deviasi karena jadwal. Tim boleh memproses permintaan concession, tetapi hanya pejabat yang ditunjuk dalam matriks kewenangan yang dapat menyetujui dampak, batas waktu, kompensasi, atau pekerjaan tambahan. Tanpa itu, item tetap terbuka.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Membuat ITP setelah pekerjaan selesai. Periksa tanggal penerbitan dan pastikan titik Hold muncul sebelum aktivitas yang menutup bukti.
+- Menganggap checklist adalah bukti. Cocokkan setiap centang dengan foto terlokasi, dokumen revisi, hasil uji, atau catatan pemeriksaan yang benar-benar ada.
+- Menggabungkan NCR dan Punch List. Tanyakan: persyaratan mana yang dilanggar, apakah area harus di-contain, dan siapa yang berwenang menerima deviasi?
+- Menutup NCR dengan foto “sesudah” tanpa retest. Tinjau metode koreksi, cakupan area terdampak, hasil uji ulang bila dipersyaratkan, dan verifikator.
+- Menyalin toleransi dari proyek lain. Kembali ke spesifikasi dan gambar proyek; bila tidak ada, tinggalkan [NEEDS ACCEPTANCE CRITERIA] untuk keputusan teknis.
+- Mengabaikan kelembapan dan akses perawatan. Catat sumber air, ventilasi, drainase, tepi, sealant, dan kemampuan inspeksi ulang sebelum menyatakan kondisi aman.
 
-## Objection or shortcut to address
+## Jalan pintas yang perlu dihindari
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+jalan pintas yang sering terdengar adalah, “Kita pakai foto akhir saja supaya cepat serah terima.” Foto akhir memang membantu membuktikan kondisi terlihat, tetapi tidak membuktikan apa yang berada di balik panel, apakah titik tahan pernah dirilis, atau apakah ketidaksesuaian sudah di-contain. Cara yang lebih cepat dalam jangka proyek adalah membuat daftar bukti minimum sejak ITP, memberi ID lokasi konsisten, dan menolak status tutup bila satu bukti wajib hilang. Kawan Cubicle.co.id, kecepatan yang dapat dipertanggungjawabkan berasal dari alur yang jelas, bukan dari menghapus jejak.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+ITP menentukan apa dan kapan diperiksa; titik tahan mencegah pekerjaan menutup bukti sebelum rilis; NCR mengendalikan penyimpangan sampai koreksi dan verifikasi; Punch List memastikan sisa pekerjaan benar-benar selesai dan diterima. Untuk langkah berikutnya, minta tim menyusun satu matriks ITP–kewenangan–bukti untuk area cubicle Anda, lalu cocokkan setiap Hold dan NCR dengan gambar, spesifikasi, submittal, serta kondisi lapangan yang aktual.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jangan menetapkan angka, rating, toleransi, concession, atau garansi dari artikel ini. Jika kriteria atau kewenangan belum tertulis, tandai terbuka dan minta persetujuan QA/QC, perencana, pemilik, serta profesional terkait sebelum pekerjaan dilanjutkan. Untuk menyiapkan daftar pemeriksaan berikutnya, gunakan [beranda Cubicle.co.id](/) sebagai titik kembali ke materi proyek yang tersedia. Itulah aturan operasi yang menjaga closeout tetap dapat diaudit.

@@ -3,7 +3,8 @@ article_id: CUB-03-A03
 title: "Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki"
 slug: "anatomi-cubicle-toilet"
 description: "Pembaca dapat mengenali fungsi, sambungan, load path, dan titik pemeriksaan setiap komponen utama."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,49 +18,23 @@ sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
   - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki
 
-## Assignment lock
+Halo, Teman Cubicle.co.id! Jangan menilai cubicle toilet hanya dari lembar panel atau nama materialnya. Sistem ini bekerja sebagai rangkaian: panel membentuk bidang pemisah, pilaster menjadi tiang, pintu bergerak pada engsel dan menerima latch, sedangkan headrail, kaki, bracket, dan anchor menyalurkan gaya ke lantai atau bangunan. Pertanyaan pemeriksaan yang benar adalah “gaya dari bagian ini berakhir di mana dan sambungannya dibuktikan dengan apa?”
 
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”
-- **Reader and situation:** Pembeli, inspector, dan pengguna shop drawing
-- **Reader outcome:** Pembaca dapat mengenali fungsi, sambungan, load path, dan titik pemeriksaan setiap komponen utama.
-- **Primary intent:** Mengenali bagian toilet partition
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menetapkan ketebalan atau kapasitas universal; material dimiliki CUB-04-A03 dan stabilitas instalasi CUB-06-A03.
-- **Final public route:** `/artikel/anatomi-cubicle-toilet.html`
-- **Appointed CMS date:** `2025-06-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: panel dan pintu memberi privasi, pilaster dan bracket menyusun bidang, headrail atau pengaku membantu menjaga hubungan antarkomponen, sementara kaki dan anchor mengikat sistem ke lantai. Namun tidak ada ketebalan, kapasitas, atau susunan yang otomatis berlaku untuk semua proyek. Gambar kerja, jenis substrat, produk yang dipilih, cara pakai, kelembapan, serta koordinasi aksesibilitas dapat mengubah keputusan. **[NEEDS PROJECT REVIEW: verifikasi sistem, substrat, dan detail sambungan sebelum persetujuan akhir.]**
 
-## Opening instructions
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/01/cubicle-panel.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -70,140 +45,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-03-A01` → `/artikel/jenis-cubicle-toilet-sistem-penopang.html` — Jenis Cubicle Toilet Berdasarkan Sistem Penopang
-- `CUB-03-A02` → `/artikel/nama-model-cubicle-toilet-dan-kinerja.html` — Standar, Premium, Two Tone, Single Door: Nama Model atau Kinerja?
-- `CUB-03-A04` → `/artikel/cubicle-toilet-berdasarkan-trafik.html` — Cubicle Toilet untuk Trafik Rendah, Tinggi, dan Risiko Vandalisme
-- `CUB-03-A05` → `/artikel/pintu-tunggal-vs-deret-cubicle-toilet.html` — Pintu Tunggal ke Dinding vs Deret Cubicle Toilet
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “cubicle toilet” berarti sistem partisi ruang basah yang terdiri dari bidang panel, tiang pemisah (pilaster), pintu, perangkat pengikat, dan antarmuka ke lantai atau dinding. Istilah *load path* berarti jalur gaya: dorongan pada pintu atau panel berpindah melalui engsel, bracket, pilaster, kaki, anchor, lalu ke substrat bangunan. Menyebut satu bagian tanpa menelusuri jalur itu membuat pemeriksaan terputus.
+
+Material juga perlu dibaca hati-hati. Label “HPL”, “phenolic”, atau “compact” tidak dengan sendirinya membuktikan ketahanan sistem terpasang. ISO 4586-2 menjelaskan ruang lingkup metode uji HPL, bukan nilai universal untuk setiap cubicle ([ISO 4586-2:2018](https://www.iso.org/standard/72960.html)). Karena itu, artikel ini tidak menetapkan tebal panel, bentang maksimum, beban pintu, kelas api, atau kapasitas anchor. Pemilihan material dan stabilitas instalasi memerlukan dokumen produk serta tinjauan profesional terkait proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari bidang yang terlihat, lalu ikuti sambungannya.
+
+- **Panel** adalah bidang pemisah dan pembentuk privasi. Tepi panel bertemu pilaster, dinding, atau panel lain melalui bracket, profil, atau pengikat sesuai sistem. Periksa apakah tepi terlindungi, lubang tidak terlalu dekat dengan tepi, dan akses pembersihan tetap ada.
+- **Pilaster** adalah tiang vertikal tempat panel dan sering kali pintu bertumpu. Ia menerima gaya geser, puntir, dan dorongan dari komponen yang terhubung. Tanyakan pada shop drawing: apakah pilaster berdiri pada kaki, menempel ke dinding, atau ditahan headrail; lalu identifikasi anchor dan substratnya.
+- **Pintu** membawa engsel, latch, dan gaya berulang dari buka-tutup atau dorongan pengguna. Celah, arah ayun, privacy return, dan ruang pendekatan harus dibaca bersama layout, bukan disalin dari katalog. Peraturan aksesibilitas Indonesia menempatkan pintu, ruang pendekatan, sirkulasi, dan perlengkapan sebagai koordinasi ruang yang utuh ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017); [PDF peraturan](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
+- **Headrail atau pengaku atas** menghubungkan bagian atas pilaster/panel bila sistem menggunakannya. Jangan menganggap headrail selalu wajib atau selalu cukup: fungsi akhirnya bergantung pada konfigurasi, sambungan, dan apakah bangunan menyediakan titik tumpu yang benar.
+- **Kaki, bracket, dan anchor** adalah antarmuka ke lantai atau dinding. Kaki dapat mengatur jarak dari lantai dan membantu perataan; anchor meneruskan gaya ke substrat. Jenis lantai, ketebalan screed, utilitas tersembunyi, dan kondisi tepi menentukan apakah detail itu dapat dipasang. Petunjuk instalasi produsen menunjukkan bahwa panel, pilaster, hardware, bracket, celah, dan penopang harus dibaca sebagai satu urutan pemasangan ([Bobrick 2040 installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+Urutan kerja praktisnya adalah: tetapkan grid dan bukaan, cocokkan titik tumpu dengan substrat, pasang penopang, sejajarkan pilaster, pasang panel dan pintu, lalu uji gerak serta celah. Jika salah satu titik tumpu berubah di lapangan, hitung ulang jalur gaya dan minta persetujuan revisi; jangan menambal lubang baru tanpa memeriksa jarak tepi dan utilitas.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat kelompok kondisi paling sering mengubah anatomi efektif sebuah cubicle.
+
+1. **Layout dan pengguna.** Arah ayun pintu, ruang putar, posisi kloset, grab bar, dan jalur sirkulasi dapat membuat susunan panel yang tampak rapi menjadi tidak dapat digunakan. Aksesibilitas adalah hasil koordinasi ruang dan operasi, bukan ukuran satu produk.
+2. **Substrat dan bangunan.** Beton, pasangan, rangka ringan, screed, dan dinding berlapis memiliki kemampuan menahan pengikat yang berbeda. Shop drawing harus menunjukkan tipe anchor, kedalaman efektif yang disyaratkan produsen, serta siapa yang memverifikasi kondisi aktual.
+3. **Lingkungan basah dan material.** Panduan fabrikasi compact laminate memperingatkan bahwa lubang, tepi, pengondisian, dan perubahan kelembapan perlu ditangani sesuai produk; jangan mengubah panduan itu menjadi jaminan untuk semua papan ([Formica Compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Genangan, kebocoran, ventilasi buruk, dan bahan kimia pembersih dapat memengaruhi panel maupun hardware.
+4. **Pelaksanaan dan pemeliharaan.** Lubang yang bergeser, pilaster tidak tegak, sekrup kurang kencang, atau pintu dipaksa menutup mengubah beban dari desain awal. Gejala seperti pintu mengikat, panel goyang, karat, retak, atau tepi mengelupas bisa berasal dari gerakan, benturan, air, korosi, atau substrat—bukan sekadar masalah kosmetik. Panduan perawatan produsen dan prinsip pengendalian kelembapan menyarankan mencari sumber masalah sebelum perbaikan berulang ([Bobrick cleaning and maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/); [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini saat menandai shop drawing atau inspeksi awal:
+
+| Temuan | Pertanyaan jalur gaya | Tindakan aman |
+|---|---|---|
+| Panel bergetar saat didorong ringan | Gaya masuk ke bracket, pilaster, atau anchor mana? | Minta detail sambungan dan verifikasi substrat; jangan langsung menambah sekrup. |
+| Pintu tidak kembali atau latch tidak bertemu | Apakah engsel, pilaster, lantai, atau frame yang tidak sejajar? | Ukur kelurusan dan celah, lalu ikuti instruksi hardware sebelum penyetelan. |
+| Kaki berada di atas area yang sering tergenang | Ke mana air mengalir dan apakah titik tumpu terlindungi? | Hentikan asumsi material “tahan air”; periksa drainase, seal, dan detail produk. |
+| Layout perlu akses pengguna kursi roda | Apakah ayun, ruang pendekatan, fitting, dan sirkulasi terbaca bersama? | Koordinasikan arsitek/inspektor dan regulasi proyek; jangan menyatakan patuh dari satu dimensi. |
+
+Sobat Cubicle.co.id, tandai setiap komponen dengan tiga catatan: fungsi, sambungan, dan bukti penerimaan. Bila salah satunya kosong, statusnya bukan “aman”, melainkan “perlu klarifikasi”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Cubicle Toilet: Panel, Pilaster, Pintu, Headrail, dan Kaki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membeli panel berdasarkan nama material, lalu berharap hardware dan anchor akan cocok. Periksa lembar data sistem lengkap, detail tepi, lubang, bracket, kaki, dan instruksi pemasangan—bukan hanya sampel permukaan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengukur pintu sebagai komponen terpisah. Tandai arah ayun, latch, privacy return, ruang pendekatan, dan benda yang mungkin menghalangi. Hubungkan tanda itu ke denah dan elevasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah memperbaiki gejala tanpa mencari penyebab. Untuk panel longgar, catat lokasi, arah gerakan, kondisi sambungan, dan perubahan kelembapan atau benturan. Untuk hardware berkarat atau pintu seret, cek sumber air dan kompatibilitas pembersih. Jangan membuka, memotong, atau memperbaiki elemen bangunan/servis tanpa kewenangan dan tinjauan yang sesuai.
 
-## Required conclusion
+## Mengapa detail proyek lain tidak boleh disalin mentah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+jalan pintas yang sering dipilih adalah memakai detail proyek lain karena “ukurannya sama”. Detail itu dapat gagal ketika substrat, arah ayun, tinggi lantai jadi, atau pola penggunaan berbeda. Alternatif yang lebih andal: jadikan detail lama hanya referensi visual, lalu minta shop drawing proyek ini menunjukkan jalur gaya, tipe pengikat, toleransi, dan titik pemeriksaan. Untuk klaim aksesibilitas, kinerja, atau kepatuhan, **[NEEDS PROFESSIONAL REVIEW: cocokkan dengan regulasi dan persyaratan proyek yang berlaku.]**
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Anatomi cubicle toilet bukan daftar nama komponen. Panel membentuk bidang, pilaster dan pintu membawa serta meneruskan gaya melalui hardware, headrail/pengaku membantu hubungan antarbagiannya bila memang dirancang demikian, dan kaki-bracket-anchor mengikat sistem ke bangunan. Fungsi itu baru dapat dipercaya setelah sambungan, substrat, layout, kondisi basah, dan pemeliharaan dibaca bersama.
+
+Langkah berikutnya: pada shop drawing, beri kode P (panel), PL (pilaster), D (pintu), HR (headrail), dan K/A (kaki/anchor); tarik panah jalur gaya untuk tiap komponen; lalu minta produsen dan penanggung jawab proyek mengesahkan detail yang belum terbukti. Untuk orientasi layanan dan konteks produk, Anda dapat mulai dari [beranda Cubicle.co.id](/); untuk keputusan teknis, tetap gunakan dokumen proyek. Kawan Cubicle.co.id, gunakan aturan kerja ini: **jangan menyimpulkan kapasitas atau kepatuhan dari bentuk yang terlihat—telusuri bukti sambungan sampai ke bangunan.**

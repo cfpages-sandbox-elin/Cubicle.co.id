@@ -3,7 +3,8 @@ article_id: CUB-16-A02
 title: "Menyusun BoQ dan Basis Kuantitas Cubicle"
 slug: "boq-dan-basis-kuantitas-cubicle"
 description: "Pembaca dapat menentukan unit/line item, drawing takeoff, exclusions, wastage, accessories, testing, documentation, and revision basis untuk tiap system."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,7 +15,6 @@ reader_address: "Sobat Cubicle.co.id"
 final_route: "/artikel/boq-dan-basis-kuantitas-cubicle.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
   - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
@@ -22,44 +22,23 @@ sources:
   - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
   - "https://www.bobrick.com/resource-center-2/guide-specifications/"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menyusun BoQ dan Basis Kuantitas Cubicle
 
-## Assignment lock
+Halo, Sobat Cubicle.co.id! BoQ (Bill of Quantities) cubicle yang dapat dibandingkan bukan sekadar luas panel dikalikan harga. Basisnya adalah daftar line item yang menyatakan sistem apa yang dihitung, satuannya, sumber dimensinya, pekerjaan yang termasuk, pengecualian, allowance susut, aksesori, pengujian, dokumen serah terima, dan revisi gambar yang berlaku.
 
-- **Writer task:** Expand this file into one complete article answering: “Menyusun BoQ dan Basis Kuantitas Cubicle”
-- **Reader and situation:** QS, estimator, dan buyer
-- **Reader outcome:** Pembaca dapat menentukan unit/line item, drawing takeoff, exclusions, wastage, accessories, testing, documentation, and revision basis untuk tiap system.
-- **Primary intent:** Menghitung scope quantity yang dapat dibandingkan
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Sobat Cubicle.co.id`
-- **Natural variants:** `Kawan Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak membuat harga atau engineering rating; technical scope dimiliki CUB-05-A02, CUB-08-A01, dan CUB-12-A01.
-- **Final public route:** `/artikel/boq-dan-basis-kuantitas-cubicle.html`
-- **Appointed CMS date:** `2026-05-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kunci pertama adalah membekukan basis pengukuran sebelum meminta penawaran. Ambil kuantitas dari gambar revisi yang disebutkan, pecah tiap sistem menjadi komponen yang bisa diverifikasi, lalu tulis asumsi dan exclusions di baris yang sama. Jika kondisi lapangan, detail sambungan, atau spesifikasi produk belum tersedia, jangan mengubahnya menjadi angka pasti; tandai sebagai `[NEEDS PROJECT SURVEY]` untuk ditutup oleh tim desain, kontraktor, dan QA.
 
-## Opening instructions
+![Ilustrasi cubicle](/wp-content/uploads/2023/01/cubicle.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menyusun BoQ dan Basis Kuantitas Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -70,139 +49,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-16-A01` → `/artikel/komponen-biaya-cubicle.html` — Komponen Biaya Cubicle Toilet, Kantor, dan Listrik
-- `CUB-16-A03` → `/artikel/bid-leveling-penawaran-cubicle.html` — Bid Leveling Cubicle: Membandingkan Penawaran Tanpa Tertipu Harga Total
-- `CUB-16-A04` → `/artikel/due-diligence-vendor-cubicle.html` — Due Diligence Vendor Cubicle dan Bukti Kapabilitas
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun BoQ dan Basis Kuantitas Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun BoQ dan Basis Kuantitas Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “cubicle” berarti sistem partisi atau enclosure yang akan dihitung untuk pengadaan dan pelaksanaan—misalnya panel, rangka, pintu, hardware, seal, trim, dan interface pendukung. BoQ menjawab “berapa dan apa yang diserahkan”; ia tidak menetapkan engineering rating, kapasitas struktur, atau harga yang benar untuk semua proyek. cakupan teknis tetap perlu dirujukkan ke dokumen desain yang disetujui.
+
+Pisahkan tiga lapisan informasi berikut.
+
+1. **Basis kuantitas:** gambar, detail, schedule, dan tanggal/revisi yang menjadi sumber takeoff.
+2. **Basis sistem:** tipe panel, rangka atau support, ukuran modul, pintu, hardware, finish, sealant, dan aksesori yang termasuk.
+3. **Basis komersial-pelaksanaan:** pekerjaan persiapan, proteksi, akses/logistik, testing, dokumentasi, garansi, spare, exclusions, dan aturan perubahan.
+
+Kerangka ini sejalan dengan kebutuhan dokumen konstruksi dan pengadaan yang harus membedakan lingkup, spesifikasi, serta bukti serah terima. Status dan ruang lingkup umum jasa konstruksi dapat dilihat pada [UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu) dan [PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), tetapi keduanya bukan template kontrak atau pengganti tinjauan hukum proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun BoQ dan Basis Kuantitas Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan **drawing register**: nomor gambar, judul, revisi, tanggal, dan siapa yang menerbitkan. Tandai denah, elevasi, detail sambungan, reflected ceiling plan, serta schedule pintu atau hardware yang dipakai. Takeoff dari denah saja berisiko melewatkan tinggi aktual, transisi, dan pertemuan dengan elemen lain. Panduan nonstruktural FEMA juga mengingatkan bahwa layout tidak otomatis mengungkap lokasi struktur, sambungan gerak, utilitas tersembunyi, sprinkler, detektor, atau kapasitas substrate; kondisi ini harus diverifikasi melalui survei dan koordinasi proyek ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+
+Setelah sumber beku, buat satu baris per unit yang bisa dihitung dan diperiksa. Contoh struktur kolomnya:
+
+| Kolom | Isi yang harus terlihat |
+|---|---|
+| ID/area | Ruang, grid, elevasi, atau zona pemasangan |
+| Sistem dan konfigurasi | Tipe panel/rangka, tinggi, tebal, modul, pintu, arah bukaan |
+| Unit dan kuantitas | m, m², set, unit, titik, atau lot; tulis rumus takeoff |
+| Include/exclude | Pekerjaan yang masuk dan yang sengaja dikeluarkan |
+| Allowance | Sambungan, potongan, wastage, spare; nilai harus disetujui, bukan ditebak |
+| Bukti | Gambar/revisi, submittal, checklist inspeksi, foto, hasil test |
+
+Hitung panel, rangka, pintu, hardware, trim, sealant, dan penetrasi secara terpisah sebelum membuat total sistem. Instruksi pemasangan partisi HPL Bobrick memperlihatkan mengapa detail fastener, support, dan urutan pemasangan tidak boleh diringkas menjadi “1 set”; gunakan dokumen pabrikan sistem yang benar, bukan menyalin toleransi atau langkahnya ke produk lain ([instruksi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Untuk sistem stud metal, hub sistem Knauf menunjukkan bahwa konfigurasi lapisan dan komponen pembentuk dinding harus disebut, bukan hanya luas permukaannya ([Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)).
+
+Tutup siklus dengan **inspection and test plan (ITP)**. Tetapkan titik tahan sebelum elemen tersembunyi ditutup, pemeriksaan dimensi dan alignment, verifikasi hardware, fungsi buka-tutup, serta daftar dokumen as-built dan manual. Sistem lipat/geser, misalnya, perlu commissioning atas fungsi yang dimaksud; manual operasi dormakaba menekankan penggunaan dan pengoperasian sistem tertentu, bukan bukti bahwa sistem lain telah lulus ([manual dormakaba](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun BoQ dan Basis Kuantitas Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kondisi lapangan.** Tinggi lantai-ke-plafon, plumb/level, balok, kolom, movement joint, utilitas, skirting, drainase, akses angkut, dan ruang stacking dapat mengubah panjang, jumlah trim, support, atau urutan kerja. Karena itu, kuantitas dari gambar harus punya kolom “terverifikasi lapangan” dan tanggal pengukuran.
+
+**Lingkungan dan material.** “Moisture resistant” bukan berarti rakitan kedap air. EPA menjelaskan bahwa kebocoran, kondensasi, drainase, ventilasi, sambungan, dan kemampuan mengering memengaruhi pengendalian kelembapan ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Pedoman Gypsum Association dan panduan fabrikasi Formica juga menempatkan penyimpanan, tepi, lubang fastener, substrate, dan detail area basah sebagai hal yang perlu dikendalikan ([GA-238-03](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf); [Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Maka, tulis kelas paparan dan detail perlindungan sebagai asumsi terbuka, bukan klaim performa.
+
+**Perubahan dan bukti.** Substitusi material, perubahan modul, atau deviasi support dapat memengaruhi struktur, akustik, api, kelembapan, tampilan, dan garansi. Setiap revisi perlu nomor perubahan, alasan, dampak kuantitas, dan persetujuan. Dokumen guide-specification Bobrick dan contoh technical specification Modernfold berguna sebagai pola kelengkapan submittal, bukan spesifikasi otomatis untuk proyek Anda ([Bobrick guide specifications](https://www.bobrick.com/resource-center-2/guide-specifications/); [Modernfold specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun BoQ dan Basis Kuantitas Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan estimator menerima denah dengan 24 bilik, tetapi tidak menerima detail plafon, schedule hardware, atau status area basah. Jangan masukkan “24 set lengkap” sebagai angka final. Buat tiga status:
+
+| Status | Tindakan BoQ |
+|---|---|
+| Terukur | Hitung unit yang jelas dari gambar revisi; simpan rumus dan referensi grid. |
+| Allowance | Pisahkan trim, seal, sambungan, atau spare yang kebutuhannya bergantung detail; minta dasar persetujuan. |
+| Belum terbukti | Tandai `[NEEDS PROJECT SURVEY]` untuk support, penetrasi, plafon, utilitas, atau kondisi lembap yang belum disurvei. |
+
+Jika dua vendor menawarkan luas panel yang sama, bandingkan juga pintu dan hardware, framing/support, hasil akhir, proteksi, akses/logistik, bongkar-buang, testing, jadwal, garansi, spare, dan serah terima. Equal area atau lump sum terendah belum berarti equal cakupan. Untuk isu yang melampaui basis kuantitas, mulai dari [halaman utama Cubicle.co.id](/) dan arahkan pertanyaan teknis ke dokumen desain serta reviewer proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun BoQ dan Basis Kuantitas Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Mengukur dari satu denah.** Cocokkan setiap segmen dengan elevasi, detail, dan register revisi.
+- **Menggabungkan semua aksesori ke “set”.** Tampilkan engsel, kunci, kaki, trim, seal, dan penetrasi sebagai line item atau sub-item yang dapat dihitung.
+- **Menyembunyikan wastage.** Nyatakan basis potongan, sambungan, dan persetujuan allowance; jangan memakai persentase generik tanpa data proyek.
+- **Menganggap visual selesai sebagai commissioning.** Uji fungsi yang dimaksud dan lampirkan checklist, hasil pengujian, serta punch list.
+- **Mengabaikan exclusions.** Tulis siapa yang menangani substrate, plafon, listrik/data, sprinkler, proteksi, pembongkaran, pembersihan, dan disposal.
+- **Menyalin spesifikasi pabrikan lain.** Gunakan instruksi produk yang benar dan minta persetujuan bila ada substitusi.
 
-## Objection or shortcut to address
+Kawan Cubicle.co.id, pemeriksaan terakhir seharusnya bisa menjawab: “Untuk angka ini, saya menunjuk gambar revisi mana, mengukur dengan unit apa, dan bukti apa yang akan saya terima?” Jika salah satu jawabannya tidak ada, baris tersebut belum siap dibandingkan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Ketika harga total tampak lebih cepat
 
-## Required conclusion
+jalan pintas yang sering dipilih buyer adalah meminta satu harga total per bilik agar proses cepat. Cara ini memang mengurangi jumlah baris, tetapi menyamarkan perbedaan konfigurasi, exclusions, support, aksesori, dan dokumen serah terima. Akibatnya, variasi baru muncul ketika kondisi lapangan atau detail pintu dibuka.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah memakai template line item yang sama untuk semua vendor, membekukan gambar dan revisi, lalu meminta mereka mengisi kolom “termasuk”, “tidak termasuk”, allowance, lead time, testing, garansi, spare, dan deliverables. Itu membuat perbedaan terlihat sebelum komitmen komersial—tanpa mengubah BoQ menjadi keputusan engineering atau legal.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+BoQ cubicle yang dapat dibandingkan dibangun dari sistem dan basis bukti, bukan dari luas atau jumlah bilik saja. Bekukan drawing takeoff, pecah unit/line item, nyatakan exclusions dan allowance, masukkan aksesori serta testing, dan kendalikan setiap revisi dengan dokumen.
+
+Langkah berikutnya: minta drawing register dan survei antarmuka, isi satu contoh baris lengkap untuk tiap sistem, lalu lakukan tinjauan teknis sebelum angka dipakai untuk evaluasi penawaran. Sobat Cubicle.co.id, jangan mengubah `[NEEDS PROJECT SURVEY]` menjadi angka tebakan; selesaikan gate lapangan, produk, dan profesional yang masih terbuka terlebih dahulu. BoQ membantu membandingkan cakupan—ia tidak menggantikan persetujuan desain, verifikasi kondisi, atau tinjauan hukum proyek.

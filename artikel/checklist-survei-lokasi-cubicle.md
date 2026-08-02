@@ -3,7 +3,8 @@ article_id: CUB-02-A02
 title: "Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja"
 slug: "checklist-survei-lokasi-cubicle"
 description: "Pembaca dapat mengumpulkan ukuran, level, substrat, akses, utilitas, paparan, foto, dan daftar ketidakpastian."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,45 +16,20 @@ final_route: "/artikel/checklist-survei-lokasi-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja
 
-## Assignment lock
+Halo, Sobat Cubicle.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”
-- **Reader and situation:** Surveyor, estimator, facility team, dan kontraktor
-- **Reader outcome:** Pembaca dapat mengumpulkan ukuran, level, substrat, akses, utilitas, paparan, foto, dan daftar ketidakpastian.
-- **Primary intent:** Menyiapkan survei lokasi yang dapat ditindaklanjuti
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Sobat Cubicle.co.id`
-- **Natural variants:** `Kawan Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menggantikan survei listrik berizin atau pengukuran bertegangan; survei ruang listrik dimiliki CUB-13-A01.
-- **Final public route:** `/artikel/checklist-survei-lokasi-cubicle.html`
-- **Appointed CMS date:** `2025-05-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Survei lokasi cubicle yang bisa ditindaklanjuti bukan sekadar mengukur panjang dinding. Catat ukuran ruang, beda level, kondisi substrat, akses membawa material, utilitas yang tampak, paparan lingkungan, foto berpenanda, dan semua hal yang belum pasti. Hasil akhirnya harus memungkinkan estimator dan tim fasilitas membedakan fakta lapangan, asumsi, serta pertanyaan yang harus dijawab sebelum layout atau penawaran dikunci.
 
-## Opening instructions
+Pakai urutan sederhana: tetapkan batas pekerjaan, kumpulkan bukti yang dapat dicocokkan, lakukan pengamatan dari area umum ke detail, lalu tahan keputusan yang membutuhkan pembukaan, isolasi utilitas, atau persetujuan profesional. PP No. 16 Tahun 2021 menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dan dokumentasi sebagai bagian dari penyelenggaraan bangunan; label produk saja tidak membuktikan kesesuaian proyek ([catatan BPK tentang PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -64,139 +40,63 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-17
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PUPR No. 14/PRT/M/2017 — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [CDC core components for healthcare surface programs](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)
-- **Purpose for this article:** Give house, office, school, hotel, hospital, retail, worship, hall, and public-space articles a disciplined requirements model instead of a location-name template.
-- **Safe grounded facts:** Use cases can differ in occupancy, abuse/impact, privacy, supervision, reconfiguration, acoustics, cleaning, infection risk, accessibility, door/egress operation, fire strategy, and downtime. These variables, not the room label alone, justify different guidance.
-- **Limits:** No use-case article may infer a rating, legal requirement, or cleaning protocol without the governing project/facility evidence. Resolve `G-01`, `G-04`, `G-06`, and `G-12`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-02-A01` → `/artikel/template-brief-kebutuhan-cubicle.html` — Template Brief Kebutuhan Cubicle untuk Pemilik Proyek
-- `CUB-02-A03` → `/artikel/pemangku-kepentingan-proyek-cubicle.html` — Peta Pemangku Kepentingan Proyek Cubicle
-- `CUB-02-A04` → `/artikel/cubicle-gedung-baru-vs-retrofit.html` — Cubicle untuk Gedung Baru vs Retrofit Berpenghuni
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Targetkan satu paket survei yang dapat dibaca orang yang tidak ikut ke lokasi: sketsa berorientasi arah masuk, tabel ukuran dengan satuan, foto bernomor, daftar utilitas dan hambatan, serta daftar ketidakpastian berikut pemilik tindak lanjutnya. Sebelum berangkat, minta denah terbaru, kebutuhan awal fungsi ruang, jam akses, aturan keselamatan gedung, dan nama penanggung jawab area. Bawa meteran, laser bila tersedia dan aman, alat tulis, ponsel berkamera, label foto, serta formulir versi yang sama untuk seluruh tim.
 
-## Langkah 1 — tetapkan scope
+Kondisi awal yang belum jelas harus ditulis sebagai “belum terverifikasi”, bukan diisi dengan perkiraan. Cantumkan siapa yang berwenang membuka plafon, memindahkan furnitur, atau memberi akses ruang servis. Untuk fasilitas kesehatan, tanyakan prosedur pengendalian infeksi dan pembersihan setempat; CDC menekankan bahwa program permukaan dan lingkungan perlu disesuaikan dengan kebijakan fasilitas, bukan sekadar nama ruang ([CDC infection control](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan cakupan
+
+Gambar batas area yang benar-benar disurvei: garis cubicle, dinding dan kolom yang menjadi antarmuka, lantai, plafon, pintu, jalur membawa material, serta area penyimpanan atau stacking bila sistem membutuhkannya. Tulis apa yang tidak termasuk, misalnya pembongkaran, pemindahan instalasi aktif, pemeriksaan struktur tersembunyi, dan survei listrik berizin atau pengukuran bertegangan. Jangan menganggap ruang kosong berarti bebas risiko; partisi dapat berinteraksi dengan sirkulasi, pintu, privasi, perlengkapan, dan tata letak sanitasi dalam pertimbangan aksesibilitas ([status Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
+
+Tentukan pula tujuan data: apakah untuk pra-estimasi, koordinasi desain, atau pemeriksaan sebelum pemasangan. Tujuan berbeda memerlukan tingkat verifikasi berbeda. Sobat Cubicle.co.id, bila tujuan dan batas ini belum disepakati, hasil ukur mudah dipakai di luar konteksnya dan memicu revisi.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan kelompok catatan berikut agar tidak hanya mengejar satu angka.
+
+| Kelompok | Yang dicatat | Cara membuatnya dapat ditindaklanjuti |
+|---|---|---|
+| Geometri | panjang tiap sisi, diagonal pembanding, tinggi lantai–plafon, posisi kolom dan bukaan | beri kode titik awal–akhir dan arah ukur pada sketsa |
+| Level dan substrat | perubahan elevasi, kemiringan yang tampak, jenis permukaan, retak atau sambungan | foto dekat dengan skala; tandai area yang perlu pemeriksaan kapasitas |
+| Antarmuka | skirting, lis, plafon, pintu, sprinkler, detektor, lampu, diffuser, akses panel | ukur jarak bebas dan catat pemilik sistem |
+| Utilitas terlihat | jalur kabel/data, pipa, drainase, stopkontak, perangkat mekanikal | jangan menyimpulkan jalur tersembunyi; minta gambar as-built atau verifikasi berwenang |
+| Akses dan operasi | rute masuk, lebar pintu, lift, jam kerja, pembatasan debu dan kebisingan | foto rute dari luar ke titik kerja, bukan hanya ruang akhir |
+| Paparan dan penggunaan | kelembapan yang dilaporkan, cipratan, lalu lintas, benturan, privasi, pola pembersihan | minta bukti kebijakan fasilitas bila keputusan material bergantung padanya |
+
+Setiap foto harus memiliki nomor, titik pengambilan, tanggal, dan keterangan objek. Cocokkan foto dengan sketsa; satu foto tanpa lokasi sering tidak berguna saat rapat. Untuk klaim ketahanan, rating, kapasitas, atau kepatuhan, tandai `[NEEDS DATA PROYEK/PRODUK]` sampai dokumen primer dan persetujuan yang berlaku diterima.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari briefing keselamatan dan izin akses. Lakukan walkthrough tanpa mengubah kondisi, lalu buat sketsa kasar. Ukur perimeter dan tinggi, kemudian cek diagonal, level, bukaan, dan titik antarmuka. Setelah itu telusuri rute material dan ruang kerja: pintu, koridor, lift, tikungan, area staging, serta jalur evakuasi yang tidak boleh terhalang.
 
-## Hold point dan kondisi berhenti
+Berikutnya, foto setiap antarmuka dari jarak umum lalu detail. Catat kondisi lantai dan plafon tanpa mengebor atau membuka penutup. Bandingkan catatan dengan denah dan dokumen fasilitas; selisih antara gambar dan kondisi aktual menjadi item klarifikasi. Panduan FEMA tentang komponen nonstruktural mengingatkan bahwa rencana saja tidak menunjukkan lokasi struktur, sambungan gerak, utilitas tersembunyi, atau kapasitas substrat ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tutup kunjungan dengan pembacaan ulang bersama wakil fasilitas. Minta mereka mengonfirmasi area sensitif, jam kerja, dan sistem yang harus tetap beroperasi. Jangan melakukan pengukuran bertegangan; serahkan identifikasi, isolasi, dan pengujian listrik kepada personel berwenang.
 
-## Verifikasi hasil dan handover
+## Titik henti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Cubicle: Ukur, Foto, dan Catat Apa Saja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pengambilan keputusan bila ukuran kunci tidak dapat diakses, substrat diragukan, terdapat indikasi utilitas aktif, jalur keluar atau sprinkler terganggu, atau dokumen as-built bertentangan dengan kondisi lapangan. Buat catatan “stop” dengan foto, lokasi, dampak yang mungkin, dan pihak yang harus menjawab. Jangan mengganti ketidakpastian dengan angka tipikal atau menganggap detail produk menyelesaikan konflik bangunan.
 
-## Objection or shortcut to address
+Kawan Cubicle.co.id, kebutuhan pembukaan plafon, pemindahan panel, uji kapasitas, tinjauan struktur, aksesibilitas, kebakaran, atau listrik adalah pemicu koordinasi profesional. Exact dimension, fixing, rating, atau kewajiban proyek memerlukan persyaratan yang berlaku dan bukti proyek; tandai `[NEEDS REVIEW PROFESIONAL]` bila belum tersedia.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum mengirim paket, periksa lima hal: semua ukuran memiliki satuan dan kode titik; sketsa cocok dengan foto; setiap utilitas memiliki status terlihat atau belum terverifikasi; asumsi diberi label; dan setiap pertanyaan memiliki penanggung jawab serta tanggal tindak lanjut. Simpan versi file dan daftar perubahan agar estimator tidak memakai sketsa lama.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+serah terima yang baik berisi ringkasan satu halaman: keputusan yang sudah dapat diambil, keputusan yang ditahan, risiko akses atau operasi, serta dokumen yang masih diminta. Jika perubahan layout kemudian memengaruhi jalur, pintu, utilitas, atau penggunaan ruang, ulangi bagian survei yang terdampak, bukan sekadar menimpa angka lama.
 
-## Draft completion checklist
+## Jalan pintas yang sering gagal
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintasnya adalah mengirim satu ukuran panjang dan beberapa foto umum lalu meminta tim “menyesuaikan di lapangan”. Cara ini gagal karena tidak merekam level, antarmuka, rute material, atau konflik utilitas; biaya dan waktu baru terlihat ketika pemasangan hendak dimulai. Alternatif yang lebih aman adalah paket minimum di atas, dengan daftar ketidakpastian yang sengaja dipelihara sampai ada jawaban. Anda dapat kembali ke [beranda Cubicle.co.id](/) bila perlu menelusuri konteks layanan, tetapi rute artikel saudara yang masih direncanakan belum menjadi referensi live.
+
+## Kesimpulan
+
+Checklist survei lokasi cubicle harus menjawab lebih dari “berapa panjang ruangnya”: ukur geometri dan level, kenali substrat serta antarmuka, petakan akses dan utilitas yang terlihat, dokumentasikan paparan dan penggunaan, ambil foto yang tertaut ke sketsa, lalu tulis semua ketidakpastian. Langkah berikutnya adalah mengirim paket tersebut kepada estimator, facility team, dan pihak profesional terkait untuk mengesahkan item yang tertahan. Aturan operasinya sederhana: data yang belum terverifikasi tidak boleh diperlakukan sebagai fakta desain, dan survei ini tidak menggantikan survei listrik berizin maupun pengukuran bertegangan.

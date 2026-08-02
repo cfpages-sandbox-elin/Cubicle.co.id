@@ -3,7 +3,8 @@ article_id: CUB-07-A03
 title: "Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis"
 slug: "pintu-cubicle-toilet-miring-seret-tidak-mengunci"
 description: "Pembaca dapat membedakan alignment, hinge wear, loose fixing, panel movement, floor movement, misuse, and incorrect adjustment lalu menentukan eskalasi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,16 @@ reader_address: "Sobat Cubicle.co.id"
 final_route: "/artikel/pintu-cubicle-toilet-miring-seret-tidak-mengunci.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf"
+  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”
-- **Reader and situation:** Facility menerima keluhan fungsi
-- **Reader outcome:** Pembaca dapat membedakan alignment, hinge wear, loose fixing, panel movement, floor movement, misuse, and incorrect adjustment lalu menentukan eskalasi.
-- **Primary intent:** Mendiagnosis gangguan pintu
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Sobat Cubicle.co.id`
-- **Natural variants:** `Kawan Cubicle.co.id` and `Teman Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menyarankan memaksa atau mengebor tanpa verifikasi; prosedur instalasi dimiliki CUB-06-A05 dan struktur interface CUB-06-A02.
-- **Final public route:** `/artikel/pintu-cubicle-toilet-miring-seret-tidak-mengunci.html`
-- **Appointed CMS date:** `2025-09-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-006`
@@ -71,140 +35,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-006]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Cubicle.co.id! Pintu yang miring, seret, atau tidak mengunci jangan langsung dipaksa, diserut, atau dibor. Gejala yang sama dapat berasal dari engsel aus, sekrup atau bracket longgar, panel/pilaster bergerak, lantai berubah, atau setelan latch yang keliru. Diagnosis yang benar dimulai dari mencatat gejala dan perubahan, lalu mengisolasi bagian yang bergerak.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jika pintu tidak bisa menutup tanpa tenaga, latch gagal menangkap, panel bergoyang, atau ada retak, celah membesar, korosi berat, dan tanda rembesan, batasi pemakaian dan minta pemeriksaan kompeten. Kesimpulan dapat berubah setelah kondisi lantai, dudukan, hardware, serta petunjuk sistem yang terpasang diverifikasi. Sistem cubicle adalah rangkaian panel, pilaster, pintu, engsel, latch, kaki, bracket, dan anchor; instruksi instalasi pabrikan menempatkan komponen itu sebagai satu konfigurasi, bukan bagian yang boleh disetel sembarang ([petunjuk instalasi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-### KR-01
+![Ilustrasi cubicle](/wp-content/uploads/2023/01/cubicle.png)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-### KR-16
-
-- **Original sources:** [CDC environmental-cleaning procedures for global healthcare facilities](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC 2024 considerations for healthcare surfaces](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html), [Bobrick toilet-partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey compact-HPL installation/maintenance manual](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)
-- **Purpose for this article:** Replace vague “antibacterial/hygienic” marketing with a maintainable surface-and-process model.
-- **Safe grounded facts:** Hygiene depends on geometry, joints, damage, high-touch hardware, soil load, cleaning access, staff process, compatible chemistry, contact/use instructions, rinsing/drying, monitoring, and repair. An antibacterial treatment does not replace cleaning/disinfection.
-- **Limits:** CDC US healthcare requirements are not Indonesian law; its global guidance is practice support. Product chemicals and methods are not interchangeable. Facility IPC/EVS and manufacturers must resolve `G-05` and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-07-A01` → `/artikel/matriks-cleaning-cubicle-toilet.html` — Matriks Cleaning Cubicle Toilet Berdasarkan Material dan Bahan Kimia
-- `CUB-07-A02` → `/artikel/jadwal-inspeksi-hardware-cubicle-toilet.html` — Jadwal Inspeksi Hardware Cubicle Toilet
-- `CUB-07-A04` → `/artikel/kerusakan-panel-cubicle-toilet.html` — Panel Toilet Bengkak, Delaminasi, Retak, atau Berubah Warna
-- `CUB-07-A05` → `/artikel/mencegah-vandalisme-cubicle-toilet.html` — Mencegah Vandalisme pada Cubicle Toilet Tanpa Mengorbankan Keselamatan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat catatan singkat sebelum menyentuh hardware: pintu turun di sisi latch atau sisi engsel, seret di lantai atau di kepala pintu, latch tidak bertemu strike, dan apakah masalah muncul terus atau hanya setelah dibersihkan, terbentur, atau terjadi pekerjaan lantai. Foto posisi celah dari jarak aman dan catat apakah panel atau pilaster ikut bergerak ketika pintu dibuka perlahan.
+
+Pisahkan “terlihat miring” dari “beban berpindah”. Celah tidak seragam dapat menunjuk alignment (kesegarisan) yang berubah, tetapi sumbernya mungkin engsel, fixing, atau lantai. Panel compact laminate juga perlu diperlakukan sesuai panduan fabrikasi; lubang, tepi, dan kondisi kelembapan tidak boleh diimprovisasi dari label material saja ([panduan fabrikasi compact Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan uji buka-tutup bila pintu bisa jatuh, engsel terlepas, anchor terangkat, panel retak, atau lantai/partisi tampak bergerak. Jangan memasukkan tangan ke celah jepit dan jangan mengganjal pintu sebagai “perbaikan” permanen. Bila cubicle berada di area basah, cari juga sumber air; kelembapan berulang dapat memperburuk material dan sambungan, sehingga pengendalian sumber air perlu berjalan bersama perbaikan ([panduan kontrol kelembapan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+
+Kawan Cubicle.co.id, akses sementara yang dibatasi harus diberi tanda yang mudah dipahami pengelola fasilitas. Untuk area dengan kebutuhan aksesibilitas atau jalur evakuasi, keputusan penutupan dan pembukaan kembali mengikuti penanggung jawab proyek/fasilitas, bukan perkiraan operator.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Alignment berubah:** engsel atau bracket bergeser membuat tepi pintu menyentuh panel, lantai, atau strike.
+- **Hinge wear:** pin, bushing, atau pegas aus mengubah posisi daun pintu; gejala sering memburuk saat pintu dibebani.
+- **Loose fixing:** sekrup, anchor, atau sambungan pilaster longgar sehingga seluruh bidang ikut bergoyang. Mengencangkan satu sekrup tanpa memahami dudukan dapat memindahkan beban ke titik lain.
+- **Panel atau lantai bergerak:** panel mengembang/menyusut karena kondisi lingkungan, atau lantai turun/berubah setelah pekerjaan; pintu tampak salah padahal interface bangunan yang berubah.
+- **Misuse atau benturan:** beban gantung, dorongan menyamping, atau pintu ditahan dengan kaki dapat merusak setelan.
+- **Incorrect adjustment:** posisi strike atau latch disetel mengejar satu gejala tanpa memeriksa celah, plumb, dan kekuatan fixing.
+
+Jangan memilih penyebab hanya dari nama material. Klaim “HPL” atau “compact” tidak otomatis membuktikan kinerja hardware, anchor, atau pintu pada proyek tertentu. Sobat Cubicle.co.id, diagnosis harus menjawab komponen mana yang bergerak dan mengapa, bukan sekadar menghilangkan bunyi seret.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari yang tidak merusak:
+
+1. **Amankan area dan dokumentasikan.** Tandai pintu yang bermasalah, catat waktu, frekuensi, dan kejadian pemicu.
+2. **Amati tanpa beban.** Buka-tutup perlahan. Lihat titik kontak, perubahan celah, gerak latch, dan apakah pilaster ikut bergeser.
+3. **Periksa visual fixing.** Cari kepala sekrup menonjol, bracket miring, washer hilang, korosi, retak, atau bekas air. Jangan melepas komponen tertanam.
+4. **Bandingkan kondisi sekitar.** Cek pintu sebelah sebagai pembanding fungsi, bukan sebagai bukti bahwa spesifikasinya identik.
+5. **Tinjau dokumen.** Cocokkan model hardware, gambar as-built, manual instalasi, dan catatan pekerjaan lantai/partisi. Instruksi pabrikan harus mengendalikan urutan dan batas setelan.
+6. **Uji setelah kontrol sederhana.** Jika pengelola berwenang melakukan penyetelan kecil sesuai manual, lakukan satu perubahan yang dapat dilacak, kemudian uji ulang. Jangan mengebor lubang baru atau memaksa panel.
+
+Catat hasil setiap langkah. Panduan perawatan hardware menekankan pemeriksaan dan pemeliharaan berkala sesuai produk; interval dan bahan pelumas tidak boleh dipukulratakan tanpa manual yang tepat ([panduan maintenance ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika hanya pintu yang turun sementara pilaster stabil, engsel atau fixing pintu menjadi hipotesis utama—bukan diagnosis final. Jika beberapa pintu pada garis yang sama berubah setelah pekerjaan lantai, periksa interface lantai dan anchor. Jika latch menyentuh strike tetapi tidak mengunci, telusuri posisi, kerusakan, dan gaya pegas; jangan menyimpulkan pintu “kekecilan”.
+
+Hasil “setelah dikencangkan kembali pintu normal” membuktikan gejala hilang, bukan penyebab awal atau ketahanan jangka panjang. Bila masalah kembali, berarti ada gerak, beban, kelembapan, atau keausan yang belum diatasi. Pembersihan yang tidak kompatibel juga dapat merusak permukaan dan hardware; ikuti metode produk dan bilas/keringkan sesuai petunjuk, karena pembersihan tidak menggantikan inspeksi ([sumber perawatan Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)).
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Pintu Cubicle Toilet Miring, Seret, atau Tidak Mengunci: Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara yang wajar adalah menonaktifkan cubicle, memasang penanda, dan memindahkan beban pengguna ke unit lain. Perbaikan oleh teknisi yang memahami sistem dapat mencakup penyetelan ulang, penggantian hardware aus, atau pemulihan fixing sesuai gambar dan manual. Penggantian panel atau pekerjaan lantai memerlukan verifikasi interface agar masalah tidak berulang.
 
-## Objection or shortcut to address
+Minta tinjauan profesional bila ada gerak struktural, anchor gagal, retak, air masuk, korosi menyebar, kebutuhan aksesibilitas, atau perubahan yang menyentuh dinding/lantai. Simpan foto sebelum-sesudah, komponen yang diganti, manual yang dipakai, dan hasil uji serah-terima. Untuk rujukan umum fasilitas, Anda dapat kembali ke [halaman utama Cubicle.co.id](/) setelah dokumen sistem tersedia.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering gagal
 
-## Required conclusion
+Menyemprot pelumas, mengganjal daun pintu, atau mengebor lubang baru memang bisa membuat latch terasa bekerja sesaat. Namun tindakan itu dapat menyamarkan engsel aus, memperbesar lubang, melemahkan tepi panel, atau menghilangkan jejak penyebab. Jalan yang lebih aman adalah menghentikan perubahan permanen, ukur dan foto gejala, lalu minta teknisi mencocokkan komponen dengan manual dan kondisi dudukannya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.co.id, pintu miring, seret, atau tidak mengunci adalah gejala sistem, bukan izin untuk memaksa. Bedakan gerak engsel, fixing longgar, panel/lantai bergerak, benturan, dan setelan latch melalui observasi berurutan. Jika ada risiko jatuh, retak, air, atau gerak bangunan, batasi akses dan eskalasi. Tindakan berikutnya: buat catatan gejala, kumpulkan manual dan gambar terpasang, lalu minta pemeriksaan kompeten sebelum mengebor, mengganti konfigurasi, atau membuka komponen tertanam.

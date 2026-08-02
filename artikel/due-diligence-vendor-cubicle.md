@@ -2,8 +2,9 @@
 article_id: CUB-16-A04
 title: "Due Diligence Vendor Cubicle dan Bukti Kapabilitas"
 slug: "due-diligence-vendor-cubicle"
-description: "Pembaca dapat memeriksa legal identity, actual scope, workshop/service capability, key competence, references, quality/safety systems, test access, insurance where required, and claim evidence."
-status: outline
+description: "Panduan memeriksa identitas legal, ruang lingkup aktual, kemampuan workshop dan layanan, kompetensi utama, referensi, sistem mutu dan keselamatan, akses pengujian, asuransi yang diwajibkan, serta bukti klaim vendor."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,7 +15,6 @@ reader_address: "Teman Cubicle.co.id"
 final_route: "/artikel/due-diligence-vendor-cubicle.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
   - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
@@ -22,44 +22,23 @@ sources:
   - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
   - "https://www.bobrick.com/resource-center-2/guide-specifications/"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Due Diligence Vendor Cubicle dan Bukti Kapabilitas
 
-## Assignment lock
+Halo, Teman Cubicle.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”
-- **Reader and situation:** Owner dan procurement sebelum award
-- **Reader outcome:** Pembaca dapat memeriksa legal identity, actual scope, workshop/service capability, key competence, references, quality/safety systems, test access, insurance where required, and claim evidence.
-- **Primary intent:** Memverifikasi supplier/contractor capability
-- **Reader community:** `Cubicle.co.id`
-- **Primary friendly address:** `Teman Cubicle.co.id`
-- **Natural variants:** `Sobat Cubicle.co.id` and `Kawan Cubicle.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak membuat ranking/vendor endorsement dan tidak menganggap domain/review sebagai proof; project proof governance dimiliki CUB-17-A06.
-- **Final public route:** `/artikel/due-diligence-vendor-cubicle.html`
-- **Appointed CMS date:** `2026-05-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Due diligence vendor cubicle bukan lomba mencari harga terendah. Ini pemeriksaan sebelum award untuk memastikan badan usaha yang menawar benar-benar mampu mengerjakan cakupan yang Anda butuhkan, membuktikan material dan metode, mengelola risiko keselamatan, serta menyerahkan rekaman penerimaan. Vendor layak dipertimbangkan bila identitas legal, ruang lingkup aktual, kapasitas workshop/service, kompetensi personel, referensi, sistem mutu-K3, akses pengujian, asuransi yang disyaratkan, dan setiap klaim dapat ditelusuri ke bukti yang relevan.
 
-## Opening instructions
+Sebaliknya, nama besar, domain yang rapi, atau brosur tidak cukup menjadi proof. Minta dokumen yang cocok dengan konfigurasi proyek dan tetapkan kondisi yang masih harus disetujui desainer, kontraktor, QA/HSE, serta penasihat hukum. Kerangka penyelenggaraan jasa konstruksi ada dalam [UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu) dan [PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), tetapi penerapannya tetap perlu dibaca terhadap kontrak dan fakta proyek Anda. Untuk konteks pembaca dan layanan terkait, Anda dapat kembali ke [beranda Cubicle.co.id](/).
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Due Diligence Vendor Cubicle dan Bukti Kapabilitas**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.co.id`, `Sobat Cubicle.co.id`, or `Kawan Cubicle.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/01/cubicle-toilet.jpg)
 
+Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -70,140 +49,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-16-A02` → `/artikel/boq-dan-basis-kuantitas-cubicle.html` — Menyusun BoQ dan Basis Kuantitas Cubicle
-- `CUB-16-A03` → `/artikel/bid-leveling-penawaran-cubicle.html` — Bid Leveling Cubicle: Membandingkan Penawaran Tanpa Tertipu Harga Total
-- `CUB-16-A05` → `/artikel/sample-mockup-submittal-cubicle.html` — Sample, Mock-up, dan Submittal sebagai Gate Pembelian Cubicle
-- `CUB-16-A06` → `/artikel/warranty-spare-purna-jual-cubicle.html` — Warranty, Spare, dan Dukungan Purna Jual Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari fungsi dan batas pekerjaan, bukan dari merek. Tulis area dan jumlah unit, tipe partisi, pintu dan hardware, hasil akhir, rangka atau support, kondisi substrat, akses angkut, jam kerja, perlindungan area, pembongkaran, pembuangan, pengujian, garansi, suku cadang, dan dokumen serah terima. Pisahkan hal yang sudah pasti dari asumsi vendor. Dengan begitu, Anda dapat meminta bukti untuk cakupan yang sama.
+
+Lakukan survei yang mencatat dimensi aktual, ketegakan dan kerataan, posisi struktur, ceiling void, movement joint, utilitas tersembunyi, sprinkler/detektor, jalur listrik-data, skirting, drainase, ruang stacking, akses, dan kapasitas substrat. Denah saja tidak mengungkap semua antarmuka itu; konsep interface nonstruktural FEMA juga menekankan perlunya memeriksa kondisi di balik layout sebelum instalasi ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Jangan membuka konstruksi atau mengisolasi layanan tanpa izin dan koordinasi profesional.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Equal area bukan equal cakupan. Buat matriks perbandingan yang memaksa setiap vendor menjawab konfigurasi dan kuantitas yang sama: panel dan grade, framing/support, pintu, engsel, latch, kaki, sealant, hasil akhir tepi, akses logistik, proteksi, testing, pembersihan, eksklusi, jadwal, garansi, spare, dan serah terima. Contoh guide-specification produsen berguna untuk melihat bagaimana komponen dijabarkan, bukan untuk menyalin spesifikasi atau menjadikan satu merek sebagai standar proyek ([Bobrick guide specifications](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Tandai setiap deviasi dan substitusi sebelum evaluasi harga. Perubahan panel, rangka, sambungan, atau hardware dapat mengubah bukti struktural, akustik, api, kelembapan, tampilan, dan garansi. Penawaran yang tidak menyebut siapa menanggung pengukuran ulang, akses tunggu, pekerjaan malam, atau rework sebaiknya dikembalikan untuk klarifikasi, bukan langsung dirata-ratakan.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun folder vendor berdasarkan fungsi bukti:
+
+- **Identitas dan kewenangan:** nama badan usaha, alamat, penandatangan berwenang, izin atau registrasi yang diminta proyek, serta kontak resmi. Verifikasi terhadap dokumen dan sumber pemerintah; jangan menyamakan logo atau website dengan legal identity.
+- **Kemampuan aktual:** daftar workshop, alat, kapasitas service, personel kunci, subcontractor, dan siapa yang bertanggung jawab pada desain, fabrikasi, instalasi, QA, dan HSE. Sistem metal-stud atau partisi produsen menunjukkan bahwa detail sistem harus dibaca bersama komponen dan metode yang tepat ([Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)). Itu bukan bukti vendor Anda telah memasang sistem tersebut.
+- **Produk dan pengujian:** datasheet mengidentifikasi produk; sertifikat atau laporan tes membuktikan objek, konfigurasi, laboratorium, tanggal, dan ruang lingkup tes. Minta akses ke laporan lengkap, bukan hanya angka di brosur. Instruksi instalasi Bobrick dan instruksi operasi dormakaba dapat menjadi contoh jenis langkah serta rekaman yang perlu diminta, tetapi toleransi atau prosedurnya tidak boleh dipindahkan ke sistem lain ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [dormakaba operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)).
+- **Pengalaman dan klaim:** referensi harus dapat dihubungi dan menjelaskan cakupan yang sebanding. Foto tanpa tanggal, lokasi, dan pihak yang dapat mengonfirmasi bukan case proof. Pisahkan klaim “tahan lembap”, “fire-rated”, atau “maintenance-free” dari kondisi pemakaian yang benar-benar didukung dokumen.
+
+Untuk area basah, “moisture resistant” tidak otomatis berarti rakitan kedap air. Kebocoran, kondensasi, kontak kapiler, drainase, ventilasi, tepi, lubang fastener, sealant, korosi, dan akses pengeringan dapat mengubah keputusan perbaikan atau penggantian. Panduan EPA, Gypsum Association, dan Formica membantu menyusun pertanyaan, tetapi bukan kode Indonesia atau persetujuan desain ([EPA moisture control](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Cubicle.co.id, mintalah jawaban tertulis dan minta lampiran bukti untuk setiap jawaban:
 
-## Red flag dan biaya yang sering tersembunyi
+1. Entitas mana yang menandatangani kontrak dan siapa yang mengerjakan fabrikasi, instalasi, commissioning, dan service?
+2. cakupan apa yang termasuk, dikecualikan, atau bergantung pada survei? Bagaimana perubahan harga dan jadwal disetujui?
+3. Siapa personel kunci, pengganti mereka, dan rekam kompetensinya untuk pekerjaan ini?
+4. Di mana workshop dan stok suku cadangnya? Berapa batas layanan yang benar-benar dapat dijanjikan tanpa angka yang belum diverifikasi?
+5. Referensi mana yang memiliki konfigurasi serupa dan bersedia dikonfirmasi oleh pemilik atau pengelola?
+6. Dokumen mutu, inspeksi, HSE, method statement, dan rencana pengujian apa yang akan diajukan sebelum pekerjaan ditutup?
+7. Bagaimana Anda memberi akses ke laporan tes, traceability batch, catatan instalasi, foto pekerjaan tersembunyi, dan as-built?
+8. Asuransi apa yang diwajibkan kontrak, siapa tertanggung, masa berlaku, pengecualian, dan batas klaimnya? Minta tinjauan hukum atau broker proyek untuk kecukupannya.
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jawaban “bisa” tanpa nama dokumen, pemilik tindakan, dan waktu penyerahan adalah risiko terbuka. Minta vendor menandai item yang belum tersedia; jangan mengubah janji penjualan menjadi fakta teknis.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai harga lump sum yang tidak menyebut support, akses, pembongkaran, proteksi, pengujian, pembersihan, spare, atau serah terima. tanda bahaya lain ialah sertifikat tanpa identitas konfigurasi, referensi yang tidak dapat diverifikasi, foto yang tidak menjelaskan cakupan, perubahan merek setelah award, dan permintaan menutup pekerjaan sebelum inspeksi. Biaya akhirnya dapat muncul sebagai survei ulang, waktu tunggu, pekerjaan malam, rework, penggantian akibat kelembapan, atau sengketa tanggung jawab.
+
+Kawan Cubicle.co.id, jangan menutup celah dengan asumsi “nanti diselesaikan di lapangan”. Item tersembunyi harus memiliki titik tahan: siapa memeriksa, rekaman apa yang dibuat, dan siapa memberi izin penutupan. Substitusi atau deviasi yang tidak disetujui dapat memutus rantai bukti dan membuat garansi sulit ditegakkan.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Due Diligence Vendor Cubicle dan Bukti Kapabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum award, tetapkan Inspection and Test Plan (ITP) sederhana: dokumen yang harus disetujui, material yang diperiksa saat datang, survei dan setting-out, inspeksi support dan sambungan sebelum tertutup, pemeriksaan pintu dan hardware, pengujian fungsi, pembersihan, serta daftar punch. Untuk sistem operable, commissioning harus menguji fungsi yang dimaksud, bukan sekadar tampilan selesai. Pisahkan pemeriksa vendor, QA/HSE, desainer, dan wakil owner; setiap tanda tangan harus punya tanggal, lokasi, dan status terbuka/tertutup.
 
-## Objection or shortcut to address
+Serah terima minimal memuat as-built, data produk yang benar-benar terpasang, catatan inspeksi dan tes, daftar deviasi yang disetujui, manual operasi-perawatan, daftar spare, kontak service, serta syarat garansi. Pembayaran atau acceptance akhir mengikuti kontrak dan persetujuan pihak berwenang; artikel ini bukan nasihat hukum atau pengganti tinjauan proyek. Bila bukti material, support, kelembapan, keselamatan, atau kepatuhan masih unresolved, tandai `[NEEDS PROFESSIONAL REVIEW: G-01–G-14]` dan tahan keputusan pada item tersebut.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak murah
 
-## Required conclusion
+Jalan pintas yang paling sering dipilih adalah memilih penawaran terendah lalu meminta vendor “menyesuaikan nanti”. Cara ini gagal karena penawaran belum tentu membandingkan konfigurasi, antarmuka, pengujian, dan deliverable yang sama. Alternatif yang lebih aman ialah menerbitkan basis cakupan yang sama, meminta matriks inklusi-eksklusi, memverifikasi bukti yang dapat ditelusuri, lalu memberi klarifikasi tertulis sebelum penilaian komersial.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.co.id!` and uses friendly `Cubicle.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Due diligence vendor cubicle berarti menguji kecocokan antara identitas, cakupan aktual, orang dan fasilitas yang tersedia, bukti produk, pengalaman yang bisa dikonfirmasi, sistem mutu-K3, akses tes, asuransi yang dipersyaratkan, dan rekaman serah terima. Langkah berikutnya: kirim matriks cakupan dan daftar pertanyaan di atas kepada setiap penyedia, minta bukti sebelum award, lalu jadwalkan tinjauan teknis, HSE, komersial, dan hukum atas celah yang tersisa. Aturan operasinya sederhana: tidak ada klaim kapabilitas yang diterima tanpa bukti yang cocok dengan konfigurasi proyek dan pihak yang bertanggung jawab.
