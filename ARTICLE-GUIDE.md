@@ -30,25 +30,28 @@ Do not load the portfolio ledger, OneDrive memory, another repository, the full 
    - set `date_modified` only when the user supplies or authorizes a real modification date;
    - add original source URLs only when actually used.
 3. Replace instructional bullets under the detailed outline with finished Indonesian prose.
-4. Answer the title's main question in the opening two or three paragraphs.
-5. Keep every H2 focused on the distinct reader question stated beneath it.
-6. Use original sources embedded in the evidence packet. Put the source link near the supported consequential claim.
-7. Add internal links only where they help the reader take a next step. Use the exact routes already listed in the file.
-8. Preserve every limitation, professional-review condition, and stop-work boundary.
-9. Finish with a concrete next action or operating rule, not a generic summary.
-10. Run the completion checklist inside the file before stopping.
+4. Answer the title's main question in the opening two or three paragraphs, but first establish the reader's situation, likely misunderstanding, why the distinction matters, and what the article will make clear.
+5. Before each H2/H3 explanation, add a short context bridge: explain what the heading means, why the reader should care, what problem it prevents, and what will be covered. A heading is a promise, not a command.
+6. Keep every H2/H3 descriptive and keyword-bearing, stating the reader question or object. Prefer `Cara kerja menggunakan worksheet` over `Cara kerjanya`.
+7. Use original sources embedded in the evidence packet. Put the source link near the supported consequential claim.
+8. Add internal links only where they help the reader take a next step. Use the exact routes already listed in the file.
+9. Preserve every limitation, professional-review condition, and stop-work boundary.
+10. Finish with a concrete next action or operating rule, not a generic summary.
+11. Run the completion checklist inside the file before stopping.
 
 ## Writing style
 
 - Write in clear Indonesian for a practical reader.
-- Sound like a candid operator-teacher: direct answer first, mechanism next, evidence and decisions after that.
+- Sound like a candid operator-teacher: establish context first, then answer, mechanism, evidence, and decision. Do not rush from the H1 or H2 straight into a definition, formula, or checklist.
+- Write as people speak and think. A paragraph may be one sentence when it creates emphasis or a separate reasoning step. Separate `pertama`, `kedua`, and `ketiga` when each is a distinct thought. Give an important conclusion or operating rule its own short paragraph.
+- Avoid English calques and translated operational metaphors. Prefer ordinary Indonesian used by native speakers: `catat input` rather than `bekukan input`, `pastikan` rather than `kunci` when no literal locking occurs, `kita mungkin tergoda untuk...` rather than `jalan pintas yang paling menggoda`, and `ubah/revisi` rather than `menerbitkan revisi` unless publication is literal.
 - Address the reader warmly as `Sobat Cubicle.co.id`, `Kawan Cubicle.co.id`, or `Teman Cubicle.co.id`. Use the exact opening salutation assigned inside the article file.
 - Sprinkle these community addresses naturally three to five times in a typical long article, including the opening. Good positions are a consequential warning, a decision checkpoint, a practical example, and the conclusion. Do not force one into every section or repeat the same phrase in adjacent paragraphs.
 - Use `Anda` naturally between those community-address moments. Use `saya` only when the outline contains real Syamsul-supplied experience.
 - Vary sentence length. Prefer concrete actors, objects, actions, and consequences.
 - Explain an English trade term on first use when Indonesian readers may not know it.
 - Use a checklist, table, decision tree, warning, or scenario only when it reduces reader effort.
-- Typical useful length is 1,400–2,200 words, but do not pad a complete answer.
+- Typical useful length is 1,600–2,400 words, but do not pad a complete answer.
 
 ## Evidence rules
 
