@@ -3,7 +3,7 @@ article_id: CUB-11-A04
 writing_contract_version: "native-id-v2"
 title: "Incoming, Bus Coupler, dan Feeder Cubicle pada Single-Line Diagram"
 slug: "incoming-bus-coupler-feeder-cubicle"
-description: "Pembaca dapat mengikuti aliran daya, sectionalizing, source/load, redundancy concept, and document questions."
+description: "Panduan membaca peran incoming, bus coupler, dan feeder pada diagram satu garis serta menentukan dokumen yang masih harus dikonfirmasi."
 status: draft
 publication_date: "2026-01-13"
 publication_date_basis: editorial_backfill
@@ -14,14 +14,15 @@ reader_community: "Cubicle.co.id"
 reader_address: "Sobat Cubicle.co.id"
 final_route: "/artikel/incoming-bus-coupler-feeder-cubicle.html"
 technical_review: required
-sources: []
+sources:
+  - "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/PowerDistributionEquipment-A630D34D"
 ---
 
 # Incoming, Bus Coupler, dan Feeder Cubicle pada Single-Line Diagram
 
 Halo, Sobat Cubicle.co.id! Kebingungan paling mahal saat membaca single-line diagram (SLD) biasanya bukan pada simbolnya, melainkan pada asumsi bahwa setiap kotak cubicle mempunyai fungsi yang sama. Incoming menerima sumber, bus coupler menghubungkan atau memisahkan bagian busbar sesuai filosofi sistem, sedangkan feeder menyalurkan daya menuju beban atau panel berikutnya. Jadi, ikuti arah alirannya dan hubungan antarbusnya sebelum menilai jumlah cubicle atau pilihan peralatannya.
 
-Jawaban singkat itu masih bersyarat. SLD hanya memberi tampilan satu garis dan tidak dengan sendirinya membuktikan rating, urutan switching, interlock, setting proteksi, kemampuan hubung singkat, atau apakah suatu sumber benar-benar redundan. Untuk keputusan pengadaan, simbol harus dicocokkan dengan legend, schedule, datasheet, diagram kontrol, dan persetujuan engineer proyek. Detail topology dan switching sequence berada di luar artikel ini; [NEEDS REVIEW: validasi topology, proteksi, dan sequence oleh engineer proyek].
+Jawaban singkat itu masih bersyarat. SLD hanya memberi tampilan satu garis dan tidak dengan sendirinya membuktikan rating, urutan switching, interlock, setting proteksi, kemampuan hubung singkat, atau apakah suatu sumber benar-benar redundan. Panduan dasar distribusi Schneider juga memisahkan susunan sistem, topologi, dan proteksi; gunakan rujukan itu untuk memahami istilah, lalu cocokkan penerapannya dengan dokumen proyek yang berlaku ([panduan dasar distribusi Schneider](https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/PowerDistributionEquipment-A630D34D)). Rujukan tersebut bukan penentu topology proyek ini, sehingga simbol tetap harus dicocokkan dengan legend, schedule, datasheet, diagram kontrol, dan persetujuan engineer proyek. Detail topology dan switching sequence berada di luar artikel ini; [NEEDS REVIEW: validasi topology, proteksi, dan sequence oleh engineer proyek].
 
 ![Ilustrasi bg cubicle](/wp-content/uploads/2023/01/bg-cubicle.jpg)
 
@@ -104,7 +105,7 @@ Kesalahan pertama adalah menganggap garis busbar berarti semua pemutus boleh dit
 
 Kesalahan keempat adalah memilih cubicle berdasarkan arus nominal yang tertulis di satu tabel tanpa membaca kondisi lingkungan, duty, dan interface. Minta datasheet yang berlaku untuk konfigurasi yang ditawarkan serta daftar penyimpangan terhadap spesifikasi proyek. Kesalahan kelima adalah mengubah SLD secara manual agar terlihat lebih sederhana. Simpan revisi melalui pengendalian dokumen; perubahan simbol dapat menghilangkan informasi status atau batas tanggung jawab.
 
-jalan pintas yang paling menggoda ialah bertanya, “Bisa ditutup atau tidak?” hanya kepada vendor. Vendor dapat menjelaskan batas peralatannya, tetapi izin operasi dan koordinasi sistem memerlukan keputusan desain proyek. Alternatif yang lebih aman adalah mengirim pertanyaan terstruktur: kondisi awal, sumber yang tersedia, status coupler, beban terdampak, interlock, dan dokumen persetujuan. Bila salah satunya kosong, tandai sebagai isu terbuka, bukan sebagai izin tersirat.
+Cara cepat yang paling menggoda ialah bertanya, “Bisa ditutup atau tidak?” hanya kepada vendor. Vendor dapat menjelaskan batas peralatannya, tetapi izin operasi dan koordinasi sistem memerlukan keputusan desain proyek. Alternatif yang lebih aman adalah mengirim pertanyaan terstruktur: kondisi awal, sumber yang tersedia, status coupler, beban terdampak, interlock, dan dokumen persetujuan. Bila salah satunya kosong, tandai sebagai isu terbuka, bukan sebagai izin tersirat.
 
 ## Kesimpulan dan langkah berikutnya
 
