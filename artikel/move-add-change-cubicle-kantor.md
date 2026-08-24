@@ -3,7 +3,7 @@ article_id: CUB-10-A03
 writing_contract_version: "native-id-v2"
 title: "Move, Add, Change Cubicle Kantor dengan Asset Register"
 slug: "move-add-change-cubicle-kantor"
-description: "Pembaca dapat menginventaris panel, penghubung, surfaces, penyimpanan, power/data, condition, compatibility, location, and approval before moves."
+description: "Panduan menata ulang cubicle kantor dengan daftar aset yang membantu memeriksa komponen, layanan, kondisi, kecocokan, lokasi, dan persetujuan sebelum pekerjaan dimulai."
 status: draft
 publication_date: "2025-12-19"
 publication_date_basis: editorial_backfill
@@ -26,75 +26,89 @@ sources:
 
 # Move, Add, Change Cubicle Kantor dengan Asset Register
 
-Halo, Sobat Cubicle.co.id! Memindahkan atau menambah cubicle bukan sekadar memindahkan meja. Keputusan yang aman dimulai dari asset register: daftar setiap panel, penghubung, permukaan kerja, penyimpanan, titik power/data, kondisi, kompatibilitas, lokasi, dan persetujuan. Dengan daftar itu, Anda tahu mana yang bisa dipakai ulang, mana yang harus diuji, dan mana yang harus dihentikan sebelum dibongkar.
+Halo, Sobat Cubicle.co.id! Saat kantor harus menambah meja, memindahkan panel, atau mengubah susunan cubicle, godaan pertama biasanya menghitung unit yang terlihat masih utuh. Masalahnya, satu unit dapat kehilangan penghubung, penyangga, kunci, atau titik layanan ketika dibongkar. Asset register—daftar aset ber-ID yang bisa ditelusuri—membantu Anda memutuskan mana yang boleh dipakai ulang, mana yang perlu diperiksa, dan mana yang harus ditahan sebelum pekerjaan dimulai.
 
-Asset register tidak menggantikan gambar kerja atau persetujuan profesional. Ia adalah kendali perubahan (move, add, change/MAC) agar perubahan layout dapat dilacak. Perubahan partisi dapat berpengaruh pada keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan bangunan; kerangka ini ditegaskan dalam PP 16/2021, bukan oleh label produk semata ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Jika perubahan menyentuh wiring atau fire layout, hentikan pekerjaan dan minta reviewer terkait. [NEEDS REVIEW: konfigurasi, struktur, aksesibilitas, wiring, dan fire layout proyek]
+Jawaban singkatnya: catat kondisi awal, cocokkan setiap rakitan dengan susunan tujuan, minta persetujuan untuk antarmuka yang terdampak, lalu pindahkan dan pasang sambil memeriksa fungsi. Daftar ini adalah kendali perubahan, bukan pengganti gambar kerja, perhitungan, atau persetujuan profesional. Perubahan partisi dapat berhubungan dengan keselamatan, kesehatan, kenyamanan, fungsi, dan penggunaan bangunan; kerangka umum itu tercermin dalam PP 16/2021, bukan dibuktikan oleh label produk saja ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Jika susunan menyentuh kabel atau tata letak proteksi kebakaran, hentikan langkah teknis tersebut sampai pihak yang berwenang memeriksanya. [NEEDS REVIEW: konfigurasi, struktur, aksesibilitas, wiring, dan fire layout proyek]
 
 ![Ilustrasi cubicle kantor](/wp-content/uploads/2023/01/cubicle-kantor.jpg)
 
 Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 
-## Jawaban singkat dan salah paham utama
+## Mengapa daftar aset menentukan keputusan pemindahan
 
-Urutan praktisnya adalah: bekukan kondisi acuan, inventaris satu per satu, cocokkan dengan layout tujuan, minta persetujuan, lalu bongkar–pindah–pasang dengan pemeriksaan di setiap titik. Jangan mulai dari “berapa unit yang masih bagus?” karena unit yang tampak utuh bisa kehilangan penghubung, anchor, kunci, atau data kompatibilitas.
+Bagian ini menjelaskan apa yang sebenarnya diputuskan ketika cubicle dipindahkan, supaya Anda tidak mengira luas ruangan atau jumlah panel sudah cukup sebagai dasar kerja.
 
-Salah paham yang sering terjadi adalah menganggap luas area yang sama berarti cakupan yang sama. Dua penawaran dengan jumlah panel serupa belum tentu mencakup framing, kaki, headrail, pintu, hardware, perlindungan lantai, logistik, pengujian, dan serah-terima. Perbandingan harus memakai konfigurasi, dimensi, material/grade, support, akses, pekerjaan bongkar dan pembuangan, jadwal, garansi, suku cadang, serta deliverable yang sama. Untuk keputusan pengadaan dan kontrak, minta telaah hukum/proyek; UU 2/2017 dan PP 14/2021 memberi kerangka jasa konstruksi, tetapi bukan template kontrak untuk kasus Anda ([UU 2/2017](https://peraturan.bpk.go.id/Details/37637/uu), [PP 14/2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)).
+Perubahan **move, add, change (MAC)** berarti memindahkan rakitan, menambah komponen atau layanan, atau mengubah konfigurasi dan fungsi. Tiga kegiatan itu bisa terlihat sederhana dari atas, tetapi hubungan antarbagian baru tampak ketika panel dilepas: penghubung tertentu mungkin tertinggal, kaki berbagi beban dengan meja lain, atau kabel melewati area yang akan dibongkar.
 
-## Definisi dan batas objek
+Asset register membuat hubungan itu terlihat. Satu baris mewakili satu panel atau rakitan yang dapat dikenali, lengkap dengan ID, lokasi asal, lokasi tujuan, komponen terkait, kondisi, dan orang yang menyetujui. Dengan begitu, keputusan “pakai ulang” memiliki alasan yang dapat diperiksa, bukan hanya ingatan tim.
 
-Asset register adalah catatan kendali, bukan inventaris gudang belaka. Satu baris sebaiknya mewakili satu panel atau rakitan yang dapat ditelusuri, dengan ID unik, foto/rujukan gambar, lokasi asal, lokasi tujuan, pemilik persetujuan, dan status pemeriksaan. “Move” berarti memindahkan rakitan; “Add” menambah komponen atau titik layanan; “Change” mengubah konfigurasi, material, atau fungsi.
+Jangan menyamakan dua penawaran hanya karena jumlah panelnya sama. Keduanya mungkin berbeda dalam pintu, headrail (profil bagian atas), kaki, penghubung, perlindungan lantai, pengangkutan, pengujian, suku cadang, dan dokumen akhir. Untuk urusan kontrak dan pengadaan, minta telaah hukum/proyek; UU 2/2017 dan PP 14/2021 memberi kerangka jasa konstruksi, tetapi tidak otomatis menjadi templat kontrak untuk kasus Anda ([UU 2/2017](https://peraturan.bpk.go.id/Details/37637/uu), [PP 14/2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)).
 
-Yang termasuk: panel dan pilaster, penghubung/bracket/anchor, pintu dan latch, permukaan kerja, penyimpanan, leg atau headrail, aksesori, power/data interface, kondisi permukaan, dan bukti kompatibilitas. Yang tidak termasuk adalah desain ulang wiring, relokasi perangkat proteksi kebakaran, perubahan struktur bangunan, atau keputusan aksesibilitas tanpa reviewer. Koordinasi lintas pekerjaan berada pada tim terkait; register hanya memastikan antarmukanya terlihat.
+## Menetapkan batas aset yang dicatat
 
-## Cara kerjanya
+Sebelum membuka baut, bagian ini membantu Anda membedakan benda yang perlu dilacak dari pekerjaan yang harus diserahkan kepada tim lain.
 
-Mulai dengan kondisi acuan: tandai layout saat ini, nomor ruang, jalur evakuasi yang harus dipertahankan, serta jendela waktu pekerjaan. Setelah itu lakukan penghitungan fisik berpasangan. Pemeriksa pertama membaca ID dan spesifikasi; pemeriksa kedua mencocokkan benda, lokasi, dan jumlah. Catat “tidak ditemukan” sebagai status, bukan mengisinya dengan perkiraan.
+Catat panel dan pilaster, penghubung, bracket (dudukan), anchor (pengikat ke bidang bangunan), pintu dan latch (pengunci), permukaan kerja, penyimpanan, kaki, profil atas, aksesori, serta antarmuka listrik dan data. Tambahkan kondisi permukaan, komponen yang hilang, foto atau rujukan gambar, dan bukti kecocokan sistem. Untuk setiap item, tulis lokasi asal dan tujuan; “belum ditemukan” adalah status yang sah, bukan alasan untuk menebak.
 
-Gunakan kolom minimum berikut:
+Sebaliknya, register ini tidak memberi izin untuk mendesain ulang kabel, memindahkan perangkat proteksi kebakaran, mengubah struktur, atau menentukan solusi aksesibilitas. Register hanya menunjukkan antarmuka yang perlu dibawa ke reviewer. Jika bukti gambar, manual, atau persetujuan tidak tersedia, pertahankan [NEEDS DOCUMENT] dan jangan mengubahnya menjadi klaim bahwa item sudah sesuai.
 
-| Kelompok | Data yang dicatat | Keputusan sementara |
-|---|---|---|
-| Identitas | ID, tipe sistem, pemilik, lokasi asal/tujuan | telusur atau karantina |
-| Rakitan | panel, penghubung, support, pintu, hardware | pindah utuh, bongkar, atau ganti |
-| Layanan | power/data, akses, perangkat yang menempel | perlu koordinasi atau tidak |
-| Kondisi | retak, melengkung, aus, korosi, komponen hilang | pakai ulang setelah uji atau tahan |
-| Bukti | manual, drawing, foto, approval, hasil inspeksi | lengkap, kurang, atau [NEEDS DOCUMENT] |
+## Urutan pemeriksaan sebelum, selama, dan sesudah pemindahan
 
-Sebelum membuka sambungan, foto ID dan arah pemasangan. Simpan kantong hardware per ID, beri label, dan buat daftar komponen yang dilepas. Pada tahap layout tujuan, tandai dependensi: panel memerlukan penghubung tertentu, penyimpanan memerlukan support, dan permukaan kerja mungkin berbagi kaki atau bracket. Konfigurasi memengaruhi jalur beban, akses pembersihan, tuntutan lantai/plafon, stabilitas, dan urutan pemasangan ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+Urutan berikut menjawab kekhawatiran yang sering muncul: “Apa yang harus saya cek lebih dulu agar pembongkaran tidak membuat data dan komponen hilang?”
 
-Setelah pemasangan, lakukan commissioning berbasis fungsi: pintu dan latch bekerja, permukaan stabil, penyimpanan aman, jalur akses tidak terhalang, dan titik layanan dikonfirmasi oleh pemilik sistem. Jangan menyatakan “selesai” hanya karena tampilan rapi. Komponen tersembunyi sulit diverifikasi setelah penutupan; simpan foto sebelum ditutup dan catatan deviasi. Metode inspeksi pabrikan hanya pola pencatatan—bukan toleransi yang boleh disalin ke sistem lain. [NEEDS REVIEW: ITP, metode pengujian, dan kriteria penerimaan proyek]
+### Memotret kondisi awal dan membuat identitas yang tetap
 
-## Faktor yang mengubah hasil
+Mulailah dengan menandai ruangan, posisi, arah pemasangan, dan jendela waktu kerja. Foto ID komponen sebelum sambungan dibuka, lalu pasangkan label dengan kantong hardware-nya. Pemeriksa pertama membaca ID dan spesifikasi; pemeriksa kedua mencocokkan benda, lokasi, dan jumlah. Cara berpasangan ini mengurangi risiko satu orang mengisi kolom berdasarkan perkiraan.
 
-Pertama, kompatibilitas sistem. Samakan merek atau standar antarmuka yang benar-benar terverifikasi, jenis penghubung, ketebalan panel, posisi lubang, dan support. Jangan mencampur komponen hanya karena lubangnya terlihat sejajar.
+### Mencocokkan rakitan dengan susunan tujuan
 
-Kedua, lingkungan. Compact laminate dapat berubah dimensi karena kelembapan; lubang, jarak tepi, fixing, ventilasi, dan conditioning harus mengikuti dokumen sistem yang dipilih, bukan asumsi dari nama material ([Bobrick compact-grade laminate](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+Setelah daftar awal lengkap, cocokkan tiap item dengan layout tujuan. Tandai penghubung yang dibutuhkan panel, penyangga untuk penyimpanan, serta kaki atau bracket yang dipakai bersama. Konfigurasi memengaruhi urutan pemasangan, stabilitas, akses pembersihan, dan tuntutan bidang lantai atau plafon. Petunjuk pemasangan Bobrick dapat menjadi contoh cara menelusuri komponen, tetapi bukan bukti bahwa sistem lain memiliki detail yang sama ([petunjuk pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-Ketiga, operasi. Area berpenghuni memerlukan rencana isolasi, rute material, perlindungan aset, dan komunikasi gangguan. Keempat, bukti. Jika drawing, manual, atau approval tidak tersedia, status komponen adalah “tahan untuk tinjauan”, bukan otomatis “reuse”. Sobat Cubicle.co.id, satu kolom approval yang kosong dapat lebih penting daripada puluhan kolom ukuran yang lengkap.
+### Memeriksa layanan dan komponen tersembunyi
 
-## Contoh keputusan praktis
+Titik power/data yang tertanam perlu dikonfirmasi oleh pemilik sistem sebelum panel dipindahkan. Jangan mengubah wiring sebagai pekerjaan sampingan. Simpan foto sambungan sebelum ditutup dan catat setiap perbedaan antara gambar dengan kondisi lapangan. Jika metode inspeksi, ITP (rencana pemeriksaan dan pengujian), atau kriteria penerimaan proyek belum ditetapkan, pertahankan batas berikut: [NEEDS REVIEW: ITP, metode pengujian, dan kriteria penerimaan proyek].
 
-Bayangkan tiga baris register berikut. Panel A memiliki ID dan manual yang cocok, tetapi penghubung tujuan tidak ada. Keputusannya: tahan dan cari penghubung yang disetujui. Panel B lengkap, namun permukaannya rusak dan support-nya berubah pada layout baru. Keputusannya: minta penilaian kondisi dan kompatibilitas sebelum dipindahkan. Panel C tampak cocok, tetapi jalur power/data melewati area yang akan dibongkar. Keputusannya: koordinasikan isolasi dan verifikasi oleh pihak kelistrikan; jangan mengubah wiring sebagai pekerjaan sampingan.
+### Menguji fungsi setelah pemasangan
 
-Gunakan aturan sederhana: **reuse** hanya bila identitas, kondisi, kompatibilitas, dan approval lengkap; **repair/replace** bila salah satu bukti material atau support gagal; **hold** bila ada antarmuka keselamatan, fire, struktur, atau layanan yang belum direview. Kawan Cubicle.co.id, aturan ini membuat keputusan dapat diaudit tanpa mengklaim performa yang belum diuji.
+Sesudah rakitan terpasang, periksa pintu dan pengunci, kestabilan permukaan kerja, keamanan penyimpanan, kelancaran jalur akses, serta konfirmasi titik layanan oleh pemilik sistem. Tampilan yang rapi bukan bukti bahwa sambungan tersembunyi benar. Catat foto, penyimpangan, dan item yang masih menunggu persetujuan sebelum menyatakan pekerjaan selesai.
 
-## Kesalahan umum dan cara memeriksanya
+## Faktor yang mengubah keputusan pakai ulang
 
-Kesalahan pertama adalah menghitung panel tanpa penghubung dan hardware. Periksa setiap rakitan sebagai satu set dan cocokkan daftar komponen dengan manual sistem. Kesalahan kedua adalah menghapus ID lama lalu membuat daftar baru; pertahankan ID asal agar riwayat lokasi dan kondisi tetap terlacak.
+Pembaca sering sudah memiliki daftar unit, tetapi masih bingung mengapa beberapa unit tidak boleh langsung dipasang. Bagian ini menguraikan pemeriksaan yang mengubah status setiap baris register.
 
-Kesalahan ketiga adalah menerima substitusi tanpa catatan. Setiap penggantian harus menyebut komponen lama, komponen baru, alasan, pihak yang menyetujui, dan dampak pada drawing atau garansi. Substitusi atau deviasi dapat merusak bukti struktural, akustik, fire, kelembapan, tampilan, atau garansi ([Permen PUPR No. 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)). Kesalahan keempat adalah menutup sambungan tersembunyi tanpa foto dan checklist inspeksi.
+Pertama, periksa kecocokan antarmuka: merek atau sistem yang benar-benar terverifikasi, jenis penghubung, ketebalan panel, posisi lubang, dan penyangga. Lubang yang tampak sejajar belum membuktikan bahwa komponen dapat menahan fungsi yang sama. Jika salah satu identitas itu tidak jelas, statusnya tahan untuk peninjauan.
 
-Sebelum serah-terima, periksa: register versi terakhir, layout as-built, daftar deviasi, manual, spare, hasil uji fungsi, foto area tersembunyi, dan approval. Bila salah satu item kritis hilang, tulis [NEEDS TECHNICAL REVIEW] dan tahan klaim “siap operasi”.
+Kedua, pertimbangkan lingkungan. Compact laminate (laminat padat) dapat berubah dimensi akibat kelembapan; jarak tepi, lubang, pengikat, ventilasi, dan pengondisian harus mengikuti dokumen sistem yang dipilih. Referensi Bobrick menjelaskan batas material dan perangkatnya, sedangkan panduan fabrikasi Formica menunjukkan bahwa pengerjaan compact memerlukan aturan produk yang spesifik ([compact-grade laminate Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [panduan fabrikasi Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Keduanya tidak membuktikan performa terpasang pada proyek Anda.
 
-## Jalan pintas yang tampak praktis
+Ketiga, lihat operasi. Ruang yang tetap dihuni memerlukan pengaturan akses, rute material, perlindungan aset, dan komunikasi gangguan. Keempat, cek bukti: drawing, manual, persetujuan, dan hasil pemeriksaan harus menunjuk ke item yang sama. Sobat Cubicle.co.id, kolom persetujuan yang kosong dapat lebih penting daripada puluhan ukuran yang sudah diisi.
 
-“Kita hanya memindahkan beberapa meja; register akan memperlambat.” jalan pintas ini gagal ketika satu penghubung tertinggal atau satu titik layanan tidak kompatibel, lalu pekerjaan harus dibongkar ulang. Register ringkas justru memindahkan percakapan dari ingatan ke bukti. Anda tidak perlu mencatat data yang tidak memengaruhi keputusan, tetapi setiap komponen yang berubah lokasi, fungsi, atau antarmuka harus memiliki ID dan status.
+## Contoh aturan keputusan di lapangan
 
-## Langkah berikutnya
+Contoh ini menunjukkan bagaimana satu temuan mengubah tindakan, sehingga Anda dapat menerapkan logika yang sama tanpa mengarang data proyek.
 
-Move, add, change cubicle kantor dengan asset register berarti mengendalikan identitas, kondisi, kompatibilitas, lokasi, layanan, dan persetujuan sebelum serta sesudah perubahan. Langkah berikutnya: bekukan layout tujuan, buat register ber-ID, minta reviewer menandatangani item wiring/fire/struktur yang terdampak, lalu jalankan inspeksi fungsi dan serah-terima berbukti.
+Panel A memiliki ID dan manual yang cocok, tetapi penghubung untuk lokasi tujuan belum ada. Tindakannya adalah menahan panel dan mencari penghubung yang disetujui. Panel B lengkap, namun permukaannya rusak dan penyangganya berubah pada susunan baru; minta penilaian kondisi dan kecocokan sebelum memindahkannya. Panel C tampak cocok, tetapi jalur power/data melewati area bongkar; koordinasikan isolasi dan pemeriksaan pihak kelistrikan.
 
-Teman Cubicle.co.id, jangan menyimpulkan kepatuhan, kapasitas, atau garansi dari tampilan dan label saja. Jika bukti proyek atau produk belum tersedia, tandai [NEEDS REVIEW] dan berhenti pada batas aman sampai pihak berwenang menyetujui. Untuk menata referensi topik lain, gunakan [beranda Cubicle.co.id](/) sebagai titik kembali, bukan menebak-nebak rute artikel.
+Gunakan tiga status yang mudah dibaca: **pakai ulang** hanya bila identitas, kondisi, kecocokan, dan persetujuan lengkap; **perbaiki atau ganti** bila bukti material atau penyangga gagal; **tahan** bila antarmuka keselamatan, kebakaran, struktur, atau layanan belum diperiksa. Kawan Cubicle.co.id, status “tahan” bukan kegagalan administrasi; itu cara mencegah keputusan yang tidak dapat ditarik kembali.
+
+## Kesalahan pencatatan yang sering menimbulkan bongkar ulang
+
+Bagian ini membantu Anda menguji register sebelum tim menyerahkan hasil, terutama ketika pekerjaan terlihat cepat dan sederhana.
+
+Kesalahan pertama adalah menghitung panel tanpa penghubung dan hardware. Cocokkan setiap rakitan dengan manual sistem dan daftar komponennya. Kedua, menghapus ID lama lalu membuat daftar baru; pertahankan ID asal agar riwayat lokasi dan kondisi tidak putus. Ketiga, menerima substitusi tanpa catatan. Tulis komponen lama, komponen baru, alasan, pihak yang menyetujui, dan dampaknya pada gambar atau garansi.
+
+Substitusi dan penyimpangan dapat mengubah bukti struktural, akustik, kebakaran, kelembapan, tampilan, atau garansi. Permen PUPR No. 10/2021 dapat menjadi rujukan kerangka keselamatan konstruksi, tetapi tidak menggantikan pemeriksaan teknis item tertentu ([Permen PUPR No. 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)). Sebelum serah-terima, cocokkan versi register, gambar kondisi terpasang, daftar penyimpangan, manual, suku cadang, hasil uji fungsi, foto area tersembunyi, dan persetujuan. Jika item kritis hilang, tulis [NEEDS TECHNICAL REVIEW] dan tahan klaim “siap operasi”.
+
+## Mengapa melewati register bukan penghematan
+
+“Kami hanya memindahkan beberapa meja; daftar ini akan memperlambat.” Keberatan itu masuk akal sampai satu penghubung tertinggal atau satu titik layanan tidak cocok, lalu tim harus membongkar ulang. Register ringkas memindahkan keputusan dari ingatan ke bukti. Anda tidak perlu mencatat ukuran yang tidak mengubah keputusan, tetapi setiap komponen yang berubah lokasi, fungsi, atau antarmuka harus memiliki ID dan status.
+
+Jika struktur, kabel, aksesibilitas, atau tata letak kebakaran ikut berubah, jangan memakai register untuk memberi persetujuan sendiri. Pertahankan [NEEDS REVIEW] dan [NEEDS REVIEW: konfigurasi, struktur, aksesibilitas, wiring, dan fire layout proyek] sampai reviewer proyek menetapkan batas yang aman.
+
+## Langkah berikutnya setelah register selesai
+
+Setelah semua baris memiliki identitas, kondisi, kecocokan, lokasi, layanan, dan persetujuan, bekukan susunan tujuan dan tandai item yang masih ditahan. Minta reviewer menandatangani bagian yang menyentuh kabel, kebakaran, struktur, atau aksesibilitas. Baru kemudian jadwalkan bongkar, pindah, pasang, uji fungsi, dan serah-terima dengan foto serta catatan penyimpangan.
+
+Teman Cubicle.co.id, jangan menyimpulkan kepatuhan, kapasitas, atau garansi dari tampilan dan label saja. Bila bukti proyek atau produk belum tersedia, pertahankan [NEEDS REVIEW] dan berhenti pada batas yang dapat diperiksa. Untuk kembali menata referensi topik lain, gunakan [beranda Cubicle.co.id](/) sebagai titik kembali.
 
 <!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan

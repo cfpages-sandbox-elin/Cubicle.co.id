@@ -52,74 +52,84 @@ Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
-## Masalah keputusan yang sebenarnya
+## Mulai dari situasi ruang dan keputusan yang sebenarnya
 
-Kebingungan muncul karena keduanya sama-sama memiliki daun pintu, panel, dan hardware. Namun pada wall-return, dinding bangunan menjadi bagian dari sistem: bracket, anchor, plint, dan sambungan akhir harus cocok dengan substrate. Pada deret penuh, beban dan garis panel dibagi melalui pilaster atau stile, sehingga perubahan satu modul dapat memengaruhi modul di sebelahnya.
+Bagian ini membantu Anda membaca perbedaan sebagai keputusan tata ruang, bukan perlombaan memilih panel paling murah. Kita akan melihat jumlah bilik, sisi kedatangan pengguna, dan titik tumpu yang harus dibuktikan sebelum membahas komponen.
 
-Mulailah dengan pertanyaan: berapa bilik yang benar-benar diperlukan, dan dari sisi mana pengguna mendekat? Satu bilik di sudut sempit mungkin lebih efisien daripada memaksakan return tambahan. Sebaliknya, baris dengan trafik berulang biasanya lebih mudah dirawat bila semua panel dan pintu mengikuti satu sistem yang terdokumentasi.
+Kebingungan wajar terjadi karena kedua pilihan sama-sama memiliki daun pintu, panel, dan perangkat keras. Pada pintu tunggal ke dinding, dinding bangunan ikut menjadi penahan. Pada deret cubicle, beberapa bilik berbagi garis panel dan tiang pemisah sehingga perubahan satu modul dapat memengaruhi modul lain.
 
-## Bedakan objek sebelum membandingkan
+Mulailah dengan dua pertanyaan: berapa bilik yang sungguh diperlukan, dan dari arah mana pengguna datang? Satu bilik di sudut sempit bisa lebih masuk akal daripada menambah panel hanya agar tampak seperti deret. Sebaliknya, beberapa bilik dengan arus pengguna berulang biasanya lebih mudah dirawat bila semua modul mengikuti satu sistem yang terdokumentasi.
 
-**Pintu tunggal ke dinding** memiliki satu front, satu return atau panel samping, serta dinding sebagai batas terakhir. Risiko utamanya adalah dinding tidak tegak, lapisan hasil akhir rapuh, atau jalur utilitas berada tepat di titik anchor. **Deret cubicle** memiliki dua atau lebih front yang diulang, pilaster pemisah, dan biasanya headrail atau kaki penyangga sesuai sistem. Ia membutuhkan koordinasi garis lantai, elevasi, dan urutan pemasangan yang lebih luas.
+## Bedakan pintu tunggal ke dinding dan deret cubicle
 
-Keduanya adalah sistem terpasang, bukan sekadar papan. Instruksi instalasi pabrikan menunjukkan bahwa panel, pilaster, pintu, latch, engsel, kaki, bracket, celah, dan penyangga bangunan harus diperlakukan sebagai satu rangkaian. Lihat contoh dokumentasi sistem pada [instruksi pemasangan partisi HPL Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), tetapi jangan menyalin ukuran atau bebannya ke produk lain.
+Sebelum menimbang kelebihan, bagian ini menerjemahkan nama yang sering tertukar agar Anda tidak membandingkan benda yang berbeda. Kita akan melihat batas fisik, penahan, dan konsekuensi pemasangannya.
 
-## Kriteria perbandingan yang relevan
+**Pintu tunggal ke dinding** memiliki satu bagian depan, satu *return* (panel yang kembali ke samping), dan dinding sebagai batas terakhir. Dinding yang tidak tegak, lapisan akhir rapuh, atau pipa di titik bor dapat membuat pintu sulit sejajar. **Deret cubicle** mengulang dua atau lebih bagian depan dengan *pilaster* (tiang pemisah), panel antar-bilik, dan kadang rel atas atau kaki penyangga. Karena modulnya berulang, garis lantai dan tinggi antar-bilik harus konsisten.
 
-Gunakan matriks sederhana berikut saat survey:
+Keduanya adalah sistem terpasang, bukan papan lepas. Panel, pilaster, pintu, kunci, engsel, kaki, braket, celah, serta penyangga bangunan harus dibaca sebagai satu rangkaian. [Instruksi pemasangan partisi HPL Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf) dapat membantu memahami urutannya, tetapi ukuran dan bebannya tidak boleh dipindahkan ke produk lain tanpa verifikasi.
+
+## Bandingkan survey, perangkat keras, privasi, dan toleransi
+
+Matriks ini menjawab pertanyaan praktis yang biasanya muncul saat mengukur ruang. Pakai setiap baris untuk mencatat bukti, bukan untuk menganggap salah satu susunan selalu unggul.
 
 | Kriteria | Pintu tunggal ke dinding | Deret cubicle |
 |---|---|---|
-| Survey dinding | Sangat menentukan; ukur kelurusan, kekuatan, dan lapisan akhir | Tetap penting pada titik ujung, tetapi garis antar-modul dapat memakai struktur sistem |
-| Hardware | Lebih sedikit, tetapi setiap anchor dinding kritis | Lebih banyak latch, engsel, kaki, dan sambungan yang perlu disetel seragam |
-| Privasi | Bergantung pada pertemuan return dengan dinding dan celah pintu | Dapat konsisten antar-bilik bila modul dan celah ditetapkan sejak awal |
-| Toleransi | Kesalahan dinding langsung terlihat pada satu pintu | Akumulasi toleransi dapat menggeser garis seluruh deret |
-| Pelaksanaan | Cepat hanya jika dinding siap dan akses kerja sederhana | Memerlukan urutan layout, leveling, dan koordinasi beberapa modul |
-| Perawatan | Titik masalah terkonsentrasi pada sambungan dinding | Pemeriksaan berulang diperlukan pada hardware dan sambungan tiap bilik |
+| Survey dinding | Sangat menentukan; ukur kelurusan, kekuatan, dan lapisan akhir | Tetap penting di ujung deret, sementara antar-modul memakai struktur sistem |
+| Perangkat keras | Lebih sedikit, tetapi setiap jangkar dinding sangat kritis | Lebih banyak kunci, engsel, kaki, dan sambungan yang perlu disetel seragam |
+| Privasi | Dipengaruhi pertemuan panel kembali dengan dinding dan celah pintu | Dapat seragam bila modul, arah pandang, dan celah ditetapkan sejak awal |
+| Toleransi | Kesalahan dinding langsung terlihat pada satu pintu | Kesalahan kecil dapat menumpuk dan menggeser garis seluruh deret |
+| Pelaksanaan | Cepat bila dinding siap dan akses kerja sederhana | Memerlukan penataan, perataan, dan koordinasi beberapa modul |
+| Perawatan | Titik masalah terkonsentrasi di sambungan dinding | Pemeriksaan berulang diperlukan pada perangkat keras dan tiap sambungan |
 
-Untuk material, istilah “phenolic”, “HPL”, atau “compact” belum cukup menjadi spesifikasi. ISO menjelaskan ruang lingkup metode uji dan kelas penggunaan tertentu, sementara panduan Formica membedakan penggunaan interior dan kondisi lain; itu tidak otomatis membuktikan kinerja sistem cubicle, ketahanan hardware, atau kecocokan proyek Indonesia ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html), dan [Formica Washroom](https://www.formica.com/en-gb/products/washroom)).
+Istilah “phenolic”, “HPL”, atau “compact” adalah nama material, bukan jaminan kinerja sistem. ISO menerangkan ruang lingkup metode uji dan kelas penggunaan tertentu; panduan Formica juga membedakan penggunaan interior dan kondisi lain. Itu tidak otomatis membuktikan ketahanan perangkat keras atau kecocokan proyek Anda ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html), dan [Formica Washroom](https://www.formica.com/en-gb/products/washroom)).
 
-Privasi juga harus dibaca sebagai hasil koordinasi ruang, bukan atribut panel semata. Arah pandang dari koridor, celah bawah, posisi wastafel, dan bukaan pintu dapat mengubah pengalaman pengguna. Untuk area yang harus memenuhi ketentuan aksesibilitas, posisi partisi, ruang pendekat, operasi pintu, dan sanitair perlu dinilai sebagai rute terpadu sesuai regulasi dan persyaratan proyek, bukan disimpulkan dari satu dimensi produk ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
+Privasi adalah hasil koordinasi ruang. Arah pandang koridor, celah bawah, posisi wastafel, dan bukaan pintu dapat mengubah pengalaman pengguna walaupun panelnya sama. Untuk area yang perlu aksesibilitas, posisi partisi, ruang pendekat, operasi pintu, dan sanitair harus dinilai sebagai satu rute sesuai regulasi dan persyaratan proyek ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-## Kapan masing-masing pilihan masuk akal
+## Tentukan kapan tiap susunan masuk akal
 
-Wall-return masuk akal ketika hanya ada satu kebutuhan bilik, dinding ujung dapat diverifikasi, dan pemilik menerima bahwa detail sambungan dinding menjadi titik inspeksi utama. Ini juga berguna pada renovasi yang harus mempertahankan sebagian besar layout, asalkan jalur pipa dan lapisan dinding sudah dipetakan.
+Setelah objek dan kriterianya jelas, bagian ini membantu Anda menguji pilihan terhadap kondisi nyata. Tujuannya bukan memberi jawaban universal, melainkan menunjukkan bukti yang harus ada sebelum memutuskan.
 
-Deret penuh masuk akal ketika jumlah bilik, ritme pintu, dan garis fasad perlu konsisten. Sistem ini memudahkan pembandingan modul saat pengadaan, tetapi menuntut toleransi lantai dan urutan kerja yang disiplin. Sobat Cubicle.co.id, jangan menyamakan “lebih banyak modul” dengan “lebih kuat”; stabilitas tetap bergantung pada desain sistem, fixings, dan dukungan bangunan yang disetujui.
+Pintu tunggal ke dinding masuk akal bila hanya satu bilik diperlukan, dinding ujung dapat diverifikasi, dan pemilik siap menjadikan sambungan dinding sebagai titik pemeriksaan utama. Susunan ini berguna dalam renovasi yang mempertahankan sebagian besar tata letak, selama jalur pipa dan lapisan dinding sudah dipetakan.
 
-Jika dinding ujung meragukan tetapi baris harus tetap berjalan, mintalah opsi detail ujung yang tidak mengandalkan asumsi substrate. Jika ruang sangat sempit dan hanya satu pintu yang diperlukan, hindari menambah pilaster, headrail, atau panel yang tidak menjawab fungsi. Keputusan akhir harus mengikuti gambar koordinasi dan persetujuan teknis proyek.
+Deret penuh masuk akal bila jumlah bilik, irama pintu, dan garis tampak perlu konsisten. Pengadaan modul bisa lebih mudah dibandingkan satu per satu, tetapi perataan lantai dan urutan kerja menjadi lebih disiplin. Sobat Cubicle.co.id, banyak modul bukan berarti otomatis lebih kuat; kestabilan tetap bergantung pada rancangan sistem, pengikat, dan dukungan bangunan yang disetujui.
 
-## Kesalahan perbandingan yang sering terjadi
+Jika dinding ujung meragukan tetapi baris harus berjalan, mintalah detail ujung yang tidak bergantung pada dugaan kekuatan dinding. Jika ruang sangat sempit dan hanya satu pintu diperlukan, jangan menambah tiang atau rel yang tidak menjawab fungsi. Keputusan akhir harus mengikuti gambar koordinasi dan persetujuan teknis proyek.
 
-Pertama, memilih berdasarkan harga panel per meter. Lingkup wall-return dapat memerlukan penguatan dan pekerjaan dinding; deret penuh menambah jumlah hardware, leveling, dan penyetelan. Bandingkan total sistem terpasang, bukan satu komponen.
+## Hindari empat salah banding yang mahal
 
-Kedua, menganggap dinding selalu lurus dan kuat. hasil akhir baru dapat menutupi retak atau rongga. Minta titik bor, jenis substrate, dan metode anchor ditunjukkan pada gambar, lalu cocokkan dengan kondisi lapangan.
+Kesalahan di bagian ini sering terlihat seperti penghematan pada awalnya. Kita telusuri penyebabnya supaya Anda bisa menghentikan keputusan yang belum punya bukti.
 
-Ketiga, memakai label material sebagai bukti performa. Compact laminate dapat berubah dimensi akibat kelembapan; lubang, jarak tepi, fixing, conditioning, dan ventilasi harus mengikuti dokumen sistem yang relevan ([panduan fabrikasi compact Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Jangan mengubah klaim bahan menjadi jaminan pintu tidak melendut atau hardware tidak korosi.
+Pertama, memilih berdasarkan harga panel per meter. Pintu tunggal dapat memerlukan penguatan dan pekerjaan dinding; deret penuh menambah perangkat keras, perataan, dan penyetelan. Bandingkan total sistem terpasang, bukan satu komponen.
 
-Keempat, menutup gejala dengan perbaikan kosmetik. Pintu seret atau panel longgar dapat berasal dari gerakan, fixing, benturan, sumber air, korosi, bahan pembersih yang tidak cocok, atau interaksi sistem bangunan. Panduan perawatan Bobrick dan Lorient menekankan pemeriksaan serta pemeliharaan komponen; pengendalian kelembapan juga perlu ditelusuri dari sumbernya, bukan hanya dilap ([Bobrick cleaning and maintenance](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/) dan [Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide); [EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+Kedua, menganggap dinding selalu lurus dan kuat. Lapisan baru dapat menutupi retak atau rongga. Minta titik bor, jenis bahan dinding, dan metode jangkar ditunjukkan pada gambar, lalu cocokkan dengan kondisi lapangan.
 
-## Bukti yang perlu diminta sebelum memilih
+Ketiga, menjadikan label material sebagai bukti performa. Laminasi kompak dapat berubah dimensi karena kelembapan; lubang, jarak tepi, pengikat, pengondisian, dan ventilasi harus mengikuti dokumen sistem yang relevan ([panduan fabrikasi compact Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Jangan mengubah klaim bahan menjadi janji pintu tidak melendut atau perangkat keras tidak berkarat.
 
-Sebelum menyetujui susunan, kumpulkan:
+Keempat, menutup gejala dengan perbaikan kosmetik. Pintu seret atau panel longgar dapat berasal dari gerakan, pengikat, benturan, sumber air, korosi, bahan pembersih yang tidak cocok, atau interaksi sistem bangunan. Panduan perawatan Bobrick dan Lorient menekankan pemeriksaan komponen; pengendalian kelembapan juga perlu ditelusuri dari sumbernya, bukan hanya dilap ([Bobrick cleaning and maintenance](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), dan [EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-- foto dan ukuran aktual dinding, lantai, plafon, serta posisi pipa dan floor drain;
-- gambar denah dan elevasi yang menandai front, return, celah, arah bukaan, dan ruang pendekat;
-- detail substrate dan titik anchor, termasuk siapa yang menyetujui pengeboran;
-- daftar komponen hardware, material panel, hasil akhir tepi, dan dokumen instalasi pabrikan;
-- sampel fisik atau data teknis yang menyebut grade dan penggunaan yang memang berlaku;
-- metode leveling, urutan pemasangan, perlindungan area basah, dan akses inspeksi;
-- pembagian lingkup antara pekerjaan dinding, cubicle, sanitair, dan pembersihan pascakerja;
-- rencana inspeksi setelah serah terima: kelonggaran, korosi, kebocoran, delaminasi, dan pintu yang tidak sejajar.
+## Kumpulkan bukti sebelum mengunci pilihan
 
-Kawan Cubicle.co.id, bila salah satu bukti ini belum tersedia, tandai sebagai keputusan tertunda. [NEEDS PROJECT EVIDENCE: data dinding, produk, dan persetujuan aksesibilitas belum diberikan.] Jangan mengganti kekosongan itu dengan angka katalog dari merek lain.
+Daftar ini mengubah perbandingan menjadi pekerjaan yang bisa diperiksa. Kawan Cubicle.co.id, tandai setiap butir sebagai ada, belum ada, atau perlu persetujuan; jangan mengisi kekosongan dengan angka katalog merek lain.
 
-## Jalan pintas yang tampak aman
+- foto dan ukuran aktual dinding, lantai, plafon, pipa, serta saluran lantai;
+- denah dan elevasi yang menandai bagian depan, panel kembali, celah, arah bukaan, dan ruang pendekat;
+- detail bahan dinding dan titik jangkar, termasuk pihak yang menyetujui pengeboran;
+- daftar perangkat keras, material panel, hasil akhir tepi, dan dokumen pemasangan pabrikan;
+- sampel atau data teknis yang menyebut mutu dan penggunaan yang memang berlaku;
+- metode perataan, urutan pemasangan, perlindungan area basah, dan akses inspeksi;
+- pembagian pekerjaan dinding, cubicle, sanitair, dan pembersihan pascakerja;
+- rencana pemeriksaan setelah serah terima: kelonggaran, korosi, kebocoran, delaminasi, dan pintu tidak sejajar.
 
-jalan pintas yang sering dipilih adalah “ambil deret penuh supaya aman; semua masalah akan tertutup panel.” Itu bisa gagal karena deret memperbanyak sambungan, hardware, dan akumulasi toleransi. Pilihan yang lebih aman adalah membandingkan dua detail terkoordinasi pada denah yang sama, menguji asumsi dinding, lalu meminta tinjauan teknis untuk anchor, privasi, dan aksesibilitas.
+Bila salah satu bukti belum tersedia, keputusan memang belum siap. [NEEDS PROJECT EVIDENCE: data dinding, produk, dan persetujuan aksesibilitas belum diberikan.] [NEEDS TECHNICAL REVIEW: verifikasi kondisi dinding, struktur penyangga, dan koordinasi akses proyek.]
+
+## Jangan memakai asumsi “deret pasti lebih aman”
+
+Judul ini membahas satu anggapan yang terdengar praktis tetapi sering menyesatkan. Kita lihat mekanismenya agar Anda punya aturan pengganti yang lebih aman.
+
+Memilih deret penuh hanya karena “semua masalah akan tertutup panel” dapat memperbanyak sambungan, perangkat keras, dan penumpukan toleransi. Cara yang lebih dapat dipertanggungjawabkan adalah menggambar dua detail terkoordinasi pada denah yang sama, menguji asumsi dinding, lalu meminta tinjauan teknis untuk jangkar, privasi, dan aksesibilitas.
 
 ## Kesimpulan: pilih berdasarkan garis tumpu, bukan jumlah pintu
 
-Pintu tunggal ke dinding cocok saat satu bilik dan dinding ujung yang terverifikasi menjadi solusi paling sederhana. Deret cubicle cocok saat beberapa bilik perlu ritme dan koordinasi sistem yang konsisten. Tidak ada pemenang universal: survey dinding, hardware, privasi, toleransi, dan lingkup biaya yang menentukan.
+Bagian akhir ini merangkum keputusan yang perlu dibawa ke rapat atau survey berikutnya. Pintu tunggal ke dinding cocok saat satu bilik dan dinding ujung yang terbukti menjadi solusi paling sederhana. Deret cubicle cocok saat beberapa bilik perlu ritme dan koordinasi sistem yang konsisten. Tidak ada pemenang universal: survey dinding, perangkat keras, privasi, toleransi, dan lingkup biaya yang menentukan.
 
-Langkah berikutnya adalah membuat satu lembar perbandingan berisi dua opsi, foto kondisi aktual, detail anchor, daftar hardware, serta pihak yang menyetujui aksesibilitas dan pemasangan. Teman Cubicle.co.id, tahan pemesanan sampai data itu ditinjau. Untuk konteks pekerjaan lain, Anda dapat mulai dari [beranda Cubicle.co.id](/), lalu kembali ke lembar perbandingan ini. Aturan operasionalnya: jika garis tumpu atau bukti produk belum jelas, jangan mengunci konfigurasi—minta klarifikasi teknis dan persetujuan proyek terlebih dahulu.
+Langkah berikutnya, buat satu lembar perbandingan berisi dua opsi, foto kondisi aktual, detail jangkar, daftar perangkat keras, serta pihak yang menyetujui aksesibilitas dan pemasangan. Teman Cubicle.co.id, tahan pemesanan sampai data itu ditinjau. Untuk membaca konteks produk dan layanan lain, Anda dapat membuka [beranda Cubicle.co.id](/). Aturan operasionalnya sederhana: jika garis tumpu atau bukti produk belum jelas, jangan mengunci konfigurasi—minta klarifikasi teknis dan persetujuan proyek terlebih dahulu.

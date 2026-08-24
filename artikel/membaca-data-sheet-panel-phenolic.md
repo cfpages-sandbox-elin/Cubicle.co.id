@@ -2,7 +2,7 @@
 article_id: CUB-04-A03
 title: "Cara Membaca Data Sheet Panel Phenolic dan Compact Laminate"
 slug: "membaca-data-sheet-panel-phenolic"
-description: "Pembaca dapat menemukan identitas produk, komposisi, ketebalan, densitas, permukaan, toleransi, moisture/fire evidence, dan batas aplikasi."
+description: "Panduan praktis untuk memeriksa identitas, komposisi, ketebalan, densitas, permukaan, toleransi, bukti kelembapan dan api, serta batas pemakaian panel."
 writing_contract_version: "native-id-v2"
 status: draft
 publication_date: "2025-07-07"
@@ -31,9 +31,9 @@ sources:
 
 # Cara Membaca Data Sheet Panel Phenolic dan Compact Laminate
 
-Halo, Sobat Cubicle.co.id! Data sheet panel phenolic atau compact laminate bukan sekadar lembar spesifikasi untuk dicocokkan dengan kata “tahan air”. Cara membacanya adalah memeriksa identitas produk, bukti pengujian, dan batas pemakaian secara berurutan. Jika salah satu bagian itu tidak jelas, panel belum dapat dianggap sesuai hanya karena namanya phenolic atau HPL.
+Halo, Sobat Cubicle.co.id! Saat menerima penawaran panel berlabel “phenolic”, Anda mungkin mengira label itu sudah cukup untuk menyetujui material. Belum. Baca data sheet sebagai lembar pembuktian: cocokkan kode dan grade, pahami angka bersama kondisi uji, lalu hubungkan bukti material dengan sistem cubicle dan lokasi pemakaian.
 
-Mulailah dari nomor produk dan grade yang persis, lalu cocokkan komposisi, ketebalan, densitas, permukaan, toleransi, dan kondisi lingkungan yang dinyatakan. Setelah itu pisahkan bukti material dari bukti sistem cubicle: panel, pintu, pilaster, hardware, sambungan, dan penyangga bisa memiliki tuntutan berbeda. Klaim kelembapan atau api harus ditautkan ke produk dan konfigurasi yang diuji; abstrak metode ISO atau ASTM sendiri bukan hasil lulus. [ISO 4586-2:2018](https://www.iso.org/standard/72960.html) menjelaskan ruang lingkup metode uji HPL, sedangkan grade compact interior dan exterior memiliki ruang lingkup berbeda pada [ISO 4586-4:2018](https://www.iso.org/standard/72962.html) dan [ISO 4586-6:2018](https://www.iso.org/standard/72964.html).
+Phenolic dan *high-pressure laminate* (HPL, laminasi bertekanan tinggi) adalah keluarga material, bukan identitas produk tunggal. Metode [ISO 4586-2:2018](https://www.iso.org/standard/72960.html), grade compact interior pada [ISO 4586-4:2018](https://www.iso.org/standard/72962.html), dan grade exterior pada [ISO 4586-6:2018](https://www.iso.org/standard/72964.html) memiliki ruang lingkup berbeda. Halaman metode tidak otomatis membuktikan panel tertentu lulus.
 
 ![Ilustrasi cubicle panel](/wp-content/uploads/2023/01/cubicle-panel.jpg)
 
@@ -52,63 +52,60 @@ Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
-## Hasil akhir dan prasyarat
+## Tentukan benda dan keputusan yang diverifikasi
 
-Hasil pembacaan yang baik adalah lembar verifikasi yang dapat dijawab “ya”, “tidak”, atau “belum ada bukti” untuk setiap atribut. Anda memerlukan data sheet versi terbaru, kode produk, gambar atau potongan detail, dokumen pengujian yang dirujuk, serta kebutuhan proyek (ruang, paparan air, cara bersih-bersih, dan konfigurasi cubicle). Buyer atau QS dapat mengumpulkan dan mencatatnya; keputusan desain, aksesibilitas, dan keselamatan tetap perlu ditinjau oleh pihak berwenang di proyek.
+Sebelum membaca angka, tentukan apakah yang diperiksa adalah lembar compact laminate untuk partisi, panel dengan inti lain, atau sistem cubicle lengkap. Catat interior kering, toilet yang sering dibersihkan, atau area semi-eksterior; sebutkan sisi yang terkena air dan cara panel ditopang. Langkah ini mencegah kata “tahan air” diterima sebagai jaminan umum.
 
-Jangan mengisi kolom kosong dengan asumsi umum industri. Catat nama pabrikan, kode grade, tanggal atau nomor revisi, dan pasar tujuan. Bila data sheet menyebut beberapa grade, tandai grade yang benar-benar ditawarkan, bukan seluruh rentang produk. Ini mencegah dokumen submittal memakai bukti milik varian lain.
+Artikel ini membantu menemukan ketidakcocokan, bukan menetapkan bahwa semua phenolic cocok untuk terendam atau menggantikan rancangan anchor, pintu, perangkat keras, dan aksesibilitas. Untuk ruang aksesibel, nilai posisi partisi, ayunan pintu, ruang pendekatan, fittings, visibilitas, dan sanitair sebagai satu rute berdasarkan [Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017) serta persyaratan proyek.
 
-## Langkah 1 — tetapkan batas
+## Cocokkan identitas dan angka pada lembar spesifikasi
 
-Tentukan dulu benda yang sedang diverifikasi: lembar compact laminate untuk partisi, panel dengan inti berbeda, atau satu sistem cubicle lengkap. Tuliskan lokasi pemakaian (interior kering, toilet yang sering dibersihkan, atau area semi-eksterior), bidang yang bersentuhan dengan air, serta bagaimana panel ditopang. “Phenolic” dan “HPL” adalah istilah keluarga material, bukan identitas produk tunggal.
+Satu pabrikan dapat menawarkan beberapa grade yang namanya mirip. Catat pabrikan, kode produk, grade, revisi, dan pasar tujuan; salin kode itu ke penawaran, gambar, dan laporan uji. Kode berbeda berarti “belum cocok” sampai hubungan antarvarian dijelaskan.
 
-Batas pekerjaan ini adalah membaca bukti dan menemukan ketidakcocokan. Ia tidak menetapkan bahwa semua phenolic cocok untuk imersi, tidak menyamakan grade interior dengan exterior, dan tidak menggantikan desain anchor, pintu, hardware, atau aksesibilitas. Untuk aksesibilitas, posisi partisi, ayunan dan gaya operasi pintu, ruang pendekatan, fittings, visibilitas, serta tata letak sanitair harus dinilai sebagai satu rute dan ruang; rujuk status [Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017) dan persyaratan proyek yang berlaku sebelum memakai angka tertentu.
+Periksa komposisi inti atau resin, lapisan permukaan, dan *backing* (lapisan belakang). Lalu catat ketebalan nominal, format, toleransi, densitas atau massa, permukaan, dan warna. Angka tipikal bukan otomatis nilai minimum atau jaminan; cari unit, kondisi pengukuran, arah ukur, dan catatan kaki.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-Buat tabel sederhana dengan kolom “yang dinyatakan”, “dokumen pendukung”, “varian/konfigurasi”, dan “status”. Isi sekurang-kurangnya:
-
-| Bagian data sheet | Yang dicari | Pertanyaan pemeriksaan |
+| Bagian | Yang dicari | Pertanyaan |
 | --- | --- | --- |
-| Identitas | pabrikan, kode, grade, revisi | Apakah kode pada penawaran, gambar, dan laporan uji sama? |
-| Komposisi | jenis inti/resin, lapisan, backing | Apakah susunan ini milik compact laminate yang ditawarkan? |
-| Dimensi | ketebalan nominal, format, toleransi | Toleransi berlaku pada kondisi dan arah pengukuran apa? |
-| Fisik | densitas atau massa, permukaan, warna | Apakah angka merujuk sampel, batch, atau nilai tipikal? |
-| Lingkungan | kelembapan, suhu, pembersihan, penggunaan | Apakah ada batas paparan, bukan hanya kata “moisture resistant”? |
-| Api | metode uji, spesimen, klasifikasi | Apakah bukti menyangkut material atau rakitan lengkap? |
+| Identitas | pabrikan, kode, grade, revisi | Apakah semua dokumen memakai kode sama? |
+| Komposisi | inti, resin, lapisan, *backing* | Apakah susunan milik varian yang ditawarkan? |
+| Dimensi | ketebalan dan toleransi | Pada kondisi apa toleransi berlaku? |
+| Lingkungan | kelembapan, suhu, pembersihan | Apa batas paparannya? |
+| Api | metode, spesimen, klasifikasi | Material atau rakitan lengkap? |
 
-Cari catatan kaki, unit, kondisi conditioning, dan pengecualian. Panduan fabrikasi compact laminate menekankan bahwa perubahan dimensi akibat kelembapan memengaruhi lubang, jarak tepi, fixing, ventilasi, dan conditioning; gunakan [panduan fabrikasi Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23) sebagai contoh cara mencari kondisi tersebut, bukan sebagai izin menyalin ukurannya ke produk lain.
+Kawan Cubicle.co.id, kolom kosong berarti “belum ada bukti”, bukan undangan mengisi angka dari katalog lama.
 
-Untuk instalasi, cocokkan pula daftar komponen. Instruksi [Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf) memperlihatkan mengapa panel, stile atau pilaster, pintu, latch, hinge, kaki atau headrail, bracket, anchor, celah, dan struktur bangunan harus dibaca bersama. Bukti material dari halaman [compact-grade laminate Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/) tidak otomatis membuktikan kinerja sistem Anda.
+## Hubungkan bukti material dengan pemasangan
 
-## Langkah 3 — jalankan urutan kerja
+Panel, pilaster atau tiang, pintu, kait, engsel, kaki atau *headrail* (rel atas), bracket, anchor, celah, dan struktur bangunan bekerja sebagai satu sistem. Panduan fabrikasi [Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23) membantu Anda mencari catatan tentang perubahan dimensi, lubang, jarak tepi, pengikat, ventilasi, dan pengondisian; jangan menyalin ukurannya ke produk lain tanpa bukti.
 
-Pertama, kunci varian. Salin kode dan grade persis ke lembar submittal, kemudian coret klaim yang hanya muncul pada grade lain. Kedua, baca angka bersama unit dan kondisi uji: bedakan nominal dari minimum, tipikal dari jaminan, serta lembar material dari komponen yang sudah dirakit.
+Instruksi [Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf) menunjukkan hubungan komponen dalam sistem tertentu. Halaman [compact-grade laminate Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/) hanya mendukung informasi material dan produk yang dijelaskan di sana. Perbedaan hardware, substrat, atau pemasangan dapat mengubah hasil.
 
-Ketiga, uji kecocokan lingkungan. “Tahan kelembapan” perlu dijelaskan: apakah untuk cipratan dan pembersihan rutin, bagaimana tepi diperlakukan, dan apa batas kontak airnya. Koleksi washroom [Formica](https://www.formica.com/en-gb/products/washroom) adalah panduan produk bernama tertentu; ketersediaan dan petunjuk pasar Indonesia harus dikonfirmasi, bukan digeneralisasi ke semua panel.
+## Baca klaim kelembapan dan api sesuai buktinya
 
-Keempat, telusuri bukti api tanpa mencampur tiga hal: reaksi permukaan, ketahanan api rakitan pemisah, dan inspeksi atau pemeliharaan. Katalog BSN untuk [SNI 03-1736-2000](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000) dan [SNI 1741:2008](https://pesta.bsn.go.id/produk/detail/7531-sni17412008) membantu mengidentifikasi dokumen, sementara ruang lingkup [ISO 834-1:2025](https://www.iso.org/standard/83943.html) dan [ASTM E119-24](https://store.astm.org/e0119-24.html) menjelaskan metode uji. Tidak satu pun halaman metode tersebut menjadi bukti bahwa panel atau cubicle tertentu lulus. Klaim rating harus memuat rakitan tepat—panel, rangka, fastener, insulasi, sambungan, perimeter, pintu, penetrasi, dan cara pemasangan—serta ditinjau profesional.
+Untuk klaim kelembapan, tanyakan apakah berlaku untuk cipratan dan pembersihan rutin, bagaimana tepi diperlakukan, berapa batas kontak air, dan apakah ada syarat suhu. Koleksi washroom [Formica](https://www.formica.com/en-gb/products/washroom) adalah informasi produk tertentu; jangan menggeneralisasikannya ke semua panel.
 
-Kelima, cocokkan detail sistem dan bangunan. Periksa apakah lubang, bracket, anchor, dan celah yang direncanakan sesuai instruksi pabrikan dan substrat aktual. Untuk ruang aksesibel, minta tinjauan rute dan penggunaan, bukan hanya ukuran panel. Sobat Cubicle.co.id, bila salah satu antarmuka belum ada gambarnya, statusnya adalah “belum terbukti”, bukan “diasumsikan sesuai”.
+Untuk api, pisahkan reaksi permukaan material dari ketahanan api rakitan dan pemeliharaan. Katalog BSN [SNI 03-1736-2000](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000) dan [SNI 1741:2008](https://pesta.bsn.go.id/produk/detail/7531-sni17412008) membantu menemukan dokumen. Ruang lingkup [ISO 834-1:2025](https://www.iso.org/standard/83943.html) dan [ASTM E119-24](https://store.astm.org/e0119-24.html) menjelaskan metode, bukan kelulusan panel atau cubicle tertentu.
 
-## Titik berhenti dan kondisi pemeriksaan
+Rating baru bermakna bila laporan menyebut panel, rangka, pengikat, insulasi, sambungan, perimeter, pintu, penetrasi, dan cara pemasangan yang tepat. Jika salah satu unsur berbeda, jangan menyamakan hasilnya. Sobat Cubicle.co.id, pertahankan `[NEEDS PROFESSIONAL REVIEW: G-01/G-02/G-04/G-05]` sampai persyaratan Indonesia, proyek, dan rakitan benar diperiksa.
 
-Hentikan persetujuan ketika kode produk tidak sama antar dokumen, laporan uji tidak menyebut spesimen atau konfigurasi, grade interior dipakai pada paparan luar tanpa bukti, atau klaim api hanya berupa logo/metode. Hentikan pula ketika ketebalan dan toleransi ada tetapi detail edge, fixing, atau support tidak tersedia. Minta data sheet revisi, laporan uji lengkap, instruksi instalasi, dan gambar koordinasi.
+## Tetapkan titik berhenti sebelum persetujuan
 
-Untuk keputusan aksesibilitas dan keselamatan kebakaran, tandai `[NEEDS PROFESSIONAL REVIEW: G-01/G-02/G-04/G-05]` sampai persyaratan Indonesia, proyek, dan rakitan yang tepat diperiksa. Jangan menerbitkan rating, angka kepatuhan, garansi, atau kesimpulan “aman” dari ringkasan pemasaran.
+Tahan persetujuan ketika kode produk berbeda, laporan uji tidak menyebut spesimen atau konfigurasi, grade interior dipakai di luar tanpa bukti, klaim api hanya berupa logo, atau detail tepi, pengikat, dan penyangga tidak tersedia. Minta data sheet revisi, laporan uji lengkap, instruksi pemasangan, dan gambar koordinasi.
 
-## Verifikasi hasil dan serah terima
+Simpan status tiap atribut sebagai “sesuai”, “tidak sesuai”, atau “terbuka”, dengan penanggung jawab dan tanggal tindak lanjut. Keputusan aksesibilitas dan keselamatan memerlukan pihak berwenang; jangan menerbitkan rating, angka kepatuhan, garansi, atau kesimpulan “aman” dari ringkasan pemasaran.
 
-serah terima harus menyertakan data sheet bertanggal, matriks varian, tabel atribut di atas, daftar dokumen uji dengan ruang lingkupnya, gambar panel dan hardware, serta daftar deviasi. Simpan keputusan “sesuai”, “tidak sesuai”, dan “terbuka” dengan penanggung jawab dan tanggal tindak lanjut. Saat barang datang, cocokkan label, ketebalan yang diukur sesuai prosedur proyek, permukaan, dan komponen terhadap paket yang disetujui; pemeriksaan lapangan tidak mengubah bukti uji menjadi bukti kinerja baru.
+## Serahkan paket verifikasi yang dapat ditelusuri
 
-Untuk jejak administrasi, simpan satu salinan paket yang disetujui bersama gambar koordinasi dan notulen klarifikasi. Tautkan pembaca yang membutuhkan konteks situs ke [beranda Cubicle.co.id](/), lalu kembali ke tabel verifikasi ini ketika ada perubahan kode atau revisi. Jangan menghapus versi lama tanpa mencatat alasan perubahan; perbedaan revisi dapat menjelaskan mengapa angka, grade, atau batas penggunaan terlihat tidak sama.
+Paket serah terima sebaiknya memuat data sheet bertanggal, matriks varian, tabel atribut, daftar dokumen uji beserta ruang lingkupnya, gambar panel dan hardware, serta daftar perbedaan. Saat barang datang, cocokkan label, ketebalan menurut prosedur proyek, permukaan, dan komponen dengan paket yang disetujui. Pemeriksaan lapangan tidak mengubah bukti uji menjadi bukti kinerja baru.
 
-## Anggapan cepat yang perlu ditolak
+Untuk konteks situs, Anda dapat membuka [beranda Cubicle.co.id](/), lalu kembali ke tabel ini ketika kode atau revisi berubah. Jangan menghapus versi lama tanpa alasan tertulis; perbedaan revisi dapat menjelaskan perbedaan grade atau batas pemakaian.
 
-Jalan pintasnya adalah menerima satu brosur yang menulis “phenolic compact, waterproof, fire rated” lalu menganggap semua kebutuhan selesai. Ini gagal karena istilah material tidak mengunci grade, kondisi air, rakitan, atau metode penilaian. Alternatif yang lebih andal adalah meminta satu baris bukti untuk setiap klaim: kode dan grade, kondisi kelembapan, laporan uji yang cocok, serta detail sistem dan tinjauan proyek. Jika satu baris belum tersedia, pertahankan status terbuka.
+## Tolak anggapan bahwa satu brosur cukup
 
-Kawan Cubicle.co.id, perlakukan lembar yang tidak menyebut kondisi pengujian sebagai petunjuk untuk bertanya, bukan sebagai izin mengisi angka dari katalog lama. Tanyakan juga siapa yang menyetujui substitusi bila pabrikan mengganti grade atau komponen; perubahan kecil pada hardware atau substrat dapat mengubah jalur beban dan urutan pemasangan.
+Brosur yang menulis “phenolic compact, waterproof, fire rated” belum menjawab grade, kondisi air, rakitan, atau metode penilaian. Minta satu baris bukti untuk setiap klaim: kode dan grade, kondisi kelembapan, laporan uji yang cocok, detail sistem, dan tinjauan proyek. Jika satu baris belum ada, pertahankan status terbuka.
 
-## Kesimpulan
+## Kesimpulan: ubah lembar spesifikasi menjadi keputusan tertulis
 
-Cara membaca data sheet panel phenolic dan compact laminate adalah mengunci identitas produk, mencocokkan komposisi, ketebalan, densitas, permukaan, toleransi, lingkungan, dan bukti api dengan varian serta rakitan yang benar. Langkah berikutnya, minta paket submittal lengkap dan ajukan pertanyaan tertulis pada setiap kolom yang kosong sebelum pembelian atau pemasangan. Aturan operasionalnya sederhana: nama material membuka pemeriksaan; hanya bukti yang cocok dengan produk, sistem, dan proyek yang boleh menutupnya.
+Cara membaca data sheet panel phenolic dan compact laminate adalah mencocokkan identitas, komposisi, angka, kondisi uji, lingkungan, dan rakitan cubicle. Minta paket submittal lengkap, isi status setiap atribut, dan tulis pertanyaan pada kolom kosong sebelum pembelian atau pemasangan.
+
+Aturan operasionalnya sederhana: nama material membuka pemeriksaan; hanya bukti yang cocok dengan produk, sistem, dan proyek yang boleh menutupnya. Kawan Cubicle.co.id, bila bukti belum cocok, jangan menebak—tahan persetujuan dan minta klarifikasi tertulis.
