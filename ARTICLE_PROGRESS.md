@@ -19,8 +19,8 @@ Last generated: **2026-08-24 16:45:00 (Asia/Jakarta)**
 | Remaining | 0 |
 | Repository status | ✅ Draft accepted and pushed |
 | Open correction/re-review flags | 0 |
-| Patient-reader rewrites accepted | 117 |
-| Patient-reader rewrites remaining | 5 |
+| Patient-reader rewrites accepted | 122 |
+| Patient-reader rewrites remaining | 0 |
 
 ## Legend
 
@@ -122,10 +122,10 @@ Last generated: **2026-08-24 16:45:00 (Asia/Jakarta)**
 | 64 | `CUB-10-A04` | `CUB-10` | Cleaning dan Perawatan Finish Cubicle Kantor | `artikel/cleaning-perawatan-cubicle-kantor.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-08, `62e2bdf3`) |
 | 65 | `CUB-10-A05` | `CUB-10` | Panel Goyang, Work Surface Turun, atau Finishing Rusak: Diagnosis Cubicle Kantor | `artikel/diagnosis-kerusakan-cubicle-kantor.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `0e97cd83`) |
 | 66 | `CUB-10-A06` | `CUB-10` | Reuse atau Ganti Sistem Cubicle Kantor Lama? | `artikel/reuse-atau-ganti-cubicle-kantor.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `8db736d2`) |
-| 67 | `CUB-11-A01` | `CUB-11` | Panelboard, MDB, Switchboard, MCC, Switchgear, atau RMU? | `artikel/panelboard-mdb-switchboard-mcc-switchgear-rmu.md` | ✅ Accepted and pushed | No open review defect recorded. | — | 🟡 Patient-reader acceptance not evidenced |
+| 67 | `CUB-11-A01` | `CUB-11` | Panelboard, MDB, Switchboard, MCC, Switchgear, atau RMU? | `artikel/panelboard-mdb-switchboard-mcc-switchgear-rmu.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `71cb4a99`) |
 | 68 | `CUB-11-A02` | `CUB-11` | Kamus Rating dan Istilah pada Nameplate Cubicle Listrik | `artikel/kamus-rating-nameplate-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `cacc1ecc`) |
 | 69 | `CUB-11-A03` | `CUB-11` | Anatomi Cubicle Listrik: Busbar, Breaker, Kabel, Metering, Proteksi, dan Kontrol | `artikel/anatomi-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-08, `62e2bdf3`) |
-| 70 | `CUB-11-A04` | `CUB-11` | Incoming, Bus Coupler, dan Feeder Cubicle pada Single-Line Diagram | `artikel/incoming-bus-coupler-feeder-cubicle.md` | ✅ Accepted and pushed | No open review defect recorded. | — | 🟡 Patient-reader acceptance not evidenced |
+| 70 | `CUB-11-A04` | `CUB-11` | Incoming, Bus Coupler, dan Feeder Cubicle pada Single-Line Diagram | `artikel/incoming-bus-coupler-feeder-cubicle.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `71cb4a99`) |
 | 71 | `CUB-11-A05` | `CUB-11` | Fixed vs Withdrawable Switchgear | `artikel/fixed-vs-withdrawable-switchgear.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `0e97cd83`) |
 | 72 | `CUB-11-A06` | `CUB-11` | Indoor vs Outdoor Cubicle Listrik | `artikel/indoor-vs-outdoor-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `0e97cd83`) |
 | 73 | `CUB-12-A01` | `CUB-12` | Data yang Wajib Ada dalam Spesifikasi Cubicle Listrik | `artikel/data-spesifikasi-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-08, `62e2bdf3`) |
@@ -150,10 +150,10 @@ Last generated: **2026-08-24 16:45:00 (Asia/Jakarta)**
 | 92 | `CUB-14-A06` | `CUB-14` | SAT dan Functional Test Cubicle Listrik | `artikel/sat-functional-test-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `8db736d2`) |
 | 93 | `CUB-14-A07` | `CUB-14` | Energization Readiness Review Cubicle Listrik | `artikel/energization-readiness-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `0e97cd83`) |
 | 94 | `CUB-14-A08` | `CUB-14` | Punch List Cubicle Listrik: Kapan Defect Menahan Pengiriman atau Energization | `artikel/punch-list-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `8db736d2`) |
-| 95 | `CUB-15-A01` | `CUB-15` | K3 dan Kontrol Akses Cubicle Listrik: Batas untuk Pembaca Umum | `artikel/k3-kontrol-akses-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | 🟡 Patient-reader acceptance not evidenced |
+| 95 | `CUB-15-A01` | `CUB-15` | K3 dan Kontrol Akses Cubicle Listrik: Batas untuk Pembaca Umum | `artikel/k3-kontrol-akses-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `71cb4a99`) |
 | 96 | `CUB-15-A02` | `CUB-15` | Program Inspeksi Cubicle Listrik Berbasis Risiko | `artikel/program-inspeksi-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `8db736d2`) |
-| 97 | `CUB-15-A03` | `CUB-15` | Thermography dan Condition Monitoring Cubicle Listrik | `artikel/thermography-condition-monitoring-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | 🟡 Patient-reader acceptance not evidenced |
-| 98 | `CUB-15-A04` | `CUB-15` | Trip, Alarm, dan Gagal Operasi Cubicle Listrik: Alur Eskalasi | `artikel/trip-alarm-gagal-operasi-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | 🟡 Patient-reader acceptance not evidenced |
+| 97 | `CUB-15-A03` | `CUB-15` | Thermography dan Condition Monitoring Cubicle Listrik | `artikel/thermography-condition-monitoring-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `71cb4a99`) |
+| 98 | `CUB-15-A04` | `CUB-15` | Trip, Alarm, dan Gagal Operasi Cubicle Listrik: Alur Eskalasi | `artikel/trip-alarm-gagal-operasi-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `71cb4a99`) |
 | 99 | `CUB-15-A05` | `CUB-15` | Korosi, Kondensasi, Debu, dan Tracking pada Cubicle Listrik | `artikel/korosi-kondensasi-debu-tracking-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `cacc1ecc`) |
 | 100 | `CUB-15-A06` | `CUB-15` | Retrofit, Refurbish, atau Ganti Cubicle Listrik? | `artikel/retrofit-refurbish-atau-ganti-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `8db736d2`) |
 | 101 | `CUB-15-A07` | `CUB-15` | Spare Part dan Obsolescence Register Cubicle Listrik | `artikel/spare-part-obsolescence-cubicle-listrik.md` | ✅ Accepted and pushed | No open review defect recorded. | — | ✅ Patient-reader rewrite accepted (2026-08-24, `b5599bbd`) |
