@@ -41,39 +41,43 @@ Jawaban singkatnya: bangun satu register yang mengikat aset terpasang dengan buk
 ![Ilustrasi cubicle listrik 1](/wp-content/uploads/2023/01/cubicle-listrik-1.jpg)
 
 
-*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-## Definisi dan batas objek
+## Apa yang dicatat dalam register spare part dan obsolescence
 
-Spare-part register menjawab “apa yang harus tersedia agar fungsi dapat dipulihkan?” Untuk cubicle listrik, objeknya dapat mencakup pemutus, relay proteksi, meter, modul komunikasi, kipas, heater, power supply, interlock, fuse, terminal, konektor, dan perangkat lunak konfigurasi—tetapi hanya jika benar-benar ada pada instalasi yang dicatat. Satu baris harus menunjuk ke satu part number dan satu posisi atau fungsi yang jelas.
+Bagian ini menerjemahkan dua istilah yang sering tercampur, supaya Anda tahu data apa yang harus dicari dan keputusan apa yang belum boleh diambil.
 
-Obsolescence register menjawab “apa yang akan membuat dukungan berhenti?” Tandai status produk, revisi perangkat keras, versi firmware/software, tanggal notifikasi end-of-sale atau end-of-support bila tersedia, serta pengganti resmi. Catatan ini tidak menetapkan kewajiban vendor atau umur pakai universal. Kontrak, manual OEM, dan kondisi proyek tetap menjadi sumber keputusan. **[NEEDS OEM/CONTRACT EVIDENCE: status dukungan dan tanggal last-buy]**
+Register spare part menjawab “komponen apa yang perlu tersedia agar fungsi dapat dipulihkan?” Satu baris sebaiknya menunjuk ke satu nomor part dan satu posisi atau fungsi yang jelas. Isinya dapat mencakup pemutus, relay proteksi, meter, modul komunikasi, kipas, pemanas, catu daya, interlock, fuse, terminal, konektor, atau perangkat lunak konfigurasi, tetapi hanya jika komponen itu benar-benar ada pada instalasi yang sedang dicatat.
 
-Di luar cakupan register ini adalah persetujuan pengadaan dan keputusan modifikasi instalasi. Bukti procurement berada di proses terpisah; register hanya menyediakan data teknis dan konsekuensi risiko agar permintaan tersebut dapat diperiksa.
+Register obsolescence menjawab “kapan dukungan terhadap komponen itu dapat berhenti?” Catat status produk, revisi perangkat keras, versi firmware atau perangkat lunak, notifikasi *end-of-sale* (akhir penjualan) atau *end-of-support* (akhir dukungan) bila tersedia, dan pengganti resmi. Register ini bukan penetapan umur pakai universal atau kewajiban vendor; kontrak, manual produsen asli (OEM), dan kondisi proyek tetap menjadi dasar keputusan. **[NEEDS OEM/CONTRACT EVIDENCE: status dukungan dan tanggal last-buy]**
 
-## Cara kerjanya
+Batasnya penting: register menyediakan identitas, bukti, dan konsekuensi risiko, bukan persetujuan pembelian atau izin memodifikasi instalasi. Permintaan pengadaan dan perubahan panel tetap melalui proses teknis serta persetujuan yang berlaku.
 
-Mulai dari as-built, nameplate, foto identitas, daftar I/O, dan backup konfigurasi. Buat kunci aset yang tidak berubah-ubah: lokasi cubicle, feeder atau fungsi, manufacturer, model, serial number, part number, hardware revision, firmware/software version, dan tanggal verifikasi. Jika sebuah nilai belum terbaca, tulis “belum diverifikasi”, bukan menebak dari seri yang mirip.
+## Cara membangun identitas part dari aset terpasang
 
-Tambahkan kolom interchangeable limits. Bedakan “pengganti resmi dengan prosedur OEM” dari “serupa secara fisik”. Catat syarat seperti revisi panel, soket, protokol komunikasi, CT/VT interface, setting proteksi, dimensi, dan kebutuhan commissioning. Selama bukti belum lengkap, statusnya *hold* dan tidak boleh dipasang sebagai substitusi.
+Sebelum mengisi kolom risiko, bagian ini menunjukkan cara mencegah kesalahan paling umum: menyalin daftar lama tanpa memastikan benda yang benar-benar terpasang.
 
-Untuk stok, pisahkan shelf life dari preservation. Shelf life adalah batas yang ditentukan produsen untuk komponen tertentu; preservation adalah tindakan menjaga kondisi selama disimpan—kemasan, kelembapan, suhu, baterai, konektor, dan pemeriksaan berkala. Isi tanggal masuk, kondisi kemasan, lokasi, pemilik, dan bukti inspeksi. Nilai interval dan kondisi numerik harus berasal dari OEM atau prosedur site. **[NEEDS OEM/PROJECT PROCEDURE: shelf life, interval, dan batas lingkungan]**
+Mulailah dari gambar *as-built* (gambar kondisi terbangun), nameplate, foto identitas, daftar input-output, dan salinan konfigurasi. Buat kunci aset yang konsisten: lokasi cubicle, feeder atau fungsi, produsen, model, nomor seri, nomor part, revisi perangkat keras, versi firmware atau perangkat lunak, serta tanggal verifikasi. Jika tulisan tidak terbaca, tulis “belum diverifikasi”; jangan menebak dari seri yang tampak mirip.
 
-Terakhir, beri failure criticality dan contingency. Criticality bukan label “mahal”, melainkan dampak kehilangan fungsi, waktu pemulihan, alternatif operasi yang disetujui, dan kebutuhan personel berwenang. Hubungkan setiap item kritis dengan rencana: stok lokal, repair exchange, vendor escalation, konfigurasi cadangan, atau strategi penggantian yang telah direkayasa.
+Tambahkan kolom batas pertukaran (*interchangeable limits*), yaitu syarat yang harus tetap cocok sebelum suatu part disebut pengganti. Bedakan “pengganti resmi dengan prosedur OEM” dari “bentuknya serupa”. Periksa revisi panel, soket, protokol komunikasi, antarmuka trafo arus atau tegangan, pengaturan proteksi, dimensi, dan kebutuhan pengujian setelah pemasangan. Selama salah satu bukti belum lengkap, beri status *hold* (ditahan) dan jangan memasangnya sebagai substitusi.
 
-## Faktor yang mengubah hasil
+Untuk stok, pisahkan *shelf life* (batas masa simpan yang ditetapkan produsen) dari *preservation* (tindakan menjaga kondisinya selama disimpan). Catat tanggal masuk, kondisi kemasan, lokasi, pemilik, baterai atau konektor yang perlu diperiksa, dan bukti inspeksi. Interval serta batas lingkungan harus berasal dari OEM atau prosedur lokasi, bukan angka perkiraan. **[NEEDS OEM/PROJECT PROCEDURE: shelf life, interval, dan batas lingkungan]**
 
-Installed base yang terlihat seragam sering menyimpan revisi berbeda. Dua relay dengan nama model sama dapat memiliki firmware, konektor, atau setting yang berbeda. Karena itu, model tanpa serial dan revision tidak cukup untuk menjamin kecocokan.
+## Menilai criticality, kondisi, dan rencana pemulihan
 
-Lingkungan juga mengubah risiko. Debu, kondensasi, panas, getaran, korosi, dan siklus operasi dapat mempercepat kegagalan atau merusak stok sebelum dipakai. Prinsip pengendalian kelembapan bangunan dapat dipakai sebagai rujukan umum untuk mencari sumber air dan mencegah kerusakan berulang, tetapi bukan standar khusus panel listrik ([panduan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Catat kondisi aktual dan gejala, tetapi jangan mengubah gejala menjadi diagnosis tanpa pemeriksaan. Bila ada jejak air, panas berlebih, atau bau terbakar, hentikan asumsi “cukup ganti modul” dan minta penilaian teknis.
+Setelah identitasnya jelas, pembaca perlu menghubungkan data itu dengan konsekuensi gangguan; di sinilah register berubah dari daftar inventaris menjadi alat keputusan.
 
-Ketergantungan software sering luput. Simpan file setting, checksum atau versi, lisensi, kabel/adapter, dan instruksi pemulihan sesuai aturan keamanan setempat. Backup tidak sama dengan bukti bahwa firmware baru kompatibel; perubahan versi memerlukan tinjauan dan uji yang ditetapkan OEM/proyek. **[NEEDS ENGINEER/COMMISSIONING EVIDENCE: dampak perubahan firmware atau setting]**
+*Failure criticality* berarti dampak hilangnya fungsi, waktu pemulihan, alternatif operasi yang disetujui, dan personel yang dibutuhkan—bukan sekadar label “mahal”. Hubungkan item kritis dengan rencana yang realistis, misalnya stok lokal, pertukaran unit perbaikan, eskalasi ke vendor, konfigurasi cadangan, atau strategi penggantian yang sudah direkayasa.
 
-Kawan Cubicle.co.id, pisahkan fakta dari keputusan. “Vendor masih menjual” adalah fakta bertanggal; “kita aman menunda pembelian” adalah keputusan risiko yang harus memiliki pemilik, tanggal tinjau, dan pemicu eskalasi.
+Periksa pula kondisi lingkungan. Debu, kondensasi, panas, getaran, korosi, dan siklus operasi dapat mempercepat kegagalan atau merusak stok sebelum digunakan. Prinsip pengendalian kelembapan bangunan dapat membantu mencari sumber air dan mencegah kerusakan berulang, tetapi bukan standar khusus panel listrik ([panduan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Catat gejala tanpa menyulapnya menjadi diagnosis; jejak air, panas berlebih, atau bau terbakar adalah alasan untuk meminta penilaian teknis, bukan bukti bahwa modul tertentu pasti rusak.
 
-## Contoh keputusan praktis
+Ketergantungan perangkat lunak juga perlu terlihat: simpan file pengaturan, versi atau checksum, lisensi, kabel atau adaptor, dan instruksi pemulihan sesuai aturan keamanan setempat. Cadangan file tidak membuktikan firmware baru cocok; perubahan versi memerlukan tinjauan dan pengujian yang ditetapkan OEM atau proyek. **[NEEDS ENGINEER/COMMISSIONING EVIDENCE: dampak perubahan firmware atau setting]**
 
-Gunakan tabel sederhana berikut sebagai titik mulai, bukan sebagai persetujuan otomatis.
+Kawan Cubicle.co.id, pisahkan fakta dari keputusan. “Vendor masih menjual” adalah fakta yang memiliki tanggal; “kita aman menunda pembelian” adalah keputusan risiko yang harus memiliki pemilik, tanggal tinjau, dan pemicu eskalasi.
+
+## Contoh keputusan register yang dapat diperiksa
+
+Tabel ini membantu memulai percakapan dengan tim, tetapi tidak menggantikan persetujuan teknis atau bukti OEM.
 
 | Temuan register | Keputusan sementara | Bukti yang harus diminta |
 |---|---|---|
@@ -85,22 +89,22 @@ Gunakan tabel sederhana berikut sebagai titik mulai, bukan sebagai persetujuan o
 
 Contoh ini sengaja tidak memberi angka stok atau umur simpan. Angka tersebut bergantung pada failure history, waktu kirim, redundansi, operasi, dan kontrak. **[NEEDS SITE DATA: criticality, lead time, failure history, dan target pemulihan]**
 
-## Kesalahan umum dan cara memeriksanya
+## Kesalahan pengisian dan pemeriksaan sebelum dipakai
 
-Kesalahan pertama adalah menyalin daftar BOM lama tanpa mencocokkannya dengan serial yang terpasang. Pemeriksaan silang harus menunjukkan siapa yang memverifikasi, kapan, dari dokumen apa, dan apa yang berbeda.
+Bagian ini menjadi pagar terakhir agar register tidak terlihat rapi tetapi menyesatkan saat gangguan.
 
-Kesalahan kedua adalah menyamakan “pin-to-pin” dengan interchangeable. Tanyakan: apakah rating, setting, firmware, protokol, isolasi, interlock, dan metode pengujian tetap berlaku? Jika satu jawaban belum terbukti, status tetap *hold*.
+Kesalahan pertama adalah menyalin daftar BOM lama tanpa mencocokkannya dengan nomor seri yang terpasang. Pemeriksaan silang harus mencatat siapa yang memverifikasi, kapan, dokumen apa yang dipakai, dan apa yang berbeda.
 
-Kesalahan ketiga adalah menyimpan part tanpa preservation log. Tempelkan identitas stok, segel, tanggal inspeksi, kondisi, dan tindakan berikutnya. Jangan menghapus riwayat hanya karena kemasan tampak baik.
+Kesalahan kedua adalah menyamakan “pin-to-pin” dengan dapat ditukar. Tanyakan apakah rating, pengaturan, firmware, protokol, isolasi, interlock, dan metode pengujian tetap berlaku; bila satu jawaban belum terbukti, pertahankan status *hold*.
 
-Kesalahan keempat adalah menganggap obsolescence selesai setelah membeli last-buy. Register harus memuat rencana setelah stok habis: repair, redesign, retrofit, atau penggantian sistem. Opsi tersebut memerlukan studi dan persetujuan tersendiri.
+Kesalahan ketiga adalah menyimpan part tanpa catatan penjagaan kondisi. Tempelkan identitas stok, segel, tanggal pemeriksaan, kondisi, dan tindakan berikutnya; jangan menghapus riwayat hanya karena kemasan tampak baik.
 
-Periksa register pada setiap perubahan cubicle, shutdown, penggantian modul, pembaruan firmware, dan pemberitahuan vendor. Teman Cubicle.co.id, tetapkan pemilik data dan tanggal tinjauan; register tanpa pemilik cepat berubah menjadi arsip yang tidak dapat dipakai saat gangguan.
+Kesalahan keempat adalah menganggap masalah keusangan selesai setelah pembelian *last-buy* (pembelian terakhir). Register harus menunjukkan apa yang dilakukan setelah stok habis—perbaikan, desain ulang, retrofit, atau penggantian sistem—dan setiap pilihan itu memerlukan studi serta persetujuan tersendiri.
 
-## Jalan pintas yang perlu ditolak
+Perbarui register pada setiap perubahan cubicle, penghentian operasi, penggantian modul, pembaruan firmware, dan pemberitahuan vendor. Teman Cubicle.co.id, tetapkan pemilik data dan tanggal tinjauan; tanpa keduanya, register cepat menjadi arsip yang tidak dapat dipakai.
 
-Jalan pintas yang paling menggoda adalah membeli part dengan label “compatible” dari pemasok lalu memasangnya untuk mengejar waktu. Risiko utamanya bukan hanya part gagal menyala, tetapi setting proteksi, komunikasi, interlock, atau dokumentasi konfigurasi berubah tanpa jejak. Alternatif yang lebih aman adalah mengunci identitas part, meminta bukti OEM, menilai dampak engineering, dan mencatat keputusan *use*, *hold*, atau *reject* sebelum pemasangan.
+## Penutup: keputusan pertama yang perlu Anda ambil
 
-## Penutup
+Spare-part dan obsolescence register yang berguna menghubungkan identitas aset, status dukungan, kondisi stok, tingkat dampak kegagalan, dan rencana pemulihan. Mulailah dari satu cubicle: lengkapi model, nomor seri, revisi, dan versi firmware; kemudian minta OEM atau engineer memeriksa batas pertukaran serta strategi pembelian terakhir.
 
-Spare-part dan obsolescence register yang baik menghubungkan identitas aset, status dukungan, kondisi stok, criticality, dan rencana kontingensi. Langkah berikutnya adalah mengambil satu sampel cubicle, melengkapi kolom model/serial–firmware–revision, lalu minta OEM atau engineer mengesahkan batas interchangeable dan strategi last-buy. Untuk dokumentasi umum situs, Anda dapat kembali ke [beranda Cubicle.co.id](/). Jangan mengubah baris register menjadi izin substitusi; izin itu tetap menunggu bukti teknis dan persetujuan proyek.
+Jika ada kolom yang belum terbukti, tandai dan tetapkan pemilik tindak lanjutnya. Untuk dokumentasi umum situs, Anda dapat kembali ke [beranda Cubicle.co.id](/). Jangan mengubah satu baris register menjadi izin substitusi—izin itu tetap menunggu bukti teknis dan persetujuan proyek.

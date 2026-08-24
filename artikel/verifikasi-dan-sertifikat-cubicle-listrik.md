@@ -2,7 +2,7 @@
 article_id: CUB-12-A07
 title: "Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar"
 slug: "verifikasi-dan-sertifikat-cubicle-listrik"
-description: "Panduan memilah bukti kesesuaian desain, pemeriksaan unit, sertifikat komponen, laporan uji, catatan saksi, cakupan sampel, dan pernyataan produsen."
+description: "Panduan membedakan bukti kesesuaian desain, pemeriksaan unit, sertifikat komponen, laporan uji, catatan saksi, cakupan sampel, dan pernyataan produsen."
 status: draft
 writing_contract_version: "native-id-v2"
 publication_date: "2026-02-15"
@@ -22,7 +22,7 @@ sources:
 
 # Design Verification, Routine Verification, dan Sertifikat yang Sering Tertukar
 
-Halo, Kawan Cubicle.co.id! **Design verification** memeriksa apakah rancangan dan konfigurasi cubicle memenuhi persyaratan yang disepakati; **routine verification** memeriksa unit yang dibuat sebelum dikirim. Keduanya bukan pengganti satu sama lain. Sertifikat komponen, test report, witness record, sample cakupan, dan manufacturer declaration hanya bernilai jika identitas, cakupan, dan hubungannya dengan unit yang dibeli dapat ditelusuri.
+Halo, Kawan Cubicle.co.id! **Verifikasi desain (design verification)** memeriksa apakah rancangan dan konfigurasi cubicle memenuhi persyaratan yang disepakati; **verifikasi rutin (routine verification)** memeriksa unit yang dibuat sebelum dikirim. Keduanya bukan pengganti satu sama lain. Sertifikat komponen, laporan uji, catatan saksi, cakupan sampel, dan pernyataan produsen hanya bernilai jika identitas, cakupan, dan hubungannya dengan unit yang dibeli dapat ditelusuri.
 
 Jadi, PDF dengan judul “certificate” tidak otomatis membuktikan satu cubicle tertentu sudah sesuai. Minta matriks persyaratan, bukti design verification untuk keluarga atau konfigurasi yang relevan, lalu routine verification untuk setiap unit atau lot sesuai dokumen kontrak. Jika kontrak, standar proyek, atau otoritas meminta bentuk penerimaan tertentu, keputusan final harus mengikuti dokumen itu—bukan asumsi dari label dokumen. [NEEDS PROJECT STANDARD/CONTRACT: kriteria dan metode penerimaan cubicle]
 
@@ -53,25 +53,25 @@ Kerangka bangunan nasional sendiri menempatkan keselamatan, kesehatan, kenyamana
 
 ## Definisi dan batas objek
 
-**Design verification** adalah pemeriksaan berbasis dokumen dan perhitungan terhadap desain yang ditawarkan: single-line diagram, rating yang diminta, koordinasi proteksi, clearances, interface kontrol, enclosure, dan konfigurasi aktual. Istilah ini tidak boleh diperlakukan sebagai klaim umum bahwa semua produk dari merek tersebut lulus.
+**Verifikasi desain (design verification)** adalah pemeriksaan berbasis dokumen dan perhitungan terhadap desain yang ditawarkan: diagram satu garis (single-line diagram), rating yang diminta, koordinasi proteksi, jarak bebas (clearances), antarmuka kontrol, selungkup (enclosure), dan konfigurasi aktual. Istilah ini tidak boleh diperlakukan sebagai klaim umum bahwa semua produk dari merek tersebut lulus.
 
-**Routine verification** adalah pemeriksaan berulang pada unit yang diproduksi. Isinya mengikuti inspection and test plan (ITP), gambar disetujui, dan kontrak: pemeriksaan identitas, rakitan, wiring, fungsi mekanis/elektris yang ditetapkan, serta pencatatan hasil. Tanpa kriteria penerimaan dan nomor unit, kata “tested” terlalu kabur.
+**Verifikasi rutin (routine verification)** adalah pemeriksaan berulang pada unit yang diproduksi. Isinya mengikuti rencana inspeksi dan pengujian (inspection and test plan/ITP), gambar disetujui, dan kontrak: pemeriksaan identitas, rakitan, pengawatan (wiring), fungsi mekanis/elektris yang ditetapkan, serta pencatatan hasil. Tanpa kriteria penerimaan dan nomor unit, kata “tested” terlalu kabur.
 
-**Component certificate** melekat pada komponen atau material tertentu. Ia dapat membantu menelusuri asal, tipe, atau hasil uji komponen, tetapi tidak mengesahkan rakitan cubicle. **Test report** mencatat metode, spesimen, kondisi, hasil, dan pihak yang menerbitkan; periksa apakah konfigurasi dan revisinya cocok. **Witness record** membuktikan seseorang hadir atau menyaksikan kegiatan yang ditentukan—bukan otomatis membuktikan semua hasil memuaskan.
+**Sertifikat komponen (component certificate)** melekat pada komponen atau material tertentu. Ia dapat membantu menelusuri asal, tipe, atau hasil uji komponen, tetapi tidak mengesahkan rakitan cubicle. **Laporan uji (test report)** mencatat metode, spesimen, kondisi, hasil, dan pihak yang menerbitkan; periksa apakah konfigurasi dan revisinya cocok. **Catatan saksi (witness record)** membuktikan seseorang hadir atau menyaksikan kegiatan yang ditentukan—bukan otomatis membuktikan semua hasil memuaskan.
 
-**Sample cakupan** menjawab “bukti ini mencakup apa?”. Tanyakan model, rating, jumlah, revisi, konfigurasi, tanggal, dan batas penggunaan. **Manufacturer declaration** adalah pernyataan dari produsen mengenai hal yang dinyatakannya; minta dasar dan daftar dokumen pendukung. Ia bukan pengganti laporan uji atau persetujuan engineer.
+**Cakupan sampel** menjawab “bukti ini mencakup apa?”. Tanyakan model, rating, jumlah, revisi, konfigurasi, tanggal, dan batas penggunaan. **Pernyataan produsen (manufacturer declaration)** adalah pernyataan dari produsen mengenai hal yang dinyatakannya; minta dasar dan daftar dokumen pendukung. Ia bukan pengganti laporan uji atau persetujuan engineer.
 
 Batas artikel ini penting: pembahasan tidak mengesahkan produk hanya dari PDF terpisah atau component certificate. FAT dan routine acceptance yang menjadi prosedur proyek dibahas pada paket penerimaan tersendiri. Untuk konteks pengadaan, pelaksanaan konstruksi tetap tunduk pada dokumen dan peran proyek yang berlaku ([PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)).
 
 ## Cara kerjanya
 
-Mulai dari **requirements register**. Kolom minimalnya: persyaratan, sumber persyaratan, nilai atau kondisi yang diminta, dokumen bukti, identitas unit, status, dan pihak yang menyetujui. Pisahkan “harus dibuktikan oleh desain” dari “harus diperiksa pada unit”. Jika sebuah baris belum punya metode atau kriteria, jangan menutupnya dengan tanda centang.
+Mulai dari **daftar persyaratan (requirements register)**. Kolom minimalnya: persyaratan, sumber persyaratan, nilai atau kondisi yang diminta, dokumen bukti, identitas unit, status, dan pihak yang menyetujui. Pisahkan “harus dibuktikan oleh desain” dari “harus diperiksa pada unit”. Jika sebuah baris belum punya metode atau kriteria, jangan menutupnya dengan tanda centang.
 
 Berikut urutan pemeriksaan yang praktis:
 
 1. Cocokkan purchase order, datasheet, gambar, dan revisi. Catat nomor seri atau identitas panel.
 2. Petakan setiap klaim ke design verification, routine verification, sertifikat komponen, test report, witness record, atau declaration.
-3. Uji **traceability** (ketertelusuran): nama produsen, tipe, serial/lot, tanggal, revisi, tanda tangan, dan lampiran harus menunjuk objek yang sama.
+3. Uji **ketertelusuran (traceability)**: nama produsen, tipe, serial/lot, tanggal, revisi, tanda tangan, dan lampiran harus menunjuk objek yang sama.
 4. Periksa deviasi, substitusi, dan perubahan setelah desain disetujui. Bukti lama tidak otomatis ikut berpindah ke konfigurasi baru.
 5. Tutup temuan dengan status accepted, rejected, atau pending beserta penanggung jawab dan tanggalnya. “Pending” bukan “lulus”.
 
@@ -83,7 +83,7 @@ Pertama, **identitas**. Dua panel dengan nama model sama belum tentu identik bil
 
 Ketiga, **antarmuka**. Kabel, terminasi, kontrol jarak jauh, interlock, grounding, ruang kabel, dan sistem hulu-hilir dapat berada di luar dokumen produsen. Keempat, **waktu**. Perubahan desain, NCR, rework, atau penggantian komponen setelah inspeksi memerlukan penilaian ulang.
 
-Kelima, **independensi dan saksi**. Tanda tangan produsen, inspector, owner engineer, atau pihak ketiga memiliki arti berbeda sesuai ITP dan kontrak. Jangan menyimpulkan independensi hanya dari logo. Keenam, **kondisi lapangan**: instalasi, penyimpanan, kelembapan, akses, dan pekerjaan interface dapat membuat bukti pabrik tidak cukup untuk keputusan serah terima. Sobat Cubicle.co.id, bila satu faktor ini belum jelas, tandai gap-nya dan eskalasi; jangan mengubahnya menjadi klaim performa.
+Kelima, **independensi dan saksi**. Tanda tangan produsen, inspektur, engineer pemilik, atau pihak ketiga memiliki arti berbeda sesuai ITP dan kontrak. Jangan menyimpulkan independensi hanya dari logo. Keenam, **kondisi lapangan**: instalasi, penyimpanan, kelembapan, akses, dan pekerjaan antarmuka dapat membuat bukti pabrik tidak cukup untuk keputusan serah terima. Sobat Cubicle.co.id, bila satu faktor ini belum jelas, tandai celahnya dan eskalasi; jangan mengubahnya menjadi klaim performa.
 
 ## Contoh keputusan praktis
 
