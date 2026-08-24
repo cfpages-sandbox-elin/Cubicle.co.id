@@ -50,6 +50,8 @@ END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
+Bagian ini membantu Anda memulai dari hal yang benar-benar terlihat, bukan dari nama ruang atau dugaan material. Dengan cara ini, Anda tahu catatan apa yang perlu dibuat dan tidak tergoda menyimpulkan sumber masalah dari satu noda. Kita akan menyusun pengamatan sederhana yang bisa dipakai untuk membedakan paparan sejak awal.
+
 Mulailah dengan lembar observasi sederhana. Tulis titik persisnya—misalnya di dekat pintu, sudut dinding, bawah wastafel, atau area servis—kemudian catat kapan gejala muncul dan apa yang berubah sebelumnya. Foto berurutan, catatan hujan atau pencucian, serta denah yang diberi tanda dapat membantu menghubungkan gejala dengan waktu dan lokasi. Jangan menyebut “ruang basah” hanya karena ruangan itu toilet; pastikan ada bukti air, uap, kondensasi, atau prosedur pembersihan yang relevan.
 
 Gunakan pertanyaan pembeda berikut:
@@ -67,6 +69,8 @@ Kawan Cubicle.co.id, tabel ini adalah alat triase, bukan diagnosis material. Jik
 
 ## Saringan risiko langsung
 
+Sebelum mengejar penyebab, pastikan kegiatan mengamati tidak menambah bahaya. Pembaca sering mengira pemeriksaan awal selalu aman karena hanya melihat dan memotret, padahal air, listrik, struktur, atau bahan kimia dapat mengubah situasi. Di sini kita membatasi tindakan yang boleh dilakukan sendiri dan menentukan kapan pemeriksaan harus dialihkan kepada penanggung jawab.
+
 Sebelum mengukur, pastikan orang dan bangunan tidak berada dalam bahaya yang sedang berlangsung. Genangan yang dekat kabel atau peralatan listrik, plafon yang melendut, bau kimia menyengat, permukaan licin, atau air yang masih mengalir memerlukan pembatasan akses dan koordinasi dengan penanggung jawab fasilitas. Jangan membuka panel, mengebor, atau memindahkan komponen untuk mencari sumber tanpa izin dan rencana isolasi layanan.
 
 Untuk banjir, perlakukan tinggi air, arah arus, dan kemungkinan kontaminasi sebagai informasi keselamatan; jangan menganggap air yang sudah surut otomatis aman. Untuk debu atau uap, tanyakan apakah kegiatan menghasilkan partikel atau bahan kimia yang memerlukan pengendalian khusus. Di fasilitas kesehatan, program pengendalian infeksi membedakan kebutuhan permukaan, kebersihan, dan alur kerja; nama ruang saja tidak cukup untuk menetapkan protokol ([CDC, core components for infection control](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)).
@@ -74,6 +78,8 @@ Untuk banjir, perlakukan tinggi air, arah arus, dan kemungkinan kontaminasi seba
 Jika ada risiko struktural, kerusakan akibat air, atau potensi paparan berbahaya, hentikan pemeriksaan mandiri pada batas aman dan panggil disiplin yang kompeten. [NEEDS PROJECT SAFETY REVIEW: otoritas yang menetapkan pembatasan akses, isolasi energi, dan metode pemeriksaan belum tersedia dalam paket ini.]
 
 ## Kemungkinan mekanisme
+
+Setelah gejala aman dicatat, langkah berikutnya adalah memahami bagaimana paparan bisa terjadi tanpa menganggap dugaan itu sudah terbukti. Pembedaan ini penting karena air bebas, uap, debu, panas, bahan kimia, dan banjir menimbulkan jalur akibat yang berbeda. Bagian ini memberi kerangka untuk menguji dugaan melalui riwayat, lokasi, dan kondisi operasi.
 
 Setelah gejala dicatat, kelompokkan mekanismenya tanpa mengklaim sebab final.
 
@@ -87,6 +93,8 @@ Faktor bangunan juga dapat memperkuat akibat: sambungan panel, titik tumpu, perg
 
 ## Urutan pemeriksaan dan pengujian
 
+Klasifikasi baru berguna bila dapat diterjemahkan menjadi pemeriksaan yang aman dan menjawab pertanyaan tertentu. Banyak survei gagal karena langsung mengukur atau mengambil sampel tanpa tahu keputusan apa yang hendak dibuat. Urutan berikut menunjukkan apa yang ditinjau lebih dulu, kapan pengukuran masuk akal, dan kapan disiplin lain perlu mengambil alih.
+
 Susun pemeriksaan dari yang paling aman dan informatif:
 
 1. **Tinjauan dokumen dan wawancara.** Minta gambar terakhir, riwayat kebocoran atau banjir, jadwal pembersihan, pekerjaan renovasi, daftar bahan kimia, serta perubahan penggunaan ruang. Tandai mana yang merupakan pernyataan penghuni dan mana yang memiliki rekaman.
@@ -99,6 +107,8 @@ Catatan survei harus menyebut ketidakpastian: area yang tidak terlihat, alat yan
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
+Hasil pengamatan sering terlihat meyakinkan—misalnya ada garis air atau angka suhu—sehingga orang ingin segera menyatakan perlu penggantian. Padahal angka itu baru bermakna jika dibandingkan dengan kriteria proyek dan konteks lokasinya. Bagian ini membantu Anda memisahkan fakta, dugaan, akibat sementara, dan pihak yang berwenang mengambil keputusan.
+
 Pisahkan lima kolom: **hasil observasi**, **kriteria proyek**, **dugaan mekanisme**, **konsekuensi sementara**, dan **otoritas keputusan**. Contoh: “ada garis air 40 cm di dinding” adalah observasi; “harus diganti” adalah keputusan yang masih memerlukan kriteria, pemeriksaan substrat, dan penilaian dampak. Jangan mengubah angka contoh menjadi ambang universal.
 
 Baca pola, bukan satu titik. Jika kelembapan hanya muncul setelah hujan, hipotesis jalur air berbeda dari kelembapan yang muncul setelah pembersihan harian. Jika korosi berada di dekat bahan tertentu, minta verifikasi identitas dan frekuensi paparan. Jika hasil berubah karena ventilasi atau beban alat, dokumentasikan kondisi operasi saat pengukuran.
@@ -107,13 +117,17 @@ Permen PUPR No. 14/PRT/M/2017 mengingatkan bahwa aksesibilitas merupakan hubunga
 
 ## Pilihan tindakan dan titik eskalasi
 
+Sesudah pola paparan mulai terbaca, pembaca biasanya ingin tahu tindakan yang boleh dilakukan sekarang dan kapan harus meminta bantuan. Memisahkan pengendalian sementara dari perbaikan permanen mencegah keputusan tergesa-gesa. Bagian ini merangkum pilihan awal dan tanda bahwa penilaian teknis atau keselamatan wajib dilibatkan.
+
 Jika risikonya belum langsung, pasang kontrol sementara yang disetujui—misalnya pembatasan area, penandaan lantai licin, pengeringan terkontrol, atau penjadwalan ulang pekerjaan yang menghasilkan debu. Simpan catatan siapa yang menyetujui dan kapan kontrol ditinjau ulang. Kontrol sementara tidak boleh dianggap sebagai perbaikan permanen.
 
 Eskalasi diperlukan bila sumber air belum ditemukan, banjir menyentuh layanan, korosi berlanjut, paparan kimia tidak teridentifikasi, panas mengubah kondisi operasi, atau akses dan stabilitas elemen diragukan. Minta disiplin yang tepat: pengelola fasilitas untuk isolasi dan riwayat kejadian; arsitek atau perencana untuk tata letak dan akses; insinyur struktur atau MEP untuk antarmuka dan layanan; serta ahli K3, higiene industri, atau pengendalian infeksi bila paparan pekerja atau pasien terlibat. [NEEDS PROJECT CRITERIA: nama penanggung jawab, metode uji, dan ambang penerimaan harus ditetapkan pada proyek sebelum keputusan material, rating, atau penggantian.]
 
 ## Jalan pintas yang perlu dihindari
 
-jalan pintas yang sering dipilih adalah menempelkan label “wet area”, “heavy duty”, atau “anti-korosi” pada seluruh lokasi lalu meminta penawaran. Label itu mungkin membantu pencarian awal, tetapi tidak menjawab sumber paparan, durasi, sambungan, substrat, pembersihan, akses, dan layanan yang berdekatan. Spesifikasi pabrikan pun perlu dibaca dalam konteks pemasangan dan batas sistemnya.
+Label singkat sering terasa praktis ketika waktu survei terbatas, tetapi justru dapat menyembunyikan pertanyaan penting. Bagian ini menunjukkan mengapa label seperti “wet area” belum cukup, lalu menggantinya dengan paket informasi yang membuat penilaian berikutnya lebih bertanggung jawab.
+
+Jalan pintas yang sering dipilih adalah menempelkan label “wet area”, “heavy duty”, atau “anti-korosi” pada seluruh lokasi lalu meminta penawaran. Label itu mungkin membantu pencarian awal, tetapi tidak menjawab sumber paparan, durasi, sambungan, substrat, pembersihan, akses, dan layanan yang berdekatan. Spesifikasi pabrikan pun perlu dibaca dalam konteks pemasangan dan batas sistemnya.
 
 Alternatif yang lebih aman adalah mengirimkan paket informasi: foto bertanggal, sketsa lokasi, riwayat kejadian, daftar bahan atau aktivitas, kondisi layanan, periode pengamatan, dan pertanyaan keputusan yang jelas. Dengan paket itu, penilai dapat mengatakan data sudah cukup, meminta pemeriksaan tambahan, atau menetapkan pembatasan—tanpa berpura-pura bahwa klasifikasi awal adalah persetujuan desain.
 
