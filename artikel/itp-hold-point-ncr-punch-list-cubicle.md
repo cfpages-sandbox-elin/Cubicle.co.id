@@ -3,7 +3,7 @@ article_id: CUB-17-A03
 writing_contract_version: "native-id-v2"
 title: "ITP, Hold Point, NCR, dan Punch List pada Proyek Cubicle"
 slug: "itp-hold-point-ncr-punch-list-cubicle"
-description: "Pembaca dapat define inspections, witness/hold points, acceptance evidence, nonconformity containment, corrective action, concession authority, retest, and closeout."
+description: "Panduan praktis membaca rencana inspeksi, titik tahan, laporan ketidaksesuaian, dan daftar pekerjaan tersisa agar keputusan mutu cubicle memiliki bukti dan kewenangan yang jelas."
 status: draft
 publication_date: "2026-06-18"
 publication_date_basis: editorial_backfill
@@ -45,63 +45,68 @@ END MANAGED IMAGE PLAN -->
 
 *Ilustrasi umum dari aset lokal Cubicle.co.id; bukan dokumentasi proyek tertentu.*
 
-## Jawaban singkat dan salah paham utama
+## Memahami empat catatan mutu sebelum pekerjaan ditutup
 
-Mulailah dari aktivitas, bukan dari nama formulir. Sebelum pemasangan panel, frame, pintu, hardware, atau sealant dimulai, QA/QC dan pelaksana menyepakati apa yang diperiksa, siapa yang hadir, alat atau dokumen apa yang menjadi bukti, serta kondisi yang menghentikan pekerjaan. Itulah fungsi ITP. titik tahan menambahkan aturan “jangan lanjut” sampai pihak yang ditunjuk menandatangani atau memberi rilis tertulis; Witness Point memberi kesempatan menyaksikan, tetapi prosedur proyek harus menjelaskan apa yang terjadi bila wakil tidak hadir.
+Bagian ini menjawab kebingungan yang biasanya muncul saat panel, pintu, atau sambungan cubicle hampir tertutup. Anda akan melihat peran tiap catatan dan batas keputusan yang tidak boleh diisi dengan tebakan.
 
-NCR tidak sama dengan Punch List. NCR menangani penyimpangan terhadap persyaratan yang sudah ditetapkan: objek dikendalikan, dampak dinilai, akar masalah dan tindakan koreksi dicatat, lalu hasilnya diverifikasi. Punch List lebih cocok untuk sisa pekerjaan atau cacat yang ditemukan menjelang inspeksi akhir. Sebuah item Punch List bisa berubah menjadi NCR bila ternyata melanggar persyaratan atau berulang. Menyebut semua hal “punch” agar cepat tutup justru menghilangkan jejak keputusan.
+ITP (Inspection and Test Plan atau rencana inspeksi dan pengujian) menjawab apa yang diperiksa, kapan, oleh siapa, dan dengan bukti apa. Titik tahan adalah status “jangan lanjut” sampai pihak berwenang memberi persetujuan; titik saksian memberi kesempatan menyaksikan, dengan aturan ketidakhadiran mengikuti prosedur proyek. NCR (Non-Conformance Report atau laporan ketidaksesuaian) mengendalikan penyimpangan terhadap persyaratan. Punch List adalah daftar pekerjaan tersisa atau cacat yang harus dibereskan sebelum penerimaan.
 
-## Definisi dan batas objek
+Urutannya penting, Teman Cubicle.co.id. ITP menyiapkan bukti, titik tahan mencegah bukti tertutup, NCR menjaga penyimpangan tetap terkendali, lalu Punch List membantu menutup sisa pekerjaan. Kriteria lulus harus berasal dari gambar, spesifikasi, submittal, metode kerja, sampel yang disetujui, dan matriks kewenangan proyek, bukan dari nama produk atau foto. **[NEEDS PROJECT ITP/ACCEPTANCE MATRIX: kriteria lulus, pemilik persetujuan, dan batas waktu respons belum tersedia dalam paket ini.]**
 
-ITP sebaiknya memiliki kolom aktivitas, prasyarat, jenis titik kontrol (tinjauan, Witness, atau Hold), pemeriksa, bukti yang diserahkan, status, dan referensi dokumen. Ia tidak menetapkan ketebalan panel, rating, jarak pengikat, atau toleransi baru. Angka dan toleransi harus diambil dari dokumen proyek yang berlaku.
+## Menetapkan isi ITP dan batas titik tahan
 
-titik tahan adalah status kendali, bukan sekadar kolom tanda tangan. Jika dukungan struktur, jalur utilitas, atau koordinasi plafon belum terbukti, pekerjaan yang menutup akses perlu ditahan. Panduan FEMA menunjukkan bahwa elemen nonstruktural dan antarmukanya perlu dipikirkan terhadap gerakan bangunan serta koneksi; karena itu foto setelah panel tertutup tidak menggantikan bukti kondisi sebelum penutupan (lihat [panduan FEMA tentang risiko kerusakan nonstruktural](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+Sebelum membuat daftar pemeriksaan, pastikan pembaca tahu dokumen ini mengatur keputusan, bukan menciptakan angka teknis baru. Bagian ini menunjukkan kolom minimum dan kapan akses perlu dihentikan.
 
-NCR memerlukan identitas lokasi, referensi persyaratan, deskripsi fakta yang dapat diamati, containment (pengamanan sementara), pemilik tindakan, tanggal target, dan bukti penutupan. Concession atau penerimaan dengan deviasi hanya sah bila kewenangannya jelas secara tertulis; QA/QC tidak boleh mengubah persyaratan atas nama pemilik, perencana, atau otoritas.
+Isi ITP dengan aktivitas, prasyarat, jenis kontrol (tinjauan, titik saksian, atau titik tahan), pemeriksa, bukti, status, dan referensi dokumen. ITP tidak boleh menetapkan ketebalan panel, jarak pengikat, rating, atau toleransi baru; semua angka kembali ke dokumen proyek yang berlaku.
 
-Punch List adalah daftar terukur: nomor item, lokasi, uraian, penanggung jawab, status, bukti perbaikan, dan pemeriksa penutup. Lingkup artikel ini adalah pengendalian mutu cubicle. Penentuan kriteria teknis toilet berada di CUB-06-A06, office di CUB-10-A01, dan electrical di CUB-14-A08; halaman ini tidak menggantikan ketiganya.
+Titik tahan menjadi penting ketika pekerjaan berikutnya akan menutup akses ke struktur atau utilitas. Jika posisi pengikat, jalur kabel, atau koordinasi plafon belum terbukti, tahan penutupan dan catat siapa yang harus merilisnya. Panduan FEMA tentang elemen nonstruktural dan koneksinya menegaskan pentingnya mempertimbangkan gerakan bangunan, sehingga foto setelah panel tertutup tidak menggantikan bukti sebelum penutupan ([panduan FEMA tentang risiko kerusakan nonstruktural](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-## Cara kerjanya
+NCR perlu memuat lokasi, persyaratan pembanding, fakta yang dapat diamati, pengamanan sementara, pemilik tindakan, target, dan bukti penutupan. Penerimaan dengan deviasi hanya boleh diputuskan oleh kewenangan tertulis; tim QA/QC tidak dapat mengubah persyaratan atas nama pihak lain.
 
-1. **Tetapkan paket rujukan.** Bekukan revisi gambar, spesifikasi, submittal, metode kerja, dan sampel yang disetujui. Jika revisi belum jelas, jangan membuka titik tahan.
-2. **Survei prasyarat.** Konfirmasi dimensi aktual, ketegakan dan kerataan area, posisi struktur, ceiling void, movement joint, sprinkler/detector, jalur listrik/data, skirting, drainase, akses, dan ruang penyimpanan. Dimensi denah saja tidak membuktikan kondisi tersembunyi; contoh spesifikasi partisi operable juga menuntut koordinasi antarmuka, bukan hanya ukuran panel (lihat [contoh spesifikasi teknis Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
-3. **Susun ITP per tahap.** Pisahkan incoming material, mock-up, setting-out, fixing/support, pemasangan panel dan pintu, hardware, sealant/edge, pembersihan, fungsi, serta serah terima. Untuk setiap tahap, sebutkan bukti yang akan ada sebelum pekerjaan berikutnya menutupnya.
-4. **Panggil inspeksi.** Pelaksana mengirim notice dengan lokasi dan kesiapan; QA/QC memeriksa bukti; pihak Witness atau Hold memberi catatan dan status. “Sudah difoto” bukan otomatis “diterima”.
-5. **Kendalikan ketidaksesuaian.** Hentikan penyebaran, tandai area atau batch terdampak, dan lindungi pekerjaan yang masih baik. Buka NCR ketika fakta dibandingkan dengan persyaratan menunjukkan deviasi, bukan ketika seseorang sekadar tidak menyukai hasil visual.
-6. **Koreksi, verifikasi, dan retest.** Tindakan koreksi harus menjawab penyebab serta cakupan terdampak. Retest memakai metode dan kriteria yang disetujui; lampirkan hasil, tanggal, alat atau pemeriksa yang relevan, lalu minta verifikasi independen sesuai matriks proyek.
-7. **Tutup Punch List dan serah-terima.** Item hanya ditutup dengan bukti lokasi, dokumen as-built atau revisi, manual, daftar spare bila diwajibkan, dan tanda terima pihak berwenang. Status “selesai oleh kontraktor” belum sama dengan “diterima”.
+Punch List harus terukur: nomor, lokasi, uraian, penanggung jawab, status, bukti perbaikan, dan pemeriksa penutup. Artikel ini membahas pengendalian mutu cubicle, bukan kriteria teknis toilet, kantor, atau instalasi listrik dari topik lain.
 
-## Faktor yang mengubah hasil
+## Menjalankan pemeriksaan dari prasyarat sampai serah terima
 
-Kondisi lapangan dapat mengubah titik tahan. Jika ada kelembapan, kebocoran, kondensasi, kontak kapiler, atau akses pengeringan yang buruk, jangan menyimpulkan bahwa material “moisture resistant” berarti rakitan tahan air. EPA menekankan pengendalian sumber air, ventilasi, drainase, dan pengeringan; panduan fabrikasi Formica juga mengarahkan perhatian pada tepi, lubang pengikat, sealant, substrat, dan detail area basah ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0); [panduan fabrikasi Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+Pembaca sering melihat formulir yang sudah terisi tetapi tidak tahu urutan kerjanya. Langkah berikut menghubungkan dokumen dengan tindakan lapangan dan menunjukkan kapan sebuah status boleh berubah.
 
-Antarmuka struktur dan utilitas juga penting. Perubahan layout dapat menyentuh keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan bangunan; PP No. 16 Tahun 2021 menjadi kerangka nasional, tetapi catatan tingkat tinggi itu tidak memberi aturan universal untuk ketebalan, pengikat, clearance pintu, atau rating partisi ([status PP No. 16 Tahun 2021 di BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Karena itu, [NEEDS PROFESSIONAL/PROJECT REVIEW: koordinasi struktur, kebakaran, aksesibilitas, dan utilitas untuk lokasi spesifik].
+Pertama, tetapkan revisi gambar, spesifikasi, submittal, metode kerja, dan sampel yang disetujui. Bila revisinya belum jelas, jangan membuka titik tahan karena dasar keputusan masih berubah.
 
-Faktor bukti sama menentukan. Foto harus dapat ditautkan ke lokasi dan waktu; sertifikat material harus cocok dengan batch atau pengiriman; hasil uji harus memakai metode yang disetujui; dan tanda tangan harus berasal dari peran yang memang berwenang. Bila salah satu rantai putus, status paling aman adalah “pending”, bukan “closed”.
+Kedua, survei kondisi nyata: dimensi, ketegakan, kerataan, posisi struktur, ruang di atas plafon, sambungan gerak, detektor, jalur listrik atau data, skirting, drainase, akses, dan ruang simpan. Contoh spesifikasi partisi operabel Modernfold juga menekankan koordinasi antarmuka, bukan sekadar ukuran panel ([contoh spesifikasi teknis Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-## Contoh keputusan praktis
+Ketiga, pisahkan tahapan penerimaan material, mock-up, penentuan posisi, penyangga, pemasangan panel dan pintu, perangkat keras, sealant dan tepi, pembersihan, fungsi, serta serah terima. Untuk tiap tahap, tulis bukti yang wajib tersedia sebelum tahap berikutnya menutupnya.
 
-Bayangkan frame sudah terpasang, tetapi foto pra-penutupan tidak menunjukkan posisi pengikat dan jalur kabel. Keputusan yang dapat diaudit adalah menahan penutupan, melakukan verifikasi non-destruktif atau membuka area hanya setelah persetujuan metode, lalu memperbarui ITP. Jangan mengisi foto lama dengan asumsi bahwa semua lokasi sama.
+Keempat, panggil inspeksi dengan lokasi dan status kesiapan yang jelas. Foto hanya menunjukkan bagian yang terlihat; ia belum berarti diterima. Kelima, bila fakta menyimpang dari persyaratan, hentikan penyebaran, tandai area atau batch terdampak, dan buka NCR.
 
-Contoh kedua: tepi panel di area yang pernah mengalami rembesan terlihat berubah. QA/QC mencatat lokasi dan kondisi, menghentikan pekerjaan penutup, menelusuri sumber air, dan meminta keputusan teknis. Jika persyaratan material atau detail tepi dilanggar, buka NCR; jika hanya sisa sealant yang belum rapi tetapi spesifikasi terpenuhi, catat sebagai Punch List. Teman Cubicle.co.id, pembeda utamanya adalah referensi persyaratan dan dampak, bukan besar-kecilnya noda.
+Keenam, koreksi harus menjawab penyebab dan cakupan yang terdampak. Pengujian ulang memakai metode dan kriteria yang disetujui, dengan hasil, tanggal, alat, dan pemeriksa yang dapat ditelusuri. Ketujuh, tutup Punch List hanya setelah bukti lokasi, dokumen revisi atau as-built, manual, dan tanda terima pihak berwenang tersedia. “Selesai oleh kontraktor” belum sama dengan “diterima”.
 
-Contoh ketiga: pemilik meminta pekerjaan diterima dengan deviasi karena jadwal. Tim boleh memproses permintaan concession, tetapi hanya pejabat yang ditunjuk dalam matriks kewenangan yang dapat menyetujui dampak, batas waktu, kompensasi, atau pekerjaan tambahan. Tanpa itu, item tetap terbuka.
+## Memeriksa kelembapan, antarmuka, dan rantai bukti
 
-## Kesalahan umum dan cara memeriksanya
+Kondisi lapangan dapat mengubah keputusan meski formulirnya sama. Bagian ini membantu Anda membedakan klaim material dari bukti rakitan dan menentukan kapan perlu menahan pekerjaan.
 
-- Membuat ITP setelah pekerjaan selesai. Periksa tanggal penerbitan dan pastikan titik Hold muncul sebelum aktivitas yang menutup bukti.
-- Menganggap checklist adalah bukti. Cocokkan setiap centang dengan foto terlokasi, dokumen revisi, hasil uji, atau catatan pemeriksaan yang benar-benar ada.
-- Menggabungkan NCR dan Punch List. Tanyakan: persyaratan mana yang dilanggar, apakah area harus di-contain, dan siapa yang berwenang menerima deviasi?
-- Menutup NCR dengan foto “sesudah” tanpa retest. Tinjau metode koreksi, cakupan area terdampak, hasil uji ulang bila dipersyaratkan, dan verifikator.
-- Menyalin toleransi dari proyek lain. Kembali ke spesifikasi dan gambar proyek; bila tidak ada, tinggalkan [NEEDS ACCEPTANCE CRITERIA] untuk keputusan teknis.
-- Mengabaikan kelembapan dan akses perawatan. Catat sumber air, ventilasi, drainase, tepi, sealant, dan kemampuan inspeksi ulang sebelum menyatakan kondisi aman.
+Jika ada rembesan, kondensasi, kontak kapiler, atau pengeringan buruk, jangan menyamakan istilah “tahan kelembapan” dengan rakitan kedap air. EPA menekankan pengendalian sumber air, ventilasi, drainase, dan pengeringan; panduan fabrikasi Formica Compact juga mengarahkan pemeriksaan tepi, lubang pengikat, sealant, substrat, dan detail area basah ([panduan pengendalian kelembapan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0); [panduan fabrikasi Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-## Jalan pintas yang perlu dihindari
+Perubahan tata letak dapat menyentuh struktur, kebakaran, aksesibilitas, utilitas, kenyamanan, dan dokumentasi. PP No. 16 Tahun 2021 memberi kerangka nasional, tetapi halaman status peraturan itu tidak menetapkan ketebalan, pengikat, jarak bebas pintu, atau rating partisi untuk semua proyek ([status PP No. 16 Tahun 2021 di BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). **[NEEDS PROFESSIONAL/PROJECT REVIEW: koordinasi struktur, kebakaran, aksesibilitas, dan utilitas untuk lokasi spesifik]**
 
-jalan pintas yang sering terdengar adalah, “Kita pakai foto akhir saja supaya cepat serah terima.” Foto akhir memang membantu membuktikan kondisi terlihat, tetapi tidak membuktikan apa yang berada di balik panel, apakah titik tahan pernah dirilis, atau apakah ketidaksesuaian sudah di-contain. Cara yang lebih cepat dalam jangka proyek adalah membuat daftar bukti minimum sejak ITP, memberi ID lokasi konsisten, dan menolak status tutup bila satu bukti wajib hilang. Kawan Cubicle.co.id, kecepatan yang dapat dipertanggungjawabkan berasal dari alur yang jelas, bukan dari menghapus jejak.
+Bukti juga harus tersambung: foto memiliki lokasi dan waktu, sertifikat cocok dengan batch atau pengiriman, hasil uji memakai metode yang disetujui, dan tanda tangan berasal dari peran yang berwenang. Jika satu mata rantai hilang, pertahankan status tertunda dan minta bukti yang tepat, bukan mengisi kolom dengan asumsi.
 
-## Kesimpulan
+## Memutuskan antara NCR dan Punch List di lapangan
 
-ITP menentukan apa dan kapan diperiksa; titik tahan mencegah pekerjaan menutup bukti sebelum rilis; NCR mengendalikan penyimpangan sampai koreksi dan verifikasi; Punch List memastikan sisa pekerjaan benar-benar selesai dan diterima. Untuk langkah berikutnya, minta tim menyusun satu matriks ITP–kewenangan–bukti untuk area cubicle Anda, lalu cocokkan setiap Hold dan NCR dengan gambar, spesifikasi, submittal, serta kondisi lapangan yang aktual.
+Contoh konkret membantu ketika istilah terasa mirip. Di sini Anda akan menguji keputusan terhadap persyaratan, dampak, dan kewenangan, bukan terhadap besar-kecilnya cacat.
 
-Jangan menetapkan angka, rating, toleransi, concession, atau garansi dari artikel ini. Jika kriteria atau kewenangan belum tertulis, tandai terbuka dan minta persetujuan QA/QC, perencana, pemilik, serta profesional terkait sebelum pekerjaan dilanjutkan. Untuk menyiapkan daftar pemeriksaan berikutnya, gunakan [beranda Cubicle.co.id](/) sebagai titik kembali ke materi proyek yang tersedia. Itulah aturan operasi yang menjaga closeout tetap dapat diaudit.
+Frame sudah terpasang, tetapi foto sebelum penutupan tidak menunjukkan pengikat dan jalur kabel. Keputusan yang dapat diaudit adalah menahan penutupan, meminta metode verifikasi yang disetujui, lalu memperbarui ITP. Jangan menganggap lokasi lain identik.
+
+Tepi panel di area yang pernah rembes tampak berubah. Catat lokasi dan kondisi, hentikan pekerjaan penutup, telusuri sumber air, dan minta keputusan teknis. Bila persyaratan material atau detail tepi dilanggar, gunakan NCR; bila hanya sisa sealant yang belum rapi sementara persyaratan terpenuhi, gunakan Punch List. Teman Cubicle.co.id, pembeda utamanya adalah persyaratan dan dampak.
+
+Jika pemilik meminta penerimaan dengan deviasi karena jadwal, proseskan permintaan itu hanya melalui pejabat yang tercantum dalam matriks kewenangan. Tanpa keputusan tertulis tentang dampak dan batasnya, item tetap terbuka.
+
+## Menutup pekerjaan tanpa menghapus jejak keputusan
+
+Bagian penutup ini merangkum pemeriksaan yang bisa dilakukan sebelum status diubah menjadi selesai. Tujuannya mencegah kecepatan semu yang nanti memaksa pekerjaan dibuka kembali.
+
+Periksa tanggal ITP agar titik tahan muncul sebelum aktivitas penutup. Cocokkan setiap centang dengan bukti terlokasi, bukan hanya foto umum. Tanyakan persyaratan mana yang dilanggar sebelum menggabungkan NCR dan Punch List. Tinjau metode koreksi dan pengujian ulang sebelum menutup NCR. Jika kriteria tidak tersedia, pertahankan [NEEDS ACCEPTANCE CRITERIA] untuk keputusan teknis.
+
+Jalan pintas berupa foto akhir tidak membuktikan kondisi di balik panel, rilis titik tahan, atau pengendalian ketidaksesuaian. Cara yang lebih cepat dan dapat dipertanggungjawabkan adalah menetapkan daftar bukti minimum sejak ITP, memakai ID lokasi yang konsisten, dan menolak status tutup ketika satu bukti wajib hilang. Kawan Cubicle.co.id, jejak yang lengkap justru mengurangi pekerjaan ulang.
+
+ITP menetapkan apa dan kapan diperiksa; titik tahan menjaga akses sampai rilis; NCR mengendalikan penyimpangan sampai koreksi dan verifikasi; Punch List menutup sisa pekerjaan dengan bukti penerimaan. Susun satu matriks ITP–kewenangan–bukti untuk area cubicle Anda dan cocokkan setiap keputusan dengan dokumen proyek serta kondisi aktual.
+
+Jangan menetapkan angka, rating, toleransi, penerimaan deviasi, atau garansi dari artikel ini. Bila kriteria atau kewenangan belum tertulis, tandai terbuka dan minta persetujuan pihak yang berwenang sebelum pekerjaan berlanjut. Untuk kembali ke materi yang tersedia, gunakan [beranda Cubicle.co.id](/).
