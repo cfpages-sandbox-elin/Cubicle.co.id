@@ -23,7 +23,7 @@ sources:
 
 Halo, Kawan Cubicle.co.id! SAT (site acceptance test) dan functional test cubicle listrik bukan sekadar menyalakan panel lalu menandai “OK”. Hasil yang dapat dipertanggungjawabkan adalah bukti bahwa cubicle yang terpasang sesuai dokumen proyek, aman untuk diuji, setiap fungsi yang disepakati merespons pada kondisi yang benar, dan setiap defect memiliki keputusan tindak lanjut. Untuk menata dokumen pendukung dan konteks proyek, gunakan [beranda Cubicle.co.id](/) sebagai titik kembali, bukan sebagai bukti teknis.
 
-Urutan praktisnya: tetapkan cakupan dan kewenangan, pastikan prerequisites serta isolation, cocokkan gambar dan konfigurasi, lakukan inspeksi, uji fungsi kontrol–interlock–proteksi–komunikasi secara terkendali, rekam hasil dan defect, lalu ulangi bagian yang gagal. Nilai setting, metode injection, dan keputusan energization tidak boleh ditebak dari artikel ini; semuanya harus berasal dari prosedur proyek yang disetujui dan ditangani personel berkompeten. **[NEEDS PROJECT-APPROVED TEST PROCEDURE AND SETTINGS]**
+Urutan praktisnya: tetapkan cakupan dan kewenangan, pastikan prasyarat serta isolasi (isolation), cocokkan gambar dan konfigurasi, lakukan inspeksi, uji fungsi kontrol–interlock–proteksi–komunikasi secara terkendali, rekam hasil dan temuan (defect), lalu ulangi bagian yang gagal. Nilai setting, metode injeksi (injection), dan keputusan pemberian tegangan (energization) tidak boleh ditebak dari artikel ini; semuanya harus berasal dari prosedur proyek yang disetujui dan ditangani personel berkompeten. **[NEEDS PROJECT-APPROVED TEST PROCEDURE AND SETTINGS]**
 
 ![Ilustrasi cubicle listrik](/wp-content/uploads/2023/01/cubicle-listrik.jpg)
 
@@ -50,23 +50,23 @@ Siapkan single-line diagram, schematic kontrol, wiring list, terminal schedule, 
 
 Dalam kerangka bangunan nasional, keputusan instalasi dan serah-terima berkaitan dengan keselamatan, kesehatan, kenyamanan, fungsi, serta dokumentasi penggunaan bangunan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Untuk rangkaian listrik, detail kriteria penerimaan tetap harus berasal dari basis desain dan persetujuan proyek.
 
-## Langkah 1 — tetapkan ruang lingkup
+## Langkah 1 — tetapkan ruang lingkup pengujian
 
-Tuliskan boundary: cubicle mana, incoming atau outgoing mana, sumber kontrol apa, sinyal ke sistem mana, dan kondisi operasi yang disimulasikan. Pisahkan pemeriksaan instalasi dari uji fungsi. Pastikan antarmuka upstream, downstream, CT/VT, relay, PLC/SCADA, battery/UPS, dan jaringan komunikasi sudah memiliki owner dan status siap.
+Tuliskan batas pengujian (boundary): cubicle mana, incoming atau outgoing mana, sumber kontrol apa, sinyal ke sistem mana, dan kondisi operasi yang disimulasikan. Pisahkan pemeriksaan instalasi dari uji fungsi. Pastikan antarmuka upstream, downstream, CT/VT, relay, PLC/SCADA, battery/UPS, dan jaringan komunikasi sudah memiliki penanggung jawab (owner) dan status siap.
 
-SAT bukan pengganti uji pabrikan atau pemeriksaan instalasi yang belum selesai. Jangan memasukkan test injection, perubahan setting relay, pembukaan enclosure bertegangan, atau energization gate ke langkah generik ini. **[NEEDS PROFESSIONAL REVIEW: TEST BOUNDARY, HAZARD CONTROLS, AND ENERGIZATION AUTHORITY]**
+SAT bukan pengganti uji pabrikan atau pemeriksaan instalasi yang belum selesai. Jangan memasukkan injeksi pengujian (test injection), perubahan setting relay, pembukaan enclosure bertegangan, atau gerbang pemberian tegangan (energization gate) ke langkah generik ini. **[NEEDS PROFESSIONAL REVIEW: TEST BOUNDARY, HAZARD CONTROLS, AND ENERGIZATION AUTHORITY]**
 
 Buat matriks skenario sederhana: kondisi awal, aksi operator atau simulasi input, respons yang diharapkan, indikasi lokal/remote, trip atau permissive, dan bukti yang harus disimpan. Matriks ini menghindari satu fungsi diuji dua kali sementara fungsi lain terlupakan.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Langkah 2 — kumpulkan dan cocokkan bukti pengujian
 
-Mulai dari identitas: tag cubicle, feeder, serial number, drawing revision, relay type, firmware, auxiliary supply, dan terminal yang dipakai. Lanjutkan dengan inspeksi visual tanpa menganggap “tidak terlihat masalah” sebagai bukti fungsi. Periksa penandaan, akses, kebersihan, enclosure, gland, bonding/earthing yang ditentukan desain, serta kondisi komponen dan interlock mekanis.
+Mulai dari identitas: tag cubicle, feeder, nomor seri (serial number), revisi gambar (drawing revision), tipe relay, firmware, catu bantu (auxiliary supply), dan terminal yang dipakai. Lanjutkan dengan inspeksi visual tanpa menganggap “tidak terlihat masalah” sebagai bukti fungsi. Periksa penandaan, akses, kebersihan, enclosure, gland, bonding/earthing yang ditentukan desain, serta kondisi komponen dan interlock mekanis.
 
 Untuk wiring dan kontrol, cocokkan nomor terminal, polaritas yang ditentukan desain, kontak NO/NC, sumber DC/AC kontrol, dan jalur ke annunciator atau SCADA dengan schematic. Gunakan continuity atau simulasi hanya dalam metode yang disetujui. Jangan menyalin toleransi, beban, atau dimensi dari manual produk lain; konfigurasi, support, fixing, dan urutan pemasangan memengaruhi bukti sistem dan harus diverifikasi terhadap dokumen vendor/proyek ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
 Minta bukti kesiapan yang dapat diaudit: checklist pre-commissioning bertanda tangan, sertifikat kalibrasi, daftar deviasi, approved redline, dan izin isolasi. Jika item tersembunyi akan tertutup atau sulit diakses, simpan foto, checklist, dan as-built sebelum penutupan; bukti yang hilang tidak dapat diganti dengan asumsi.
 
-## Langkah 3 — jalankan urutan kerja
+## Langkah 3 — jalankan urutan kerja secara terkendali
 
 1. **Briefing dan isolasi.** Konfirmasi permit, batas area, sumber energi, status zero-energy sesuai prosedur keselamatan setempat, serta komunikasi dengan semua pihak. Pasang pengamanan dan identifikasi titik isolasi; hanya petugas berwenang yang boleh mengubah statusnya.
 2. **Inspeksi awal.** Catat kondisi sebelum alat uji dipasang. Hentikan langkah berikutnya bila identitas, wiring, atau protective cover tidak sesuai dokumen.
@@ -75,19 +75,19 @@ Minta bukti kesiapan yang dapat diaudit: checklist pre-commissioning bertanda ta
 5. **Proteksi, alarm, dan komunikasi.** Konfirmasi status relay, alarm, event, time stamp, dan komunikasi lokal/remote terhadap skenario yang disepakati. Nilai pickup, kurva, dan setting adalah data proyek; jangan mengarang atau mengubahnya di lapangan. **[NEEDS RELAY COORDINATION STUDY AND APPROVED SETTING SHEET]**
 6. **Reset dan pemulihan.** Kembalikan setiap simulasi, selector, latch, test switch, dan alarm ke kondisi normal. Rekonsiliasi status fisik dengan HMI/SCADA dan minta saksi mengonfirmasi akhir pengujian.
 
-## Titik tahan dan kondisi berhenti
+## Kapan pengujian harus dihentikan
 
 titik tahan berlaku bila permit atau isolasi tidak jelas, dokumen berbeda revisi, label tidak terbaca, alat ukur kedaluwarsa kalibrasinya, ada kerusakan, protective earth atau cover belum siap, input simulasi tidak dapat dikendalikan, atau respons sistem berbeda dari matriks. Temuan keselamatan selalu mengalahkan target jadwal.
 
 Kawan Cubicle.co.id, defect yang tampak kecil dapat mengubah makna hasil: satu kontak auxiliary tertukar bisa membuat interlock seolah-olah lulus, sementara sinyal remote salah alamat. Catat kondisi aktual, hentikan skenario terdampak, dan minta keputusan engineer/vendor. Jangan menghapus jejak dengan mengedit lembar hasil setelah witness.
 
-## Verifikasi hasil dan serah terima
+## Verifikasi hasil dan serah terima pengujian
 
 Lembar SAT sebaiknya memuat tanggal, lokasi, tag, revisi dokumen, prasyarat, skenario, input, respons aktual, pass/fail, instrumen, saksi, dan referensi bukti. Untuk alarm atau trip, simpan event log, tangkapan layar yang diizinkan, dan catatan reset. Setiap fail mendapat nomor defect, deskripsi faktual, owner, klasifikasi dampak, tindakan koreksi, dan status retest.
 
 Retest tidak berarti mengulang semua hal secara membabi buta. Tentukan fungsi yang terdampak oleh koreksi, prasyarat yang harus diulang, dan bukti bahwa kondisi normal sudah dipulihkan. Tanda tangan penutupan hanya diberikan setelah hasil retest cocok dengan kriteria yang disetujui. Paket serah terima minimal berisi SAT yang disahkan, punch/defect register, as-built dan redline, setting sheet, sertifikat alat, daftar spare yang disepakati, serta catatan pengecualian. **[NEEDS PROJECT serah terima INDEX AND ACCEPTANCE CRITERIA]**
 
-## Jalan pintas yang sering menggoda
+## Mengapa uji pabrik belum cukup untuk kondisi lokasi
 
 “Panel sudah dites di pabrik, jadi di site cukup cek lampu.” jalan pintas ini gagal karena instalasi site menambahkan kabel, sumber kontrol, antarmuka komunikasi, interlock antarperalatan, kondisi mekanis, dan revisi dokumen yang tidak hadir pada konteks pabrik. Alternatif yang lebih aman adalah memakai FAT sebagai bukti pendukung, lalu membuktikan ulang fungsi yang bergantung pada instalasi dan konfigurasi site melalui matriks SAT.
 

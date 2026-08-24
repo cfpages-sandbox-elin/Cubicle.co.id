@@ -38,9 +38,9 @@ sources:
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
-Halo, Kawan Cubicle.co.id! Jangan keluarkan cubicle listrik ke produksi hanya karena gambar terlihat rapi atau BOM sudah memiliki harga. Manufacturing persetujuan lanjut gate baru layak dilewati jika approved SLD, GA, skematik, wiring, BOM, rating, antarmuka, deviasi, dan revisinya saling cocok serta telah disetujui responsible engineer.
+Halo, Kawan Cubicle.co.id! Jangan keluarkan cubicle listrik ke produksi hanya karena gambar terlihat rapi atau BOM sudah memiliki harga. Gerbang persetujuan produksi baru layak dilewati jika SLD, GA, skematik, wiring, BOM, rating, antarmuka, deviasi, dan revisinya saling cocok serta telah disetujui insinyur penanggung jawab.
 
-Cara praktisnya adalah membekukan satu paket dokumen dengan nomor revisi, mencatat siapa yang memeriksa setiap bidang, lalu menahan rilis saat ada konflik atau bukti yang belum ada. PP 16/2021 menempatkan keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan bangunan sebagai bagian dari keputusan bangunan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Detail desain, rating, metode uji, dan persetujuan proyek tetap harus dipastikan oleh tim berwenang.
+Cara praktisnya adalah menetapkan satu paket dokumen dengan nomor revisi, mencatat siapa yang memeriksa setiap bidang, lalu menahan rilis saat ada konflik atau bukti yang belum ada. PP 16/2021 menempatkan keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan bangunan sebagai bagian dari keputusan bangunan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Detail desain, rating, metode uji, dan persetujuan proyek tetap harus dipastikan oleh tim berwenang.
 
 [NEEDS IMAGE REVIEW: LOCAL-008]
 
@@ -93,7 +93,7 @@ tanda bahaya paling mahal biasanya bukan cacat yang terlihat, melainkan ketidaks
 
 Biaya akibatnya dapat muncul sebagai menunggu klarifikasi, membuka kembali bagian yang sudah ditutup, membuat ulang harness, mengganti komponen, mengulang inspeksi, menunda pengiriman, dan menyusun ulang dokumen as-built. Nilai dan waktunya harus dihitung dari data proyek; jangan mengarang contingency. Permen PUPR 10/2021 menempatkan pengendalian proses dan peran pelaksana sebagai bagian yang perlu didokumentasikan, sehingga jejak pemeriksaan lebih berguna daripada klaim selesai semata ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-jalan pintas yang sering dipilih adalah menyetujui BOM dulu agar pembelian tidak terlambat, lalu “menyesuaikan gambar”. Ini membalik urutan pengendalian: perubahan pembelian dapat memicu perubahan rating, interface, panas, kabel, dan pengujian. Alternatif yang lebih aman adalah freeze basis desain, tandai item long-lead, dan gunakan substitusi hanya melalui deviasi yang ditinjau engineer.
+Kita mungkin tergoda menyetujui BOM lebih dulu agar pembelian tidak terlambat, lalu “menyesuaikan gambar”. Ini membalik urutan pengendalian: perubahan pembelian dapat memicu perubahan rating, antarmuka, panas, kabel, dan pengujian. Alternatif yang lebih aman adalah menetapkan basis desain, menandai item dengan waktu pasok panjang, dan menggunakan substitusi hanya melalui deviasi yang ditinjau insinyur.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
@@ -101,7 +101,7 @@ Tetapkan RACI atau pembagian peran yang jelas: owner/consultant memeriksa kesesu
 
 Sebelum persetujuan lanjut, lakukan pemeriksaan berurutan: (1) cocokkan revision register; (2) telusuri tag dari SLD hingga BOM, terminal, label, dan unit; (3) tutup seluruh comment dan deviasi; (4) pastikan ITP, FAT, dan acceptance criteria disetujui; (5) simpan rekaman inspeksi, hasil uji, manual, as-built, daftar setting, dan konfigurasi software/firmware; (6) keluarkan keputusan persetujuan lanjut, hold, atau reject dengan alasan.
 
-Jangan menganggap pembayaran atau penerimaan layak hanya karena unit tiba. serah terima harus memuat bukti yang disyaratkan kontrak dan proyek, sementara klaim kepatuhan, performa, rating, atau garansi tetap menunggu dokumen dan verifikasi yang relevan. [NEEDS PROFESSIONAL REVIEW: keputusan final acceptance dan compliance harus ditandatangani pihak berwenang proyek.]
+Jangan menganggap pembayaran atau penerimaan layak hanya karena unit tiba. Serah terima harus memuat bukti yang disyaratkan kontrak dan proyek, sementara klaim kepatuhan, performa, rating, atau garansi tetap menunggu dokumen dan verifikasi yang relevan. [NEEDS PROFESSIONAL REVIEW: keputusan final acceptance dan compliance harus ditandatangani pihak berwenang proyek.]
 
 ## Kesimpulan
 

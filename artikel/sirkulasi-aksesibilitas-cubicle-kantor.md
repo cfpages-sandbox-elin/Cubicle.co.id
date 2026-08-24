@@ -45,21 +45,21 @@ END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-Objek artikel ini adalah ruang di antara dan menuju cubicle kantor: jalur utama dan cabang, akses ke kursi, bukaan pintu atau panel, area di depan meja, serta benda yang dapat menghalangi. “Clearance” berarti ruang bebas yang benar-benar tersedia pada kondisi penggunaan, bukan jarak kosong yang hanya terlihat sebelum furnitur dipasang. “Accessible workstation” berarti workstation yang dapat didekati dan digunakan sesuai kebutuhan pengguna yang ditetapkan proyek, bukan sekadar meja yang lebih rendah.
+Objek artikel ini adalah ruang di antara dan menuju cubicle kantor: jalur utama dan cabang, akses ke kursi, bukaan pintu atau panel, area di depan meja, serta benda yang dapat menghalangi. “Ruang bebas” (clearance) berarti ruang yang benar-benar tersedia pada kondisi penggunaan, bukan jarak kosong yang hanya terlihat sebelum furnitur dipasang. “Workstation yang dapat diakses” (accessible workstation) berarti workstation yang dapat didekati dan digunakan sesuai kebutuhan pengguna yang ditetapkan proyek, bukan sekadar meja yang lebih rendah.
 
-Pendekatan dimulai dari koridor atau simpul sirkulasi menuju posisi duduk. Turning memeriksa apakah pengguna dapat mengubah arah tanpa memotong area kerja orang lain. Passing memeriksa dua arus yang berpapasan pada kondisi realistis. Chair pullback memeriksa ruang ketika kursi ditarik untuk duduk, berdiri, atau berpindah. Rute darurat adalah bagian dari koordinasi keselamatan gedung; artikel ini membantu mengenali titik yang perlu diserahkan ke tim egress dan fire, bukan menggantikan penetapan rute evakuasi.
+Pendekatan dimulai dari koridor atau simpul sirkulasi menuju posisi duduk. Ruang berputar (turning) memeriksa apakah pengguna dapat mengubah arah tanpa memotong area kerja orang lain. Ruang berpapasan (passing) memeriksa dua arus yang berpapasan pada kondisi realistis. Ruang tarik-kursi (chair pullback) memeriksa ruang ketika kursi ditarik untuk duduk, berdiri, atau berpindah. Rute darurat adalah bagian dari koordinasi keselamatan gedung; artikel ini membantu mengenali titik yang perlu diserahkan ke tim egress dan fire, bukan menggantikan penetapan rute evakuasi.
 
 Karena itu, halaman ini tidak menetapkan satu ukuran universal, menyatakan bangunan patuh, atau memilih produk tertentu. Regulasi yang berlaku, jenis pengguna, kapasitas ruang, strategi evakuasi, dan persetujuan proyek harus dibaca bersama. Jika ada konflik antara layout cubicle dan jalur gedung, jalur yang disetujui proyek menjadi acuan dan layout harus disesuaikan.
 
 Untuk menyelaraskan keputusan furnitur dengan konteks ruang yang lebih luas, gunakan [beranda Cubicle.co.id](/) sebagai titik kembali ke informasi layanan dan ruang kerja yang tersedia.
 
-## Cara kerjanya
+## Cara memetakan rute dan menguji kondisi penggunaan
 
 Mulailah dengan peta rute, bukan susunan meja. Tandai pintu masuk, lift atau tangga, area resepsionis, toilet, ruang rapat, titik perubahan arah, dan titik yang harus dicapai pengguna. Tarik garis rute yang kontinu, kemudian beri lebar aktual pada segmen lurus dan simpul belokan. Ukur setelah memperhitungkan ketebalan panel, kaki atau headrail, handle, lis, dan benda tetap lain.
 
 Berikutnya, letakkan modul workstation dan uji tiga keadaan: kursi masuk penuh, kursi ditarik, dan laci atau pintu penyimpanan terbuka. Tambahkan skenario seseorang membawa barang, pengguna berhenti berbicara, dan dua orang berpapasan. Simulasi sederhana dengan pita di lantai atau mock-up berskala dapat mengungkap penyempitan yang tidak terlihat pada gambar.
 
-Untuk workstation yang ditetapkan dapat diakses, dokumentasikan sisi pendekatan, ruang transfer, posisi layar dan kontrol, serta cara kabel diamankan. Jangan menganggap workstation itu aksesibel hanya karena berada dekat koridor. Jalur menuju meja, ruang untuk bergerak, dan elemen yang dioperasikan harus diuji sebagai satu rangkaian. Sobat Cubicle.co.id, minta facility team menandatangani peta kondisi operasi, bukan hanya denah furnitur.
+Untuk workstation yang ditetapkan dapat diakses, dokumentasikan sisi pendekatan, ruang transfer, posisi layar dan kontrol, serta cara kabel diamankan. Jangan menganggap workstation itu aksesibel hanya karena berada dekat koridor. Jalur menuju meja, ruang untuk bergerak, dan elemen yang dioperasikan harus diuji sebagai satu rangkaian. Sobat Cubicle.co.id, minta tim fasilitas menandatangani peta kondisi operasi, bukan hanya denah furnitur.
 
 Setiap perubahan harus dilacak: siapa yang memindahkan pedestal, kapan pintu diganti arah bukanya, dan apakah rute masih kontinu. Foto inspeksi boleh menjadi catatan, tetapi tidak menggantikan pengukuran dan tinjauan persyaratan proyek.
 
@@ -67,7 +67,7 @@ Setiap perubahan harus dilacak: siapa yang memindahkan pedestal, kapan pintu dig
 
 **Geometri dan furnitur.** Panel yang bergeser beberapa sentimeter, kaki penyangga, bracket, atau meja tambahan dapat mengubah passing menjadi jalur satu arah. Kursi dengan roda dan meja yang dipakai bersama biasanya membutuhkan perilaku pengguna yang berbeda dari workstation tetap. Simpan dimensi aktual dalam gambar koordinasi, bukan asumsi dari nama produk.
 
-**Operasi harian.** Kardus, tas, monitor tambahan, kabel pengisi daya, dan kursi tamu adalah obstruction risks yang sering muncul setelah serah terima. Tetapkan zona larangan menaruh barang dan siapa yang memeriksanya. Rute yang aman saat pagi belum tentu aman ketika rapat selesai dan orang keluar bersamaan.
+**Operasi harian.** Kardus, tas, monitor tambahan, kabel pengisi daya, dan kursi tamu adalah risiko penghalang (obstruction risks) yang sering muncul setelah serah terima. Tetapkan zona larangan menaruh barang dan siapa yang memeriksanya. Rute yang aman saat pagi belum tentu aman ketika rapat selesai dan orang keluar bersamaan.
 
 **Pintu dan privasi.** Arah ayun, posisi latch, kebutuhan privasi, serta bidang pandang memengaruhi ruang pendekatan. Pintu yang dibuka ke jalur dapat memangkas ruang bebas; panel tambahan untuk privasi dapat mengubah titik belok. Koordinasikan hardware dan akses kontrol sebelum posisi panel dikunci.
 
@@ -91,15 +91,15 @@ Kawan Cubicle.co.id, bedakan “bisa lewat sekali” dari “dapat digunakan ber
 
 ## Kesalahan umum dan cara memeriksanya
 
-Kesalahan pertama adalah mengukur jarak panel-ke-panel lalu menganggapnya ruang bebas. Periksa tonjolan hardware, kaki meja, dan posisi kursi pada tiga keadaan operasi. Kedua, memakai ukuran dari brosur atau standar luar negeri sebagai bukti compliance. Verifikasi terhadap regulasi Indonesia dan persyaratan proyek; tinggalkan keputusan angka kepada reviewer berwenang.
+Kesalahan pertama adalah mengukur jarak panel-ke-panel lalu menganggapnya ruang bebas. Periksa tonjolan perangkat, kaki meja, dan posisi kursi pada tiga keadaan operasi. Kedua, memakai ukuran dari brosur atau standar luar negeri sebagai bukti kepatuhan. Verifikasi terhadap regulasi Indonesia dan persyaratan proyek; tinggalkan keputusan angka kepada penelaah yang berwenang.
 
 Ketiga, menguji satu workstation tanpa arus di sekitarnya. Jalankan skenario dua arah, orang berhenti, dan barang dibawa. Keempat, melupakan perubahan pascapemasangan. Lakukan inspeksi setelah semua kabel, monitor, penyimpanan, dan signage terpasang.
 
-Kelima, menyebut rute aksesibel tanpa menjelaskan siapa penggunanya dan aktivitasnya. Tulis asumsi pengguna, titik tujuan, ruang transfer, dan elemen yang harus dijangkau. Jika asumsi berubah, ulangi uji. Teman Cubicle.co.id, checklist yang baik selalu memiliki kolom “kondisi saat diuji”, “pemilik tindakan”, dan “tanggal verifikasi”.
+Kelima, menyebut rute aksesibel tanpa menjelaskan siapa penggunanya dan aktivitasnya. Tulis asumsi pengguna, titik tujuan, ruang transfer, dan elemen yang harus dijangkau. Jika asumsi berubah, ulangi uji. Teman Cubicle.co.id, daftar periksa yang baik selalu memiliki kolom “kondisi saat diuji”, “pemilik tindakan”, dan “tanggal verifikasi”.
 
-## Jalan pintas yang perlu ditolak
+## Mengapa menyalin satu ukuran clearance berisiko
 
-Jalan pintas yang sering dipilih adalah menyalin satu angka clearance dari contoh layout, lalu mengulanginya di seluruh lantai. Cara itu gagal karena rute dipengaruhi pintu, belokan, furnitur aktual, pengguna, dan aturan gedung. Angka yang sama tidak menjawab apakah kursi dapat ditarik tanpa menutup passing atau apakah rute tetap bebas saat laci terbuka.
+Kita mungkin tergoda menyalin satu angka ruang bebas (clearance) dari contoh layout, lalu mengulanginya di seluruh lantai. Cara itu gagal karena rute dipengaruhi pintu, belokan, furnitur aktual, pengguna, dan aturan gedung. Angka yang sama tidak menjawab apakah kursi dapat ditarik tanpa menutup ruang berpapasan (passing) atau apakah rute tetap bebas saat laci terbuka.
 
 Alternatif yang lebih aman adalah membuat peta rute beranotasi, menguji kondisi operasi, dan meminta tinjauan aksesibilitas serta egress sebelum pembelian massal. Simpan versi layout dan daftar deviasi; setiap deviasi harus memiliki alasan, pemilik, dan keputusan tertulis. Jangan mengubahnya menjadi klaim “sudah sesuai” sebelum bukti proyek tersedia.
 
@@ -109,4 +109,4 @@ Sirkulasi dan aksesibilitas di antara cubicle kantor ditentukan oleh rute yang d
 
 [NEEDS ACCESSIBILITY REVIEW: verifikasi dimensi, turning/passing, chair pullback, workstation aksesibel, dan interface egress terhadap regulasi Indonesia serta persyaratan proyek sebelum layout disetujui.]
 
-Langkah praktis berikutnya: minta arsitek dan facility team melakukan walkthrough memakai denah revisi terakhir, menandai setiap penyempitan, lalu menerbitkan daftar tindakan dan persetujuan. Aturan operasinya sederhana: tidak ada panel, penyimpanan, kabel, atau kursi tambahan yang boleh masuk ke rute tanpa uji ulang dan catatan perubahan.
+Langkah praktis berikutnya: minta arsitek dan tim fasilitas melakukan peninjauan langsung memakai denah revisi terakhir, menandai setiap penyempitan, lalu menerbitkan daftar tindakan dan persetujuan. Aturan operasinya sederhana: tidak ada panel, penyimpanan, kabel, atau kursi tambahan yang boleh masuk ke rute tanpa uji ulang dan catatan perubahan.

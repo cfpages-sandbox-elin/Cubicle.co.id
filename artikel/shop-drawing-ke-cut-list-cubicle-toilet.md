@@ -36,14 +36,15 @@ END MANAGED IMAGE PLAN -->
 
 # Dari Shop Drawing ke Cut List Cubicle Toilet
 
-Halo, Kawan Cubicle.co.id! Cut list cubicle toilet bukan salinan ukuran dari shop drawing. Ia adalah daftar instruksi fabrikasi yang hanya boleh terbit setelah ukuran lapangan, identitas setiap panel, detail tepi dan lubang, hardware, toleransi, serta revisi dikunci dan dapat ditelusuri. Jika satu ukuran berubah tetapi nomor panel atau revisinya tidak ikut berubah, workshop dapat membuat komponen yang “benar” menurut gambar lama namun salah untuk ruang yang sedang dibangun.
+Halo, Kawan Cubicle.co.id! Cut list cubicle toilet bukan salinan ukuran dari shop drawing. Ia adalah daftar instruksi fabrikasi yang hanya boleh terbit setelah ukuran lapangan, identitas setiap panel, detail tepi dan lubang, hardware, toleransi, serta revisi ditetapkan dan dapat ditelusuri. Jika satu ukuran berubah tetapi nomor panel atau revisinya tidak ikut berubah, workshop dapat membuat komponen yang “benar” menurut gambar lama namun salah untuk ruang yang sedang dibangun.
 
-Urutan amannya adalah **ukur dan catat kondisi aktual → bekukan basis gambar → beri ID komponen → turunkan parameter ke cut list → lakukan pemeriksaan silang → rilis revisi yang dapat dilacak**. Yang dapat mengubah hasil adalah sistem yang dipilih, titik tumpu bangunan, material dan arah motifnya, kondisi kelembapan, serta persetujuan profesional proyek. Dokumen ini mengendalikan data fabrikasi; bukan menentukan layout awal atau membuktikan kemampuan workshop tertentu.
+Urutan amannya adalah **ukur dan catat kondisi aktual → tetapkan basis gambar → beri ID komponen → turunkan parameter ke cut list → lakukan pemeriksaan silang → rilis revisi yang dapat dilacak**. Yang dapat mengubah hasil adalah sistem yang dipilih, titik tumpu bangunan, material dan arah motifnya, kondisi kelembapan, serta persetujuan profesional proyek. Dokumen ini mengendalikan data fabrikasi; bukan menentukan layout awal atau membuktikan kemampuan workshop tertentu.
 
 ![Ilustrasi cubicle](/wp-content/uploads/2023/01/cubicle.jpg)
 
 
-*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
+Gambar ini bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
@@ -53,15 +54,15 @@ Salah paham paling mahal adalah menganggap luas panel sama dengan lingkup pekerj
 
 ## Definisi dan batas objek
 
-**Site dimensions** adalah ukuran aktual yang dicatat di lokasi: panjang bidang, tinggi bersih, posisi dinding atau kolom, elevasi lantai, dan kondisi yang mengganggu pemasangan. **Panel ID** adalah identitas unik, misalnya `D-03` untuk pintu atau `P-07` untuk panel, yang konsisten pada gambar, daftar potong, label fisik, dan berita perubahan. **Cut list** memuat setidaknya ID, jumlah, panjang, lebar, tebal atau grade yang disetujui, orientasi grain/color, kode edge, detail lubang, hardware, toleransi rujukan, dan revisi.
+**Ukuran lapangan (site dimensions)** adalah ukuran aktual yang dicatat di lokasi: panjang bidang, tinggi bersih, posisi dinding atau kolom, elevasi lantai, dan kondisi yang mengganggu pemasangan. **ID panel (panel ID)** adalah identitas unik, misalnya `D-03` untuk pintu atau `P-07` untuk panel, yang konsisten pada gambar, daftar potong, label fisik, dan berita perubahan. **Daftar potong (cut list)** memuat setidaknya ID, jumlah, panjang, lebar, tebal atau grade yang disetujui, arah serat atau warna (grain/color), kode tepi (edge), detail lubang, hardware, toleransi rujukan, dan revisi.
 
 Batasnya penting: artikel ini tidak memilih layout awal, menentukan dimensi universal, menetapkan rating, atau menyatakan suatu produk otomatis memenuhi aturan. Kerangka bangunan nasional menempatkan keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan sebagai hal yang perlu dikendalikan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Angka akhir harus berasal dari gambar disetujui, data produk yang relevan, dan tinjauan tim proyek.
 
-## Cara kerjanya
+## Cara menurunkan shop drawing menjadi cut list
 
 Mulai dengan **lembar kontrol ukuran**. Catat tanggal, area, alat atau metode pengukuran, referensi grid, kondisi lantai dan dinding, serta nama pengukur. Tandai ukuran yang belum dapat diverifikasi sebagai `TBC`, bukan perkiraan. Foto atau sketsa referensi boleh membantu koordinasi, tetapi tidak menggantikan dimensi terukur.
 
-Berikutnya, kunci **basis geometrinya**. Pastikan denah, elevasi, detail sambungan, ceiling atau headrail, arah bukaan pintu, dan koordinat support memakai revisi yang sama. Jika ada konflik, tahan rilis cut list dan minta keputusan tertulis dari pihak yang berwenang.
+Berikutnya, tetapkan **basis geometrinya**. Pastikan denah, elevasi, detail sambungan, ceiling atau headrail, arah bukaan pintu, dan koordinat tumpuan (support) memakai revisi yang sama. Jika ada konflik, tahan rilis cut list dan minta keputusan tertulis dari pihak yang berwenang.
 
 Lalu bangun **matriks panel**. Satu baris untuk satu komponen fabrikasi, dengan kolom seperti berikut:
 
@@ -80,7 +81,7 @@ Setelah matriks selesai, lakukan **dua pemeriksaan silang**. Pemeriksaan desain 
 
 ## Faktor yang mengubah hasil
 
-Pertama, **antarmuka bangunan**. Lantai yang belum level, dinding tidak tegak, atau support yang berpindah mengubah ukuran lapangan dan detail pemasangan. Catat kondisi itu sebagai asumsi atau pekerjaan pendahuluan; jangan menyembunyikannya di kolom catatan.
+Pertama, **antarmuka bangunan**. Lantai yang belum rata, dinding tidak tegak, atau tumpuan (support) yang berpindah mengubah ukuran lapangan dan detail pemasangan. Catat kondisi itu sebagai asumsi atau pekerjaan pendahuluan; jangan menyembunyikannya di kolom catatan.
 
 Kedua, **sistem dan material**. Panel dengan arah motif tertentu memiliki sisi referensi berbeda dari panel polos. Pilihan edge, face, dan hasil akhir memengaruhi orientasi pemotongan. Instruksi satu merek tidak boleh dipindahkan ke sistem lain tanpa konfirmasi; panduan produk hanya membuktikan apa yang dinyatakan untuk produk tersebut ([bukti material compact-grade Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/)).
 
@@ -107,7 +108,7 @@ Sebelum fabrikasi, inspector dapat memilih beberapa ID secara acak lalu menelusu
 
 ## Jalan pintas yang perlu diuji
 
-jalan pintas yang sering dipilih adalah meminta workshop “mulai potong dulu” sambil menunggu ukuran atau hardware final. Cara ini tampak menghemat waktu, tetapi memindahkan ketidakpastian menjadi scrap, lubang salah, dan sengketa perubahan. Alternatif yang lebih aman adalah memisahkan daftar: komponen yang statusnya `IFC/approved` boleh dirilis, sedangkan komponen `TBC` atau terkena RFI tetap ditahan. Persetujuan siapa yang boleh merilis harus tertulis di prosedur proyek.
+Jalan pintas yang sering dipilih adalah meminta workshop “mulai potong dulu” sambil menunggu ukuran atau hardware final. Cara ini tampak menghemat waktu, tetapi memindahkan ketidakpastian menjadi scrap, lubang salah, dan sengketa perubahan. Alternatif yang lebih aman adalah memisahkan daftar: komponen yang statusnya `IFC/approved` boleh dirilis, sedangkan komponen `TBC` atau terkena RFI tetap ditahan. Persetujuan siapa yang boleh merilis harus tertulis di prosedur proyek.
 
 ## Langkah berikutnya
 

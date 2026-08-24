@@ -73,7 +73,7 @@ Gunakan label yang tegas agar satu dokumen tidak dipaksa menjawab semua hal.
 
 | Bukti | Menjawab | Tidak otomatis membuktikan |
 | --- | --- | --- |
-| Physical sample | Warna, tekstur, ketebalan/jenis yang terlihat, dan kecocokan visual | Kinerja seluruh rakitan, ketahanan di lokasi, atau kesesuaian struktur |
+| Sampel fisik | Warna, tekstur, ketebalan/jenis yang terlihat, dan kecocokan visual | Kinerja seluruh rakitan, ketahanan di lokasi, atau kesesuaian struktur |
 | Finish board | Pilihan kombinasi warna dan batas varian | Bahwa batch produksi mendatang identik tanpa kontrol sampel |
 | Hardware board | Identitas dan cara kerja komponen yang ditawarkan | Kecocokan dengan pintu, beban, atau substrat proyek |
 | Office/toilet mock-up | Antarmuka, urutan pemasangan, akses servis, dan pengalaman penggunaan | Sertifikasi sistem atau hasil semua pengujian |
@@ -100,11 +100,11 @@ Tetapkan **acceptance owner** untuk setiap jawaban: procurement mengunci komersi
 
 ## Tanda bahaya dan biaya yang sering tersembunyi
 
-Waspadai penawaran yang hanya menampilkan satu foto sample, menyebut “standard hardware” tanpa daftar, atau menggabungkan semua pekerjaan antarmuka menjadi “by others”. tanda bahaya lain adalah mock-up yang tidak mencantumkan revisi, material yang diganti setelah persetujuan, dan klaim tahan air tanpa klasifikasi paparan serta detail tepi.
+Waspadai penawaran yang hanya menampilkan satu foto sample, menyebut “standard hardware” tanpa daftar, atau menggabungkan semua pekerjaan antarmuka menjadi “by others”. Tanda bahaya lain adalah mock-up yang tidak mencantumkan revisi, material yang diganti setelah persetujuan, dan klaim tahan air tanpa klasifikasi paparan serta detail tepi.
 
 Biaya yang muncul belakangan biasanya berasal dari menunggu akses, pengukuran ulang, rework akibat support tidak siap, perlindungan area, pemindahan material, pengujian ulang, spare yang tidak dipesan, atau dokumen serah terima yang harus dikejar. Kawan Cubicle.co.id, minta setiap biaya ditautkan ke asumsi dan pemicu perubahan; dengan begitu keputusan tetap dapat diaudit tanpa menuduh penyedia sebelum buktinya lengkap.
 
-jalan pintas “approve dari foto lalu koreksi di lapangan” gagal ketika barang yang datang sudah diproduksi, antarmuka tertutup, atau pihak berbeda memegang asumsi berbeda. Alternatif yang lebih aman adalah sample/board untuk keputusan visual, satu mock-up representatif untuk antarmuka kritis, lalu submittal ber-versi yang menyimpan deviasi dan persetujuan.
+Jalan pintas “approve dari foto lalu koreksi di lapangan” gagal ketika barang yang datang sudah diproduksi, antarmuka tertutup, atau pihak berbeda memegang asumsi berbeda. Alternatif yang lebih aman adalah sampel/board untuk keputusan visual, satu mock-up representatif untuk antarmuka kritis, lalu submittal berversi yang menyimpan deviasi dan persetujuan.
 
 Sebelum sesi peninjauan, bagikan agenda dan kriteria penerimaan kepada semua pihak. Minta penyedia membawa sampel yang diberi kode, gambar dengan nomor revisi, daftar deviasi, serta jawaban atas pertanyaan terbuka. Selama sesi, pisahkan komentar visual dari komentar fungsi dan keselamatan; keduanya mungkin memiliki pemilik keputusan berbeda. Foto atau catatan hanya menjadi bukti jika dikaitkan dengan kode sampel dan revisi dokumen. Setelah sesi, terbitkan daftar tindakan dengan batas waktu dan status yang jelas.
 
@@ -116,4 +116,4 @@ Sebelum award, tetapkan status **approved**, **approved with comments**, **revis
 
 Simpan paket serah terima sekurang-kurangnya berupa gambar final, daftar produk dan spare, manual perawatan, rekaman inspeksi/test yang memang dilakukan, berita acara penerimaan, serta daftar pengecualian terbuka. Jika bukti elektrikal, struktur, kebakaran, akustik, atau kepatuhan belum tersedia, jangan menyatakan lulus; tandai `[NEEDS PROFESSIONAL REVIEW]` dan minta keputusan tertulis dari pihak berwenang.
 
-Jawaban singkatnya: sample memilih apa yang terlihat, mock-up menguji bagaimana rakitan berinteraksi, dan submittal membuktikan apa yang dibeli serta bagaimana penerimaannya. Langkah berikutnya adalah mengedarkan matriks kebutuhan, meminta paket bukti ber-versi, lalu menjadwalkan tinjauan bersama acceptance owner sebelum PO atau produksi dilepas. Teman Cubicle.co.id, gunakan [beranda Cubicle.co.id](/) hanya sebagai titik kembali ke konteks layanan; keputusan teknis final tetap bergantung pada kondisi proyek dan tinjauan profesional yang ditunjuk.
+Jawaban singkatnya: sampel memilih apa yang terlihat, mock-up menguji bagaimana rakitan berinteraksi, dan submittal membuktikan apa yang dibeli serta bagaimana penerimaannya. Langkah berikutnya adalah mengedarkan matriks kebutuhan, meminta paket bukti berversi, lalu menjadwalkan tinjauan bersama acceptance owner sebelum PO atau produksi dilepas. Teman Cubicle.co.id, gunakan [beranda Cubicle.co.id](/) hanya sebagai titik kembali ke konteks layanan; keputusan teknis final tetap bergantung pada kondisi proyek dan tinjauan profesional yang ditunjuk.
